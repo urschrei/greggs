@@ -1,0 +1,21 @@
+@import "~bootstrap/scss/bootstrap";
+// mapbox-gl isn't scss, but the compiler seems OK with it anyway
+@import "~mapbox-gl/dist/mapbox-gl";
+
+#map {
+    padding-top: 5px;
+    height: 80vh;
+}
+
+.info {
+    padding-top: 10px;
+    height: 5vh;
+}
+footer {
+    height: 5vh;
+}
+
+.mapboxgl-popup-content {
+    max-width: 400px;
+    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
