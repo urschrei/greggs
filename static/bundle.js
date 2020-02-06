@@ -21033,7 +21033,7 @@
 
 	map.on('click', 'greggs_points', function (e) {
 	  var coordinates = e.features[0].geometry.coordinates.slice();
-	  var description = `<p>Post Code: ${e.features[0].properties.PostCode} in ${e.features[0].properties.LocalAuthorityName}</p>`; // Ensure that if the map is zoomed out such that multiple
+	  var description = `<p>Post Code: ${e.features[0].properties.PostCode} in ${e.features[0].properties.LocalAuthorityName}</p><p>FHRS Rating, Feb 2020: ${e.features[0].properties.RatingValue}</p>`; // Ensure that if the map is zoomed out such that multiple
 	  // copies of the feature are visible, the popup appears
 	  // over the copy being pointed to.
 
