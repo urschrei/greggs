@@ -21053,7 +21053,10 @@
 	});
 	$("#lookup").submit(function (event) {
 	  event.preventDefault();
-	  $.getJSON("https://api.postcodes.io/postcodes/" + $("input").first().val()).done(function (data) {
+	  var pc = $("input").first().val();
+	  $("input").first().val("");
+	  $.getJSON("https://api.postcodes.io/postcodes/" + pc).done(function (data) {
+	    $("#inputPostcode").removeClass("is-invalid");
 	    var p = helpers_7$1([data['result']['longitude'], data['result']['latitude']]);
 	    var coll = helpers_13$1(gdata['data']['features']);
 	    var nearest = nearestPoint(p, coll);
@@ -21063,6 +21066,8 @@
 	      essential: true
 	    });
 	    console.log(nearest.geometry.coordinates);
+	  }).fail(function () {
+	    $("#inputPostcode").addClass("is-invalid");
 	  });
 	});
 

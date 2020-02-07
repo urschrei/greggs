@@ -160,8 +160,11 @@ map.on('mouseleave', 'greggs_points', function() {
 
 $("#lookup").submit(function(event) {
     event.preventDefault();
-    $.getJSON("https://api.postcodes.io/postcodes/" + $("input").first().val())
+    var pc = $("input").first().val();
+    $("input").first().val("");
+    $.getJSON("https://api.postcodes.io/postcodes/" + pc)
         .done(function(data) {
+            $("#inputPostcode").removeClass("is-invalid");
             var p = point([data['result']['longitude'], data['result']['latitude']]);
             var coll = featureCollection(gdata['data']['features']);
             var nearest = nearestPoint(p, coll);
@@ -172,4 +175,7 @@ $("#lookup").submit(function(event) {
             });
             console.log(nearest.geometry.coordinates);
         })
+        .fail(function() {
+            $("#inputPostcode").addClass("is-invalid");
+        });
 });

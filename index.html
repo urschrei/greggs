@@ -16,7 +16,10 @@
         <form id="lookup" class="form-inline">
           <div class="form-group mx-sm-3 mb-2">
             <label for="inputPostcode" class="sr-only">UK Post Code</label>
-            <input type="text" class="form-control" id="inputPostcode" characters="characters" placeholder="Post Code">
+            <input type="text" class="form-control" id="inputPostcode" placeholder="Post Code" required>
+            <div class="invalid-feedback">
+                Enter a valid post code
+            </div>
           </div>
           <button type="submit" class="btn btn-primary mb-2">Find the nearest Greggs</button>
         </form>
