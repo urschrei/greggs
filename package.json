@@ -30,7 +30,9 @@
     "jquery": "^3.4.1",
     "mapbox-gl": "^1.6.1",
     "pjax": "^0.2.8",
-    "popper.js": "^1.16.1"
+    "popper.js": "^1.16.1",
+    "save-dev": "0.0.1-security",
+    "webpack": "^4.41.5"
   },
   "devDependencies": {
     "@babel/core": "^7.8.3",
@@ -52,7 +54,6 @@
     "rollup-plugin-terser": "^5.2.0",
     "rollup-plugin-uglify": "^6.0.4",
     "sass-loader": "^8.0.2",
-    "style-loader": "^1.1.2",
-    "webpack": "^4.41.5"
+    "style-loader": "^1.1.2"
   }
 }

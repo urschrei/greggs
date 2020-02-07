@@ -16,7 +16,7 @@ const map = new mapboxgl.Map({
     style: 'mapbox://styles/mapbox/light-v9',
     zoom: 5.205985389161131,
     center: {
-        lng: -4.732351302061943,
+        lng: -3.8,
         lat: 53.82777852234969
     },
 });
