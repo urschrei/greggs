@@ -35,25 +35,31 @@ map.on('load', function() {
                     "id": "greggs_points",
                     "type": "circle",
                     "source": "greggs",
+                    "minzoom": 7,
                     "paint": {
+                        'circle-radius': {
+                            stops: [
+                                [9, 10],
+                                [11, 20],
+                                [16, 35]
+                            ]
+                        },
                         "circle-color": "rgb(251, 169, 23)",
                         "circle-stroke-color": "rgb(8, 66, 125)",
                         "circle-stroke-width": 1.5,
                         "circle-opacity": [
                             'interpolate', ['linear'],
+                            // zoom -> input: output
                             ['zoom'],
-                            7,
-                            0,
-                            8,
-                            1
+                                7, 0,
+                                8, 1,
+                                9, 0.5
                         ],
                         "circle-stroke-opacity": [
                             'interpolate', ['linear'],
                             ['zoom'],
-                            7,
-                            0,
-                            8,
-                            1
+                                7, 0,
+                                8, 1
                         ]
                     }
                 })
@@ -170,7 +176,7 @@ $("#lookup").submit(function(event) {
             var nearest = nearestPoint(p, coll);
             map.flyTo({
                 center: nearest.geometry.coordinates,
-                zoom: 12,
+                zoom: 13,
                 essential: true
             });
             console.log(nearest.geometry.coordinates);
