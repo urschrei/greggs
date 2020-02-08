@@ -160,22 +160,22 @@ var pret_heat = {
         // Color ramp for heatmap.  Domain is 0 (low) to 1 (high).
         // Begin color ramp at 0-stop with a 0-transparency color
         // to create a blur-like effect.
-        // transitions from https://meyerweb.com/eric/tools/color-blend/#FBA917:08427D:4:rgbd
+        // transitions from https://meyerweb.com/eric/tools/color-blend/#FFFF22B:8C1D26:4:rgbd
         'heatmap-color': [
             'interpolate', ['linear'],
             ['heatmap-density'],
             0,
-            'rgba(8, 66, 125, 0)',
+            'rgba(255, 255, 255, 0)',
             0.2,
-            'rgb(57,87,105)',
+            'rgb(232, 210, 452)',
             0.4,
-            'rgb(105,107,84)',
+            'rgb(209, 165, 348)',
             0.6,
-            'rgb(154,128,64)',
+            'rgb(186, 119, 245)',
             0.8,
-            'rgb(202,148,43)',
+            'rgb(163, 74, 141)',
             1,
-            'rgb(251, 169, 23)'
+            'rgb(140, 29, 38)'
         ],
         // Adjust the heatmap radius by zoom level
         'heatmap-radius': [
