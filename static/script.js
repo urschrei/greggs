@@ -118,7 +118,7 @@ $("#switch").click(function() {
         .setLayoutProperty('pret_points', 'visibility', 'visible')
         .setLayoutProperty('pret_heat', 'visibility', 'visible');
         $('#pcbutton')
-            .text("Find the nearest Pret")
+            .text("Find nearest Pret")
             .removeClass("greggs")
             .addClass("pret");
         $('#switch').text("Switch to Greggs");
@@ -130,7 +130,7 @@ $("#switch").click(function() {
             .setLayoutProperty('greggs_points', 'visibility', 'visible')
             .setLayoutProperty('greggs_heat', 'visibility', 'visible');
         $('#pcbutton')
-            .text("Find the nearest Greggs")
+            .text("Find nearest Greggs")
             .removeClass("pret")
             .addClass("greggs");
         $('#switch').text("Switch to Pret");
