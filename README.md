@@ -1,5 +1,5 @@
 # What
-A Gregg's heat map, using FHRS data.
+A Gregg's and Pret heat map and post code locator, using FHRS data.
 
 # Why
-No more questions at this time.
+No questions at this time.

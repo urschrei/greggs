@@ -1,3 +1,5 @@
+// mapbox-gl js styles for the Greggs and Pret layers
+
 var greggs_points = {
     "id": "greggs_points",
     "type": "circle",
