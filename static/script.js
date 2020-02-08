@@ -7,6 +7,14 @@ import {
 // import featureCollection from '@turf/helpers'
 import 'bootstrap';
 import './style.scss'
+// mapbox-gl layer styles
+import {
+    greggs_points,
+    greggs_heat,
+    pret_points,
+    pret_heat
+} from './layers.js';
+
 import jQuery from 'jquery';
 var $ = jQuery;
 
@@ -21,8 +29,9 @@ const map = new mapboxgl.Map({
     },
 });
 
-// This will hold our Greggs FeatureCollection for use in Turf after the map loads
-const gdata = {};
+// This will hold our FeatureCollections for use with Turf after the map loads
+var gdata = {};
+var active_chain = 'greggs';
 
 map.on('load', function() {
     $.getJSON("static/latest_greggs.geojson")
@@ -31,138 +40,54 @@ map.on('load', function() {
                     "type": "geojson",
                     "data": data
                 })
-                .addLayer({
-                    "id": "greggs_points",
-                    "type": "circle",
-                    "source": "greggs",
-                    "minzoom": 7,
-                    "paint": {
-                        'circle-radius': {
-                            stops: [
-                                [9, 10],
-                                [11, 20],
-                                [16, 35]
-                            ]
-                        },
-                        "circle-color": "rgb(251, 169, 23)",
-                        "circle-stroke-color": "rgb(8, 66, 125)",
-                        "circle-stroke-width": 1.5,
-                        "circle-opacity": [
-                            'interpolate', ['linear'],
-                            // zoom -> input: output
-                            ['zoom'],
-                                7, 0,
-                                8, 1,
-                                9, 0.5
-                        ],
-                        "circle-stroke-opacity": [
-                            'interpolate', ['linear'],
-                            ['zoom'],
-                                7, 0,
-                                8, 1
-                        ]
-                    }
-                })
-                .addLayer({
-                        'id': 'greggs_heat',
-                        'type': 'heatmap',
-                        'source': 'greggs',
-                        'maxzoom': 9,
-                        'paint': {
-                            // Increase the heatmap weight based on frequency
-                            'heatmap-weight': [
-                                'interpolate', ['linear'],
-                                1.25,
-                                0,
-                                0,
-                                6,
-                                1
-                            ],
-                            // Increase the heatmap color weight by zoom level
-                            // heatmap-intensity is a multiplier on top of heatmap-weight
-                            'heatmap-intensity': [
-                                'interpolate', ['linear'],
-                                ['zoom'],
-                                0,
-                                1,
-                                9,
-                                3
-                            ],
-                            // Color ramp for heatmap.  Domain is 0 (low) to 1 (high).
-                            // Begin color ramp at 0-stop with a 0-transparency color
-                            // to create a blur-like effect.
-                            // transitions from https://meyerweb.com/eric/tools/color-blend/#FBA917:08427D:4:rgbd
-                            'heatmap-color': [
-                                'interpolate', ['linear'],
-                                ['heatmap-density'],
-                                0,
-                                'rgba(8, 66, 125, 0)',
-                                0.2,
-                                'rgb(57,87,105)',
-                                0.4,
-                                'rgb(105,107,84)',
-                                0.6,
-                                'rgb(154,128,64)',
-                                0.8,
-                                'rgb(202,148,43)',
-                                1,
-                                'rgb(251, 169, 23)'
-                            ],
-                            // Adjust the heatmap radius by zoom level
-                            'heatmap-radius': [
-                                'interpolate', ['linear'],
-                                ['zoom'],
-                                0,
-                                2,
-                                9,
-                                20
-                            ],
-                            // Transition from heatmap to circle layer by zoom level
-                            'heatmap-opacity': [
-                                'interpolate', ['linear'],
-                                ['zoom'],
-                                7,
-                                1,
-                                9,
-                                0
-                            ]
-                        }
-                    },
-                    'waterway-label'
-                );
+                .addLayer(greggs_points)
+                .addLayer(greggs_heat, 'waterway-label');
             // Assign our FeatureCollection to an empty global variable so we can use it elsewhere
-            gdata['data'] = data;
+            gdata['greggs'] = featureCollection(data['features']);
+        });
+    $.getJSON("static/latest_pret.geojson")
+        .done(function(data) {
+            map.addSource("pret", {
+                    "type": "geojson",
+                    "data": data
+                })
+                .addLayer(pret_points)
+                .addLayer(pret_heat, 'waterway-label');
+            // Assign our FeatureCollection to an empty global variable so we can use it elsewhere
+            gdata['pret'] = featureCollection(data['features']);
         });
 });
 
-// When a click event occurs on a feature in the point layer, open a popup at the
-// location of the feature, with post code and authority text from its properties.
-map.on('click', 'greggs_points', function(e) {
-    var coordinates = e.features[0].geometry.coordinates.slice();
-    var description = `<p>Post Code: ${e.features[0].properties.PostCode} in ${e.features[0].properties.LocalAuthorityName}</p><p>FHRS Rating, Feb 2020: ${e.features[0].properties.RatingValue}</p>`;
+['greggs', 'pret'].forEach(function(chain) {
+    // When a click event occurs on a feature in the point layer, open a popup at the
+    // location of the feature, with post code and authority text from its properties.
+    map.on('click', chain + '_points', function(e) {
+        var coordinates = e.features[0].geometry.coordinates.slice();
+        var description = `<p>Post Code: ${e.features[0].properties.PostCode} in ${e.features[0].properties.LocalAuthorityName}</p><p>FHRS Rating, Feb 2020: ${e.features[0].properties.RatingValue}</p>`;
 
-    // Ensure that if the map is zoomed out such that multiple
-    // copies of the feature are visible, the popup appears
-    // over the copy being pointed to.
-    while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
-        coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
-    }
+        // Ensure that if the map is zoomed out such that multiple
+        // copies of the feature are visible, the popup appears
+        // over the copy being pointed to.
+        while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+            coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+        }
 
-    new mapboxgl.Popup()
-        .setLngLat(coordinates)
-        .setHTML(description)
-        .addTo(map);
-});
+        new mapboxgl.Popup()
+            .setLngLat(coordinates)
+            .setHTML(description)
+            .addTo(map);
+    });
 
-// Change the cursor to a pointer when the mouse is over the places layer
-map.on('mouseenter', 'greggs_points', function() {
-    map.getCanvas().style.cursor = 'pointer';
-});
+    // Change the cursor to a pointer when the mouse is over the places layer
+    map.on('mouseenter', chain + '_points', function() {
+        map.getCanvas().style.cursor = 'pointer';
+    });
 
-// Change it back to a pointer when it leaves
-map.on('mouseleave', 'greggs_points', function() {
-    map.getCanvas().style.cursor = '';
-});
+    // Change it back to a pointer when it leaves
+    map.on('mouseleave', chain + '_points', function() {
+        map.getCanvas().style.cursor = '';
+    });
+})
 
 $("#lookup").submit(function(event) {
     event.preventDefault();
@@ -172,16 +97,42 @@ $("#lookup").submit(function(event) {
         .done(function(data) {
             $("#inputPostcode").removeClass("is-invalid");
             var p = point([data['result']['longitude'], data['result']['latitude']]);
-            var coll = featureCollection(gdata['data']['features']);
-            var nearest = nearestPoint(p, coll);
+            var nearest = nearestPoint(p, gdata[active_chain]);
             map.flyTo({
                 center: nearest.geometry.coordinates,
-                zoom: 13,
+                zoom: 13.5,
                 essential: true
             });
-            console.log(nearest.geometry.coordinates);
         })
         .fail(function() {
             $("#inputPostcode").addClass("is-invalid");
         });
+});
+
+$("#switch").click(function() {
+    if (active_chain == "greggs") {
+        active_chain = "pret";
+    map
+        .setLayoutProperty('greggs_points', 'visibility', 'none')
+        .setLayoutProperty('greggs_heat', 'visibility', 'none')
+        .setLayoutProperty('pret_points', 'visibility', 'visible')
+        .setLayoutProperty('pret_heat', 'visibility', 'visible');
+        $('#pcbutton')
+            .text("Find the nearest Pret")
+            .removeClass("greggs")
+            .addClass("pret");
+        $('#switch').text("Switch to Greggs");
+    } else {
+        active_chain = "greggs";
+        map
+            .setLayoutProperty('pret_points', 'visibility', 'none')
+            .setLayoutProperty('pret_heat', 'visibility', 'none')
+            .setLayoutProperty('greggs_points', 'visibility', 'visible')
+            .setLayoutProperty('greggs_heat', 'visibility', 'visible');
+        $('#pcbutton')
+            .text("Find the nearest Greggs")
+            .removeClass("pret")
+            .addClass("greggs");
+        $('#switch').text("Switch to Pret");
+    }
 });

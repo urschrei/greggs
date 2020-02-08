@@ -16,8 +16,14 @@
     font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
 }
 
-.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+.greggs, .greggs:hover, .greggs:active, .greggs:visited {
     background-color: #08427D !important;
     border-color: #08427D !important;
     color: #FBA917 !important;
+}
+
+.pret, .pret:hover, .pret:active, .pret:visited {
+    background-color: rgb(140, 29, 38) !important;
+    border-color: rgb(140, 29, 38) !important;
+    color: #FFFFF !important;
 }

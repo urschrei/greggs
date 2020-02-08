@@ -14,6 +14,9 @@
                 Look. It's just a heatmap of every <a href="https://greggs.co.uk" style="color: #08427D">Greggs&trade;</a> for which the <a href="https://ratings.food.gov.uk">FHRS</a> has location info. That's all!
             </p>
         <form id="lookup" class="form-inline">
+          <div class="form-group mx-sm-3">
+              <button type="button" class="btn btn-dark mb-2" id="switch">Switch to Pret</button>
+          </div>
           <div class="form-group mx-sm-3 mb-2">
             <label for="inputPostcode" class="sr-only">UK Post Code</label>
             <input type="text" class="form-control" id="inputPostcode" placeholder="Post Code" required>
@@ -21,7 +24,7 @@
                 Enter a valid post code
             </div>
           </div>
-          <button type="submit" class="btn btn-primary mb-2">Find the nearest Greggs</button>
+          <button type="submit" class="btn btn-primary mb-2 greggs" id="pcbutton">Find the nearest Greggs</button>
         </form>
     </div>
 </div>
