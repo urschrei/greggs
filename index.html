@@ -14,21 +14,21 @@
                 It's just a heatmap of every <a href="https://greggs.co.uk" style="color: #08427D">Greggs&trade;</a>
                 and <a href="https://greggs.co.uk" style="color: #8c1d26">Pret&trade;</a> for which the <a href="https://ratings.food.gov.uk">FHRS</a> has location info. That's all!
             </small></p>
-        <form id="lookup" class="form-inline">
-          <div class="form-group mx-sm-2">
-              <button type="button" class="btn btn-sm btn-dark mb-2" id="switch">Switch to Pret</button>
-          </div>
-          <div class="form-group mx-sm-2 mb-2">
-            <label for="inputPostcode" class="sr-only">UK Post Code</label>
-            <input type="text" class="form-control form-control-sm col-xs-2" id="inputPostcode" placeholder="Post Code" required>
-            <div class="invalid-feedback">
-                Enter a valid post code
-            </div>
-          </div>
-          <button type="submit" class="btn btn-sm btn-primary mb-2 greggs" id="pcbutton">Find nearest Greggs</button>
-        </form>
+            <form id="lookup" class="form-inline">
+                    <div class="input-group mb-2 mr-sm-2">
+                    <label for="inputPostcode" class="sr-only">UK Post Code</label>
+                    <input type="text" class="form-control form-control-sm mb-2 mr-sm-2" id="inputPostcode" placeholder="Post Code" required>
+                    <div class="invalid-feedback">
+                        Enter a valid post code
+                    </div>
+                </div>
+                <div class="input-group mb-2 mr-sm-2">
+                    <button type="submit" class="btn btn-sm btn-primary mb-2 mr-1 greggs" id="pcbutton">Find nearest Greggs</button>
+                    <button type="button" class="btn btn-sm btn-dark mb-2" id="switch">Switch to Pret</button>
+                </div>
+            </form>
+        </div>
     </div>
-</div>
     <div class="row">
       <div class="col-sm" id="map"></div></div>
 </div>
