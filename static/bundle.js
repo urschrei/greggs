@@ -21125,7 +21125,7 @@
 	    var nearest = nearestPoint(p, gdata[active_chain]);
 	    map.flyTo({
 	      center: nearest.geometry.coordinates,
-	      zoom: 13.5,
+	      zoom: 14,
 	      essential: true
 	    });
 	  }).fail(function () {
