@@ -167,4 +167,3 @@ $("#locate").click(function() {
         timeout: 2500
     });
 });
-
