@@ -4,7 +4,6 @@ import {
     point,
     featureCollection
 } from '@turf/helpers'
-// import featureCollection from '@turf/helpers'
 import 'bootstrap';
 import './style.scss'
 // mapbox-gl layer styles
