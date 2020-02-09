@@ -27,6 +27,7 @@ const map = new mapboxgl.Map({
         lng: -3.8,
         lat: 53.82777852234969
     },
+    customAttribution: 'Uses <a href="https://ratings.food.gov.uk">FHRS</a> Data'
 });
 
 // This will hold our FeatureCollections for use with Turf after the map loads
