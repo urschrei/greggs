@@ -21142,12 +21142,12 @@
 	  if (active_chain == "greggs") {
 	    active_chain = "pret";
 	    map.setLayoutProperty('greggs_points', 'visibility', 'none').setLayoutProperty('greggs_heat', 'visibility', 'none').setLayoutProperty('pret_points', 'visibility', 'visible').setLayoutProperty('pret_heat', 'visibility', 'visible');
-	    $('#pcbutton').text("Find nearest Pret").removeClass("greggs").addClass("pret");
+	    $('#pcbutton').text("Nearest Pret").removeClass("greggs").addClass("pret");
 	    $('#switch').text("Switch to Greggs");
 	  } else {
 	    active_chain = "greggs";
 	    map.setLayoutProperty('pret_points', 'visibility', 'none').setLayoutProperty('pret_heat', 'visibility', 'none').setLayoutProperty('greggs_points', 'visibility', 'visible').setLayoutProperty('greggs_heat', 'visibility', 'visible');
-	    $('#pcbutton').text("Find nearest Greggs").removeClass("pret").addClass("greggs");
+	    $('#pcbutton').text("Nearest Greggs").removeClass("pret").addClass("greggs");
 	    $('#switch').text("Switch to Pret");
 	  }
 	}); // Locate nearest chain if geolocation is successful
@@ -21177,4 +21177,3 @@
 	});
 
 }());
-//# sourceMappingURL=bundle.js.map
