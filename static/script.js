@@ -56,6 +56,11 @@ map.on('load', function() {
             // Assign our FeatureCollection to an empty global variable so we can use it elsewhere
             gdata['pret'] = featureCollection(data['features']);
         });
+    if ("geolocation" in navigator) {
+        // do nothing
+    } else {
+        $('#locate').fadeOut(500);
+    }
 });
 
 ['greggs', 'pret'].forEach(function(chain) {
@@ -105,6 +110,7 @@ $("#lookup").submit(function(event) {
             });
         })
         .fail(function() {
+            $(".invalid-feedback").text("Enter a valid UK Post Code");
             $("#inputPostcode").addClass("is-invalid");
         });
 });
@@ -112,11 +118,11 @@ $("#lookup").submit(function(event) {
 $("#switch").click(function() {
     if (active_chain == "greggs") {
         active_chain = "pret";
-    map
-        .setLayoutProperty('greggs_points', 'visibility', 'none')
-        .setLayoutProperty('greggs_heat', 'visibility', 'none')
-        .setLayoutProperty('pret_points', 'visibility', 'visible')
-        .setLayoutProperty('pret_heat', 'visibility', 'visible');
+        map
+            .setLayoutProperty('greggs_points', 'visibility', 'none')
+            .setLayoutProperty('greggs_heat', 'visibility', 'none')
+            .setLayoutProperty('pret_points', 'visibility', 'visible')
+            .setLayoutProperty('pret_heat', 'visibility', 'visible');
         $('#pcbutton')
             .text("Find nearest Pret")
             .removeClass("greggs")
@@ -136,3 +142,29 @@ $("#switch").click(function() {
         $('#switch').text("Switch to Pret");
     }
 });
+
+// Locate nearest chain if geolocation is successful
+function glSuccess(position) {
+    console.log(position.coords.longitude, position.coords.latitude)
+    var p = point([position.coords.longitude, position.coords.latitude]);
+    var nearest = nearestPoint(p, gdata[active_chain]);
+    map.flyTo({
+        center: nearest.geometry.coordinates,
+        zoom: 14,
+        essential: true
+    });
+}
+
+// If we can't geolocate for some reason
+function glError() {
+    $("#inputPostcode").addClass("is-invalid");
+    $(".invalid-feedback").text("Couldn't geolocate you!");
+}
+
+$("#locate").click(function() {
+    navigator.geolocation.getCurrentPosition(glSuccess, glError, {
+        enableHighAccuracy: true,
+        timeout: 2500
+    });
+});
+
