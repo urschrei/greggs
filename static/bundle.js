@@ -21076,21 +21076,25 @@
 	var gdata = {};
 	var active_chain = 'greggs';
 	map.on('load', function () {
-	  $.getJSON("static/latest_greggs.geojson").done(function (data) {
+	  fetch("static/latest_greggs.geojson").then(data => {
+	    return data.json();
+	  }).then(json => {
 	    map.addSource("greggs", {
 	      "type": "geojson",
-	      "data": data
+	      "data": json
 	    }).addLayer(greggs_points).addLayer(greggs_heat, 'waterway-label'); // Assign our FeatureCollection to an empty global variable so we can use it elsewhere
 
-	    gdata['greggs'] = helpers_13$1(data['features']);
+	    gdata['greggs'] = helpers_13$1(json['features']);
 	  });
-	  $.getJSON("static/latest_pret.geojson").done(function (data) {
+	  fetch("static/latest_pret.geojson").then(data => {
+	    return data.json();
+	  }).then(json => {
 	    map.addSource("pret", {
 	      "type": "geojson",
-	      "data": data
+	      "data": json
 	    }).addLayer(pret_points).addLayer(pret_heat, 'waterway-label'); // Assign our FeatureCollection to an empty global variable so we can use it elsewhere
 
-	    gdata['pret'] = helpers_13$1(data['features']);
+	    gdata['pret'] = helpers_13$1(json['features']);
 	  });
 
 	  if ("geolocation" in navigator) ; else {
@@ -21178,3 +21182,4 @@
 	});
 
 }());
+//# sourceMappingURL=bundle.js.map
