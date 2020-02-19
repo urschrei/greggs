@@ -35,10 +35,10 @@ var active_chain = 'greggs';
 
 map.on('load', function() {
     fetch("static/latest_greggs.geojson")
-        .then((data) => {
+        .then(data => {
             return data.json()
         })
-        .then((json) => {
+        .then(json => {
             map.addSource("greggs", {
                     "type": "geojson",
                     "data": json
@@ -49,10 +49,10 @@ map.on('load', function() {
             gdata['greggs'] = featureCollection(json['features']);
         });
     fetch("static/latest_pret.geojson")
-        .then((data) => {
+        .then(data => {
             return data.json()
         })
-        .then((json) => {
+        .then(json => {
             map.addSource("pret", {
                     "type": "geojson",
                     "data": json
