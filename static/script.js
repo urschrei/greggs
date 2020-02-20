@@ -46,7 +46,7 @@ const dataSources = {
     }
 };
 
-map.on('load', function() {
+map.on('load', async function() {
     var promises = [];
     promises.push(
         Object.keys(dataSources).forEach(function(item) {
@@ -64,7 +64,7 @@ map.on('load', function() {
                 })
         })
     );
-    Promise.all(promises);
+    await Promise.all(promises);
     if ("geolocation" in navigator) {
         // do nothing
     } else {

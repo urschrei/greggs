@@ -21087,7 +21087,7 @@
 	    "h_layer": pret_heat
 	  }
 	};
-	map.on('load', function () {
+	map.on('load', async function () {
 	  var promises = [];
 	  promises.push(Object.keys(dataSources).forEach(function (item) {
 	    fetch(dataSources[item]["url"]).then(response => response.json()).then(data => {
@@ -21099,6 +21099,7 @@
 	      gdata[item] = helpers_13$1(data['features']);
 	    });
 	  }));
+	  await Promise.all(promises);
 
 	  if ("geolocation" in navigator) ; else {
 	    $('#locate').fadeOut(500);
