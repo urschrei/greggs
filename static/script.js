@@ -33,35 +33,38 @@ const map = new mapboxgl.Map({
 var gdata = {};
 var active_chain = 'greggs';
 
+const dataSources = {
+    "greggs": {
+        "url": "static/latest_greggs.geojson",
+        "p_layer": greggs_points,
+        "h_layer": greggs_heat
+    },
+    "pret": {
+        "url": "static/latest_pret.geojson",
+        "p_layer": pret_points,
+        "h_layer": pret_heat
+    }
+};
+
 map.on('load', function() {
-    fetch("static/latest_greggs.geojson")
-        .then(data => {
-            return data.json()
-        })
-        .then(json => {
-            map.addSource("greggs", {
-                    "type": "geojson",
-                    "data": json
+    var promises = [];
+    promises.push(
+        Object.keys(dataSources).forEach(function(item) {
+            fetch(dataSources[item]["url"])
+                .then(response => response.json())
+                .then(data => {
+                    map.addSource(item, {
+                            "type": "geojson",
+                            "data": data
+                        })
+                        .addLayer(dataSources[item]["p_layer"])
+                        .addLayer(dataSources[item]["h_layer"], "waterway-label");
+                    // Assign our FeatureCollection to an empty global variable so we can use it elsewhere
+                    gdata[item] = featureCollection(data['features']);
                 })
-                .addLayer(greggs_points)
-                .addLayer(greggs_heat, 'waterway-label');
-            // Assign our FeatureCollection to an empty global variable so we can use it elsewhere
-            gdata['greggs'] = featureCollection(json['features']);
-        });
-    fetch("static/latest_pret.geojson")
-        .then(data => {
-            return data.json()
         })
-        .then(json => {
-            map.addSource("pret", {
-                    "type": "geojson",
-                    "data": json
-                })
-                .addLayer(pret_points)
-                .addLayer(pret_heat, 'waterway-label');
-            // Assign our FeatureCollection to an empty global variable so we can use it elsewhere
-            gdata['pret'] = featureCollection(json['features']);
-        });
+    );
+    Promise.all(promises);
     if ("geolocation" in navigator) {
         // do nothing
     } else {
