@@ -22,6 +22,7 @@
   },
   "homepage": "",
   "dependencies": {
+    "@babel/preset-env": "^7.8.4",
     "@popperjs/core": "^2.0.5",
     "@turf/helpers": "^6.1.4",
     "@turf/nearest-point": "^6.0.1",
@@ -36,12 +37,15 @@
   },
   "devDependencies": {
     "@babel/core": "^7.8.3",
+    "@babel/plugin-transform-runtime": "^7.8.3",
+    "@babel/runtime": "^7.8.4",
     "@rollup/plugin-commonjs": "^11.0.1",
     "@rollup/plugin-json": "^4.0.1",
     "@rollup/plugin-node-resolve": "^7.0.0",
     "autoprefixer": "^9.7.4",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
+    "core-js": "^3.6.4",
     "css-loader": "^3.4.2",
     "eslint": "^6.8.0",
     "node-sass": "^4.13.1",

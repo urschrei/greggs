@@ -2,7 +2,10 @@ import babel from 'rollup-plugin-babel';
 import resolve from '@rollup/plugin-node-resolve';
 import commonjs from '@rollup/plugin-commonjs';
 import postcss from 'rollup-plugin-postcss';
-import { eslint } from 'rollup-plugin-eslint';
+import {
+  eslint
+} from 'rollup-plugin-eslint';
+import 'core-js/proposals/string-replace-all';
 
 const path = require('path');
 
@@ -16,12 +19,24 @@ module.exports = {
       ]
     }),
     babel({
+      babelrc: false,
       exclude: 'node_modules/**',
       sourceMaps: true,
-      inputSourceMap: true
+      inputSourceMap: true,
+      "presets": [
+        [
+          "@babel/preset-env", {
+            "corejs": 3,
+            "useBuiltIns": "entry",
+            "targets": "> 0.25%, not dead"
+          }
+        ]
+      ],
+      "plugins": ["@babel/plugin-transform-runtime"],
+      runtimeHelpers: true
     }),
     resolve(),
-    postcss({ 
+    postcss({
       plugins: []
     }),
     commonjs({}),
