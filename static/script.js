@@ -46,14 +46,15 @@ const dataSources = {
     }
 };
 
-map.on('load', async function() {
+// Add GeoJSON layers to map, and make them available to turf
+async function getBranches(m) {
     var promises = [];
     promises.push(
         Object.keys(dataSources).forEach(function(item) {
             fetch(dataSources[item]["url"])
                 .then(response => response.json())
                 .then(data => {
-                    map.addSource(item, {
+                    m.addSource(item, {
                             "type": "geojson",
                             "data": data
                         })
@@ -65,6 +66,10 @@ map.on('load', async function() {
         })
     );
     await Promise.all(promises);
+}
+
+map.on('load', function() {
+    getBranches(this);
     if ("geolocation" in navigator) {
         // do nothing
     } else {

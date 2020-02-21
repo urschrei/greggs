@@ -21087,11 +21087,12 @@
 	    "h_layer": pret_heat
 	  }
 	};
-	map.on('load', async function () {
+
+	async function getBranches(m) {
 	  var promises = [];
 	  promises.push(Object.keys(dataSources).forEach(function (item) {
 	    fetch(dataSources[item]["url"]).then(response => response.json()).then(data => {
-	      map.addSource(item, {
+	      m.addSource(item, {
 	        "type": "geojson",
 	        "data": data
 	      }).addLayer(dataSources[item]["p_layer"]).addLayer(dataSources[item]["h_layer"], "waterway-label"); // Assign our FeatureCollection to an empty global variable so we can use it elsewhere
@@ -21100,6 +21101,10 @@
 	    });
 	  }));
 	  await Promise.all(promises);
+	}
+
+	map.on('load', function () {
+	  getBranches(this);
 
 	  if ("geolocation" in navigator) ; else {
 	    $('#locate').fadeOut(500);
