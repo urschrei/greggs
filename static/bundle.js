@@ -21959,7 +21959,6 @@
 	}); // Locate nearest chain if geolocation is successful
 
 	function glSuccess(position) {
-	  console.log(position.coords.longitude, position.coords.latitude);
 	  var p = helpers_7$1([position.coords.longitude, position.coords.latitude]);
 	  var nearest = nearestPoint(p, gdata[active_chain]);
 	  map.flyTo({
