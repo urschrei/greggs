@@ -13,39 +13,61 @@
     <meta content="urschrei@gmail.com" property="og:email">
     <title>Greggs &amp; Pret: Where's the Beef?</title>
     <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <link href='static/bundle.css' rel='stylesheet' />
     <script type="application/ld+json">{"@context": "http://schema.org","@type": "CreativeWork","author": "Stephan Hügel"}</script>
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
 </head>
 <body>
-<div class="container-fluid" role="main">
+<div class="container-fluid d-flex flex-column h-100" role="main">
     <div class="row" id="info">
         <div class="col">
-            <h5>What…are you doing?</h5>
-            <p><small>
-                It's just a heatmap of every <a href="https://greggs.co.uk" style="color: #08427D">Greggs&trade;</a>
-                and <a href="https://pret.co.uk" style="color: #8c1d26">Pret&trade;</a> for which the <a href="https://ratings.food.gov.uk">FHRS</a> has location info. That's all!
-            </small></p>
-            <form id="lookup" class="form-inline">
-                <div class="input-group mb-2 mr-sm-2">
-                    <label for="inputPostcode" class="sr-only">UK Post Code</label>
-                    <input type="text" pattern="^(GIR ?0AA|[A-PR-UWYZ]([0-9]{1,2}|([A-HK-Y][0-9]([0-9ABEHMNPRV-Y])?)|[0-9][A-HJKPS-UW]) ?[0-9][ABD-HJLNP-UW-Z]{2})$" class="form-control form-control-sm mb-2 mr-sm-2" id="inputPostcode" placeholder="Post Code" required>
-                    <div class="invalid-feedback">
-                        Enter a valid post code
-                    </div>
+            <div class="card mt-2">
+                <div class="card-body">
+                    <h5 class="card-title">What…are you doing?</h5>
+                    <p class="card-text"><small>
+                        It's just a heatmap of every <a href="https://greggs.co.uk" style="color: #08427D">Greggs&trade;</a>
+                        and <a href="https://pret.co.uk" style="color: #8c1d26">Pret&trade;</a> for which the <a href="https://ratings.food.gov.uk">FHRS</a> has location info. That's all!
+                    </small></p>
+
+                    <form id="lookup">
+                        <div class="row">
+                          <div class="col-sm-2">
+                            <input type="text" pattern="^(GIR ?0AA|[A-PR-UWYZ]([0-9]{1,2}|([A-HK-Y][0-9]([0-9ABEHMNPRV-Y])?)|[0-9][A-HJKPS-UW]) ?[0-9][ABD-HJLNP-UW-Z]{2})$" class="form-control form-control-sm mb-2 mr-sm-2" id="inputPostcode" placeholder="UK Post Code" required>
+                            <div class="invalid-feedback">
+                                Enter a valid post code
+                            </div>
+                          </div>
+                          <div class="col-sm-6">
+                            <button type="submit" class="btn btn-sm btn-primary mb-2 mr-1 greggs" id="pcbutton">Nearest Greggs</button>
+                            <button type="button" class="btn btn-sm btn-dark mb-2 mr-1" id="switch">Switch to Pret</button>
+                            <button type="button" class="btn btn-sm btn-dark mb-2" id="locate">🧭</button>
+                          </div>
+                        </div>
+                    </form>
+
                 </div>
-                <div class="input-group mb-2 mr-sm-2">
-                    <button type="submit" class="btn btn-sm btn-primary mb-2 mr-1 greggs" id="pcbutton">Nearest Greggs</button>
-                    <button type="button" class="btn btn-sm btn-dark mb-2 mr-1" id="switch">Switch to Pret</button>
-                    <button type="button" class="btn btn-sm btn-dark mb-2" id="locate">🧭</button>
-                </div>
-            </form>
+            </div>
         </div>
     </div>
-    <div class="row">
-      <div class="col-sm" id="map"></div></div>
-</div>
+    <div class="row row-cols-1 row-cols-md-1 flex-grow-1 my-1">
+      <div class="col mb-1 mb-md-0 d-flex">
+        <div class="card border-dark shadow-lg flex-fill">
+          <div class="card-body p-0 d-flex" style="height:100%;">
+            <div id="map" class="flex-fill"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
 <footer class="footer">
     <div class="container-fluid">
-        <small><span class="text-muted">A <a href="https://twitter.com/urschrei">Stephan H&uuml;gel</a> distraction. <a href="https://github.com/urschrei/greggs">Source</a>.
+        <small><span class="text-muted">A <a href="https://bsky.app/profile/urschrei.bsky.social">Stephan H&uuml;gel</a> distraction. <a href="https://github.com/urschrei/greggs">Source</a>.
         </span></small>
     </div>
 </footer>
