@@ -13,6 +13,7 @@
         "AddressLine4": "",
         "PostCode": "RG2 8HA",
         "RatingValue": "5",
+        "RatingDate": "2024-09-19T00:00:00",
         "LocalAuthorityName": "Reading"
       },
       "geometry": {
@@ -35,6 +36,7 @@
         "AddressLine4": "",
         "PostCode": "SW19 7NS",
         "RatingValue": "5",
+        "RatingDate": "2022-01-10T00:00:00",
         "LocalAuthorityName": "Merton"
       },
       "geometry": {
@@ -57,6 +59,7 @@
         "AddressLine4": "N4 2DH",
         "PostCode": "N4 2DH",
         "RatingValue": "5",
+        "RatingDate": "2022-09-07T00:00:00",
         "LocalAuthorityName": "Islington"
       },
       "geometry": {
@@ -79,6 +82,7 @@
         "AddressLine4": "",
         "PostCode": "W1C 1LZ",
         "RatingValue": "5",
+        "RatingDate": "2023-01-19T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -101,6 +105,7 @@
         "AddressLine4": "",
         "PostCode": "WC2N 5DS",
         "RatingValue": "5",
+        "RatingDate": "2023-11-06T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -123,6 +128,7 @@
         "AddressLine4": "",
         "PostCode": "W1W 5QX",
         "RatingValue": "5",
+        "RatingDate": "2024-04-13T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -145,6 +151,7 @@
         "AddressLine4": "",
         "PostCode": "WC2N 4JH",
         "RatingValue": "5",
+        "RatingDate": "2024-01-08T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -167,6 +174,7 @@
         "AddressLine4": "",
         "PostCode": "W1J 6ES",
         "RatingValue": "5",
+        "RatingDate": "2024-02-19T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -189,6 +197,7 @@
         "AddressLine4": "",
         "PostCode": "W2 1NJ",
         "RatingValue": "5",
+        "RatingDate": "2024-03-18T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -211,6 +220,7 @@
         "AddressLine4": "",
         "PostCode": "WC2R 1AP",
         "RatingValue": "5",
+        "RatingDate": "2023-10-16T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -233,6 +243,7 @@
         "AddressLine4": "",
         "PostCode": "SW1E 5DH",
         "RatingValue": "5",
+        "RatingDate": "2024-01-24T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -255,6 +266,7 @@
         "AddressLine4": "",
         "PostCode": "SW3 1JJ",
         "RatingValue": "5",
+        "RatingDate": "2023-09-12T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -277,6 +289,7 @@
         "AddressLine4": "",
         "PostCode": "W1U 3QF",
         "RatingValue": "5",
+        "RatingDate": "2023-05-24T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -299,6 +312,7 @@
         "AddressLine4": "Brighton",
         "PostCode": "BN1 3ZE",
         "RatingValue": "5",
+        "RatingDate": "2024-04-11T00:00:00",
         "LocalAuthorityName": "Brighton and Hove"
       },
       "geometry": {
@@ -321,6 +335,7 @@
         "AddressLine4": "EC1V 4NJ",
         "PostCode": "EC1V 4NJ",
         "RatingValue": "5",
+        "RatingDate": "2024-04-08T00:00:00",
         "LocalAuthorityName": "Islington"
       },
       "geometry": {
@@ -343,6 +358,7 @@
         "AddressLine4": "London",
         "PostCode": "SE1 1NB",
         "RatingValue": "5",
+        "RatingDate": "2024-04-11T00:00:00",
         "LocalAuthorityName": "Southwark"
       },
       "geometry": {
@@ -365,6 +381,7 @@
         "AddressLine4": "",
         "PostCode": "W1F 7TG",
         "RatingValue": "5",
+        "RatingDate": "2024-04-20T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -387,6 +404,7 @@
         "AddressLine4": "",
         "PostCode": "W1F 0DH",
         "RatingValue": "5",
+        "RatingDate": "2024-04-20T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -409,6 +427,7 @@
         "AddressLine4": "",
         "PostCode": "WC2R 0AP",
         "RatingValue": "5",
+        "RatingDate": "2024-04-19T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -431,6 +450,7 @@
         "AddressLine4": "",
         "PostCode": "W1D 5LQ",
         "RatingValue": "5",
+        "RatingDate": "2024-04-20T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -453,6 +473,7 @@
         "AddressLine4": "Cambridgeshire",
         "PostCode": "CB2 3NZ",
         "RatingValue": "5",
+        "RatingDate": "2024-04-30T00:00:00",
         "LocalAuthorityName": "Cambridge City"
       },
       "geometry": {
@@ -475,6 +496,7 @@
         "AddressLine4": "",
         "PostCode": "M2 1WL",
         "RatingValue": "5",
+        "RatingDate": "2024-03-22T00:00:00",
         "LocalAuthorityName": "Manchester"
       },
       "geometry": {
@@ -497,6 +519,7 @@
         "AddressLine4": "London",
         "PostCode": "EC1M 7AN",
         "RatingValue": "5",
+        "RatingDate": "2024-05-07T00:00:00",
         "LocalAuthorityName": "Islington"
       },
       "geometry": {
@@ -519,6 +542,7 @@
         "AddressLine4": "London",
         "PostCode": "N1 1RU",
         "RatingValue": "5",
+        "RatingDate": "2024-05-29T00:00:00",
         "LocalAuthorityName": "Islington"
       },
       "geometry": {
@@ -541,6 +565,7 @@
         "AddressLine4": "",
         "PostCode": "BR3 1EN",
         "RatingValue": "5",
+        "RatingDate": "2024-05-15T00:00:00",
         "LocalAuthorityName": "Bromley"
       },
       "geometry": {
@@ -563,6 +588,7 @@
         "AddressLine4": "Nottingham",
         "PostCode": "NG1 2ET",
         "RatingValue": "5",
+        "RatingDate": "2023-08-11T00:00:00",
         "LocalAuthorityName": "Nottingham City"
       },
       "geometry": {
@@ -585,6 +611,7 @@
         "AddressLine4": "",
         "PostCode": "CM14 4AJ",
         "RatingValue": "5",
+        "RatingDate": "2024-07-13T00:00:00",
         "LocalAuthorityName": "Brentwood"
       },
       "geometry": {
@@ -607,6 +634,7 @@
         "AddressLine4": "Cambridgeshire",
         "PostCode": "CB1 2GA",
         "RatingValue": "5",
+        "RatingDate": "2024-07-18T00:00:00",
         "LocalAuthorityName": "Cambridge City"
       },
       "geometry": {
@@ -629,6 +657,7 @@
         "AddressLine4": "",
         "PostCode": "W1B 3AP",
         "RatingValue": "5",
+        "RatingDate": "2024-08-03T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -651,6 +680,7 @@
         "AddressLine4": "Surrey",
         "PostCode": "GU1 4EQ",
         "RatingValue": "5",
+        "RatingDate": "2024-08-01T00:00:00",
         "LocalAuthorityName": "Guildford"
       },
       "geometry": {
@@ -673,6 +703,7 @@
         "AddressLine4": "",
         "PostCode": "LE16 7PA",
         "RatingValue": "5",
+        "RatingDate": "2024-07-30T00:00:00",
         "LocalAuthorityName": "Harborough"
       },
       "geometry": {
@@ -695,6 +726,7 @@
         "AddressLine4": "London",
         "PostCode": "SE1 9AN",
         "RatingValue": "5",
+        "RatingDate": "2024-08-07T00:00:00",
         "LocalAuthorityName": "Southwark"
       },
       "geometry": {
@@ -717,6 +749,7 @@
         "AddressLine4": "",
         "PostCode": "EC4N 6LY",
         "RatingValue": "5",
+        "RatingDate": "2024-07-31T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -739,6 +772,7 @@
         "AddressLine4": "EC1Y 1AG",
         "PostCode": "EC1Y 1AG",
         "RatingValue": "5",
+        "RatingDate": "2024-08-22T00:00:00",
         "LocalAuthorityName": "Islington"
       },
       "geometry": {
@@ -761,6 +795,7 @@
         "AddressLine4": "East Grinstead",
         "PostCode": "RH19 1ET",
         "RatingValue": "5",
+        "RatingDate": "2024-09-06T00:00:00",
         "LocalAuthorityName": "Mid Sussex"
       },
       "geometry": {
@@ -783,6 +818,7 @@
         "AddressLine4": "",
         "PostCode": "SW1Y 6JP",
         "RatingValue": "5",
+        "RatingDate": "2024-09-09T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -805,6 +841,7 @@
         "AddressLine4": "Walthamstow",
         "PostCode": "E17 7JR",
         "RatingValue": "5",
+        "RatingDate": "2024-09-14T00:00:00",
         "LocalAuthorityName": "Waltham Forest"
       },
       "geometry": {
@@ -827,6 +864,7 @@
         "AddressLine4": "",
         "PostCode": "W1J 8HY",
         "RatingValue": "5",
+        "RatingDate": "2024-09-17T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -849,6 +887,7 @@
         "AddressLine4": "",
         "PostCode": "HA9 0FD",
         "RatingValue": "5",
+        "RatingDate": "2024-09-12T00:00:00",
         "LocalAuthorityName": "Brent"
       },
       "geometry": {
@@ -871,6 +910,7 @@
         "AddressLine4": "",
         "PostCode": "SE1 8SB",
         "RatingValue": "5",
+        "RatingDate": "2023-11-08T00:00:00",
         "LocalAuthorityName": "Lambeth"
       },
       "geometry": {
@@ -893,6 +933,7 @@
         "AddressLine4": "",
         "PostCode": "EC3A 8AA",
         "RatingValue": "5",
+        "RatingDate": "2024-08-29T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -915,6 +956,7 @@
         "AddressLine4": "Southwaite",
         "PostCode": "CA4 0NT",
         "RatingValue": "5",
+        "RatingDate": "2024-07-23T00:00:00",
         "LocalAuthorityName": "Westmorland and Furness"
       },
       "geometry": {
@@ -937,6 +979,7 @@
         "AddressLine4": "",
         "PostCode": "E15 1DA",
         "RatingValue": "5",
+        "RatingDate": "2024-08-09T00:00:00",
         "LocalAuthorityName": "Newham"
       },
       "geometry": {
@@ -959,6 +1002,7 @@
         "AddressLine4": "London",
         "PostCode": "E16 2PX",
         "RatingValue": "5",
+        "RatingDate": "2019-02-11T00:00:00",
         "LocalAuthorityName": "Newham"
       },
       "geometry": {
@@ -981,6 +1025,7 @@
         "AddressLine4": "Exeter",
         "PostCode": "EX2 7HF",
         "RatingValue": "5",
+        "RatingDate": "2024-10-21T00:00:00",
         "LocalAuthorityName": "Exeter City"
       },
       "geometry": {
@@ -1003,6 +1048,7 @@
         "AddressLine4": "Shropshire",
         "PostCode": "SY1 1DB",
         "RatingValue": "5",
+        "RatingDate": "2024-09-20T00:00:00",
         "LocalAuthorityName": "Shropshire"
       },
       "geometry": {
@@ -1025,6 +1071,7 @@
         "AddressLine4": "",
         "PostCode": "EX4 3PZ",
         "RatingValue": "5",
+        "RatingDate": "2024-11-01T00:00:00",
         "LocalAuthorityName": "Exeter City"
       },
       "geometry": {
@@ -1047,6 +1094,7 @@
         "AddressLine4": "London",
         "PostCode": "WC1B 5BG",
         "RatingValue": "5",
+        "RatingDate": "2024-10-18T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -1069,6 +1117,7 @@
         "AddressLine4": "",
         "PostCode": "LE1 5AD",
         "RatingValue": "5",
+        "RatingDate": "2023-06-06T00:00:00",
         "LocalAuthorityName": "Leicester City"
       },
       "geometry": {
@@ -1091,6 +1140,7 @@
         "AddressLine4": "",
         "PostCode": "N14 5BU",
         "RatingValue": "5",
+        "RatingDate": "2024-01-09T00:00:00",
         "LocalAuthorityName": "Enfield"
       },
       "geometry": {
@@ -1113,6 +1163,7 @@
         "AddressLine4": "",
         "PostCode": "SL4 1TG",
         "RatingValue": "5",
+        "RatingDate": "2023-05-02T00:00:00",
         "LocalAuthorityName": "Windsor and Maidenhead"
       },
       "geometry": {
@@ -1135,6 +1186,7 @@
         "AddressLine4": "",
         "PostCode": "E20 1JN",
         "RatingValue": "5",
+        "RatingDate": "2024-11-19T00:00:00",
         "LocalAuthorityName": "Newham"
       },
       "geometry": {
@@ -1157,6 +1209,7 @@
         "AddressLine4": "Oxfordshire",
         "PostCode": "",
         "RatingValue": "5",
+        "RatingDate": "2024-11-25T00:00:00",
         "LocalAuthorityName": "Cherwell"
       },
       "geometry": {
@@ -1179,6 +1232,7 @@
         "AddressLine4": "London",
         "PostCode": "SE1 0LX",
         "RatingValue": "5",
+        "RatingDate": "2024-03-19T00:00:00",
         "LocalAuthorityName": "Southwark"
       },
       "geometry": {
@@ -1201,6 +1255,7 @@
         "AddressLine4": "",
         "PostCode": "WC2N 6ND",
         "RatingValue": "5",
+        "RatingDate": "2024-01-17T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1223,6 +1278,7 @@
         "AddressLine4": "",
         "PostCode": "SW1H 9LQ",
         "RatingValue": "5",
+        "RatingDate": "2023-10-25T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1245,6 +1301,7 @@
         "AddressLine4": "",
         "PostCode": "SW1E 5NA",
         "RatingValue": "5",
+        "RatingDate": "2024-04-06T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1267,6 +1324,7 @@
         "AddressLine4": "",
         "PostCode": "W1U 2RJ",
         "RatingValue": "5",
+        "RatingDate": "2024-03-04T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1289,6 +1347,7 @@
         "AddressLine4": "",
         "PostCode": "W1J 9ED",
         "RatingValue": "5",
+        "RatingDate": "2023-10-09T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1311,6 +1370,7 @@
         "AddressLine4": "",
         "PostCode": "W1W 6PY",
         "RatingValue": "5",
+        "RatingDate": "2023-06-26T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1333,6 +1393,7 @@
         "AddressLine4": "",
         "PostCode": "SW1W 0QP",
         "RatingValue": "5",
+        "RatingDate": "2024-01-24T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1355,6 +1416,7 @@
         "AddressLine4": "",
         "PostCode": "SW1V 1JT",
         "RatingValue": "5",
+        "RatingDate": "2023-06-26T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1377,6 +1439,7 @@
         "AddressLine4": "",
         "PostCode": "W1D 6BZ",
         "RatingValue": "5",
+        "RatingDate": "2024-02-26T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1399,6 +1462,7 @@
         "AddressLine4": "",
         "PostCode": "W1U 4NL",
         "RatingValue": "5",
+        "RatingDate": "2024-04-13T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1421,6 +1485,7 @@
         "AddressLine4": "",
         "PostCode": "W2 4SJ",
         "RatingValue": "5",
+        "RatingDate": "2019-10-28T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1443,6 +1508,7 @@
         "AddressLine4": "",
         "PostCode": "WC2R 1HH",
         "RatingValue": "5",
+        "RatingDate": "2023-07-04T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1465,6 +1531,7 @@
         "AddressLine4": "",
         "PostCode": "W1U 1JD",
         "RatingValue": "5",
+        "RatingDate": "2024-03-27T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1487,6 +1554,7 @@
         "AddressLine4": "",
         "PostCode": "WC2R 1AB",
         "RatingValue": "5",
+        "RatingDate": "2023-05-15T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1509,6 +1577,7 @@
         "AddressLine4": "",
         "PostCode": "NW8 6PG",
         "RatingValue": "5",
+        "RatingDate": "2023-08-30T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1531,6 +1600,7 @@
         "AddressLine4": "",
         "PostCode": "SW1P 2AA",
         "RatingValue": "5",
+        "RatingDate": "2023-07-13T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1553,6 +1623,7 @@
         "AddressLine4": "",
         "PostCode": "W1S 1HN",
         "RatingValue": "5",
+        "RatingDate": "2024-01-31T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1575,6 +1646,7 @@
         "AddressLine4": "",
         "PostCode": "SW1H 0HW",
         "RatingValue": "5",
+        "RatingDate": "2023-11-22T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1597,6 +1669,7 @@
         "AddressLine4": "",
         "PostCode": "W2 6EZ",
         "RatingValue": "5",
+        "RatingDate": "2023-08-14T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1619,6 +1692,7 @@
         "AddressLine4": "",
         "PostCode": "W1U 3BL",
         "RatingValue": "5",
+        "RatingDate": "2024-04-13T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1641,6 +1715,7 @@
         "AddressLine4": "",
         "PostCode": "SW1Y 5BF",
         "RatingValue": "5",
+        "RatingDate": "2024-02-24T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1663,6 +1738,7 @@
         "AddressLine4": "",
         "PostCode": "W1H 6HG",
         "RatingValue": "5",
+        "RatingDate": "2024-03-04T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1685,6 +1761,7 @@
         "AddressLine4": "",
         "PostCode": "W2 2EN",
         "RatingValue": "5",
+        "RatingDate": "2024-04-06T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1707,6 +1784,7 @@
         "AddressLine4": "",
         "PostCode": "SW1V 2RX",
         "RatingValue": "5",
+        "RatingDate": "2024-03-25T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1729,6 +1807,7 @@
         "AddressLine4": "",
         "PostCode": "SW1X 7HN",
         "RatingValue": "5",
+        "RatingDate": "2024-02-17T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1751,6 +1830,7 @@
         "AddressLine4": "",
         "PostCode": "W1S 1JF",
         "RatingValue": "5",
+        "RatingDate": "2021-06-17T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1773,6 +1853,7 @@
         "AddressLine4": "",
         "PostCode": "W1J 0DP",
         "RatingValue": "5",
+        "RatingDate": "2023-11-06T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1795,6 +1876,7 @@
         "AddressLine4": "London",
         "PostCode": "EC1V 4JZ",
         "RatingValue": "5",
+        "RatingDate": "2024-04-08T00:00:00",
         "LocalAuthorityName": "Islington"
       },
       "geometry": {
@@ -1817,6 +1899,7 @@
         "AddressLine4": "",
         "PostCode": "SW1P 3LT",
         "RatingValue": "5",
+        "RatingDate": "2024-04-23T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1839,6 +1922,7 @@
         "AddressLine4": "",
         "PostCode": "W1W 8DZ",
         "RatingValue": "5",
+        "RatingDate": "2024-04-20T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1861,6 +1945,7 @@
         "AddressLine4": "",
         "PostCode": "W1T 3JB",
         "RatingValue": "5",
+        "RatingDate": "2024-04-29T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1883,6 +1968,7 @@
         "AddressLine4": "",
         "PostCode": "W1K 4BE",
         "RatingValue": "5",
+        "RatingDate": "2024-05-02T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -1905,6 +1991,7 @@
         "AddressLine4": "",
         "PostCode": "AL1 3DP",
         "RatingValue": "5",
+        "RatingDate": "2023-04-19T00:00:00",
         "LocalAuthorityName": "St Albans City"
       },
       "geometry": {
@@ -1927,6 +2014,7 @@
         "AddressLine4": "",
         "PostCode": "SW7 2ND",
         "RatingValue": "5",
+        "RatingDate": "2024-05-02T00:00:00",
         "LocalAuthorityName": "Kensington and Chelsea"
       },
       "geometry": {
@@ -1949,6 +2037,7 @@
         "AddressLine4": "London Road",
         "PostCode": "RH6 0NN",
         "RatingValue": "5",
+        "RatingDate": "2024-04-23T00:00:00",
         "LocalAuthorityName": "Crawley"
       },
       "geometry": {
@@ -1971,6 +2060,7 @@
         "AddressLine4": "London",
         "PostCode": "SE1 1HR",
         "RatingValue": "5",
+        "RatingDate": "2024-04-11T00:00:00",
         "LocalAuthorityName": "Southwark"
       },
       "geometry": {
@@ -1993,6 +2083,7 @@
         "AddressLine4": "",
         "PostCode": "W2 4QJ",
         "RatingValue": "5",
+        "RatingDate": "2024-05-04T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -2015,6 +2106,7 @@
         "AddressLine4": "",
         "PostCode": "W1F 7HY",
         "RatingValue": "5",
+        "RatingDate": "2024-05-07T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -2037,6 +2129,7 @@
         "AddressLine4": "",
         "PostCode": "W1G 0FJ",
         "RatingValue": "5",
+        "RatingDate": "2024-05-11T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -2059,6 +2152,7 @@
         "AddressLine4": "",
         "PostCode": "WC2R 0DW",
         "RatingValue": "5",
+        "RatingDate": "2024-05-11T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -2081,6 +2175,7 @@
         "AddressLine4": "",
         "PostCode": "W9 1SZ",
         "RatingValue": "5",
+        "RatingDate": "2024-05-11T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -2103,6 +2198,7 @@
         "AddressLine4": "",
         "PostCode": "W1D 2DH",
         "RatingValue": "5",
+        "RatingDate": "2024-05-11T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -2125,6 +2221,7 @@
         "AddressLine4": "",
         "PostCode": "EC2M 3AB",
         "RatingValue": "5",
+        "RatingDate": "2024-05-15T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -2147,6 +2244,7 @@
         "AddressLine4": "",
         "PostCode": "BA1 1AP",
         "RatingValue": "5",
+        "RatingDate": "2024-05-21T00:00:00",
         "LocalAuthorityName": "Bath and North East Somerset"
       },
       "geometry": {
@@ -2169,6 +2267,7 @@
         "AddressLine4": "",
         "PostCode": "E16 1ED",
         "RatingValue": "5",
+        "RatingDate": "2024-05-22T00:00:00",
         "LocalAuthorityName": "Newham"
       },
       "geometry": {
@@ -2191,6 +2290,7 @@
         "AddressLine4": "N1 0PS",
         "PostCode": "N1 0PS",
         "RatingValue": "5",
+        "RatingDate": "2024-05-29T00:00:00",
         "LocalAuthorityName": "Islington"
       },
       "geometry": {
@@ -2213,6 +2313,7 @@
         "AddressLine4": "",
         "PostCode": "SW1W 9SJ",
         "RatingValue": "5",
+        "RatingDate": "2024-05-18T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -2235,6 +2336,7 @@
         "AddressLine4": "",
         "PostCode": "SW3 4NB",
         "RatingValue": "5",
+        "RatingDate": "2024-06-03T00:00:00",
         "LocalAuthorityName": "Kensington and Chelsea"
       },
       "geometry": {
@@ -2257,6 +2359,7 @@
         "AddressLine4": "",
         "PostCode": "GL50 1DF",
         "RatingValue": "5",
+        "RatingDate": "2024-06-05T00:00:00",
         "LocalAuthorityName": "Cheltenham"
       },
       "geometry": {
@@ -2279,6 +2382,7 @@
         "AddressLine4": "London",
         "PostCode": "EC1R 3BT",
         "RatingValue": "5",
+        "RatingDate": "2024-06-10T00:00:00",
         "LocalAuthorityName": "Islington"
       },
       "geometry": {
@@ -2301,6 +2405,7 @@
         "AddressLine4": "London",
         "PostCode": "SE1 9LX",
         "RatingValue": "5",
+        "RatingDate": "2024-06-07T00:00:00",
         "LocalAuthorityName": "Southwark"
       },
       "geometry": {
@@ -2323,6 +2428,7 @@
         "AddressLine4": "London",
         "PostCode": "SE1 8NW",
         "RatingValue": "5",
+        "RatingDate": "2024-05-30T00:00:00",
         "LocalAuthorityName": "Southwark"
       },
       "geometry": {
@@ -2345,6 +2451,7 @@
         "AddressLine4": "",
         "PostCode": "SW1H 0QU",
         "RatingValue": "5",
+        "RatingDate": "2024-06-12T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -2367,6 +2474,7 @@
         "AddressLine4": "London",
         "PostCode": "SE1 8EZ",
         "RatingValue": "5",
+        "RatingDate": "2024-06-05T00:00:00",
         "LocalAuthorityName": "Southwark"
       },
       "geometry": {
@@ -2389,6 +2497,7 @@
         "AddressLine4": "",
         "PostCode": "EC2M 4NR",
         "RatingValue": "5",
+        "RatingDate": "2024-06-28T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -2411,6 +2520,7 @@
         "AddressLine4": "Bristol",
         "PostCode": "BS1 3BD",
         "RatingValue": "5",
+        "RatingDate": "2024-06-12T00:00:00",
         "LocalAuthorityName": "Bristol"
       },
       "geometry": {
@@ -2433,6 +2543,7 @@
         "AddressLine4": "Bracknell Forest",
         "PostCode": "RG12 1BD",
         "RatingValue": "5",
+        "RatingDate": "2024-07-03T00:00:00",
         "LocalAuthorityName": "Bracknell Forest"
       },
       "geometry": {
@@ -2455,6 +2566,7 @@
         "AddressLine4": "West Berkshire",
         "PostCode": "RG14 1AA",
         "RatingValue": "5",
+        "RatingDate": "2024-07-18T00:00:00",
         "LocalAuthorityName": "West Berkshire"
       },
       "geometry": {
@@ -2477,6 +2589,7 @@
         "AddressLine4": "London",
         "PostCode": "EC1V 1NR",
         "RatingValue": "5",
+        "RatingDate": "2024-03-05T00:00:00",
         "LocalAuthorityName": "Hackney"
       },
       "geometry": {
@@ -2499,6 +2612,7 @@
         "AddressLine4": "London",
         "PostCode": "SE1 2RT",
         "RatingValue": "5",
+        "RatingDate": "2024-07-11T00:00:00",
         "LocalAuthorityName": "Southwark"
       },
       "geometry": {
@@ -2521,6 +2635,7 @@
         "AddressLine4": "London",
         "PostCode": "NW6 1SA",
         "RatingValue": "5",
+        "RatingDate": "2024-07-17T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -2543,6 +2658,7 @@
         "AddressLine4": "",
         "PostCode": "BH2 5LP",
         "RatingValue": "5",
+        "RatingDate": "2024-07-15T00:00:00",
         "LocalAuthorityName": "Bournemouth, Christchurch and Poole"
       },
       "geometry": {
@@ -2565,6 +2681,7 @@
         "AddressLine4": "",
         "PostCode": "W11 3JS",
         "RatingValue": "5",
+        "RatingDate": "2024-07-29T00:00:00",
         "LocalAuthorityName": "Kensington and Chelsea"
       },
       "geometry": {
@@ -2587,6 +2704,7 @@
         "AddressLine4": "",
         "PostCode": "W1G 0DJ",
         "RatingValue": "5",
+        "RatingDate": "2024-07-27T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -2609,6 +2727,7 @@
         "AddressLine4": "",
         "PostCode": "SW9 8HE",
         "RatingValue": "5",
+        "RatingDate": "2023-02-11T00:00:00",
         "LocalAuthorityName": "Lambeth"
       },
       "geometry": {
@@ -2631,6 +2750,7 @@
         "AddressLine4": "",
         "PostCode": "BR1 1EY",
         "RatingValue": "5",
+        "RatingDate": "2024-07-29T00:00:00",
         "LocalAuthorityName": "Bromley"
       },
       "geometry": {
@@ -2653,6 +2773,7 @@
         "AddressLine4": "Bradford",
         "PostCode": "BD1 1US",
         "RatingValue": "5",
+        "RatingDate": "2023-08-01T00:00:00",
         "LocalAuthorityName": "Bradford"
       },
       "geometry": {
@@ -2675,6 +2796,7 @@
         "AddressLine4": "London",
         "PostCode": "SE1 9LB",
         "RatingValue": "5",
+        "RatingDate": "2024-08-07T00:00:00",
         "LocalAuthorityName": "Southwark"
       },
       "geometry": {
@@ -2697,6 +2819,7 @@
         "AddressLine4": "",
         "PostCode": "SW1Y 6PP",
         "RatingValue": "5",
+        "RatingDate": "2024-08-20T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -2719,6 +2842,7 @@
         "AddressLine4": "",
         "PostCode": "NW1 6UY",
         "RatingValue": "5",
+        "RatingDate": "2024-08-19T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -2741,6 +2865,7 @@
         "AddressLine4": "",
         "PostCode": "W11 3RB",
         "RatingValue": "5",
+        "RatingDate": "2024-08-19T00:00:00",
         "LocalAuthorityName": "Kensington and Chelsea"
       },
       "geometry": {
@@ -2763,6 +2888,7 @@
         "AddressLine4": "",
         "PostCode": "SW8 2LE",
         "RatingValue": "5",
+        "RatingDate": "2024-08-09T00:00:00",
         "LocalAuthorityName": "Lambeth"
       },
       "geometry": {
@@ -2785,6 +2911,7 @@
         "AddressLine4": "",
         "PostCode": "NW11 8LH",
         "RatingValue": "5",
+        "RatingDate": "2024-08-23T00:00:00",
         "LocalAuthorityName": "Barnet"
       },
       "geometry": {
@@ -2807,6 +2934,7 @@
         "AddressLine4": "",
         "PostCode": "YO1 8RU",
         "RatingValue": "5",
+        "RatingDate": "2024-08-08T00:00:00",
         "LocalAuthorityName": "York"
       },
       "geometry": {
@@ -2829,6 +2957,7 @@
         "AddressLine4": "",
         "PostCode": "E1 7BS",
         "RatingValue": "5",
+        "RatingDate": "2024-08-30T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -2851,6 +2980,7 @@
         "AddressLine4": "Street",
         "PostCode": "BA16 0BB",
         "RatingValue": "5",
+        "RatingDate": "2023-09-25T00:00:00",
         "LocalAuthorityName": "Somerset"
       },
       "geometry": {
@@ -2873,6 +3003,7 @@
         "AddressLine4": "Greenhithe",
         "PostCode": "DA9 9SH",
         "RatingValue": "5",
+        "RatingDate": "2024-02-20T00:00:00",
         "LocalAuthorityName": "Dartford"
       },
       "geometry": {
@@ -2895,6 +3026,7 @@
         "AddressLine4": "Milton Keynes",
         "PostCode": "MK9 1BB",
         "RatingValue": "5",
+        "RatingDate": "2024-02-14T00:00:00",
         "LocalAuthorityName": "Milton Keynes"
       },
       "geometry": {
@@ -2917,6 +3049,7 @@
         "AddressLine4": "",
         "PostCode": "WD17 1LQ",
         "RatingValue": "5",
+        "RatingDate": "2023-07-03T00:00:00",
         "LocalAuthorityName": "Watford"
       },
       "geometry": {
@@ -2939,6 +3072,7 @@
         "AddressLine4": "",
         "PostCode": "M50 2HF",
         "RatingValue": "5",
+        "RatingDate": "2023-07-26T00:00:00",
         "LocalAuthorityName": "Salford"
       },
       "geometry": {
@@ -2961,6 +3095,7 @@
         "AddressLine4": "London",
         "PostCode": "W6 9YD",
         "RatingValue": "5",
+        "RatingDate": "2023-11-11T00:00:00",
         "LocalAuthorityName": "Hammersmith and Fulham"
       },
       "geometry": {
@@ -2983,6 +3118,7 @@
         "AddressLine4": "",
         "PostCode": "KT1 1RB",
         "RatingValue": "5",
+        "RatingDate": "2023-11-07T00:00:00",
         "LocalAuthorityName": "Kingston-Upon-Thames"
       },
       "geometry": {
@@ -3005,6 +3141,7 @@
         "AddressLine4": "London",
         "PostCode": "EC2A 3QD",
         "RatingValue": "5",
+        "RatingDate": "2023-10-12T00:00:00",
         "LocalAuthorityName": "Hackney"
       },
       "geometry": {
@@ -3027,6 +3164,7 @@
         "AddressLine4": "",
         "PostCode": "SW15 1SU",
         "RatingValue": "5",
+        "RatingDate": "2024-02-28T00:00:00",
         "LocalAuthorityName": "Wandsworth"
       },
       "geometry": {
@@ -3049,6 +3187,7 @@
         "AddressLine4": "",
         "PostCode": "M3 3EB",
         "RatingValue": "5",
+        "RatingDate": "2024-01-29T00:00:00",
         "LocalAuthorityName": "Manchester"
       },
       "geometry": {
@@ -3071,6 +3210,7 @@
         "AddressLine4": "",
         "PostCode": "CR0 1LD",
         "RatingValue": "5",
+        "RatingDate": "2024-02-28T00:00:00",
         "LocalAuthorityName": "Croydon"
       },
       "geometry": {
@@ -3093,6 +3233,7 @@
         "AddressLine4": "",
         "PostCode": "NE1 7AG",
         "RatingValue": "5",
+        "RatingDate": "2024-03-04T00:00:00",
         "LocalAuthorityName": "Newcastle Upon Tyne"
       },
       "geometry": {
@@ -3115,6 +3256,7 @@
         "AddressLine4": "Belfast",
         "PostCode": "BT1 6JH",
         "RatingValue": "5",
+        "RatingDate": "2024-02-27T00:00:00",
         "LocalAuthorityName": "Belfast City"
       },
       "geometry": {
@@ -3137,6 +3279,7 @@
         "AddressLine4": "",
         "PostCode": "RM1 3RL",
         "RatingValue": "5",
+        "RatingDate": "2024-02-28T00:00:00",
         "LocalAuthorityName": "Havering"
       },
       "geometry": {
@@ -3159,6 +3302,7 @@
         "AddressLine4": "",
         "PostCode": "SW11 1PX",
         "RatingValue": "5",
+        "RatingDate": "2024-03-04T00:00:00",
         "LocalAuthorityName": "Wandsworth"
       },
       "geometry": {
@@ -3181,6 +3325,7 @@
         "AddressLine4": "Langley Green",
         "PostCode": "RH6 0NN",
         "RatingValue": "5",
+        "RatingDate": "2024-03-13T00:00:00",
         "LocalAuthorityName": "Crawley"
       },
       "geometry": {
@@ -3203,6 +3348,7 @@
         "AddressLine4": "",
         "PostCode": "CT1 2JL",
         "RatingValue": "5",
+        "RatingDate": "2023-12-12T00:00:00",
         "LocalAuthorityName": "Canterbury City"
       },
       "geometry": {
@@ -3225,6 +3371,7 @@
         "AddressLine4": "",
         "PostCode": "EC3A 7BX",
         "RatingValue": "5",
+        "RatingDate": "2023-12-12T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -3247,6 +3394,7 @@
         "AddressLine4": "",
         "PostCode": "SE1 7LY",
         "RatingValue": "5",
+        "RatingDate": "2023-11-12T00:00:00",
         "LocalAuthorityName": "Lambeth"
       },
       "geometry": {
@@ -3269,6 +3417,7 @@
         "AddressLine4": "",
         "PostCode": "M1 5EL",
         "RatingValue": "5",
+        "RatingDate": "2023-12-08T00:00:00",
         "LocalAuthorityName": "Manchester"
       },
       "geometry": {
@@ -3291,6 +3440,7 @@
         "AddressLine4": "Bristol",
         "PostCode": "BS8 1QE",
         "RatingValue": "5",
+        "RatingDate": "2023-11-13T00:00:00",
         "LocalAuthorityName": "Bristol"
       },
       "geometry": {
@@ -3313,6 +3463,7 @@
         "AddressLine4": "Gatwick",
         "PostCode": "RH6 0NP",
         "RatingValue": "5",
+        "RatingDate": "2023-12-05T00:00:00",
         "LocalAuthorityName": "Crawley"
       },
       "geometry": {
@@ -3335,6 +3486,7 @@
         "AddressLine4": "",
         "PostCode": "W14 0QH",
         "RatingValue": "5",
+        "RatingDate": "2024-01-04T00:00:00",
         "LocalAuthorityName": "Hammersmith and Fulham"
       },
       "geometry": {
@@ -3357,6 +3509,7 @@
         "AddressLine4": "London",
         "PostCode": "WC1X 8SL",
         "RatingValue": "5",
+        "RatingDate": "2024-01-10T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -3379,6 +3532,7 @@
         "AddressLine4": "",
         "PostCode": "PO19 1HS",
         "RatingValue": "5",
+        "RatingDate": "2024-01-15T00:00:00",
         "LocalAuthorityName": "Chichester"
       },
       "geometry": {
@@ -3401,6 +3555,7 @@
         "AddressLine4": "",
         "PostCode": "S9 1EH",
         "RatingValue": "5",
+        "RatingDate": "2024-01-16T00:00:00",
         "LocalAuthorityName": "Sheffield"
       },
       "geometry": {
@@ -3423,6 +3578,7 @@
         "AddressLine4": "",
         "PostCode": "TW18 4UP",
         "RatingValue": "5",
+        "RatingDate": "2024-01-12T00:00:00",
         "LocalAuthorityName": "Spelthorne"
       },
       "geometry": {
@@ -3445,6 +3601,7 @@
         "AddressLine4": "",
         "PostCode": "LS2 7AR",
         "RatingValue": "5",
+        "RatingDate": "2023-06-07T00:00:00",
         "LocalAuthorityName": "Leeds"
       },
       "geometry": {
@@ -3467,6 +3624,7 @@
         "AddressLine4": "London",
         "PostCode": "W12 7HT",
         "RatingValue": "5",
+        "RatingDate": "2024-01-31T00:00:00",
         "LocalAuthorityName": "Hammersmith and Fulham"
       },
       "geometry": {
@@ -3489,6 +3647,7 @@
         "AddressLine4": "",
         "PostCode": "YO19 4TA",
         "RatingValue": "5",
+        "RatingDate": "2023-11-28T00:00:00",
         "LocalAuthorityName": "York"
       },
       "geometry": {
@@ -3511,6 +3670,7 @@
         "AddressLine4": "Cheshire",
         "PostCode": "CH65 9LA",
         "RatingValue": "5",
+        "RatingDate": "2023-08-31T00:00:00",
         "LocalAuthorityName": "Cheshire West and Chester"
       },
       "geometry": {
@@ -3533,6 +3693,7 @@
         "AddressLine4": "",
         "PostCode": "SW7 4SS",
         "RatingValue": "5",
+        "RatingDate": "2023-09-29T00:00:00",
         "LocalAuthorityName": "Kensington and Chelsea"
       },
       "geometry": {
@@ -3555,6 +3716,7 @@
         "AddressLine4": "",
         "PostCode": "EC1A 2AT",
         "RatingValue": "5",
+        "RatingDate": "2023-10-09T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -3577,6 +3739,7 @@
         "AddressLine4": "",
         "PostCode": "ME14 1QG",
         "RatingValue": "5",
+        "RatingDate": "2023-10-11T00:00:00",
         "LocalAuthorityName": "Maidstone"
       },
       "geometry": {
@@ -3599,6 +3762,7 @@
         "AddressLine4": "",
         "PostCode": "WC1V 7EE",
         "RatingValue": "5",
+        "RatingDate": "2024-01-24T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -3621,6 +3785,7 @@
         "AddressLine4": "",
         "PostCode": "EC2M 5QD",
         "RatingValue": "5",
+        "RatingDate": "2024-02-14T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -3643,6 +3808,7 @@
         "AddressLine4": "",
         "PostCode": "L1 8BQ",
         "RatingValue": "5",
+        "RatingDate": "2020-12-07T00:00:00",
         "LocalAuthorityName": "Liverpool"
       },
       "geometry": {
@@ -3665,6 +3831,7 @@
         "AddressLine4": "London",
         "PostCode": "SE1 8XX",
         "RatingValue": "5",
+        "RatingDate": "2022-04-09T00:00:00",
         "LocalAuthorityName": "Lambeth"
       },
       "geometry": {
@@ -3687,6 +3854,7 @@
         "AddressLine4": "",
         "PostCode": "TW3 1HL",
         "RatingValue": "5",
+        "RatingDate": "2022-05-13T00:00:00",
         "LocalAuthorityName": "Hounslow"
       },
       "geometry": {
@@ -3709,6 +3877,7 @@
         "AddressLine4": "",
         "PostCode": "M90 1QX",
         "RatingValue": "5",
+        "RatingDate": "2022-04-12T00:00:00",
         "LocalAuthorityName": "Manchester"
       },
       "geometry": {
@@ -3731,6 +3900,7 @@
         "AddressLine4": "",
         "PostCode": "E14 9SH",
         "RatingValue": "5",
+        "RatingDate": "2022-06-17T00:00:00",
         "LocalAuthorityName": "Tower Hamlets"
       },
       "geometry": {
@@ -3753,6 +3923,7 @@
         "AddressLine4": "London",
         "PostCode": "W1T 7RB",
         "RatingValue": "5",
+        "RatingDate": "2022-08-22T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -3775,6 +3946,7 @@
         "AddressLine4": "Milton Keynes",
         "PostCode": "MK9 3AJ",
         "RatingValue": "5",
+        "RatingDate": "2022-10-27T00:00:00",
         "LocalAuthorityName": "Milton Keynes"
       },
       "geometry": {
@@ -3797,6 +3969,7 @@
         "AddressLine4": "",
         "PostCode": "WC1H 9LY",
         "RatingValue": "5",
+        "RatingDate": "2022-10-10T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -3819,6 +3992,7 @@
         "AddressLine4": "London",
         "PostCode": "EC1N 7RA",
         "RatingValue": "5",
+        "RatingDate": "2022-10-26T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -3841,6 +4015,7 @@
         "AddressLine4": "London",
         "PostCode": "E8 2JP",
         "RatingValue": "5",
+        "RatingDate": "2020-11-03T00:00:00",
         "LocalAuthorityName": "Hackney"
       },
       "geometry": {
@@ -3863,6 +4038,7 @@
         "AddressLine4": "London",
         "PostCode": "E1 6HU",
         "RatingValue": "5",
+        "RatingDate": "2022-10-20T00:00:00",
         "LocalAuthorityName": "Hackney"
       },
       "geometry": {
@@ -3885,6 +4061,7 @@
         "AddressLine4": "",
         "PostCode": "SE1 7HR",
         "RatingValue": "5",
+        "RatingDate": "2023-01-23T00:00:00",
         "LocalAuthorityName": "Lambeth"
       },
       "geometry": {
@@ -3907,6 +4084,7 @@
         "AddressLine4": "London",
         "PostCode": "WC1N 1BY",
         "RatingValue": "5",
+        "RatingDate": "2023-01-30T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -3929,6 +4107,7 @@
         "AddressLine4": "London",
         "PostCode": "W1T 2EY",
         "RatingValue": "5",
+        "RatingDate": "2023-01-30T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -3951,6 +4130,7 @@
         "AddressLine4": "",
         "PostCode": "OX2 7BY",
         "RatingValue": "5",
+        "RatingDate": "2023-02-08T00:00:00",
         "LocalAuthorityName": "Oxford City"
       },
       "geometry": {
@@ -3973,6 +4153,7 @@
         "AddressLine4": "Stratford",
         "PostCode": "E20 1ES",
         "RatingValue": "5",
+        "RatingDate": "2023-03-07T00:00:00",
         "LocalAuthorityName": "Newham"
       },
       "geometry": {
@@ -3995,6 +4176,7 @@
         "AddressLine4": "",
         "PostCode": "E1 8DA",
         "RatingValue": "5",
+        "RatingDate": "2022-12-16T00:00:00",
         "LocalAuthorityName": "Tower Hamlets"
       },
       "geometry": {
@@ -4017,6 +4199,7 @@
         "AddressLine4": "Oxford",
         "PostCode": "OX1 1HS",
         "RatingValue": "5",
+        "RatingDate": "2022-12-07T00:00:00",
         "LocalAuthorityName": "Oxford City"
       },
       "geometry": {
@@ -4039,6 +4222,7 @@
         "AddressLine4": "",
         "PostCode": "W6 0QA",
         "RatingValue": "5",
+        "RatingDate": "2022-11-24T00:00:00",
         "LocalAuthorityName": "Hammersmith and Fulham"
       },
       "geometry": {
@@ -4061,6 +4245,7 @@
         "AddressLine4": "",
         "PostCode": "W1T 5LL",
         "RatingValue": "5",
+        "RatingDate": "2023-01-17T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -4083,6 +4268,7 @@
         "AddressLine4": "London",
         "PostCode": "NW1 2SX",
         "RatingValue": "5",
+        "RatingDate": "2023-03-08T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -4105,6 +4291,7 @@
         "AddressLine4": "",
         "PostCode": "RH2 7AA",
         "RatingValue": "5",
+        "RatingDate": "2023-03-21T00:00:00",
         "LocalAuthorityName": "Reigate and Banstead"
       },
       "geometry": {
@@ -4127,6 +4314,7 @@
         "AddressLine4": "London",
         "PostCode": "NW1 0JH",
         "RatingValue": "5",
+        "RatingDate": "2023-03-01T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -4149,6 +4337,7 @@
         "AddressLine4": "",
         "PostCode": "B3 3NH",
         "RatingValue": "5",
+        "RatingDate": "2023-03-14T00:00:00",
         "LocalAuthorityName": "Birmingham"
       },
       "geometry": {
@@ -4171,6 +4360,7 @@
         "AddressLine4": "",
         "PostCode": "E2 7DG",
         "RatingValue": "5",
+        "RatingDate": "2023-04-06T00:00:00",
         "LocalAuthorityName": "Tower Hamlets"
       },
       "geometry": {
@@ -4193,6 +4383,7 @@
         "AddressLine4": "London",
         "PostCode": "NW3 6LP",
         "RatingValue": "5",
+        "RatingDate": "2023-03-21T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -4215,6 +4406,7 @@
         "AddressLine4": "Kendal",
         "PostCode": "LA8 9PY",
         "RatingValue": "5",
+        "RatingDate": "2023-04-14T00:00:00",
         "LocalAuthorityName": "Westmorland and Furness"
       },
       "geometry": {
@@ -4237,6 +4429,7 @@
         "AddressLine4": "",
         "PostCode": "SW5 9AA",
         "RatingValue": "5",
+        "RatingDate": "2023-04-04T00:00:00",
         "LocalAuthorityName": "Kensington and Chelsea"
       },
       "geometry": {
@@ -4259,6 +4452,7 @@
         "AddressLine4": "",
         "PostCode": "LS22 5GT",
         "RatingValue": "5",
+        "RatingDate": "2022-10-28T00:00:00",
         "LocalAuthorityName": "North Yorkshire"
       },
       "geometry": {
@@ -4281,6 +4475,7 @@
         "AddressLine4": "Hilton",
         "PostCode": "WV11 2AT",
         "RatingValue": "5",
+        "RatingDate": "2024-08-21T00:00:00",
         "LocalAuthorityName": "South Staffordshire"
       },
       "geometry": {
@@ -4303,6 +4498,7 @@
         "AddressLine4": "",
         "PostCode": "W8 5SF",
         "RatingValue": "5",
+        "RatingDate": "2024-09-26T00:00:00",
         "LocalAuthorityName": "Kensington and Chelsea"
       },
       "geometry": {
@@ -4325,6 +4521,7 @@
         "AddressLine4": "Southwaite",
         "PostCode": "CA4 0NT",
         "RatingValue": "5",
+        "RatingDate": "2024-07-24T00:00:00",
         "LocalAuthorityName": "Westmorland and Furness"
       },
       "geometry": {
@@ -4347,6 +4544,7 @@
         "AddressLine4": "Surrey",
         "PostCode": "KT11 3EB",
         "RatingValue": "5",
+        "RatingDate": "2024-04-16T00:00:00",
         "LocalAuthorityName": "Elmbridge"
       },
       "geometry": {
@@ -4369,6 +4567,7 @@
         "AddressLine4": "",
         "PostCode": "CM1 1BE",
         "RatingValue": "5",
+        "RatingDate": "2024-11-06T00:00:00",
         "LocalAuthorityName": "Chelmsford"
       },
       "geometry": {
@@ -4391,6 +4590,7 @@
         "AddressLine4": "",
         "PostCode": "TW9 1HY",
         "RatingValue": "5",
+        "RatingDate": "2024-11-12T00:00:00",
         "LocalAuthorityName": "Richmond-Upon-Thames"
       },
       "geometry": {
@@ -4413,6 +4613,7 @@
         "AddressLine4": "",
         "PostCode": "TN24 0DQ",
         "RatingValue": "5",
+        "RatingDate": "2023-11-23T00:00:00",
         "LocalAuthorityName": "Ashford"
       },
       "geometry": {
@@ -4435,6 +4636,7 @@
         "AddressLine4": "",
         "PostCode": "SO23 9BL",
         "RatingValue": "5",
+        "RatingDate": "2024-12-12T00:00:00",
         "LocalAuthorityName": "Winchester City"
       },
       "geometry": {
@@ -4457,6 +4659,7 @@
         "AddressLine4": "Herts",
         "PostCode": "SG1 5ES",
         "RatingValue": "5",
+        "RatingDate": "2024-12-17T00:00:00",
         "LocalAuthorityName": "Stevenage"
       },
       "geometry": {
@@ -4479,6 +4682,7 @@
         "AddressLine4": "",
         "PostCode": "GL50 1DF",
         "RatingValue": "5",
+        "RatingDate": "2023-05-09T00:00:00",
         "LocalAuthorityName": "Cheltenham"
       },
       "geometry": {
@@ -4501,6 +4705,7 @@
         "AddressLine4": "Portsmouth",
         "PostCode": "PO1 3TZ",
         "RatingValue": "5",
+        "RatingDate": "2017-11-14T00:00:00",
         "LocalAuthorityName": "Portsmouth"
       },
       "geometry": {
@@ -4523,6 +4728,7 @@
         "AddressLine4": "",
         "PostCode": "EC1A 9HF",
         "RatingValue": "5",
+        "RatingDate": "2023-05-18T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -4545,6 +4751,7 @@
         "AddressLine4": "Bristol",
         "PostCode": "BS7 8TX",
         "RatingValue": "5",
+        "RatingDate": "2023-05-22T00:00:00",
         "LocalAuthorityName": "Bristol"
       },
       "geometry": {
@@ -4567,6 +4774,7 @@
         "AddressLine4": "London",
         "PostCode": "N16 0PE",
         "RatingValue": "5",
+        "RatingDate": "2023-05-26T00:00:00",
         "LocalAuthorityName": "Hackney"
       },
       "geometry": {
@@ -4589,6 +4797,7 @@
         "AddressLine4": "",
         "PostCode": "CF10 1FS",
         "RatingValue": "5",
+        "RatingDate": "2023-04-06T00:00:00",
         "LocalAuthorityName": "Cardiff"
       },
       "geometry": {
@@ -4611,6 +4820,7 @@
         "AddressLine4": "",
         "PostCode": "W5 5DB",
         "RatingValue": "5",
+        "RatingDate": "2023-04-04T00:00:00",
         "LocalAuthorityName": "Ealing"
       },
       "geometry": {
@@ -4633,6 +4843,7 @@
         "AddressLine4": "",
         "PostCode": "KT6 4JU",
         "RatingValue": "5",
+        "RatingDate": "2023-04-26T00:00:00",
         "LocalAuthorityName": "Kingston-Upon-Thames"
       },
       "geometry": {
@@ -4655,6 +4866,7 @@
         "AddressLine4": "Hertfordshire",
         "PostCode": "EN6 3QQ",
         "RatingValue": "5",
+        "RatingDate": "2023-04-14T00:00:00",
         "LocalAuthorityName": "Hertsmere"
       },
       "geometry": {
@@ -4677,6 +4889,7 @@
         "AddressLine4": "",
         "PostCode": "EC3N 2LR",
         "RatingValue": "5",
+        "RatingDate": "2021-08-03T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -4699,6 +4912,7 @@
         "AddressLine4": "",
         "PostCode": "EC2N 1AR",
         "RatingValue": "5",
+        "RatingDate": "2022-03-09T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -4721,6 +4935,7 @@
         "AddressLine4": "",
         "PostCode": "EC2N 3AS",
         "RatingValue": "5",
+        "RatingDate": "2022-03-10T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -4743,6 +4958,7 @@
         "AddressLine4": "",
         "PostCode": "EC4A 2BH",
         "RatingValue": "5",
+        "RatingDate": "2022-06-28T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -4765,6 +4981,7 @@
         "AddressLine4": "",
         "PostCode": "EC2M 2AT",
         "RatingValue": "5",
+        "RatingDate": "2021-09-16T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -4787,6 +5004,7 @@
         "AddressLine4": "",
         "PostCode": "EC2M 7PD",
         "RatingValue": "5",
+        "RatingDate": "2022-02-23T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -4809,6 +5027,7 @@
         "AddressLine4": "",
         "PostCode": "EC2M 7LA",
         "RatingValue": "5",
+        "RatingDate": "2022-07-28T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -4831,6 +5050,7 @@
         "AddressLine4": "",
         "PostCode": "EC4N 1SA",
         "RatingValue": "5",
+        "RatingDate": "2022-05-18T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -4853,6 +5073,7 @@
         "AddressLine4": "",
         "PostCode": "EC2R 5BT",
         "RatingValue": "5",
+        "RatingDate": "2022-05-16T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -4875,6 +5096,7 @@
         "AddressLine4": "",
         "PostCode": "EC2V 7PG",
         "RatingValue": "5",
+        "RatingDate": "2022-05-18T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -4897,6 +5119,7 @@
         "AddressLine4": "",
         "PostCode": "EC4A 4AB",
         "RatingValue": "5",
+        "RatingDate": "2022-09-01T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -4919,6 +5142,7 @@
         "AddressLine4": "",
         "PostCode": "EC2V 7HR",
         "RatingValue": "5",
+        "RatingDate": "2022-08-17T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -4941,6 +5165,7 @@
         "AddressLine4": "",
         "PostCode": "EC1A 4HD",
         "RatingValue": "5",
+        "RatingDate": "2022-09-30T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -4963,6 +5188,7 @@
         "AddressLine4": "",
         "PostCode": "EC3N 1LH",
         "RatingValue": "5",
+        "RatingDate": "2022-09-16T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -4985,6 +5211,7 @@
         "AddressLine4": "",
         "PostCode": "EC3V 0AS",
         "RatingValue": "5",
+        "RatingDate": "2022-09-06T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -5007,6 +5234,7 @@
         "AddressLine4": "",
         "PostCode": "EC1N 2PB",
         "RatingValue": "5",
+        "RatingDate": "2022-11-09T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -5029,6 +5257,7 @@
         "AddressLine4": "",
         "PostCode": "EC4V 4BJ",
         "RatingValue": "5",
+        "RatingDate": "2023-01-09T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -5051,6 +5280,7 @@
         "AddressLine4": "",
         "PostCode": "EC4M 7AE",
         "RatingValue": "5",
+        "RatingDate": "2022-11-10T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -5073,6 +5303,7 @@
         "AddressLine4": "",
         "PostCode": "EC2M 6XQ",
         "RatingValue": "5",
+        "RatingDate": "2023-03-24T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -5095,6 +5326,7 @@
         "AddressLine4": "",
         "PostCode": "EC4R 9AN",
         "RatingValue": "5",
+        "RatingDate": "2023-04-04T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -5117,6 +5349,7 @@
         "AddressLine4": "",
         "PostCode": "EC3V 9AN",
         "RatingValue": "5",
+        "RatingDate": "2023-04-04T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -5139,6 +5372,7 @@
         "AddressLine4": "",
         "PostCode": "EC3R 5AA",
         "RatingValue": "5",
+        "RatingDate": "2023-04-11T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -5161,6 +5395,7 @@
         "AddressLine4": "",
         "PostCode": "EC2N 1BG",
         "RatingValue": "5",
+        "RatingDate": "2022-08-31T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -5183,6 +5418,7 @@
         "AddressLine4": "London",
         "PostCode": "W12 7GF",
         "RatingValue": "5",
+        "RatingDate": "2023-04-28T00:00:00",
         "LocalAuthorityName": "Hammersmith and Fulham"
       },
       "geometry": {
@@ -5205,6 +5441,7 @@
         "AddressLine4": "",
         "PostCode": "BR5 3RP",
         "RatingValue": "5",
+        "RatingDate": "2023-08-08T00:00:00",
         "LocalAuthorityName": "Bromley"
       },
       "geometry": {
@@ -5227,6 +5464,7 @@
         "AddressLine4": "",
         "PostCode": "CM23 3UH",
         "RatingValue": "5",
+        "RatingDate": "2023-08-08T00:00:00",
         "LocalAuthorityName": "East Hertfordshire"
       },
       "geometry": {
@@ -5249,6 +5487,7 @@
         "AddressLine4": "",
         "PostCode": "EC3R 6AH",
         "RatingValue": "5",
+        "RatingDate": "2023-07-28T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -5271,6 +5510,7 @@
         "AddressLine4": "Kingston Upon Thames",
         "PostCode": "KT1 1UJ",
         "RatingValue": "5",
+        "RatingDate": "2022-02-11T00:00:00",
         "LocalAuthorityName": "Kingston-Upon-Thames"
       },
       "geometry": {
@@ -5293,6 +5533,7 @@
         "AddressLine4": "",
         "PostCode": "CV4 7ES",
         "RatingValue": "5",
+        "RatingDate": "2022-05-23T00:00:00",
         "LocalAuthorityName": "Coventry"
       },
       "geometry": {
@@ -5315,6 +5556,7 @@
         "AddressLine4": "Bristol",
         "PostCode": "BS1 1PN",
         "RatingValue": "5",
+        "RatingDate": "2023-07-04T00:00:00",
         "LocalAuthorityName": "Bristol"
       },
       "geometry": {
@@ -5337,6 +5579,7 @@
         "AddressLine4": "",
         "PostCode": "M12 6JZ",
         "RatingValue": "5",
+        "RatingDate": "2023-06-06T00:00:00",
         "LocalAuthorityName": "Manchester"
       },
       "geometry": {
@@ -5359,6 +5602,7 @@
         "AddressLine4": "N1 9AB",
         "PostCode": "N1 9AB",
         "RatingValue": "5",
+        "RatingDate": "2022-09-07T00:00:00",
         "LocalAuthorityName": "Islington"
       },
       "geometry": {
@@ -5381,6 +5625,7 @@
         "AddressLine4": "N7 8FB",
         "PostCode": "N7 8FB",
         "RatingValue": "5",
+        "RatingDate": "2022-09-07T00:00:00",
         "LocalAuthorityName": "Islington"
       },
       "geometry": {
@@ -5403,6 +5648,7 @@
         "AddressLine4": "EC1Y 4AB",
         "PostCode": "EC1Y 4AB",
         "RatingValue": "5",
+        "RatingDate": "2022-09-06T00:00:00",
         "LocalAuthorityName": "Islington"
       },
       "geometry": {
@@ -5425,6 +5671,7 @@
         "AddressLine4": "",
         "PostCode": "SW3 1HY",
         "RatingValue": "5",
+        "RatingDate": "2023-07-19T00:00:00",
         "LocalAuthorityName": "Kensington and Chelsea"
       },
       "geometry": {
@@ -5447,6 +5694,7 @@
         "AddressLine4": "West Sussex",
         "PostCode": "BN11 3AX",
         "RatingValue": "5",
+        "RatingDate": "2023-06-26T00:00:00",
         "LocalAuthorityName": "Worthing"
       },
       "geometry": {
@@ -5469,6 +5717,7 @@
         "AddressLine4": "London",
         "PostCode": "SE1 9SE",
         "RatingValue": "5",
+        "RatingDate": "2023-06-30T00:00:00",
         "LocalAuthorityName": "Southwark"
       },
       "geometry": {
@@ -5491,6 +5740,7 @@
         "AddressLine4": "",
         "PostCode": "SW7 3HZ",
         "RatingValue": "5",
+        "RatingDate": "2023-06-27T00:00:00",
         "LocalAuthorityName": "Kensington and Chelsea"
       },
       "geometry": {
@@ -5513,6 +5763,7 @@
         "AddressLine4": "Braintree",
         "PostCode": "CM77 8YH",
         "RatingValue": "5",
+        "RatingDate": "2023-06-21T00:00:00",
         "LocalAuthorityName": "Braintree"
       },
       "geometry": {
@@ -5535,6 +5786,7 @@
         "AddressLine4": "",
         "PostCode": "LS2 8LX",
         "RatingValue": "5",
+        "RatingDate": "2023-06-27T00:00:00",
         "LocalAuthorityName": "Leeds"
       },
       "geometry": {
@@ -5557,6 +5809,7 @@
         "AddressLine4": "Bishops Stortford",
         "PostCode": "CM23 5QZ",
         "RatingValue": "5",
+        "RatingDate": "2023-07-05T00:00:00",
         "LocalAuthorityName": "Uttlesford"
       },
       "geometry": {
@@ -5579,6 +5832,7 @@
         "AddressLine4": "",
         "PostCode": "EC2V 6BJ",
         "RatingValue": "5",
+        "RatingDate": "2023-06-28T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -5601,6 +5855,7 @@
         "AddressLine4": "",
         "PostCode": "NW6 6JE",
         "RatingValue": "5",
+        "RatingDate": "2023-02-20T00:00:00",
         "LocalAuthorityName": "Brent"
       },
       "geometry": {
@@ -5623,6 +5878,7 @@
         "AddressLine4": "",
         "PostCode": "WC1V 6AN",
         "RatingValue": "5",
+        "RatingDate": "2022-11-24T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -5645,6 +5901,7 @@
         "AddressLine4": "",
         "PostCode": "SW10 9TN",
         "RatingValue": "5",
+        "RatingDate": "2023-01-09T00:00:00",
         "LocalAuthorityName": "Kensington and Chelsea"
       },
       "geometry": {
@@ -5667,6 +5924,7 @@
         "AddressLine4": "London",
         "PostCode": "SE1 9SP",
         "RatingValue": "5",
+        "RatingDate": "2023-06-30T00:00:00",
         "LocalAuthorityName": "Southwark"
       },
       "geometry": {
@@ -5689,6 +5947,7 @@
         "AddressLine4": "",
         "PostCode": "KT1 1JP",
         "RatingValue": "5",
+        "RatingDate": "2023-07-05T00:00:00",
         "LocalAuthorityName": "Kingston-Upon-Thames"
       },
       "geometry": {
@@ -5711,6 +5970,7 @@
         "AddressLine4": "Bristol",
         "PostCode": "BS1 6BY",
         "RatingValue": "5",
+        "RatingDate": "2023-08-04T00:00:00",
         "LocalAuthorityName": "Bristol"
       },
       "geometry": {
@@ -5733,6 +5993,7 @@
         "AddressLine4": "",
         "PostCode": "EC4A 1ES",
         "RatingValue": "5",
+        "RatingDate": "2023-08-17T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -5755,6 +6016,7 @@
         "AddressLine4": "Southampton",
         "PostCode": "SO17 1TW",
         "RatingValue": "5",
+        "RatingDate": "2019-10-16T00:00:00",
         "LocalAuthorityName": "Southampton"
       },
       "geometry": {
@@ -5777,6 +6039,7 @@
         "AddressLine4": "London",
         "PostCode": "NW1 2QL",
         "RatingValue": "5",
+        "RatingDate": "2019-11-14T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -5799,6 +6062,7 @@
         "AddressLine4": "London",
         "PostCode": "NW1 2QL",
         "RatingValue": "5",
+        "RatingDate": "2019-12-18T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -5821,6 +6085,7 @@
         "AddressLine4": "London",
         "PostCode": "EC1N 8JT",
         "RatingValue": "5",
+        "RatingDate": "2019-12-01T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -5843,6 +6108,7 @@
         "AddressLine4": "London",
         "PostCode": "SE1 9HA",
         "RatingValue": "5",
+        "RatingDate": "2020-02-03T00:00:00",
         "LocalAuthorityName": "Southwark"
       },
       "geometry": {
@@ -5865,6 +6131,7 @@
         "AddressLine4": "London",
         "PostCode": "SE1 2QN",
         "RatingValue": "5",
+        "RatingDate": "2020-02-04T00:00:00",
         "LocalAuthorityName": "Southwark"
       },
       "geometry": {
@@ -5887,6 +6154,7 @@
         "AddressLine4": "Cheshire",
         "PostCode": "CH1 2HA",
         "RatingValue": "5",
+        "RatingDate": "2020-02-08T00:00:00",
         "LocalAuthorityName": "Cheshire West and Chester"
       },
       "geometry": {
@@ -5909,6 +6177,7 @@
         "AddressLine4": "",
         "PostCode": "W6 9PA",
         "RatingValue": "5",
+        "RatingDate": "2021-05-05T00:00:00",
         "LocalAuthorityName": "Hammersmith and Fulham"
       },
       "geometry": {
@@ -5931,6 +6200,7 @@
         "AddressLine4": "Devon",
         "PostCode": "EX4 4SZ",
         "RatingValue": "5",
+        "RatingDate": "2019-03-01T00:00:00",
         "LocalAuthorityName": "Exeter City"
       },
       "geometry": {
@@ -5953,6 +6223,7 @@
         "AddressLine4": "",
         "PostCode": "M13 9GP",
         "RatingValue": "5",
+        "RatingDate": "2019-01-29T00:00:00",
         "LocalAuthorityName": "Manchester"
       },
       "geometry": {
@@ -5975,6 +6246,7 @@
         "AddressLine4": "London",
         "PostCode": "N1 9AP",
         "RatingValue": "5",
+        "RatingDate": "2021-09-02T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -5997,6 +6269,7 @@
         "AddressLine4": "",
         "PostCode": "N1 9AP",
         "RatingValue": "5",
+        "RatingDate": "2021-09-02T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -6019,6 +6292,7 @@
         "AddressLine4": "London",
         "PostCode": "NW3 2AJ",
         "RatingValue": "5",
+        "RatingDate": "2021-10-15T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -6041,6 +6315,7 @@
         "AddressLine4": "",
         "PostCode": "KT19 8DR",
         "RatingValue": "5",
+        "RatingDate": "2021-12-04T00:00:00",
         "LocalAuthorityName": "Epsom and Ewell"
       },
       "geometry": {
@@ -6063,6 +6338,7 @@
         "AddressLine4": "",
         "PostCode": "NW1 2RT",
         "RatingValue": "5",
+        "RatingDate": "2022-01-05T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -6085,6 +6361,7 @@
         "AddressLine4": "",
         "PostCode": "M1 1RG",
         "RatingValue": "5",
+        "RatingDate": "2021-04-13T00:00:00",
         "LocalAuthorityName": "Manchester"
       },
       "geometry": {
@@ -6107,6 +6384,7 @@
         "AddressLine4": "",
         "PostCode": "B1 2JB",
         "RatingValue": "5",
+        "RatingDate": "2021-10-06T00:00:00",
         "LocalAuthorityName": "Birmingham"
       },
       "geometry": {
@@ -6129,6 +6407,7 @@
         "AddressLine4": "Birmingham",
         "PostCode": "B5 4BU",
         "RatingValue": "5",
+        "RatingDate": "2019-10-21T00:00:00",
         "LocalAuthorityName": "Birmingham"
       },
       "geometry": {
@@ -6151,6 +6430,7 @@
         "AddressLine4": "London",
         "PostCode": "N1C 4AL",
         "RatingValue": "5",
+        "RatingDate": "2018-06-26T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -6173,6 +6453,7 @@
         "AddressLine4": "London",
         "PostCode": "NW1 7BU",
         "RatingValue": "5",
+        "RatingDate": "2019-06-12T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -6195,6 +6476,7 @@
         "AddressLine4": "London",
         "PostCode": "NW1 7JR",
         "RatingValue": "5",
+        "RatingDate": "2019-09-03T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -6217,6 +6499,7 @@
         "AddressLine4": "London",
         "PostCode": "NW5 2TJ",
         "RatingValue": "5",
+        "RatingDate": "2019-02-28T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -6239,6 +6522,7 @@
         "AddressLine4": "",
         "PostCode": "N1 9AL",
         "RatingValue": "5",
+        "RatingDate": "2018-06-26T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -6261,6 +6545,7 @@
         "AddressLine4": "",
         "PostCode": "LS1 4DT",
         "RatingValue": "5",
+        "RatingDate": "2021-07-14T00:00:00",
         "LocalAuthorityName": "Leeds"
       },
       "geometry": {
@@ -6283,6 +6568,7 @@
         "AddressLine4": "",
         "PostCode": "B91 3TA",
         "RatingValue": "5",
+        "RatingDate": "2023-09-01T00:00:00",
         "LocalAuthorityName": "Solihull"
       },
       "geometry": {
@@ -6305,6 +6591,7 @@
         "AddressLine4": "Crawley",
         "PostCode": "RH10 1ES",
         "RatingValue": "5",
+        "RatingDate": "2023-09-04T00:00:00",
         "LocalAuthorityName": "Crawley"
       },
       "geometry": {
@@ -6327,6 +6614,7 @@
         "AddressLine4": "Tottenham",
         "PostCode": "N15 4QD",
         "RatingValue": "5",
+        "RatingDate": "2023-08-18T00:00:00",
         "LocalAuthorityName": "Haringey"
       },
       "geometry": {
@@ -6349,6 +6637,7 @@
         "AddressLine4": "",
         "PostCode": "M90 3FE",
         "RatingValue": "5",
+        "RatingDate": "2023-08-02T00:00:00",
         "LocalAuthorityName": "Manchester"
       },
       "geometry": {
@@ -6371,6 +6660,7 @@
         "AddressLine4": "",
         "PostCode": "EC3M 5AD",
         "RatingValue": "5",
+        "RatingDate": "2023-09-13T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -6393,6 +6683,7 @@
         "AddressLine4": "London",
         "PostCode": "SW11 1RU",
         "RatingValue": "5",
+        "RatingDate": "2023-09-25T00:00:00",
         "LocalAuthorityName": "Wandsworth"
       },
       "geometry": {
@@ -6415,6 +6706,7 @@
         "AddressLine4": "London",
         "PostCode": "NW1 3AX",
         "RatingValue": "5",
+        "RatingDate": "2023-10-23T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -6437,6 +6729,7 @@
         "AddressLine4": "",
         "PostCode": "BN1 1HL",
         "RatingValue": "5",
+        "RatingDate": "2023-11-23T00:00:00",
         "LocalAuthorityName": "Brighton and Hove"
       },
       "geometry": {
@@ -6459,6 +6752,7 @@
         "AddressLine4": "",
         "PostCode": "BN1 1ZA",
         "RatingValue": "5",
+        "RatingDate": "2023-11-17T00:00:00",
         "LocalAuthorityName": "Brighton and Hove"
       },
       "geometry": {
@@ -6481,6 +6775,7 @@
         "AddressLine4": "",
         "PostCode": "SE10 9EJ",
         "RatingValue": "5",
+        "RatingDate": "2023-10-13T00:00:00",
         "LocalAuthorityName": "Greenwich"
       },
       "geometry": {
@@ -6503,6 +6798,7 @@
         "AddressLine4": "",
         "PostCode": "TN1 1QR",
         "RatingValue": "5",
+        "RatingDate": "2023-10-30T00:00:00",
         "LocalAuthorityName": "Tunbridge Wells"
       },
       "geometry": {
@@ -6525,6 +6821,7 @@
         "AddressLine4": "London",
         "PostCode": "WC2A 1DD",
         "RatingValue": "5",
+        "RatingDate": "2022-10-27T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -6547,6 +6844,7 @@
         "AddressLine4": "South Gloucestershire",
         "PostCode": "BS34 5DG",
         "RatingValue": "5",
+        "RatingDate": "2023-11-10T00:00:00",
         "LocalAuthorityName": "South Gloucestershire"
       },
       "geometry": {
@@ -6569,6 +6867,7 @@
         "AddressLine4": "West Thurrock",
         "PostCode": "RM20 2ZF",
         "RatingValue": "5",
+        "RatingDate": "2023-10-28T00:00:00",
         "LocalAuthorityName": "Thurrock"
       },
       "geometry": {
@@ -6591,6 +6890,7 @@
         "AddressLine4": "",
         "PostCode": "SW18 4TF",
         "RatingValue": "5",
+        "RatingDate": "2023-08-14T00:00:00",
         "LocalAuthorityName": "Wandsworth"
       },
       "geometry": {
@@ -6613,6 +6913,7 @@
         "AddressLine4": "London",
         "PostCode": "W1T 4TT",
         "RatingValue": "5",
+        "RatingDate": "2023-08-31T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -6635,6 +6936,7 @@
         "AddressLine4": "",
         "PostCode": "B2 4EG",
         "RatingValue": "5",
+        "RatingDate": "2016-07-07T00:00:00",
         "LocalAuthorityName": "Birmingham"
       },
       "geometry": {
@@ -6657,6 +6959,7 @@
         "AddressLine4": "",
         "PostCode": "M4 3AQ",
         "RatingValue": "5",
+        "RatingDate": "2023-07-12T00:00:00",
         "LocalAuthorityName": "Manchester"
       },
       "geometry": {
@@ -6679,6 +6982,7 @@
         "AddressLine4": "",
         "PostCode": "EC3M 4AD",
         "RatingValue": "5",
+        "RatingDate": "2023-09-27T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -6701,6 +7005,7 @@
         "AddressLine4": "",
         "PostCode": "WC1V 7PU",
         "RatingValue": "5",
+        "RatingDate": "2023-06-09T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -6723,6 +7028,7 @@
         "AddressLine4": "",
         "PostCode": "W4 5TL",
         "RatingValue": "5",
+        "RatingDate": "2023-04-18T00:00:00",
         "LocalAuthorityName": "Hounslow"
       },
       "geometry": {
@@ -6745,6 +7051,7 @@
         "AddressLine4": "",
         "PostCode": "W4 5YA",
         "RatingValue": "5",
+        "RatingDate": "2023-04-19T00:00:00",
         "LocalAuthorityName": "Hounslow"
       },
       "geometry": {
@@ -6767,6 +7074,7 @@
         "AddressLine4": "",
         "PostCode": "EC4M 9DJ",
         "RatingValue": "5",
+        "RatingDate": "2023-03-24T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -6789,6 +7097,7 @@
         "AddressLine4": "",
         "PostCode": "E1 6BF",
         "RatingValue": "5",
+        "RatingDate": "2024-11-05T00:00:00",
         "LocalAuthorityName": "Tower Hamlets"
       },
       "geometry": {
@@ -6811,6 +7120,7 @@
         "AddressLine4": "",
         "PostCode": "SW17 9PA",
         "RatingValue": "5",
+        "RatingDate": "2024-12-13T00:00:00",
         "LocalAuthorityName": "Wandsworth"
       },
       "geometry": {
@@ -6833,6 +7143,7 @@
         "AddressLine4": "",
         "PostCode": "NW1 6JJ",
         "RatingValue": "5",
+        "RatingDate": "2025-01-04T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -6855,6 +7166,7 @@
         "AddressLine4": "",
         "PostCode": "CV37 6EY",
         "RatingValue": "5",
+        "RatingDate": "2024-12-10T00:00:00",
         "LocalAuthorityName": "Stratford-on-Avon"
       },
       "geometry": {
@@ -6877,6 +7189,7 @@
         "AddressLine4": "",
         "PostCode": "N10 3RS",
         "RatingValue": "5",
+        "RatingDate": "2024-12-06T00:00:00",
         "LocalAuthorityName": "Haringey"
       },
       "geometry": {
@@ -6899,6 +7212,7 @@
         "AddressLine4": "",
         "PostCode": "L2 9UJ",
         "RatingValue": "5",
+        "RatingDate": "2019-05-02T00:00:00",
         "LocalAuthorityName": "Liverpool"
       },
       "geometry": {
@@ -6921,6 +7235,7 @@
         "AddressLine4": "",
         "PostCode": "L3 9QT",
         "RatingValue": "5",
+        "RatingDate": "2018-06-25T00:00:00",
         "LocalAuthorityName": "Liverpool"
       },
       "geometry": {
@@ -6943,6 +7258,7 @@
         "AddressLine4": "",
         "PostCode": "E14 9GE",
         "RatingValue": "5",
+        "RatingDate": "2023-12-13T00:00:00",
         "LocalAuthorityName": "Tower Hamlets"
       },
       "geometry": {
@@ -6965,6 +7281,7 @@
         "AddressLine4": "",
         "PostCode": "KT13 8ED",
         "RatingValue": "5",
+        "RatingDate": "2023-11-22T00:00:00",
         "LocalAuthorityName": "Elmbridge"
       },
       "geometry": {
@@ -6987,6 +7304,7 @@
         "AddressLine4": "Gloucester",
         "PostCode": "GL1 5SH",
         "RatingValue": "5",
+        "RatingDate": "2025-01-09T00:00:00",
         "LocalAuthorityName": "Gloucester City"
       },
       "geometry": {
@@ -7009,6 +7327,7 @@
         "AddressLine4": "Luton",
         "PostCode": "LU2 9LY",
         "RatingValue": "5",
+        "RatingDate": "2023-06-21T00:00:00",
         "LocalAuthorityName": "Luton"
       },
       "geometry": {
@@ -7031,6 +7350,7 @@
         "AddressLine4": "London",
         "PostCode": "N17 9NA",
         "RatingValue": "5",
+        "RatingDate": "2022-10-31T00:00:00",
         "LocalAuthorityName": "Haringey"
       },
       "geometry": {
@@ -7053,6 +7373,7 @@
         "AddressLine4": "",
         "PostCode": "WC2E 9JD",
         "RatingValue": "5",
+        "RatingDate": "2025-01-11T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -7075,6 +7396,7 @@
         "AddressLine4": "Stratford",
         "PostCode": "E15 1DE",
         "RatingValue": "5",
+        "RatingDate": "2025-01-01T00:00:00",
         "LocalAuthorityName": "Newham"
       },
       "geometry": {
@@ -7097,6 +7419,7 @@
         "AddressLine4": "",
         "PostCode": "RH12 1PB",
         "RatingValue": "5",
+        "RatingDate": "2024-11-05T00:00:00",
         "LocalAuthorityName": "Horsham"
       },
       "geometry": {
@@ -7119,6 +7442,7 @@
         "AddressLine4": "",
         "PostCode": "HG1 1RF",
         "RatingValue": "5",
+        "RatingDate": "2025-01-09T00:00:00",
         "LocalAuthorityName": "North Yorkshire"
       },
       "geometry": {
@@ -7141,6 +7465,7 @@
         "AddressLine4": "",
         "PostCode": "W1B 5EA",
         "RatingValue": "4",
+        "RatingDate": "2024-02-04T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -7163,6 +7488,7 @@
         "AddressLine4": "",
         "PostCode": "W2 1RH",
         "RatingValue": "4",
+        "RatingDate": "2024-01-10T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -7185,6 +7511,7 @@
         "AddressLine4": "",
         "PostCode": "WC2B 6UF",
         "RatingValue": "4",
+        "RatingDate": "2024-04-02T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -7207,6 +7534,7 @@
         "AddressLine4": "EC1Y 8NX",
         "PostCode": "EC1Y 8NX",
         "RatingValue": "4",
+        "RatingDate": "2024-08-21T00:00:00",
         "LocalAuthorityName": "Islington"
       },
       "geometry": {
@@ -7229,6 +7557,7 @@
         "AddressLine4": "London",
         "PostCode": "EC1M 5QP",
         "RatingValue": "4",
+        "RatingDate": "2024-08-21T00:00:00",
         "LocalAuthorityName": "Islington"
       },
       "geometry": {
@@ -7251,6 +7580,7 @@
         "AddressLine4": "EC1R 4QD",
         "PostCode": "EC1R 4QD",
         "RatingValue": "4",
+        "RatingDate": "2024-08-21T00:00:00",
         "LocalAuthorityName": "Islington"
       },
       "geometry": {
@@ -7273,6 +7603,7 @@
         "AddressLine4": "London",
         "PostCode": "N1 9LH",
         "RatingValue": "4",
+        "RatingDate": "2024-08-21T00:00:00",
         "LocalAuthorityName": "Islington"
       },
       "geometry": {
@@ -7295,6 +7626,7 @@
         "AddressLine4": "",
         "PostCode": "E1W 1YN",
         "RatingValue": "4",
+        "RatingDate": "2024-11-05T00:00:00",
         "LocalAuthorityName": "Tower Hamlets"
       },
       "geometry": {
@@ -7317,6 +7649,7 @@
         "AddressLine4": "",
         "PostCode": "SW1W 9TP",
         "RatingValue": "4",
+        "RatingDate": "2023-10-16T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -7339,6 +7672,7 @@
         "AddressLine4": "",
         "PostCode": "W1T 1HN",
         "RatingValue": "4",
+        "RatingDate": "2024-03-13T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -7361,6 +7695,7 @@
         "AddressLine4": "",
         "PostCode": "SW1V 1JZ",
         "RatingValue": "4",
+        "RatingDate": "2024-03-25T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -7383,6 +7718,7 @@
         "AddressLine4": "London",
         "PostCode": "EC1M 4AA",
         "RatingValue": "4",
+        "RatingDate": "2024-04-08T00:00:00",
         "LocalAuthorityName": "Islington"
       },
       "geometry": {
@@ -7405,6 +7741,7 @@
         "AddressLine4": "Bath",
         "PostCode": "BA1 1QL",
         "RatingValue": "4",
+        "RatingDate": "2024-06-18T00:00:00",
         "LocalAuthorityName": "Bath and North East Somerset"
       },
       "geometry": {
@@ -7427,6 +7764,7 @@
         "AddressLine4": "",
         "PostCode": "W1S 2GD",
         "RatingValue": "4",
+        "RatingDate": "2024-06-10T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -7449,6 +7787,7 @@
         "AddressLine4": "London",
         "PostCode": "N4 3JU",
         "RatingValue": "4",
+        "RatingDate": "2024-06-11T00:00:00",
         "LocalAuthorityName": "Islington"
       },
       "geometry": {
@@ -7471,6 +7810,7 @@
         "AddressLine4": "",
         "PostCode": "SP1 2AA",
         "RatingValue": "4",
+        "RatingDate": "2024-06-11T00:00:00",
         "LocalAuthorityName": "Wiltshire"
       },
       "geometry": {
@@ -7493,6 +7833,7 @@
         "AddressLine4": "London",
         "PostCode": "WC1A 1EU",
         "RatingValue": "4",
+        "RatingDate": "2024-01-13T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -7515,6 +7856,7 @@
         "AddressLine4": "",
         "PostCode": "WC2H 9HN",
         "RatingValue": "4",
+        "RatingDate": "2023-10-21T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -7537,6 +7879,7 @@
         "AddressLine4": "London",
         "PostCode": "WC1X 8AL",
         "RatingValue": "4",
+        "RatingDate": "2022-01-19T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -7559,6 +7902,7 @@
         "AddressLine4": "London",
         "PostCode": "E1 6JE",
         "RatingValue": "4",
+        "RatingDate": "2021-11-02T00:00:00",
         "LocalAuthorityName": "Hackney"
       },
       "geometry": {
@@ -7581,6 +7925,7 @@
         "AddressLine4": "",
         "PostCode": "W2 1DL",
         "RatingValue": "4",
+        "RatingDate": "2024-10-02T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -7603,6 +7948,7 @@
         "AddressLine4": "London",
         "PostCode": "SW6 1BW",
         "RatingValue": "4",
+        "RatingDate": "2023-04-28T00:00:00",
         "LocalAuthorityName": "Hammersmith and Fulham"
       },
       "geometry": {
@@ -7625,6 +7971,7 @@
         "AddressLine4": "",
         "PostCode": "CV35 0AA",
         "RatingValue": "4",
+        "RatingDate": "2023-07-19T00:00:00",
         "LocalAuthorityName": "Stratford-on-Avon"
       },
       "geometry": {
@@ -7647,6 +7994,7 @@
         "AddressLine4": "",
         "PostCode": "NR2 1QD",
         "RatingValue": "4",
+        "RatingDate": "2023-10-21T00:00:00",
         "LocalAuthorityName": "Norwich City"
       },
       "geometry": {
@@ -7669,6 +8017,7 @@
         "AddressLine4": "",
         "PostCode": "W2 1HB",
         "RatingValue": "3",
+        "RatingDate": "2023-09-27T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -7691,6 +8040,7 @@
         "AddressLine4": "",
         "PostCode": "W1U 6TU",
         "RatingValue": "3",
+        "RatingDate": "2023-11-22T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -7713,6 +8063,7 @@
         "AddressLine4": "",
         "PostCode": "OX1 3EY",
         "RatingValue": "3",
+        "RatingDate": "2024-01-31T00:00:00",
         "LocalAuthorityName": "Oxford City"
       },
       "geometry": {
@@ -7735,6 +8086,7 @@
         "AddressLine4": "Heathrow Airport",
         "PostCode": "TW6 1QG",
         "RatingValue": "3",
+        "RatingDate": "2023-10-31T00:00:00",
         "LocalAuthorityName": "Hillingdon"
       },
       "geometry": {
@@ -7757,6 +8109,7 @@
         "AddressLine4": "",
         "PostCode": "WC2N 4AA",
         "RatingValue": "2",
+        "RatingDate": "2023-10-25T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -7779,6 +8132,7 @@
         "AddressLine4": "Birmingham",
         "PostCode": "B2 4QE",
         "RatingValue": "2",
+        "RatingDate": "2024-01-17T00:00:00",
         "LocalAuthorityName": "Birmingham"
       },
       "geometry": {
@@ -7801,6 +8155,7 @@
         "AddressLine4": "",
         "PostCode": "G2 6TS",
         "RatingValue": "Pass and Eat Safe",
+        "RatingDate": "2010-09-14T00:00:00",
         "LocalAuthorityName": "Glasgow City"
       },
       "geometry": {
@@ -7823,6 +8178,7 @@
         "AddressLine4": "",
         "PostCode": "KY16 9NX",
         "RatingValue": "Pass and Eat Safe",
+        "RatingDate": "2015-01-06T00:00:00",
         "LocalAuthorityName": "Fife"
       },
       "geometry": {
@@ -7845,6 +8201,7 @@
         "AddressLine4": "",
         "PostCode": "EH12 9DN",
         "RatingValue": "Pass",
+        "RatingDate": "2018-11-29T00:00:00",
         "LocalAuthorityName": "Edinburgh (City of)"
       },
       "geometry": {
@@ -7867,6 +8224,7 @@
         "AddressLine4": "",
         "PostCode": "EH3 9BE",
         "RatingValue": "Pass",
+        "RatingDate": "2019-04-02T00:00:00",
         "LocalAuthorityName": "Edinburgh (City of)"
       },
       "geometry": {
@@ -7889,6 +8247,7 @@
         "AddressLine4": "",
         "PostCode": "EH2 4BL",
         "RatingValue": "Pass",
+        "RatingDate": "2018-04-17T00:00:00",
         "LocalAuthorityName": "Edinburgh (City of)"
       },
       "geometry": {
@@ -7911,6 +8270,7 @@
         "AddressLine4": "",
         "PostCode": "EH1 1QG",
         "RatingValue": "Pass",
+        "RatingDate": "2019-07-31T00:00:00",
         "LocalAuthorityName": "Edinburgh (City of)"
       },
       "geometry": {
@@ -7933,6 +8293,7 @@
         "AddressLine4": "",
         "PostCode": "G1 3BS",
         "RatingValue": "Pass",
+        "RatingDate": "2013-09-06T00:00:00",
         "LocalAuthorityName": "Glasgow City"
       },
       "geometry": {
@@ -7955,6 +8316,7 @@
         "AddressLine4": "",
         "PostCode": "G1 3SQ",
         "RatingValue": "Pass",
+        "RatingDate": "2018-09-17T00:00:00",
         "LocalAuthorityName": "Glasgow City"
       },
       "geometry": {
@@ -7977,6 +8339,7 @@
         "AddressLine4": "",
         "PostCode": "G12 8SH",
         "RatingValue": "Pass",
+        "RatingDate": "2019-03-06T00:00:00",
         "LocalAuthorityName": "Glasgow City"
       },
       "geometry": {
@@ -7999,6 +8362,7 @@
         "AddressLine4": "",
         "PostCode": "G34 9DY",
         "RatingValue": "Pass",
+        "RatingDate": "2019-10-17T00:00:00",
         "LocalAuthorityName": "Glasgow City"
       },
       "geometry": {
@@ -8021,6 +8385,7 @@
         "AddressLine4": "",
         "PostCode": "EH2 2PJ",
         "RatingValue": "Pass",
+        "RatingDate": "2022-11-15T00:00:00",
         "LocalAuthorityName": "Edinburgh (City of)"
       },
       "geometry": {
@@ -8043,6 +8408,7 @@
         "AddressLine4": "",
         "PostCode": "EH2 3DN",
         "RatingValue": "Pass",
+        "RatingDate": "2023-05-30T00:00:00",
         "LocalAuthorityName": "Edinburgh (City of)"
       },
       "geometry": {
@@ -8065,6 +8431,7 @@
         "AddressLine4": "",
         "PostCode": "EH12 9DN",
         "RatingValue": "Pass",
+        "RatingDate": "2023-07-20T00:00:00",
         "LocalAuthorityName": "Edinburgh (City of)"
       },
       "geometry": {
@@ -8087,6 +8454,7 @@
         "AddressLine4": "",
         "PostCode": "EH12 9DN",
         "RatingValue": "Pass",
+        "RatingDate": "2023-07-20T00:00:00",
         "LocalAuthorityName": "Edinburgh (City of)"
       },
       "geometry": {
@@ -8109,6 +8477,7 @@
         "AddressLine4": "",
         "PostCode": "AB10 1TL",
         "RatingValue": "Pass",
+        "RatingDate": "2019-10-10T00:00:00",
         "LocalAuthorityName": "Aberdeen City"
       },
       "geometry": {
@@ -8131,6 +8500,7 @@
         "AddressLine4": "",
         "PostCode": "G1 3PL",
         "RatingValue": "Pass",
+        "RatingDate": "2020-03-13T00:00:00",
         "LocalAuthorityName": "Glasgow City"
       },
       "geometry": {
@@ -8153,6 +8523,7 @@
         "AddressLine4": "",
         "PostCode": "EH10 4ES",
         "RatingValue": "Pass",
+        "RatingDate": "2024-12-04T00:00:00",
         "LocalAuthorityName": "Edinburgh (City of)"
       },
       "geometry": {
@@ -8175,6 +8546,7 @@
         "AddressLine4": "",
         "PostCode": "EH1 1BB",
         "RatingValue": "Pass",
+        "RatingDate": "2019-11-13T00:00:00",
         "LocalAuthorityName": "Edinburgh (City of)"
       },
       "geometry": {
@@ -8197,6 +8569,7 @@
         "AddressLine4": "",
         "PostCode": "AB25 1HJ",
         "RatingValue": "Pass",
+        "RatingDate": "2019-09-25T00:00:00",
         "LocalAuthorityName": "Aberdeen City"
       },
       "geometry": {
@@ -8219,6 +8592,7 @@
         "AddressLine4": "",
         "PostCode": "SW6 4HH",
         "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
         "LocalAuthorityName": "Hammersmith and Fulham"
       },
       "geometry": {
@@ -8241,6 +8615,7 @@
         "AddressLine4": "",
         "PostCode": "BN21 3AN",
         "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
         "LocalAuthorityName": "Eastbourne"
       },
       "geometry": {
@@ -8263,6 +8638,7 @@
         "AddressLine4": "",
         "PostCode": "NW4 3FZ",
         "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
         "LocalAuthorityName": "Barnet"
       },
       "geometry": {
@@ -8285,6 +8661,7 @@
         "AddressLine4": "",
         "PostCode": "RG1 1LY",
         "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
         "LocalAuthorityName": "Reading"
       },
       "geometry": {
@@ -8307,6 +8684,7 @@
         "AddressLine4": "",
         "PostCode": "N9 0TY",
         "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
         "LocalAuthorityName": "Enfield"
       },
       "geometry": {
@@ -8329,6 +8707,7 @@
         "AddressLine4": "",
         "PostCode": "",
         "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
         "LocalAuthorityName": "North Northamptonshire"
       },
       "geometry": {
@@ -8351,6 +8730,7 @@
         "AddressLine4": "",
         "PostCode": "SW1Y 4PE",
         "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -8373,6 +8753,7 @@
         "AddressLine4": "",
         "PostCode": "EH7 4FQ",
         "RatingValue": "Awaiting Inspection",
+        "RatingDate": "2024-07-26T00:00:00",
         "LocalAuthorityName": "Edinburgh (City of)"
       },
       "geometry": {
@@ -8395,6 +8776,7 @@
         "AddressLine4": "",
         "PostCode": "SM1 1EX",
         "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
         "LocalAuthorityName": "Sutton"
       },
       "geometry": {
@@ -8417,6 +8799,7 @@
         "AddressLine4": "Essex",
         "PostCode": "CO1 1LX",
         "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
         "LocalAuthorityName": "Colchester"
       },
       "geometry": {
@@ -8439,6 +8822,7 @@
         "AddressLine4": "Oxon",
         "PostCode": "RG9 2AH",
         "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
         "LocalAuthorityName": "South Oxfordshire"
       },
       "geometry": {
@@ -8461,6 +8845,7 @@
         "AddressLine4": "",
         "PostCode": "S9 1EL",
         "RatingValue": "5",
+        "RatingDate": "2024-10-10T00:00:00",
         "LocalAuthorityName": "Sheffield"
       },
       "geometry": {
@@ -8483,6 +8868,7 @@
         "AddressLine4": "London",
         "PostCode": "WC1V 7DN",
         "RatingValue": "5",
+        "RatingDate": "2022-11-24T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -8505,6 +8891,7 @@
         "AddressLine4": "Fleet",
         "PostCode": "GU51 1AA",
         "RatingValue": "5",
+        "RatingDate": "2024-04-22T00:00:00",
         "LocalAuthorityName": "Hart"
       },
       "geometry": {
@@ -8527,6 +8914,7 @@
         "AddressLine4": "Fleet",
         "PostCode": "GU51 1AA",
         "RatingValue": "5",
+        "RatingDate": "2023-07-17T00:00:00",
         "LocalAuthorityName": "Hart"
       },
       "geometry": {
@@ -8549,6 +8937,7 @@
         "AddressLine4": "",
         "PostCode": "W5 5DB",
         "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
         "LocalAuthorityName": "Ealing"
       },
       "geometry": {
@@ -8571,6 +8960,7 @@
         "AddressLine4": "",
         "PostCode": "HA1 1JX",
         "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
         "LocalAuthorityName": "Harrow"
       },
       "geometry": {
@@ -8593,6 +8983,7 @@
         "AddressLine4": "Uxbridge",
         "PostCode": "UB8 1JP",
         "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
         "LocalAuthorityName": "Hillingdon"
       },
       "geometry": {
@@ -8615,6 +9006,7 @@
         "AddressLine4": "",
         "PostCode": "E14 5AH",
         "RatingValue": "5",
+        "RatingDate": "2023-06-16T00:00:00",
         "LocalAuthorityName": "Tower Hamlets"
       },
       "geometry": {
@@ -8637,6 +9029,7 @@
         "AddressLine4": "",
         "PostCode": "SW1W 9SJ",
         "RatingValue": "4",
+        "RatingDate": "2024-04-17T00:00:00",
         "LocalAuthorityName": "Westminster"
       },
       "geometry": {
@@ -8659,6 +9052,7 @@
         "AddressLine4": "",
         "PostCode": "W10 5NE",
         "RatingValue": "5",
+        "RatingDate": "2023-11-20T00:00:00",
         "LocalAuthorityName": "Kensington and Chelsea"
       },
       "geometry": {
@@ -8681,6 +9075,7 @@
         "AddressLine4": "",
         "PostCode": "CM24 1RW",
         "RatingValue": "5",
+        "RatingDate": "2024-02-16T00:00:00",
         "LocalAuthorityName": "Uttlesford"
       },
       "geometry": {
@@ -8703,6 +9098,7 @@
         "AddressLine4": "",
         "PostCode": "CM24 1RW",
         "RatingValue": "5",
+        "RatingDate": "2024-02-16T00:00:00",
         "LocalAuthorityName": "Uttlesford"
       },
       "geometry": {
@@ -8725,6 +9121,7 @@
         "AddressLine4": "",
         "PostCode": "LS1 2JP",
         "RatingValue": "5",
+        "RatingDate": "2020-02-17T00:00:00",
         "LocalAuthorityName": "Leeds"
       },
       "geometry": {
@@ -8747,6 +9144,7 @@
         "AddressLine4": "London Heathrow Airport",
         "PostCode": "TW6 2GA",
         "RatingValue": "5",
+        "RatingDate": "2023-12-19T00:00:00",
         "LocalAuthorityName": "Hillingdon"
       },
       "geometry": {
@@ -8769,6 +9167,7 @@
         "AddressLine4": "London Heathrow Airport",
         "PostCode": "TW6 2GA",
         "RatingValue": "5",
+        "RatingDate": "2023-05-11T00:00:00",
         "LocalAuthorityName": "Hillingdon"
       },
       "geometry": {
@@ -8791,6 +9190,7 @@
         "AddressLine4": "",
         "PostCode": "EC4M 7DY",
         "RatingValue": "5",
+        "RatingDate": "2023-06-15T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -8813,6 +9213,7 @@
         "AddressLine4": "Oxfordshire",
         "PostCode": "OX3 9DU",
         "RatingValue": "5",
+        "RatingDate": "2024-12-03T00:00:00",
         "LocalAuthorityName": "Oxford City"
       },
       "geometry": {
@@ -8835,6 +9236,7 @@
         "AddressLine4": "Birmingham Airport",
         "PostCode": "B26 3QY",
         "RatingValue": "5",
+        "RatingDate": "2023-09-11T00:00:00",
         "LocalAuthorityName": "Solihull"
       },
       "geometry": {
@@ -8857,6 +9259,7 @@
         "AddressLine4": "",
         "PostCode": "LS1 6AW",
         "RatingValue": "5",
+        "RatingDate": "2024-06-19T00:00:00",
         "LocalAuthorityName": "Leeds"
       },
       "geometry": {
@@ -8879,6 +9282,7 @@
         "AddressLine4": "London Heathrow Airport",
         "PostCode": "TW6 3XA",
         "RatingValue": "5",
+        "RatingDate": "2023-10-17T00:00:00",
         "LocalAuthorityName": "Hillingdon"
       },
       "geometry": {
@@ -8901,6 +9305,7 @@
         "AddressLine4": "Austhorpe",
         "PostCode": "LS15 8GG",
         "RatingValue": "5",
+        "RatingDate": "2023-07-10T00:00:00",
         "LocalAuthorityName": "Leeds"
       },
       "geometry": {
@@ -8923,6 +9328,7 @@
         "AddressLine4": "London",
         "PostCode": "NW1 3BY",
         "RatingValue": "5",
+        "RatingDate": "2024-03-05T00:00:00",
         "LocalAuthorityName": "Camden"
       },
       "geometry": {
@@ -8945,6 +9351,7 @@
         "AddressLine4": "",
         "PostCode": "LS1 4AP",
         "RatingValue": "5",
+        "RatingDate": "2024-07-18T00:00:00",
         "LocalAuthorityName": "Leeds"
       },
       "geometry": {
@@ -8967,6 +9374,7 @@
         "AddressLine4": "Manchester",
         "PostCode": "M17 8DF",
         "RatingValue": "5",
+        "RatingDate": "2024-06-24T00:00:00",
         "LocalAuthorityName": "Trafford"
       },
       "geometry": {
@@ -8989,6 +9397,7 @@
         "AddressLine4": "Winchester",
         "PostCode": "SO21 1PP",
         "RatingValue": "5",
+        "RatingDate": "2024-09-12T00:00:00",
         "LocalAuthorityName": "Winchester City"
       },
       "geometry": {
@@ -9011,6 +9420,7 @@
         "AddressLine4": "",
         "PostCode": "B3 2QD",
         "RatingValue": "5",
+        "RatingDate": "2023-05-25T00:00:00",
         "LocalAuthorityName": "Birmingham"
       },
       "geometry": {
@@ -9033,6 +9443,7 @@
         "AddressLine4": "",
         "PostCode": "SE2 9SA",
         "RatingValue": "5",
+        "RatingDate": "2024-01-09T00:00:00",
         "LocalAuthorityName": "Bexley"
       },
       "geometry": {
@@ -9055,6 +9466,7 @@
         "AddressLine4": "West Berkshire",
         "PostCode": "RG18 9XX",
         "RatingValue": "5",
+        "RatingDate": "2023-05-12T00:00:00",
         "LocalAuthorityName": "West Berkshire"
       },
       "geometry": {
@@ -9077,6 +9489,7 @@
         "AddressLine4": "West Berkshire",
         "PostCode": "RG30 3UQ",
         "RatingValue": "5",
+        "RatingDate": "2024-10-24T00:00:00",
         "LocalAuthorityName": "West Berkshire"
       },
       "geometry": {
@@ -9099,6 +9512,7 @@
         "AddressLine4": "",
         "PostCode": "RG1 1LX",
         "RatingValue": "5",
+        "RatingDate": "2024-03-28T00:00:00",
         "LocalAuthorityName": "Reading"
       },
       "geometry": {
@@ -9121,6 +9535,7 @@
         "AddressLine4": "",
         "PostCode": "RG1 2AQ",
         "RatingValue": "5",
+        "RatingDate": "2024-08-19T00:00:00",
         "LocalAuthorityName": "Reading"
       },
       "geometry": {
@@ -9143,6 +9558,7 @@
         "AddressLine4": "West Sussex",
         "PostCode": "BN11 2HP",
         "RatingValue": "5",
+        "RatingDate": "2024-08-29T00:00:00",
         "LocalAuthorityName": "Worthing"
       },
       "geometry": {
@@ -9165,6 +9581,7 @@
         "AddressLine4": "Hampshire",
         "PostCode": "RG21 7LG",
         "RatingValue": "5",
+        "RatingDate": "2024-11-11T00:00:00",
         "LocalAuthorityName": "Basingstoke and Deane"
       },
       "geometry": {
@@ -9187,6 +9604,7 @@
         "AddressLine4": "London",
         "PostCode": "SW17 0QT",
         "RatingValue": "5",
+        "RatingDate": "2024-04-08T00:00:00",
         "LocalAuthorityName": "Wandsworth"
       },
       "geometry": {
@@ -9209,6 +9627,7 @@
         "AddressLine4": "London Heathrow Airport",
         "PostCode": "TW6 1QG",
         "RatingValue": "5",
+        "RatingDate": "2024-06-25T00:00:00",
         "LocalAuthorityName": "Hillingdon"
       },
       "geometry": {
@@ -9231,6 +9650,7 @@
         "AddressLine4": "West Berkshire",
         "PostCode": "RG30 3UQ",
         "RatingValue": "5",
+        "RatingDate": "2023-05-11T00:00:00",
         "LocalAuthorityName": "West Berkshire"
       },
       "geometry": {
@@ -9253,6 +9673,7 @@
         "AddressLine4": "",
         "PostCode": "S1 4HN",
         "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
         "LocalAuthorityName": "Sheffield"
       },
       "geometry": {
@@ -9275,6 +9696,7 @@
         "AddressLine4": "Warwickshire",
         "PostCode": "B77 5PS",
         "RatingValue": "5",
+        "RatingDate": "2024-12-05T00:00:00",
         "LocalAuthorityName": "North Warwickshire"
       },
       "geometry": {
@@ -9297,6 +9719,7 @@
         "AddressLine4": "Ruislip",
         "PostCode": "HA4 0SA",
         "RatingValue": "5",
+        "RatingDate": "2023-06-02T00:00:00",
         "LocalAuthorityName": "Hillingdon"
       },
       "geometry": {
@@ -9319,6 +9742,7 @@
         "AddressLine4": "",
         "PostCode": "IG4 5AQ",
         "RatingValue": "3",
+        "RatingDate": "2024-10-09T00:00:00",
         "LocalAuthorityName": "Redbridge"
       },
       "geometry": {
@@ -9341,6 +9765,7 @@
         "AddressLine4": "",
         "PostCode": "OX1 3EX",
         "RatingValue": "5",
+        "RatingDate": "2022-07-07T00:00:00",
         "LocalAuthorityName": "Oxford City"
       },
       "geometry": {
@@ -9363,6 +9788,7 @@
         "AddressLine4": "Luton",
         "PostCode": "LU3 2RR",
         "RatingValue": "5",
+        "RatingDate": "2023-06-19T00:00:00",
         "LocalAuthorityName": "Luton"
       },
       "geometry": {
@@ -9385,6 +9811,7 @@
         "AddressLine4": "",
         "PostCode": "E14 8RP",
         "RatingValue": "5",
+        "RatingDate": "2022-02-04T00:00:00",
         "LocalAuthorityName": "Tower Hamlets"
       },
       "geometry": {
@@ -9407,6 +9834,7 @@
         "AddressLine4": "",
         "PostCode": "E14 4QS",
         "RatingValue": "5",
+        "RatingDate": "2024-11-18T00:00:00",
         "LocalAuthorityName": "Tower Hamlets"
       },
       "geometry": {
@@ -9429,6 +9857,7 @@
         "AddressLine4": "",
         "PostCode": "E14 5NY",
         "RatingValue": "5",
+        "RatingDate": "2024-05-29T00:00:00",
         "LocalAuthorityName": "Tower Hamlets"
       },
       "geometry": {
@@ -9451,6 +9880,7 @@
         "AddressLine4": "",
         "PostCode": "EC2Y 9AW",
         "RatingValue": "5",
+        "RatingDate": "2022-03-25T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -9473,6 +9903,7 @@
         "AddressLine4": "",
         "PostCode": "EC4N 8AF",
         "RatingValue": "5",
+        "RatingDate": "2023-06-07T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -9495,6 +9926,7 @@
         "AddressLine4": "",
         "PostCode": "EC3M 5DJ",
         "RatingValue": "5",
+        "RatingDate": "2023-05-02T00:00:00",
         "LocalAuthorityName": "City of London Corporation"
       },
       "geometry": {
@@ -9517,6 +9949,7 @@
         "AddressLine4": "",
         "PostCode": "SW12 9DH",
         "RatingValue": "5",
+        "RatingDate": "2023-12-15T00:00:00",
         "LocalAuthorityName": "Wandsworth"
       },
       "geometry": {

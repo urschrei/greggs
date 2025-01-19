@@ -82,7 +82,7 @@ map.on('load', function() {
     // location of the feature, with post code and authority text from its properties.
     map.on('click', chain + '_points', function(e) {
         var coordinates = e.features[0].geometry.coordinates.slice();
-        var description = `<p>Post Code: ${e.features[0].properties.PostCode} in ${e.features[0].properties.LocalAuthorityName}</p><p>FHRS Rating, Feb 2020: ${e.features[0].properties.RatingValue}</p>`;
+        var description = `<p>Post Code: ${e.features[0].properties.PostCode} in ${e.features[0].properties.LocalAuthorityName}</p><p>FHRS Rating: ${e.features[0].properties.RatingValue}</p><p>Rating Date: ${e.features[0].properties.RatingDate}</p>`;
 
         // Ensure that if the map is zoomed out such that multiple
         // copies of the feature are visible, the popup appears
