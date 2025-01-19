@@ -27,18 +27,18 @@
 <div class="container-fluid d-flex flex-column h-100" role="main">
     <div class="row" id="info">
         <div class="col">
-            <div class="card mt-2">
+            <div class="card mt-2 bg-primary-subtle border border-dark">
                 <div class="card-body">
                     <h5 class="card-title">What…are you doing?</h5>
-                    <p class="card-text"><small>
+                    <p class="card-text">
                         It's just a heatmap of every <a href="https://greggs.co.uk" style="color: #08427D">Greggs&trade;</a>
                         and <a href="https://pret.co.uk" style="color: #8c1d26">Pret&trade;</a> for which the <a href="https://ratings.food.gov.uk">FHRS</a> has location info as of January 2025. That's all!
-                    </small></p>
-
+                    </small>
+                    <p class="card-text small">You can click individual establishments to see address and FHRS rating details.</p>
                     <form id="lookup">
                         <div class="row">
                           <div class="col-12 col-lg-3">
-                            <input type="text" pattern="^(GIR ?0AA|[A-PR-UWYZ]([0-9]{1,2}|([A-HK-Y][0-9]([0-9ABEHMNPRV-Y])?)|[0-9][A-HJKPS-UW]) ?[0-9][ABD-HJLNP-UW-Z]{2})$" class="form-control form-control-sm mb-2 mr-sm-2" id="inputPostcode" placeholder="UK Post Code" required>
+                            <input type="text" pattern="^(GIR ?0AA|[A-PR-UWYZ]([0-9]{1,2}|([A-HK-Y][0-9]([0-9ABEHMNPRV-Y])?)|[0-9][A-HJKPS-UW]) ?[0-9][ABD-HJLNP-UW-Z]{2})$" class="form-control border border-dark form-control-sm mb-2 mr-sm-2" id="inputPostcode" placeholder="UK Post Code" required>
                             <div class="invalid-feedback">
                                 Enter a valid post code
                             </div>
