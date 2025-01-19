@@ -17,6 +17,13 @@ import {
 import jQuery from 'jquery';
 var $ = jQuery;
 
+const options = {
+  weekday: 'long',
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+};
+
 mapboxgl.accessToken = 'pk.eyJ1IjoidXJzY2hyZWkiLCJhIjoiY2pubHJsaGZjMWl1dzNrbzM3eDBuNzN3eiJ9.5xEWTiavcSRbv7LYZoAmUg';
 const map = new mapboxgl.Map({
     container: 'map',
@@ -82,7 +89,9 @@ map.on('load', function() {
     // location of the feature, with post code and authority text from its properties.
     map.on('click', chain + '_points', function(e) {
         var coordinates = e.features[0].geometry.coordinates.slice();
-        var description = `<p>Post Code: ${e.features[0].properties.PostCode} in ${e.features[0].properties.LocalAuthorityName}</p><p>FHRS Rating: ${e.features[0].properties.RatingValue}</p><p>Rating Date: ${e.features[0].properties.RatingDate}</p>`;
+        const theDate = new Date(e.features[0].properties.RatingDate);
+        const humanDate = theDate.toLocaleDateString('en-GB', options);
+        var description = `<p>Post Code: ${e.features[0].properties.PostCode} in ${e.features[0].properties.LocalAuthorityName}</p><p>FHRS Rating: ${e.features[0].properties.RatingValue}</p><p>Rating Date: ${humanDate}</p>`;
 
         // Ensure that if the map is zoomed out such that multiple
         // copies of the feature are visible, the popup appears
