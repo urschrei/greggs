@@ -20,7 +20,7 @@ var $ = jQuery;
 mapboxgl.accessToken = 'pk.eyJ1IjoidXJzY2hyZWkiLCJhIjoiY2pubHJsaGZjMWl1dzNrbzM3eDBuNzN3eiJ9.5xEWTiavcSRbv7LYZoAmUg';
 const map = new mapboxgl.Map({
     container: 'map',
-    style: 'mapbox://styles/mapbox/light-v9',
+    style: 'mapbox://styles/mapbox/light-v11',
     zoom: 5.205985389161131,
     center: {
         lng: -3.8,
