@@ -99,10 +99,18 @@ map.on('load', function() {
         while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
             coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
         }
-
+        const popupContent = `
+          <div class="card border border-dark bg-primary-subtle m-2">
+            <div class="card-body">
+              <h6>Address:</h6> <p class="card-text">${e.features[0].properties.PostCode} in ${e.features[0].properties.LocalAuthorityName}</p>
+              <h6>FHRS Rating:</h6> <p class="card-text">${e.features[0].properties.RatingValue}</p>
+              <h6>Rating Date:</h6> <p class="card-text">${humanDate}</p>
+            </div>
+          </div>
+        `;
         new mapboxgl.Popup()
             .setLngLat(coordinates)
-            .setHTML(description)
+            .setHTML(popupContent)
             .addTo(map);
     });
 
