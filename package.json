@@ -21,16 +21,14 @@
   },
   "homepage": "",
   "dependencies": {
-    "@popperjs/core": "^2.0.5",
+    "@popperjs/core": "^2.11.8",
     "@turf/helpers": "^6.5.0",
     "@turf/nearest-point": "^6.5.0",
     "bootstrap": "^5.3.0",
-    "jquery": "^3.4.1",
-    "mapbox-gl": "^3.9.2",
-    "popper.js": "^1.16.1"
+    "jquery": "^3.7.1",
+    "mapbox-gl": "^3.9.2"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.20",
     "esbuild": "^0.24.2",
     "esbuild-plugin-browserslist": "^0.15.0",
     "esbuild-plugin-eslint": "^0.3.12",
