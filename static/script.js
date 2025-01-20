@@ -102,9 +102,11 @@ map.on('load', function() {
         const popupContent = `
           <div class="card border border-dark bg-primary-subtle m-2">
             <div class="card-body">
-              <h6>Address:</h6> <p class="card-text">${e.features[0].properties.PostCode} in ${e.features[0].properties.LocalAuthorityName}</p>
-              <h6>FHRS Rating:</h6> <p class="card-text">${e.features[0].properties.RatingValue}</p>
-              <h6>Rating Date:</h6> <p class="card-text">${humanDate}</p>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item"><strong>Address:</strong> ${e.features[0].properties.PostCode} in ${e.features[0].properties.LocalAuthorityName}</li>
+                    <li class="list-group-item"><strong>FHRS Rating:</strong> ${e.features[0].properties.RatingValue}</li>
+                    <li class="list-group-item"><strong>Rating Date:</strong> ${humanDate}</li>
+                </ul>
             </div>
           </div>
         `;
