@@ -14,7 +14,9 @@
         "PostCode": "RG2 8HA",
         "RatingValue": "5",
         "RatingDate": "2024-09-19T00:00:00",
-        "LocalAuthorityName": "Reading"
+        "LocalAuthorityName": "Reading",
+        "LocalAuthorityCode": "884",
+        "LocalAuthorityBusinessID": "141646"
       },
       "geometry": {
         "type": "Point",
@@ -37,7 +39,9 @@
         "PostCode": "SW19 7NS",
         "RatingValue": "5",
         "RatingDate": "2022-01-10T00:00:00",
-        "LocalAuthorityName": "Merton"
+        "LocalAuthorityName": "Merton",
+        "LocalAuthorityCode": "524",
+        "LocalAuthorityBusinessID": "PI/000097138"
       },
       "geometry": {
         "type": "Point",
@@ -60,7 +64,9 @@
         "PostCode": "N4 2DH",
         "RatingValue": "5",
         "RatingDate": "2022-09-07T00:00:00",
-        "LocalAuthorityName": "Islington"
+        "LocalAuthorityName": "Islington",
+        "LocalAuthorityCode": "519",
+        "LocalAuthorityBusinessID": "PI/000278327"
       },
       "geometry": {
         "type": "Point",
@@ -83,7 +89,9 @@
         "PostCode": "W1C 1LZ",
         "RatingValue": "5",
         "RatingDate": "2023-01-19T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "00159/0556/0/000"
       },
       "geometry": {
         "type": "Point",
@@ -106,7 +114,9 @@
         "PostCode": "WC2N 5DS",
         "RatingValue": "5",
         "RatingDate": "2023-11-06T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "00264/0062/0/002"
       },
       "geometry": {
         "type": "Point",
@@ -129,7 +139,9 @@
         "PostCode": "W1W 5QX",
         "RatingValue": "5",
         "RatingDate": "2024-04-13T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "00603/0244/0/000"
       },
       "geometry": {
         "type": "Point",
@@ -152,7 +164,9 @@
         "PostCode": "WC2N 4JH",
         "RatingValue": "5",
         "RatingDate": "2024-01-08T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "00624/0008/0/000"
       },
       "geometry": {
         "type": "Point",
@@ -175,7 +189,9 @@
         "PostCode": "W1J 6ES",
         "RatingValue": "5",
         "RatingDate": "2024-02-19T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "00761/0007/0/000"
       },
       "geometry": {
         "type": "Point",
@@ -198,7 +214,9 @@
         "PostCode": "W2 1NJ",
         "RatingValue": "5",
         "RatingDate": "2024-03-18T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "11/00082/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -221,7 +239,9 @@
         "PostCode": "WC2R 1AP",
         "RatingValue": "5",
         "RatingDate": "2023-10-16T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "14/00229/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -244,7 +264,9 @@
         "PostCode": "SW1E 5DH",
         "RatingValue": "5",
         "RatingDate": "2024-01-24T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "18/00180/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -267,7 +289,9 @@
         "PostCode": "SW3 1JJ",
         "RatingValue": "5",
         "RatingDate": "2023-09-12T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "19/00518/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -290,7 +314,9 @@
         "PostCode": "W1U 3QF",
         "RatingValue": "5",
         "RatingDate": "2023-05-24T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "19/00590/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -313,7 +339,9 @@
         "PostCode": "BN1 3ZE",
         "RatingValue": "5",
         "RatingDate": "2024-04-11T00:00:00",
-        "LocalAuthorityName": "Brighton and Hove"
+        "LocalAuthorityName": "Brighton and Hove",
+        "LocalAuthorityCode": "875",
+        "LocalAuthorityBusinessID": "2023/00548/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -336,7 +364,9 @@
         "PostCode": "EC1V 4NJ",
         "RatingValue": "5",
         "RatingDate": "2024-04-08T00:00:00",
-        "LocalAuthorityName": "Islington"
+        "LocalAuthorityName": "Islington",
+        "LocalAuthorityCode": "519",
+        "LocalAuthorityBusinessID": "PI/000120776"
       },
       "geometry": {
         "type": "Point",
@@ -359,7 +389,9 @@
         "PostCode": "SE1 1NB",
         "RatingValue": "5",
         "RatingDate": "2024-04-11T00:00:00",
-        "LocalAuthorityName": "Southwark"
+        "LocalAuthorityName": "Southwark",
+        "LocalAuthorityCode": "528",
+        "LocalAuthorityBusinessID": "138107"
       },
       "geometry": {
         "type": "Point",
@@ -382,7 +414,9 @@
         "PostCode": "W1F 7TG",
         "RatingValue": "5",
         "RatingDate": "2024-04-20T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "18/00136/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -405,7 +439,9 @@
         "PostCode": "W1F 0DH",
         "RatingValue": "5",
         "RatingDate": "2024-04-20T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "01077/0035/0/000"
       },
       "geometry": {
         "type": "Point",
@@ -428,7 +464,9 @@
         "PostCode": "WC2R 0AP",
         "RatingValue": "5",
         "RatingDate": "2024-04-19T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "01576/0125/1/000"
       },
       "geometry": {
         "type": "Point",
@@ -451,7 +489,9 @@
         "PostCode": "W1D 5LQ",
         "RatingValue": "5",
         "RatingDate": "2024-04-20T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "17/00348/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -474,7 +514,9 @@
         "PostCode": "CB2 3NZ",
         "RatingValue": "5",
         "RatingDate": "2024-04-30T00:00:00",
-        "LocalAuthorityName": "Cambridge City"
+        "LocalAuthorityName": "Cambridge City",
+        "LocalAuthorityCode": "027",
+        "LocalAuthorityBusinessID": "9211009"
       },
       "geometry": {
         "type": "Point",
@@ -497,7 +539,9 @@
         "PostCode": "M2 1WL",
         "RatingValue": "5",
         "RatingDate": "2024-03-22T00:00:00",
-        "LocalAuthorityName": "Manchester"
+        "LocalAuthorityName": "Manchester",
+        "LocalAuthorityCode": "415",
+        "LocalAuthorityBusinessID": "5348"
       },
       "geometry": {
         "type": "Point",
@@ -520,7 +564,9 @@
         "PostCode": "EC1M 7AN",
         "RatingValue": "5",
         "RatingDate": "2024-05-07T00:00:00",
-        "LocalAuthorityName": "Islington"
+        "LocalAuthorityName": "Islington",
+        "LocalAuthorityCode": "519",
+        "LocalAuthorityBusinessID": "PI/000089325"
       },
       "geometry": {
         "type": "Point",
@@ -543,7 +589,9 @@
         "PostCode": "N1 1RU",
         "RatingValue": "5",
         "RatingDate": "2024-05-29T00:00:00",
-        "LocalAuthorityName": "Islington"
+        "LocalAuthorityName": "Islington",
+        "LocalAuthorityCode": "519",
+        "LocalAuthorityBusinessID": "PI/000282359"
       },
       "geometry": {
         "type": "Point",
@@ -566,7 +614,9 @@
         "PostCode": "BR3 1EN",
         "RatingValue": "5",
         "RatingDate": "2024-05-15T00:00:00",
-        "LocalAuthorityName": "Bromley"
+        "LocalAuthorityName": "Bromley",
+        "LocalAuthorityCode": "505",
+        "LocalAuthorityBusinessID": "22/00717/MIXED"
       },
       "geometry": {
         "type": "Point",
@@ -589,7 +639,9 @@
         "PostCode": "NG1 2ET",
         "RatingValue": "5",
         "RatingDate": "2023-08-11T00:00:00",
-        "LocalAuthorityName": "Nottingham City"
+        "LocalAuthorityName": "Nottingham City",
+        "LocalAuthorityCode": "899",
+        "LocalAuthorityBusinessID": "128765"
       },
       "geometry": {
         "type": "Point",
@@ -612,7 +664,9 @@
         "PostCode": "CM14 4AJ",
         "RatingValue": "5",
         "RatingDate": "2024-07-13T00:00:00",
-        "LocalAuthorityName": "Brentwood"
+        "LocalAuthorityName": "Brentwood",
+        "LocalAuthorityCode": "111",
+        "LocalAuthorityBusinessID": "22/00094/FH"
       },
       "geometry": {
         "type": "Point",
@@ -635,7 +689,9 @@
         "PostCode": "CB1 2GA",
         "RatingValue": "5",
         "RatingDate": "2024-07-18T00:00:00",
-        "LocalAuthorityName": "Cambridge City"
+        "LocalAuthorityName": "Cambridge City",
+        "LocalAuthorityCode": "027",
+        "LocalAuthorityBusinessID": "9211011"
       },
       "geometry": {
         "type": "Point",
@@ -658,7 +714,9 @@
         "PostCode": "W1B 3AP",
         "RatingValue": "5",
         "RatingDate": "2024-08-03T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "01217/0298/0/000"
       },
       "geometry": {
         "type": "Point",
@@ -681,7 +739,9 @@
         "PostCode": "GU1 4EQ",
         "RatingValue": "5",
         "RatingDate": "2024-08-01T00:00:00",
-        "LocalAuthorityName": "Guildford"
+        "LocalAuthorityName": "Guildford",
+        "LocalAuthorityCode": "307",
+        "LocalAuthorityBusinessID": "12362"
       },
       "geometry": {
         "type": "Point",
@@ -704,7 +764,9 @@
         "PostCode": "LE16 7PA",
         "RatingValue": "5",
         "RatingDate": "2024-07-30T00:00:00",
-        "LocalAuthorityName": "Harborough"
+        "LocalAuthorityName": "Harborough",
+        "LocalAuthorityCode": "211",
+        "LocalAuthorityBusinessID": "24/00080/FOODHS"
       },
       "geometry": {
         "type": "Point",
@@ -727,7 +789,9 @@
         "PostCode": "SE1 9AN",
         "RatingValue": "5",
         "RatingDate": "2024-08-07T00:00:00",
-        "LocalAuthorityName": "Southwark"
+        "LocalAuthorityName": "Southwark",
+        "LocalAuthorityCode": "528",
+        "LocalAuthorityBusinessID": "127301"
       },
       "geometry": {
         "type": "Point",
@@ -750,7 +814,9 @@
         "PostCode": "EC4N 6LY",
         "RatingValue": "5",
         "RatingDate": "2024-07-31T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000002020"
       },
       "geometry": {
         "type": "Point",
@@ -773,7 +839,9 @@
         "PostCode": "EC1Y 1AG",
         "RatingValue": "5",
         "RatingDate": "2024-08-22T00:00:00",
-        "LocalAuthorityName": "Islington"
+        "LocalAuthorityName": "Islington",
+        "LocalAuthorityCode": "519",
+        "LocalAuthorityBusinessID": "PI/000285705"
       },
       "geometry": {
         "type": "Point",
@@ -796,7 +864,9 @@
         "PostCode": "RH19 1ET",
         "RatingValue": "5",
         "RatingDate": "2024-09-06T00:00:00",
-        "LocalAuthorityName": "Mid Sussex"
+        "LocalAuthorityName": "Mid Sussex",
+        "LocalAuthorityCode": "328",
+        "LocalAuthorityBusinessID": "CP/24/0148/MIXED"
       },
       "geometry": {
         "type": "Point",
@@ -819,7 +889,9 @@
         "PostCode": "SW1Y 6JP",
         "RatingValue": "5",
         "RatingDate": "2024-09-09T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "19/00589/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -842,7 +914,9 @@
         "PostCode": "E17 7JR",
         "RatingValue": "5",
         "RatingDate": "2024-09-14T00:00:00",
-        "LocalAuthorityName": "Waltham Forest"
+        "LocalAuthorityName": "Waltham Forest",
+        "LocalAuthorityCode": "531",
+        "LocalAuthorityBusinessID": "345164"
       },
       "geometry": {
         "type": "Point",
@@ -865,7 +939,9 @@
         "PostCode": "W1J 8HY",
         "RatingValue": "5",
         "RatingDate": "2024-09-17T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "13/00259/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -888,7 +964,9 @@
         "PostCode": "HA9 0FD",
         "RatingValue": "5",
         "RatingDate": "2024-09-12T00:00:00",
-        "LocalAuthorityName": "Brent"
+        "LocalAuthorityName": "Brent",
+        "LocalAuthorityCode": "504",
+        "LocalAuthorityBusinessID": "79275"
       },
       "geometry": {
         "type": "Point",
@@ -911,7 +989,9 @@
         "PostCode": "SE1 8SB",
         "RatingValue": "5",
         "RatingDate": "2023-11-08T00:00:00",
-        "LocalAuthorityName": "Lambeth"
+        "LocalAuthorityName": "Lambeth",
+        "LocalAuthorityCode": "522",
+        "LocalAuthorityBusinessID": "16/00447/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -934,7 +1014,9 @@
         "PostCode": "EC3A 8AA",
         "RatingValue": "5",
         "RatingDate": "2024-08-29T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000011349"
       },
       "geometry": {
         "type": "Point",
@@ -957,7 +1039,9 @@
         "PostCode": "CA4 0NT",
         "RatingValue": "5",
         "RatingDate": "2024-07-23T00:00:00",
-        "LocalAuthorityName": "Westmorland and Furness"
+        "LocalAuthorityName": "Westmorland and Furness",
+        "LocalAuthorityCode": "056",
+        "LocalAuthorityBusinessID": "10557"
       },
       "geometry": {
         "type": "Point",
@@ -980,7 +1064,9 @@
         "PostCode": "E15 1DA",
         "RatingValue": "5",
         "RatingDate": "2024-08-09T00:00:00",
-        "LocalAuthorityName": "Newham"
+        "LocalAuthorityName": "Newham",
+        "LocalAuthorityCode": "525",
+        "LocalAuthorityBusinessID": "13/01602/FOOD"
       },
       "geometry": {
         "type": "Point",
@@ -1003,7 +1089,9 @@
         "PostCode": "E16 2PX",
         "RatingValue": "5",
         "RatingDate": "2019-02-11T00:00:00",
-        "LocalAuthorityName": "Newham"
+        "LocalAuthorityName": "Newham",
+        "LocalAuthorityCode": "525",
+        "LocalAuthorityBusinessID": "10/00045/FOOD"
       },
       "geometry": {
         "type": "Point",
@@ -1026,7 +1114,9 @@
         "PostCode": "EX2 7HF",
         "RatingValue": "5",
         "RatingDate": "2024-10-21T00:00:00",
-        "LocalAuthorityName": "Exeter City"
+        "LocalAuthorityName": "Exeter City",
+        "LocalAuthorityCode": "073",
+        "LocalAuthorityBusinessID": "21/00216/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -1049,7 +1139,9 @@
         "PostCode": "SY1 1DB",
         "RatingValue": "5",
         "RatingDate": "2024-09-20T00:00:00",
-        "LocalAuthorityName": "Shropshire"
+        "LocalAuthorityName": "Shropshire",
+        "LocalAuthorityCode": "708",
+        "LocalAuthorityBusinessID": "18/00119/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -1072,7 +1164,9 @@
         "PostCode": "EX4 3PZ",
         "RatingValue": "5",
         "RatingDate": "2024-11-01T00:00:00",
-        "LocalAuthorityName": "Exeter City"
+        "LocalAuthorityName": "Exeter City",
+        "LocalAuthorityCode": "073",
+        "LocalAuthorityBusinessID": "PI/000067842"
       },
       "geometry": {
         "type": "Point",
@@ -1095,7 +1189,9 @@
         "PostCode": "WC1B 5BG",
         "RatingValue": "5",
         "RatingDate": "2024-10-18T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "179917"
       },
       "geometry": {
         "type": "Point",
@@ -1118,7 +1214,9 @@
         "PostCode": "LE1 5AD",
         "RatingValue": "5",
         "RatingDate": "2023-06-06T00:00:00",
-        "LocalAuthorityName": "Leicester City"
+        "LocalAuthorityName": "Leicester City",
+        "LocalAuthorityCode": "878",
+        "LocalAuthorityBusinessID": "22/00382/CP"
       },
       "geometry": {
         "type": "Point",
@@ -1141,7 +1239,9 @@
         "PostCode": "N14 5BU",
         "RatingValue": "5",
         "RatingDate": "2024-01-09T00:00:00",
-        "LocalAuthorityName": "Enfield"
+        "LocalAuthorityName": "Enfield",
+        "LocalAuthorityCode": "510",
+        "LocalAuthorityBusinessID": "PI/000193725"
       },
       "geometry": {
         "type": "Point",
@@ -1164,7 +1264,9 @@
         "PostCode": "SL4 1TG",
         "RatingValue": "5",
         "RatingDate": "2023-05-02T00:00:00",
-        "LocalAuthorityName": "Windsor and Maidenhead"
+        "LocalAuthorityName": "Windsor and Maidenhead",
+        "LocalAuthorityCode": "886",
+        "LocalAuthorityBusinessID": "23/00003/COM"
       },
       "geometry": {
         "type": "Point",
@@ -1187,7 +1289,9 @@
         "PostCode": "E20 1JN",
         "RatingValue": "5",
         "RatingDate": "2024-11-19T00:00:00",
-        "LocalAuthorityName": "Newham"
+        "LocalAuthorityName": "Newham",
+        "LocalAuthorityCode": "525",
+        "LocalAuthorityBusinessID": "18/00055/FOOD"
       },
       "geometry": {
         "type": "Point",
@@ -1210,7 +1314,9 @@
         "PostCode": "",
         "RatingValue": "5",
         "RatingDate": "2024-11-25T00:00:00",
-        "LocalAuthorityName": "Cherwell"
+        "LocalAuthorityName": "Cherwell",
+        "LocalAuthorityCode": "268",
+        "LocalAuthorityBusinessID": "07/00729/C"
       },
       "geometry": {
         "type": "Point",
@@ -1233,7 +1339,9 @@
         "PostCode": "SE1 0LX",
         "RatingValue": "5",
         "RatingDate": "2024-03-19T00:00:00",
-        "LocalAuthorityName": "Southwark"
+        "LocalAuthorityName": "Southwark",
+        "LocalAuthorityCode": "528",
+        "LocalAuthorityBusinessID": "194060"
       },
       "geometry": {
         "type": "Point",
@@ -1256,7 +1364,9 @@
         "PostCode": "WC2N 6ND",
         "RatingValue": "5",
         "RatingDate": "2024-01-17T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "00271/0025/0/002"
       },
       "geometry": {
         "type": "Point",
@@ -1279,7 +1389,9 @@
         "PostCode": "SW1H 9LQ",
         "RatingValue": "5",
         "RatingDate": "2023-10-25T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "00262/0049/0/000"
       },
       "geometry": {
         "type": "Point",
@@ -1302,7 +1414,9 @@
         "PostCode": "SW1E 5NA",
         "RatingValue": "5",
         "RatingDate": "2024-04-06T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "00269/0173/1/000"
       },
       "geometry": {
         "type": "Point",
@@ -1325,7 +1439,9 @@
         "PostCode": "W1U 2RJ",
         "RatingValue": "5",
         "RatingDate": "2024-03-04T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "00283/0024/0/000"
       },
       "geometry": {
         "type": "Point",
@@ -1348,7 +1464,9 @@
         "PostCode": "W1J 9ED",
         "RatingValue": "5",
         "RatingDate": "2023-10-09T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "00515/0163/0/000"
       },
       "geometry": {
         "type": "Point",
@@ -1371,7 +1489,9 @@
         "PostCode": "W1W 6PY",
         "RatingValue": "5",
         "RatingDate": "2023-06-26T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "00603/0136/0/000"
       },
       "geometry": {
         "type": "Point",
@@ -1394,7 +1514,9 @@
         "PostCode": "SW1W 0QP",
         "RatingValue": "5",
         "RatingDate": "2024-01-24T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "00915/0092/0/000"
       },
       "geometry": {
         "type": "Point",
@@ -1417,7 +1539,9 @@
         "PostCode": "SW1V 1JT",
         "RatingValue": "5",
         "RatingDate": "2023-06-26T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "01056/2004/4/509"
       },
       "geometry": {
         "type": "Point",
@@ -1440,7 +1564,9 @@
         "PostCode": "W1D 6BZ",
         "RatingValue": "5",
         "RatingDate": "2024-02-26T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "01266/0039/0/000"
       },
       "geometry": {
         "type": "Point",
@@ -1463,7 +1589,9 @@
         "PostCode": "W1U 4NL",
         "RatingValue": "5",
         "RatingDate": "2024-04-13T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "01405/0007/0/000"
       },
       "geometry": {
         "type": "Point",
@@ -1486,7 +1614,9 @@
         "PostCode": "W2 4SJ",
         "RatingValue": "5",
         "RatingDate": "2019-10-28T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "01512/0127/0/000"
       },
       "geometry": {
         "type": "Point",
@@ -1509,7 +1639,9 @@
         "PostCode": "WC2R 1HH",
         "RatingValue": "5",
         "RatingDate": "2023-07-04T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "01576/0135/0/000"
       },
       "geometry": {
         "type": "Point",
@@ -1532,7 +1664,9 @@
         "PostCode": "W1U 1JD",
         "RatingValue": "5",
         "RatingDate": "2024-03-27T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "01697/0004/0/000"
       },
       "geometry": {
         "type": "Point",
@@ -1555,7 +1689,9 @@
         "PostCode": "WC2R 1AB",
         "RatingValue": "5",
         "RatingDate": "2023-05-15T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "01576/0180/3/000"
       },
       "geometry": {
         "type": "Point",
@@ -1578,7 +1714,9 @@
         "PostCode": "NW8 6PG",
         "RatingValue": "5",
         "RatingDate": "2023-08-30T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "04/00065/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -1601,7 +1739,9 @@
         "PostCode": "SW1P 2AA",
         "RatingValue": "5",
         "RatingDate": "2023-07-13T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "01767/0019/1/001"
       },
       "geometry": {
         "type": "Point",
@@ -1624,7 +1764,9 @@
         "PostCode": "W1S 1HN",
         "RatingValue": "5",
         "RatingDate": "2024-01-31T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "12/00089/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -1647,7 +1789,9 @@
         "PostCode": "SW1H 0HW",
         "RatingValue": "5",
         "RatingDate": "2023-11-22T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "15/00096/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -1670,7 +1814,9 @@
         "PostCode": "W2 6EZ",
         "RatingValue": "5",
         "RatingDate": "2023-08-14T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "12/00146/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -1693,7 +1839,9 @@
         "PostCode": "W1U 3BL",
         "RatingValue": "5",
         "RatingDate": "2024-04-13T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "13/00032/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -1716,7 +1864,9 @@
         "PostCode": "SW1Y 5BF",
         "RatingValue": "5",
         "RatingDate": "2024-02-24T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "14/00219/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -1739,7 +1889,9 @@
         "PostCode": "W1H 6HG",
         "RatingValue": "5",
         "RatingDate": "2024-03-04T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "19/00268/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -1762,7 +1914,9 @@
         "PostCode": "W2 2EN",
         "RatingValue": "5",
         "RatingDate": "2024-04-06T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "19/00504/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -1785,7 +1939,9 @@
         "PostCode": "SW1V 2RX",
         "RatingValue": "5",
         "RatingDate": "2024-03-25T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "19/00505/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -1808,7 +1964,9 @@
         "PostCode": "SW1X 7HN",
         "RatingValue": "5",
         "RatingDate": "2024-02-17T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "20/00022/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -1831,7 +1989,9 @@
         "PostCode": "W1S 1JF",
         "RatingValue": "5",
         "RatingDate": "2021-06-17T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "20/00024/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -1854,7 +2014,9 @@
         "PostCode": "W1J 0DP",
         "RatingValue": "5",
         "RatingDate": "2023-11-06T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "MTD4P9-WCW4YL-EL3MC6"
       },
       "geometry": {
         "type": "Point",
@@ -1877,7 +2039,9 @@
         "PostCode": "EC1V 4JZ",
         "RatingValue": "5",
         "RatingDate": "2024-04-08T00:00:00",
-        "LocalAuthorityName": "Islington"
+        "LocalAuthorityName": "Islington",
+        "LocalAuthorityCode": "519",
+        "LocalAuthorityBusinessID": "PI/000210769"
       },
       "geometry": {
         "type": "Point",
@@ -1900,7 +2064,9 @@
         "PostCode": "SW1P 3LT",
         "RatingValue": "5",
         "RatingDate": "2024-04-23T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "01375/0047/0/000"
       },
       "geometry": {
         "type": "Point",
@@ -1923,7 +2089,9 @@
         "PostCode": "W1W 8DZ",
         "RatingValue": "5",
         "RatingDate": "2024-04-20T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "10/00100/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -1946,7 +2114,9 @@
         "PostCode": "W1T 3JB",
         "RatingValue": "5",
         "RatingDate": "2024-04-29T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "14/00334/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -1969,7 +2139,9 @@
         "PostCode": "W1K 4BE",
         "RatingValue": "5",
         "RatingDate": "2024-05-02T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "00745/0032/0/000"
       },
       "geometry": {
         "type": "Point",
@@ -1992,7 +2164,9 @@
         "PostCode": "AL1 3DP",
         "RatingValue": "5",
         "RatingDate": "2023-04-19T00:00:00",
-        "LocalAuthorityName": "St Albans City"
+        "LocalAuthorityName": "St Albans City",
+        "LocalAuthorityCode": "160",
+        "LocalAuthorityBusinessID": "FR/201300027"
       },
       "geometry": {
         "type": "Point",
@@ -2015,7 +2189,9 @@
         "PostCode": "SW7 2ND",
         "RatingValue": "5",
         "RatingDate": "2024-05-02T00:00:00",
-        "LocalAuthorityName": "Kensington and Chelsea"
+        "LocalAuthorityName": "Kensington and Chelsea",
+        "LocalAuthorityCode": "520",
+        "LocalAuthorityBusinessID": "INSPF/17/201441"
       },
       "geometry": {
         "type": "Point",
@@ -2038,7 +2214,9 @@
         "PostCode": "RH6 0NN",
         "RatingValue": "5",
         "RatingDate": "2024-04-23T00:00:00",
-        "LocalAuthorityName": "Crawley"
+        "LocalAuthorityName": "Crawley",
+        "LocalAuthorityCode": "326",
+        "LocalAuthorityBusinessID": "24/00023/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -2061,7 +2239,9 @@
         "PostCode": "SE1 1HR",
         "RatingValue": "5",
         "RatingDate": "2024-04-11T00:00:00",
-        "LocalAuthorityName": "Southwark"
+        "LocalAuthorityName": "Southwark",
+        "LocalAuthorityCode": "528",
+        "LocalAuthorityBusinessID": "182102"
       },
       "geometry": {
         "type": "Point",
@@ -2084,7 +2264,9 @@
         "PostCode": "W2 4QJ",
         "RatingValue": "5",
         "RatingDate": "2024-05-04T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "00153/0015/0/000"
       },
       "geometry": {
         "type": "Point",
@@ -2107,7 +2289,9 @@
         "PostCode": "W1F 7HY",
         "RatingValue": "5",
         "RatingDate": "2024-05-07T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "01373/0027/0/000"
       },
       "geometry": {
         "type": "Point",
@@ -2130,7 +2314,9 @@
         "PostCode": "W1G 0FJ",
         "RatingValue": "5",
         "RatingDate": "2024-05-11T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "05/00033/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -2153,7 +2339,9 @@
         "PostCode": "WC2R 0DW",
         "RatingValue": "5",
         "RatingDate": "2024-05-11T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "01576/0088/0/000"
       },
       "geometry": {
         "type": "Point",
@@ -2176,7 +2364,9 @@
         "PostCode": "W9 1SZ",
         "RatingValue": "5",
         "RatingDate": "2024-05-11T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "21/00738/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -2199,7 +2389,9 @@
         "PostCode": "W1D 2DH",
         "RatingValue": "5",
         "RatingDate": "2024-05-11T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "17/00405/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -2222,7 +2414,9 @@
         "PostCode": "EC2M 3AB",
         "RatingValue": "5",
         "RatingDate": "2024-05-15T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000018875"
       },
       "geometry": {
         "type": "Point",
@@ -2245,7 +2439,9 @@
         "PostCode": "BA1 1AP",
         "RatingValue": "5",
         "RatingDate": "2024-05-21T00:00:00",
-        "LocalAuthorityName": "Bath and North East Somerset"
+        "LocalAuthorityName": "Bath and North East Somerset",
+        "LocalAuthorityCode": "857",
+        "LocalAuthorityBusinessID": "16/00197/MIXED"
       },
       "geometry": {
         "type": "Point",
@@ -2268,7 +2464,9 @@
         "PostCode": "E16 1ED",
         "RatingValue": "5",
         "RatingDate": "2024-05-22T00:00:00",
-        "LocalAuthorityName": "Newham"
+        "LocalAuthorityName": "Newham",
+        "LocalAuthorityCode": "525",
+        "LocalAuthorityBusinessID": "22/00016/FOOD"
       },
       "geometry": {
         "type": "Point",
@@ -2291,7 +2489,9 @@
         "PostCode": "N1 0PS",
         "RatingValue": "5",
         "RatingDate": "2024-05-29T00:00:00",
-        "LocalAuthorityName": "Islington"
+        "LocalAuthorityName": "Islington",
+        "LocalAuthorityCode": "519",
+        "LocalAuthorityBusinessID": "PI/000263823"
       },
       "geometry": {
         "type": "Point",
@@ -2314,7 +2514,9 @@
         "PostCode": "SW1W 9SJ",
         "RatingValue": "5",
         "RatingDate": "2024-05-18T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "10/00125/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -2337,7 +2539,9 @@
         "PostCode": "SW3 4NB",
         "RatingValue": "5",
         "RatingDate": "2024-06-03T00:00:00",
-        "LocalAuthorityName": "Kensington and Chelsea"
+        "LocalAuthorityName": "Kensington and Chelsea",
+        "LocalAuthorityCode": "520",
+        "LocalAuthorityBusinessID": "INSPF/14/150848"
       },
       "geometry": {
         "type": "Point",
@@ -2360,7 +2564,9 @@
         "PostCode": "GL50 1DF",
         "RatingValue": "5",
         "RatingDate": "2024-06-05T00:00:00",
-        "LocalAuthorityName": "Cheltenham"
+        "LocalAuthorityName": "Cheltenham",
+        "LocalAuthorityCode": "124",
+        "LocalAuthorityBusinessID": "24/00049/FOOD"
       },
       "geometry": {
         "type": "Point",
@@ -2383,7 +2589,9 @@
         "PostCode": "EC1R 3BT",
         "RatingValue": "5",
         "RatingDate": "2024-06-10T00:00:00",
-        "LocalAuthorityName": "Islington"
+        "LocalAuthorityName": "Islington",
+        "LocalAuthorityCode": "519",
+        "LocalAuthorityBusinessID": "PI/000263010"
       },
       "geometry": {
         "type": "Point",
@@ -2406,7 +2614,9 @@
         "PostCode": "SE1 9LX",
         "RatingValue": "5",
         "RatingDate": "2024-06-07T00:00:00",
-        "LocalAuthorityName": "Southwark"
+        "LocalAuthorityName": "Southwark",
+        "LocalAuthorityCode": "528",
+        "LocalAuthorityBusinessID": "45080"
       },
       "geometry": {
         "type": "Point",
@@ -2429,7 +2639,9 @@
         "PostCode": "SE1 8NW",
         "RatingValue": "5",
         "RatingDate": "2024-05-30T00:00:00",
-        "LocalAuthorityName": "Southwark"
+        "LocalAuthorityName": "Southwark",
+        "LocalAuthorityCode": "528",
+        "LocalAuthorityBusinessID": "185429"
       },
       "geometry": {
         "type": "Point",
@@ -2452,7 +2664,9 @@
         "PostCode": "SW1H 0QU",
         "RatingValue": "5",
         "RatingDate": "2024-06-12T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "00926/0022/0/000"
       },
       "geometry": {
         "type": "Point",
@@ -2475,7 +2689,9 @@
         "PostCode": "SE1 8EZ",
         "RatingValue": "5",
         "RatingDate": "2024-06-05T00:00:00",
-        "LocalAuthorityName": "Southwark"
+        "LocalAuthorityName": "Southwark",
+        "LocalAuthorityCode": "528",
+        "LocalAuthorityBusinessID": "183536"
       },
       "geometry": {
         "type": "Point",
@@ -2498,7 +2714,9 @@
         "PostCode": "EC2M 4NR",
         "RatingValue": "5",
         "RatingDate": "2024-06-28T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000001111"
       },
       "geometry": {
         "type": "Point",
@@ -2521,7 +2739,9 @@
         "PostCode": "BS1 3BD",
         "RatingValue": "5",
         "RatingDate": "2024-06-12T00:00:00",
-        "LocalAuthorityName": "Bristol"
+        "LocalAuthorityName": "Bristol",
+        "LocalAuthorityCode": "855",
+        "LocalAuthorityBusinessID": "96680"
       },
       "geometry": {
         "type": "Point",
@@ -2544,7 +2764,9 @@
         "PostCode": "RG12 1BD",
         "RatingValue": "5",
         "RatingDate": "2024-07-03T00:00:00",
-        "LocalAuthorityName": "Bracknell Forest"
+        "LocalAuthorityName": "Bracknell Forest",
+        "LocalAuthorityCode": "882",
+        "LocalAuthorityBusinessID": "18/00027/CP"
       },
       "geometry": {
         "type": "Point",
@@ -2567,7 +2789,9 @@
         "PostCode": "RG14 1AA",
         "RatingValue": "5",
         "RatingDate": "2024-07-18T00:00:00",
-        "LocalAuthorityName": "West Berkshire"
+        "LocalAuthorityName": "West Berkshire",
+        "LocalAuthorityCode": "883",
+        "LocalAuthorityBusinessID": "13/00203/FOODPR"
       },
       "geometry": {
         "type": "Point",
@@ -2590,7 +2814,9 @@
         "PostCode": "EC1V 1NR",
         "RatingValue": "5",
         "RatingDate": "2024-03-05T00:00:00",
-        "LocalAuthorityName": "Hackney"
+        "LocalAuthorityName": "Hackney",
+        "LocalAuthorityCode": "512",
+        "LocalAuthorityBusinessID": "185242"
       },
       "geometry": {
         "type": "Point",
@@ -2613,7 +2839,9 @@
         "PostCode": "SE1 2RT",
         "RatingValue": "5",
         "RatingDate": "2024-07-11T00:00:00",
-        "LocalAuthorityName": "Southwark"
+        "LocalAuthorityName": "Southwark",
+        "LocalAuthorityCode": "528",
+        "LocalAuthorityBusinessID": "174068"
       },
       "geometry": {
         "type": "Point",
@@ -2636,7 +2864,9 @@
         "PostCode": "NW6 1SA",
         "RatingValue": "5",
         "RatingDate": "2024-07-17T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "203889"
       },
       "geometry": {
         "type": "Point",
@@ -2659,7 +2889,9 @@
         "PostCode": "BH2 5LP",
         "RatingValue": "5",
         "RatingDate": "2024-07-15T00:00:00",
-        "LocalAuthorityName": "Bournemouth, Christchurch and Poole"
+        "LocalAuthorityName": "Bournemouth, Christchurch and Poole",
+        "LocalAuthorityCode": "872",
+        "LocalAuthorityBusinessID": "93656"
       },
       "geometry": {
         "type": "Point",
@@ -2682,7 +2914,9 @@
         "PostCode": "W11 3JS",
         "RatingValue": "5",
         "RatingDate": "2024-07-29T00:00:00",
-        "LocalAuthorityName": "Kensington and Chelsea"
+        "LocalAuthorityName": "Kensington and Chelsea",
+        "LocalAuthorityCode": "520",
+        "LocalAuthorityBusinessID": "INSPF/01/735089"
       },
       "geometry": {
         "type": "Point",
@@ -2705,7 +2939,9 @@
         "PostCode": "W1G 0DJ",
         "RatingValue": "5",
         "RatingDate": "2024-07-27T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "14/00171/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -2728,7 +2964,9 @@
         "PostCode": "SW9 8HE",
         "RatingValue": "5",
         "RatingDate": "2023-02-11T00:00:00",
-        "LocalAuthorityName": "Lambeth"
+        "LocalAuthorityName": "Lambeth",
+        "LocalAuthorityCode": "522",
+        "LocalAuthorityBusinessID": "17/00358/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -2751,7 +2989,9 @@
         "PostCode": "BR1 1EY",
         "RatingValue": "5",
         "RatingDate": "2024-07-29T00:00:00",
-        "LocalAuthorityName": "Bromley"
+        "LocalAuthorityName": "Bromley",
+        "LocalAuthorityCode": "505",
+        "LocalAuthorityBusinessID": "18/00154/MIXED"
       },
       "geometry": {
         "type": "Point",
@@ -2774,7 +3014,9 @@
         "PostCode": "BD1 1US",
         "RatingValue": "5",
         "RatingDate": "2023-08-01T00:00:00",
-        "LocalAuthorityName": "Bradford"
+        "LocalAuthorityName": "Bradford",
+        "LocalAuthorityCode": "404",
+        "LocalAuthorityBusinessID": "278320"
       },
       "geometry": {
         "type": "Point",
@@ -2797,7 +3039,9 @@
         "PostCode": "SE1 9LB",
         "RatingValue": "5",
         "RatingDate": "2024-08-07T00:00:00",
-        "LocalAuthorityName": "Southwark"
+        "LocalAuthorityName": "Southwark",
+        "LocalAuthorityCode": "528",
+        "LocalAuthorityBusinessID": "172946"
       },
       "geometry": {
         "type": "Point",
@@ -2820,7 +3064,9 @@
         "PostCode": "SW1Y 6PP",
         "RatingValue": "5",
         "RatingDate": "2024-08-20T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "00812/0021/0/000"
       },
       "geometry": {
         "type": "Point",
@@ -2843,7 +3089,9 @@
         "PostCode": "NW1 6UY",
         "RatingValue": "5",
         "RatingDate": "2024-08-19T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "01123/0211/0/000"
       },
       "geometry": {
         "type": "Point",
@@ -2866,7 +3114,9 @@
         "PostCode": "W11 3RB",
         "RatingValue": "5",
         "RatingDate": "2024-08-19T00:00:00",
-        "LocalAuthorityName": "Kensington and Chelsea"
+        "LocalAuthorityName": "Kensington and Chelsea",
+        "LocalAuthorityCode": "520",
+        "LocalAuthorityBusinessID": "INSPF/19/231957"
       },
       "geometry": {
         "type": "Point",
@@ -2889,7 +3139,9 @@
         "PostCode": "SW8 2LE",
         "RatingValue": "5",
         "RatingDate": "2024-08-09T00:00:00",
-        "LocalAuthorityName": "Lambeth"
+        "LocalAuthorityName": "Lambeth",
+        "LocalAuthorityCode": "522",
+        "LocalAuthorityBusinessID": "10/00179/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -2912,7 +3164,9 @@
         "PostCode": "NW11 8LH",
         "RatingValue": "5",
         "RatingDate": "2024-08-23T00:00:00",
-        "LocalAuthorityName": "Barnet"
+        "LocalAuthorityName": "Barnet",
+        "LocalAuthorityCode": "502",
+        "LocalAuthorityBusinessID": "24/00254/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -2935,7 +3189,9 @@
         "PostCode": "YO1 8RU",
         "RatingValue": "5",
         "RatingDate": "2024-08-08T00:00:00",
-        "LocalAuthorityName": "York"
+        "LocalAuthorityName": "York",
+        "LocalAuthorityCode": "868",
+        "LocalAuthorityBusinessID": "26015"
       },
       "geometry": {
         "type": "Point",
@@ -2958,7 +3214,9 @@
         "PostCode": "E1 7BS",
         "RatingValue": "5",
         "RatingDate": "2024-08-30T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000034688"
       },
       "geometry": {
         "type": "Point",
@@ -2981,7 +3239,9 @@
         "PostCode": "BA16 0BB",
         "RatingValue": "5",
         "RatingDate": "2023-09-25T00:00:00",
-        "LocalAuthorityName": "Somerset"
+        "LocalAuthorityName": "Somerset",
+        "LocalAuthorityCode": "281",
+        "LocalAuthorityBusinessID": "FR/201200112"
       },
       "geometry": {
         "type": "Point",
@@ -3004,7 +3264,9 @@
         "PostCode": "DA9 9SH",
         "RatingValue": "5",
         "RatingDate": "2024-02-20T00:00:00",
-        "LocalAuthorityName": "Dartford"
+        "LocalAuthorityName": "Dartford",
+        "LocalAuthorityCode": "181",
+        "LocalAuthorityBusinessID": "05382/3006/2/000"
       },
       "geometry": {
         "type": "Point",
@@ -3027,7 +3289,9 @@
         "PostCode": "MK9 1BB",
         "RatingValue": "5",
         "RatingDate": "2024-02-14T00:00:00",
-        "LocalAuthorityName": "Milton Keynes"
+        "LocalAuthorityName": "Milton Keynes",
+        "LocalAuthorityCode": "870",
+        "LocalAuthorityBusinessID": "91172"
       },
       "geometry": {
         "type": "Point",
@@ -3050,7 +3314,9 @@
         "PostCode": "WD17 1LQ",
         "RatingValue": "5",
         "RatingDate": "2023-07-03T00:00:00",
-        "LocalAuthorityName": "Watford"
+        "LocalAuthorityName": "Watford",
+        "LocalAuthorityCode": "163",
+        "LocalAuthorityBusinessID": "11/00062/FOOD2"
       },
       "geometry": {
         "type": "Point",
@@ -3073,7 +3339,9 @@
         "PostCode": "M50 2HF",
         "RatingValue": "5",
         "RatingDate": "2023-07-26T00:00:00",
-        "LocalAuthorityName": "Salford"
+        "LocalAuthorityName": "Salford",
+        "LocalAuthorityCode": "422",
+        "LocalAuthorityBusinessID": "161448"
       },
       "geometry": {
         "type": "Point",
@@ -3096,7 +3364,9 @@
         "PostCode": "W6 9YD",
         "RatingValue": "5",
         "RatingDate": "2023-11-11T00:00:00",
-        "LocalAuthorityName": "Hammersmith and Fulham"
+        "LocalAuthorityName": "Hammersmith and Fulham",
+        "LocalAuthorityCode": "513",
+        "LocalAuthorityBusinessID": "2007/00178/COMB"
       },
       "geometry": {
         "type": "Point",
@@ -3119,7 +3389,9 @@
         "PostCode": "KT1 1RB",
         "RatingValue": "5",
         "RatingDate": "2023-11-07T00:00:00",
-        "LocalAuthorityName": "Kingston-Upon-Thames"
+        "LocalAuthorityName": "Kingston-Upon-Thames",
+        "LocalAuthorityCode": "521",
+        "LocalAuthorityBusinessID": "13/00295/RBK"
       },
       "geometry": {
         "type": "Point",
@@ -3142,7 +3414,9 @@
         "PostCode": "EC2A 3QD",
         "RatingValue": "5",
         "RatingDate": "2023-10-12T00:00:00",
-        "LocalAuthorityName": "Hackney"
+        "LocalAuthorityName": "Hackney",
+        "LocalAuthorityCode": "512",
+        "LocalAuthorityBusinessID": "32380"
       },
       "geometry": {
         "type": "Point",
@@ -3165,7 +3439,9 @@
         "PostCode": "SW15 1SU",
         "RatingValue": "5",
         "RatingDate": "2024-02-28T00:00:00",
-        "LocalAuthorityName": "Wandsworth"
+        "LocalAuthorityName": "Wandsworth",
+        "LocalAuthorityCode": "532",
+        "LocalAuthorityBusinessID": "PI/000436313"
       },
       "geometry": {
         "type": "Point",
@@ -3188,7 +3464,9 @@
         "PostCode": "M3 3EB",
         "RatingValue": "5",
         "RatingDate": "2024-01-29T00:00:00",
-        "LocalAuthorityName": "Manchester"
+        "LocalAuthorityName": "Manchester",
+        "LocalAuthorityCode": "415",
+        "LocalAuthorityBusinessID": "968331"
       },
       "geometry": {
         "type": "Point",
@@ -3211,7 +3489,9 @@
         "PostCode": "CR0 1LD",
         "RatingValue": "5",
         "RatingDate": "2024-02-28T00:00:00",
-        "LocalAuthorityName": "Croydon"
+        "LocalAuthorityName": "Croydon",
+        "LocalAuthorityCode": "507",
+        "LocalAuthorityBusinessID": "23/00775/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -3234,7 +3514,9 @@
         "PostCode": "NE1 7AG",
         "RatingValue": "5",
         "RatingDate": "2024-03-04T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne"
+        "LocalAuthorityName": "Newcastle Upon Tyne",
+        "LocalAuthorityCode": "416",
+        "LocalAuthorityBusinessID": "07/00008/MIXED"
       },
       "geometry": {
         "type": "Point",
@@ -3257,7 +3539,9 @@
         "PostCode": "BT1 6JH",
         "RatingValue": "5",
         "RatingDate": "2024-02-27T00:00:00",
-        "LocalAuthorityName": "Belfast City"
+        "LocalAuthorityName": "Belfast City",
+        "LocalAuthorityCode": "807",
+        "LocalAuthorityBusinessID": "268114"
       },
       "geometry": {
         "type": "Point",
@@ -3280,7 +3564,9 @@
         "PostCode": "RM1 3RL",
         "RatingValue": "5",
         "RatingDate": "2024-02-28T00:00:00",
-        "LocalAuthorityName": "Havering"
+        "LocalAuthorityName": "Havering",
+        "LocalAuthorityCode": "516",
+        "LocalAuthorityBusinessID": "140250"
       },
       "geometry": {
         "type": "Point",
@@ -3303,7 +3589,9 @@
         "PostCode": "SW11 1PX",
         "RatingValue": "5",
         "RatingDate": "2024-03-04T00:00:00",
-        "LocalAuthorityName": "Wandsworth"
+        "LocalAuthorityName": "Wandsworth",
+        "LocalAuthorityCode": "532",
+        "LocalAuthorityBusinessID": "PI/000424328"
       },
       "geometry": {
         "type": "Point",
@@ -3326,7 +3614,9 @@
         "PostCode": "RH6 0NN",
         "RatingValue": "5",
         "RatingDate": "2024-03-13T00:00:00",
-        "LocalAuthorityName": "Crawley"
+        "LocalAuthorityName": "Crawley",
+        "LocalAuthorityCode": "326",
+        "LocalAuthorityBusinessID": "08/00139/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -3349,7 +3639,9 @@
         "PostCode": "CT1 2JL",
         "RatingValue": "5",
         "RatingDate": "2023-12-12T00:00:00",
-        "LocalAuthorityName": "Canterbury City"
+        "LocalAuthorityName": "Canterbury City",
+        "LocalAuthorityCode": "180",
+        "LocalAuthorityBusinessID": "73713"
       },
       "geometry": {
         "type": "Point",
@@ -3372,7 +3664,9 @@
         "PostCode": "EC3A 7BX",
         "RatingValue": "5",
         "RatingDate": "2023-12-12T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000020049"
       },
       "geometry": {
         "type": "Point",
@@ -3395,7 +3689,9 @@
         "PostCode": "SE1 7LY",
         "RatingValue": "5",
         "RatingDate": "2023-11-12T00:00:00",
-        "LocalAuthorityName": "Lambeth"
+        "LocalAuthorityName": "Lambeth",
+        "LocalAuthorityCode": "522",
+        "LocalAuthorityBusinessID": "13/00194/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -3418,7 +3714,9 @@
         "PostCode": "M1 5EL",
         "RatingValue": "5",
         "RatingDate": "2023-12-08T00:00:00",
-        "LocalAuthorityName": "Manchester"
+        "LocalAuthorityName": "Manchester",
+        "LocalAuthorityCode": "415",
+        "LocalAuthorityBusinessID": "1499651"
       },
       "geometry": {
         "type": "Point",
@@ -3441,7 +3739,9 @@
         "PostCode": "BS8 1QE",
         "RatingValue": "5",
         "RatingDate": "2023-11-13T00:00:00",
-        "LocalAuthorityName": "Bristol"
+        "LocalAuthorityName": "Bristol",
+        "LocalAuthorityCode": "855",
+        "LocalAuthorityBusinessID": "5688"
       },
       "geometry": {
         "type": "Point",
@@ -3464,7 +3764,9 @@
         "PostCode": "RH6 0NP",
         "RatingValue": "5",
         "RatingDate": "2023-12-05T00:00:00",
-        "LocalAuthorityName": "Crawley"
+        "LocalAuthorityName": "Crawley",
+        "LocalAuthorityCode": "326",
+        "LocalAuthorityBusinessID": "09/00066/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -3487,7 +3789,9 @@
         "PostCode": "W14 0QH",
         "RatingValue": "5",
         "RatingDate": "2024-01-04T00:00:00",
-        "LocalAuthorityName": "Hammersmith and Fulham"
+        "LocalAuthorityName": "Hammersmith and Fulham",
+        "LocalAuthorityCode": "513",
+        "LocalAuthorityBusinessID": "2017/00126/COMB"
       },
       "geometry": {
         "type": "Point",
@@ -3510,7 +3814,9 @@
         "PostCode": "WC1X 8SL",
         "RatingValue": "5",
         "RatingDate": "2024-01-10T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "11457"
       },
       "geometry": {
         "type": "Point",
@@ -3533,7 +3839,9 @@
         "PostCode": "PO19 1HS",
         "RatingValue": "5",
         "RatingDate": "2024-01-15T00:00:00",
-        "LocalAuthorityName": "Chichester"
+        "LocalAuthorityName": "Chichester",
+        "LocalAuthorityCode": "325",
+        "LocalAuthorityBusinessID": "23/00167/FOOD"
       },
       "geometry": {
         "type": "Point",
@@ -3556,7 +3864,9 @@
         "PostCode": "S9 1EH",
         "RatingValue": "5",
         "RatingDate": "2024-01-16T00:00:00",
-        "LocalAuthorityName": "Sheffield"
+        "LocalAuthorityName": "Sheffield",
+        "LocalAuthorityCode": "425",
+        "LocalAuthorityBusinessID": "44081"
       },
       "geometry": {
         "type": "Point",
@@ -3579,7 +3889,9 @@
         "PostCode": "TW18 4UP",
         "RatingValue": "5",
         "RatingDate": "2024-01-12T00:00:00",
-        "LocalAuthorityName": "Spelthorne"
+        "LocalAuthorityName": "Spelthorne",
+        "LocalAuthorityCode": "311",
+        "LocalAuthorityBusinessID": "23/00159/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -3602,7 +3914,9 @@
         "PostCode": "LS2 7AR",
         "RatingValue": "5",
         "RatingDate": "2023-06-07T00:00:00",
-        "LocalAuthorityName": "Leeds"
+        "LocalAuthorityName": "Leeds",
+        "LocalAuthorityCode": "413",
+        "LocalAuthorityBusinessID": "16/00692/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -3625,7 +3939,9 @@
         "PostCode": "W12 7HT",
         "RatingValue": "5",
         "RatingDate": "2024-01-31T00:00:00",
-        "LocalAuthorityName": "Hammersmith and Fulham"
+        "LocalAuthorityName": "Hammersmith and Fulham",
+        "LocalAuthorityCode": "513",
+        "LocalAuthorityBusinessID": "2018/00046/COMB"
       },
       "geometry": {
         "type": "Point",
@@ -3648,7 +3964,9 @@
         "PostCode": "YO19 4TA",
         "RatingValue": "5",
         "RatingDate": "2023-11-28T00:00:00",
-        "LocalAuthorityName": "York"
+        "LocalAuthorityName": "York",
+        "LocalAuthorityCode": "868",
+        "LocalAuthorityBusinessID": "26718"
       },
       "geometry": {
         "type": "Point",
@@ -3671,7 +3989,9 @@
         "PostCode": "CH65 9LA",
         "RatingValue": "5",
         "RatingDate": "2023-08-31T00:00:00",
-        "LocalAuthorityName": "Cheshire West and Chester"
+        "LocalAuthorityName": "Cheshire West and Chester",
+        "LocalAuthorityCode": "704",
+        "LocalAuthorityBusinessID": "11/00110/COM"
       },
       "geometry": {
         "type": "Point",
@@ -3694,7 +4014,9 @@
         "PostCode": "SW7 4SS",
         "RatingValue": "5",
         "RatingDate": "2023-09-29T00:00:00",
-        "LocalAuthorityName": "Kensington and Chelsea"
+        "LocalAuthorityName": "Kensington and Chelsea",
+        "LocalAuthorityCode": "520",
+        "LocalAuthorityBusinessID": "INSPF/07/027140"
       },
       "geometry": {
         "type": "Point",
@@ -3717,7 +4039,9 @@
         "PostCode": "EC1A 2AT",
         "RatingValue": "5",
         "RatingDate": "2023-10-09T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000007020"
       },
       "geometry": {
         "type": "Point",
@@ -3740,7 +4064,9 @@
         "PostCode": "ME14 1QG",
         "RatingValue": "5",
         "RatingDate": "2023-10-11T00:00:00",
-        "LocalAuthorityName": "Maidstone"
+        "LocalAuthorityName": "Maidstone",
+        "LocalAuthorityCode": "185",
+        "LocalAuthorityBusinessID": "PI/000083736/MA"
       },
       "geometry": {
         "type": "Point",
@@ -3763,7 +4089,9 @@
         "PostCode": "WC1V 7EE",
         "RatingValue": "5",
         "RatingDate": "2024-01-24T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "78850"
       },
       "geometry": {
         "type": "Point",
@@ -3786,7 +4114,9 @@
         "PostCode": "EC2M 5QD",
         "RatingValue": "5",
         "RatingDate": "2024-02-14T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000026659"
       },
       "geometry": {
         "type": "Point",
@@ -3809,7 +4139,9 @@
         "PostCode": "L1 8BQ",
         "RatingValue": "5",
         "RatingDate": "2020-12-07T00:00:00",
-        "LocalAuthorityName": "Liverpool"
+        "LocalAuthorityName": "Liverpool",
+        "LocalAuthorityCode": "414",
+        "LocalAuthorityBusinessID": "PI/000236162"
       },
       "geometry": {
         "type": "Point",
@@ -3832,7 +4164,9 @@
         "PostCode": "SE1 8XX",
         "RatingValue": "5",
         "RatingDate": "2022-04-09T00:00:00",
-        "LocalAuthorityName": "Lambeth"
+        "LocalAuthorityName": "Lambeth",
+        "LocalAuthorityCode": "522",
+        "LocalAuthorityBusinessID": "22/00105/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -3855,7 +4189,9 @@
         "PostCode": "TW3 1HL",
         "RatingValue": "5",
         "RatingDate": "2022-05-13T00:00:00",
-        "LocalAuthorityName": "Hounslow"
+        "LocalAuthorityName": "Hounslow",
+        "LocalAuthorityCode": "518",
+        "LocalAuthorityBusinessID": "14340"
       },
       "geometry": {
         "type": "Point",
@@ -3878,7 +4214,9 @@
         "PostCode": "M90 1QX",
         "RatingValue": "5",
         "RatingDate": "2022-04-12T00:00:00",
-        "LocalAuthorityName": "Manchester"
+        "LocalAuthorityName": "Manchester",
+        "LocalAuthorityCode": "415",
+        "LocalAuthorityBusinessID": "1504254"
       },
       "geometry": {
         "type": "Point",
@@ -3901,7 +4239,9 @@
         "PostCode": "E14 9SH",
         "RatingValue": "5",
         "RatingDate": "2022-06-17T00:00:00",
-        "LocalAuthorityName": "Tower Hamlets"
+        "LocalAuthorityName": "Tower Hamlets",
+        "LocalAuthorityCode": "530",
+        "LocalAuthorityBusinessID": "197422"
       },
       "geometry": {
         "type": "Point",
@@ -3924,7 +4264,9 @@
         "PostCode": "W1T 7RB",
         "RatingValue": "5",
         "RatingDate": "2022-08-22T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "201339"
       },
       "geometry": {
         "type": "Point",
@@ -3947,7 +4289,9 @@
         "PostCode": "MK9 3AJ",
         "RatingValue": "5",
         "RatingDate": "2022-10-27T00:00:00",
-        "LocalAuthorityName": "Milton Keynes"
+        "LocalAuthorityName": "Milton Keynes",
+        "LocalAuthorityCode": "870",
+        "LocalAuthorityBusinessID": "83143"
       },
       "geometry": {
         "type": "Point",
@@ -3970,7 +4314,9 @@
         "PostCode": "WC1H 9LY",
         "RatingValue": "5",
         "RatingDate": "2022-10-10T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "83039"
       },
       "geometry": {
         "type": "Point",
@@ -3993,7 +4339,9 @@
         "PostCode": "EC1N 7RA",
         "RatingValue": "5",
         "RatingDate": "2022-10-26T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "183247"
       },
       "geometry": {
         "type": "Point",
@@ -4016,7 +4364,9 @@
         "PostCode": "E8 2JP",
         "RatingValue": "5",
         "RatingDate": "2020-11-03T00:00:00",
-        "LocalAuthorityName": "Hackney"
+        "LocalAuthorityName": "Hackney",
+        "LocalAuthorityCode": "512",
+        "LocalAuthorityBusinessID": "120319"
       },
       "geometry": {
         "type": "Point",
@@ -4039,7 +4389,9 @@
         "PostCode": "E1 6HU",
         "RatingValue": "5",
         "RatingDate": "2022-10-20T00:00:00",
-        "LocalAuthorityName": "Hackney"
+        "LocalAuthorityName": "Hackney",
+        "LocalAuthorityCode": "512",
+        "LocalAuthorityBusinessID": "19975"
       },
       "geometry": {
         "type": "Point",
@@ -4062,7 +4414,9 @@
         "PostCode": "SE1 7HR",
         "RatingValue": "5",
         "RatingDate": "2023-01-23T00:00:00",
-        "LocalAuthorityName": "Lambeth"
+        "LocalAuthorityName": "Lambeth",
+        "LocalAuthorityCode": "522",
+        "LocalAuthorityBusinessID": "17/00203/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -4085,7 +4439,9 @@
         "PostCode": "WC1N 1BY",
         "RatingValue": "5",
         "RatingDate": "2023-01-30T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "49864"
       },
       "geometry": {
         "type": "Point",
@@ -4108,7 +4464,9 @@
         "PostCode": "W1T 2EY",
         "RatingValue": "5",
         "RatingDate": "2023-01-30T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "57702"
       },
       "geometry": {
         "type": "Point",
@@ -4131,7 +4489,9 @@
         "PostCode": "OX2 7BY",
         "RatingValue": "5",
         "RatingDate": "2023-02-08T00:00:00",
-        "LocalAuthorityName": "Oxford City"
+        "LocalAuthorityName": "Oxford City",
+        "LocalAuthorityCode": "269",
+        "LocalAuthorityBusinessID": "22/00174/COM"
       },
       "geometry": {
         "type": "Point",
@@ -4154,7 +4514,9 @@
         "PostCode": "E20 1ES",
         "RatingValue": "5",
         "RatingDate": "2023-03-07T00:00:00",
-        "LocalAuthorityName": "Newham"
+        "LocalAuthorityName": "Newham",
+        "LocalAuthorityCode": "525",
+        "LocalAuthorityBusinessID": "12/00167/FOOD"
       },
       "geometry": {
         "type": "Point",
@@ -4177,7 +4539,9 @@
         "PostCode": "E1 8DA",
         "RatingValue": "5",
         "RatingDate": "2022-12-16T00:00:00",
-        "LocalAuthorityName": "Tower Hamlets"
+        "LocalAuthorityName": "Tower Hamlets",
+        "LocalAuthorityCode": "530",
+        "LocalAuthorityBusinessID": "152552"
       },
       "geometry": {
         "type": "Point",
@@ -4200,7 +4564,9 @@
         "PostCode": "OX1 1HS",
         "RatingValue": "5",
         "RatingDate": "2022-12-07T00:00:00",
-        "LocalAuthorityName": "Oxford City"
+        "LocalAuthorityName": "Oxford City",
+        "LocalAuthorityCode": "269",
+        "LocalAuthorityBusinessID": "22/00175/COM"
       },
       "geometry": {
         "type": "Point",
@@ -4223,7 +4589,9 @@
         "PostCode": "W6 0QA",
         "RatingValue": "5",
         "RatingDate": "2022-11-24T00:00:00",
-        "LocalAuthorityName": "Hammersmith and Fulham"
+        "LocalAuthorityName": "Hammersmith and Fulham",
+        "LocalAuthorityCode": "513",
+        "LocalAuthorityBusinessID": "02214/0008/3/002"
       },
       "geometry": {
         "type": "Point",
@@ -4246,7 +4614,9 @@
         "PostCode": "W1T 5LL",
         "RatingValue": "5",
         "RatingDate": "2023-01-17T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "80399"
       },
       "geometry": {
         "type": "Point",
@@ -4269,7 +4639,9 @@
         "PostCode": "NW1 2SX",
         "RatingValue": "5",
         "RatingDate": "2023-03-08T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "57010"
       },
       "geometry": {
         "type": "Point",
@@ -4292,7 +4664,9 @@
         "PostCode": "RH2 7AA",
         "RatingValue": "5",
         "RatingDate": "2023-03-21T00:00:00",
-        "LocalAuthorityName": "Reigate and Banstead"
+        "LocalAuthorityName": "Reigate and Banstead",
+        "LocalAuthorityCode": "309",
+        "LocalAuthorityBusinessID": "22/00184/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -4315,7 +4689,9 @@
         "PostCode": "NW1 0JH",
         "RatingValue": "5",
         "RatingDate": "2023-03-01T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "196591"
       },
       "geometry": {
         "type": "Point",
@@ -4338,7 +4714,9 @@
         "PostCode": "B3 3NH",
         "RatingValue": "5",
         "RatingDate": "2023-03-14T00:00:00",
-        "LocalAuthorityName": "Birmingham"
+        "LocalAuthorityName": "Birmingham",
+        "LocalAuthorityCode": "402",
+        "LocalAuthorityBusinessID": "PI/000648770"
       },
       "geometry": {
         "type": "Point",
@@ -4361,7 +4739,9 @@
         "PostCode": "E2 7DG",
         "RatingValue": "5",
         "RatingDate": "2023-04-06T00:00:00",
-        "LocalAuthorityName": "Tower Hamlets"
+        "LocalAuthorityName": "Tower Hamlets",
+        "LocalAuthorityCode": "530",
+        "LocalAuthorityBusinessID": "194703"
       },
       "geometry": {
         "type": "Point",
@@ -4384,7 +4764,9 @@
         "PostCode": "NW3 6LP",
         "RatingValue": "5",
         "RatingDate": "2023-03-21T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "196111"
       },
       "geometry": {
         "type": "Point",
@@ -4407,7 +4789,9 @@
         "PostCode": "LA8 9PY",
         "RatingValue": "5",
         "RatingDate": "2023-04-14T00:00:00",
-        "LocalAuthorityName": "Westmorland and Furness"
+        "LocalAuthorityName": "Westmorland and Furness",
+        "LocalAuthorityCode": "056",
+        "LocalAuthorityBusinessID": "72674"
       },
       "geometry": {
         "type": "Point",
@@ -4430,7 +4814,9 @@
         "PostCode": "SW5 9AA",
         "RatingValue": "5",
         "RatingDate": "2023-04-04T00:00:00",
-        "LocalAuthorityName": "Kensington and Chelsea"
+        "LocalAuthorityName": "Kensington and Chelsea",
+        "LocalAuthorityCode": "520",
+        "LocalAuthorityBusinessID": "INSPF/12/116519"
       },
       "geometry": {
         "type": "Point",
@@ -4453,7 +4839,9 @@
         "PostCode": "LS22 5GT",
         "RatingValue": "5",
         "RatingDate": "2022-10-28T00:00:00",
-        "LocalAuthorityName": "North Yorkshire"
+        "LocalAuthorityName": "North Yorkshire",
+        "LocalAuthorityCode": "250",
+        "LocalAuthorityBusinessID": "PI/000122126"
       },
       "geometry": {
         "type": "Point",
@@ -4476,7 +4864,9 @@
         "PostCode": "WV11 2AT",
         "RatingValue": "5",
         "RatingDate": "2024-08-21T00:00:00",
-        "LocalAuthorityName": "South Staffordshire"
+        "LocalAuthorityName": "South Staffordshire",
+        "LocalAuthorityCode": "291",
+        "LocalAuthorityBusinessID": "ES-98"
       },
       "geometry": {
         "type": "Point",
@@ -4499,7 +4889,9 @@
         "PostCode": "W8 5SF",
         "RatingValue": "5",
         "RatingDate": "2024-09-26T00:00:00",
-        "LocalAuthorityName": "Kensington and Chelsea"
+        "LocalAuthorityName": "Kensington and Chelsea",
+        "LocalAuthorityCode": "520",
+        "LocalAuthorityBusinessID": "INSPF/94/569716"
       },
       "geometry": {
         "type": "Point",
@@ -4522,7 +4914,9 @@
         "PostCode": "CA4 0NT",
         "RatingValue": "5",
         "RatingDate": "2024-07-24T00:00:00",
-        "LocalAuthorityName": "Westmorland and Furness"
+        "LocalAuthorityName": "Westmorland and Furness",
+        "LocalAuthorityCode": "056",
+        "LocalAuthorityBusinessID": "10558"
       },
       "geometry": {
         "type": "Point",
@@ -4545,7 +4939,9 @@
         "PostCode": "KT11 3EB",
         "RatingValue": "5",
         "RatingDate": "2024-04-16T00:00:00",
-        "LocalAuthorityName": "Elmbridge"
+        "LocalAuthorityName": "Elmbridge",
+        "LocalAuthorityCode": "305",
+        "LocalAuthorityBusinessID": "FR/202100189"
       },
       "geometry": {
         "type": "Point",
@@ -4568,7 +4964,9 @@
         "PostCode": "CM1 1BE",
         "RatingValue": "5",
         "RatingDate": "2024-11-06T00:00:00",
-        "LocalAuthorityName": "Chelmsford"
+        "LocalAuthorityName": "Chelmsford",
+        "LocalAuthorityCode": "113",
+        "LocalAuthorityBusinessID": "22/00102/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -4591,7 +4989,9 @@
         "PostCode": "TW9 1HY",
         "RatingValue": "5",
         "RatingDate": "2024-11-12T00:00:00",
-        "LocalAuthorityName": "Richmond-Upon-Thames"
+        "LocalAuthorityName": "Richmond-Upon-Thames",
+        "LocalAuthorityCode": "527",
+        "LocalAuthorityBusinessID": "PI/000423034"
       },
       "geometry": {
         "type": "Point",
@@ -4614,7 +5014,9 @@
         "PostCode": "TN24 0DQ",
         "RatingValue": "5",
         "RatingDate": "2023-11-23T00:00:00",
-        "LocalAuthorityName": "Ashford"
+        "LocalAuthorityName": "Ashford",
+        "LocalAuthorityCode": "179",
+        "LocalAuthorityBusinessID": "05101"
       },
       "geometry": {
         "type": "Point",
@@ -4637,7 +5039,9 @@
         "PostCode": "SO23 9BL",
         "RatingValue": "5",
         "RatingDate": "2024-12-12T00:00:00",
-        "LocalAuthorityName": "Winchester City"
+        "LocalAuthorityName": "Winchester City",
+        "LocalAuthorityCode": "143",
+        "LocalAuthorityBusinessID": "16/00206/MIXED"
       },
       "geometry": {
         "type": "Point",
@@ -4660,7 +5064,9 @@
         "PostCode": "SG1 5ES",
         "RatingValue": "5",
         "RatingDate": "2024-12-17T00:00:00",
-        "LocalAuthorityName": "Stevenage"
+        "LocalAuthorityName": "Stevenage",
+        "LocalAuthorityCode": "161",
+        "LocalAuthorityBusinessID": "23/00104/REST"
       },
       "geometry": {
         "type": "Point",
@@ -4683,7 +5089,9 @@
         "PostCode": "GL50 1DF",
         "RatingValue": "5",
         "RatingDate": "2023-05-09T00:00:00",
-        "LocalAuthorityName": "Cheltenham"
+        "LocalAuthorityName": "Cheltenham",
+        "LocalAuthorityCode": "124",
+        "LocalAuthorityBusinessID": "17/00093/FOOD"
       },
       "geometry": {
         "type": "Point",
@@ -4706,7 +5114,9 @@
         "PostCode": "PO1 3TZ",
         "RatingValue": "5",
         "RatingDate": "2017-11-14T00:00:00",
-        "LocalAuthorityName": "Portsmouth"
+        "LocalAuthorityName": "Portsmouth",
+        "LocalAuthorityCode": "876",
+        "LocalAuthorityBusinessID": "51141"
       },
       "geometry": {
         "type": "Point",
@@ -4729,7 +5139,9 @@
         "PostCode": "EC1A 9HF",
         "RatingValue": "5",
         "RatingDate": "2023-05-18T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000015245"
       },
       "geometry": {
         "type": "Point",
@@ -4752,7 +5164,9 @@
         "PostCode": "BS7 8TX",
         "RatingValue": "5",
         "RatingDate": "2023-05-22T00:00:00",
-        "LocalAuthorityName": "Bristol"
+        "LocalAuthorityName": "Bristol",
+        "LocalAuthorityCode": "855",
+        "LocalAuthorityBusinessID": "258038"
       },
       "geometry": {
         "type": "Point",
@@ -4775,7 +5189,9 @@
         "PostCode": "N16 0PE",
         "RatingValue": "5",
         "RatingDate": "2023-05-26T00:00:00",
-        "LocalAuthorityName": "Hackney"
+        "LocalAuthorityName": "Hackney",
+        "LocalAuthorityCode": "512",
+        "LocalAuthorityBusinessID": "HAC1335"
       },
       "geometry": {
         "type": "Point",
@@ -4798,7 +5214,9 @@
         "PostCode": "CF10 1FS",
         "RatingValue": "5",
         "RatingDate": "2023-04-06T00:00:00",
-        "LocalAuthorityName": "Cardiff"
+        "LocalAuthorityName": "Cardiff",
+        "LocalAuthorityCode": "556",
+        "LocalAuthorityBusinessID": "786816"
       },
       "geometry": {
         "type": "Point",
@@ -4821,7 +5239,9 @@
         "PostCode": "W5 5DB",
         "RatingValue": "5",
         "RatingDate": "2023-04-04T00:00:00",
-        "LocalAuthorityName": "Ealing"
+        "LocalAuthorityName": "Ealing",
+        "LocalAuthorityCode": "509",
+        "LocalAuthorityBusinessID": "PI000169258"
       },
       "geometry": {
         "type": "Point",
@@ -4844,7 +5264,9 @@
         "PostCode": "KT6 4JU",
         "RatingValue": "5",
         "RatingDate": "2023-04-26T00:00:00",
-        "LocalAuthorityName": "Kingston-Upon-Thames"
+        "LocalAuthorityName": "Kingston-Upon-Thames",
+        "LocalAuthorityCode": "521",
+        "LocalAuthorityBusinessID": "23/00111/COM"
       },
       "geometry": {
         "type": "Point",
@@ -4867,7 +5289,9 @@
         "PostCode": "EN6 3QQ",
         "RatingValue": "5",
         "RatingDate": "2023-04-14T00:00:00",
-        "LocalAuthorityName": "Hertsmere"
+        "LocalAuthorityName": "Hertsmere",
+        "LocalAuthorityCode": "158",
+        "LocalAuthorityBusinessID": "260753"
       },
       "geometry": {
         "type": "Point",
@@ -4890,7 +5314,9 @@
         "PostCode": "EC3N 2LR",
         "RatingValue": "5",
         "RatingDate": "2021-08-03T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000000232"
       },
       "geometry": {
         "type": "Point",
@@ -4913,7 +5339,9 @@
         "PostCode": "EC2N 1AR",
         "RatingValue": "5",
         "RatingDate": "2022-03-09T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000026908"
       },
       "geometry": {
         "type": "Point",
@@ -4936,7 +5364,9 @@
         "PostCode": "EC2N 3AS",
         "RatingValue": "5",
         "RatingDate": "2022-03-10T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000025561"
       },
       "geometry": {
         "type": "Point",
@@ -4959,7 +5389,9 @@
         "PostCode": "EC4A 2BH",
         "RatingValue": "5",
         "RatingDate": "2022-06-28T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000005958"
       },
       "geometry": {
         "type": "Point",
@@ -4982,7 +5414,9 @@
         "PostCode": "EC2M 2AT",
         "RatingValue": "5",
         "RatingDate": "2021-09-16T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000037605"
       },
       "geometry": {
         "type": "Point",
@@ -5005,7 +5439,9 @@
         "PostCode": "EC2M 7PD",
         "RatingValue": "5",
         "RatingDate": "2022-02-23T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000034689"
       },
       "geometry": {
         "type": "Point",
@@ -5028,7 +5464,9 @@
         "PostCode": "EC2M 7LA",
         "RatingValue": "5",
         "RatingDate": "2022-07-28T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000005137"
       },
       "geometry": {
         "type": "Point",
@@ -5051,7 +5489,9 @@
         "PostCode": "EC4N 1SA",
         "RatingValue": "5",
         "RatingDate": "2022-05-18T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000025572"
       },
       "geometry": {
         "type": "Point",
@@ -5074,7 +5514,9 @@
         "PostCode": "EC2R 5BT",
         "RatingValue": "5",
         "RatingDate": "2022-05-16T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000016380"
       },
       "geometry": {
         "type": "Point",
@@ -5097,7 +5539,9 @@
         "PostCode": "EC2V 7PG",
         "RatingValue": "5",
         "RatingDate": "2022-05-18T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000014990"
       },
       "geometry": {
         "type": "Point",
@@ -5120,7 +5564,9 @@
         "PostCode": "EC4A 4AB",
         "RatingValue": "5",
         "RatingDate": "2022-09-01T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000020107"
       },
       "geometry": {
         "type": "Point",
@@ -5143,7 +5589,9 @@
         "PostCode": "EC2V 7HR",
         "RatingValue": "5",
         "RatingDate": "2022-08-17T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000016283"
       },
       "geometry": {
         "type": "Point",
@@ -5166,7 +5614,9 @@
         "PostCode": "EC1A 4HD",
         "RatingValue": "5",
         "RatingDate": "2022-09-30T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000017321"
       },
       "geometry": {
         "type": "Point",
@@ -5189,7 +5639,9 @@
         "PostCode": "EC3N 1LH",
         "RatingValue": "5",
         "RatingDate": "2022-09-16T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000019254"
       },
       "geometry": {
         "type": "Point",
@@ -5212,7 +5664,9 @@
         "PostCode": "EC3V 0AS",
         "RatingValue": "5",
         "RatingDate": "2022-09-06T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000028880"
       },
       "geometry": {
         "type": "Point",
@@ -5235,7 +5689,9 @@
         "PostCode": "EC1N 2PB",
         "RatingValue": "5",
         "RatingDate": "2022-11-09T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000016092"
       },
       "geometry": {
         "type": "Point",
@@ -5258,7 +5714,9 @@
         "PostCode": "EC4V 4BJ",
         "RatingValue": "5",
         "RatingDate": "2023-01-09T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000017511"
       },
       "geometry": {
         "type": "Point",
@@ -5281,7 +5739,9 @@
         "PostCode": "EC4M 7AE",
         "RatingValue": "5",
         "RatingDate": "2022-11-10T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000008589"
       },
       "geometry": {
         "type": "Point",
@@ -5304,7 +5764,9 @@
         "PostCode": "EC2M 6XQ",
         "RatingValue": "5",
         "RatingDate": "2023-03-24T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000034754"
       },
       "geometry": {
         "type": "Point",
@@ -5327,7 +5789,9 @@
         "PostCode": "EC4R 9AN",
         "RatingValue": "5",
         "RatingDate": "2023-04-04T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000015098"
       },
       "geometry": {
         "type": "Point",
@@ -5350,7 +5814,9 @@
         "PostCode": "EC3V 9AN",
         "RatingValue": "5",
         "RatingDate": "2023-04-04T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000015879"
       },
       "geometry": {
         "type": "Point",
@@ -5373,7 +5839,9 @@
         "PostCode": "EC3R 5AA",
         "RatingValue": "5",
         "RatingDate": "2023-04-11T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000006645"
       },
       "geometry": {
         "type": "Point",
@@ -5396,7 +5864,9 @@
         "PostCode": "EC2N 1BG",
         "RatingValue": "5",
         "RatingDate": "2022-08-31T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000101815"
       },
       "geometry": {
         "type": "Point",
@@ -5419,7 +5889,9 @@
         "PostCode": "W12 7GF",
         "RatingValue": "5",
         "RatingDate": "2023-04-28T00:00:00",
-        "LocalAuthorityName": "Hammersmith and Fulham"
+        "LocalAuthorityName": "Hammersmith and Fulham",
+        "LocalAuthorityCode": "513",
+        "LocalAuthorityBusinessID": "2011/00069/COMB"
       },
       "geometry": {
         "type": "Point",
@@ -5442,7 +5914,9 @@
         "PostCode": "BR5 3RP",
         "RatingValue": "5",
         "RatingDate": "2023-08-08T00:00:00",
-        "LocalAuthorityName": "Bromley"
+        "LocalAuthorityName": "Bromley",
+        "LocalAuthorityCode": "505",
+        "LocalAuthorityBusinessID": "17/00287/MIXED"
       },
       "geometry": {
         "type": "Point",
@@ -5465,7 +5939,9 @@
         "PostCode": "CM23 3UH",
         "RatingValue": "5",
         "RatingDate": "2023-08-08T00:00:00",
-        "LocalAuthorityName": "East Hertfordshire"
+        "LocalAuthorityName": "East Hertfordshire",
+        "LocalAuthorityCode": "157",
+        "LocalAuthorityBusinessID": "23/00001/CP"
       },
       "geometry": {
         "type": "Point",
@@ -5488,7 +5964,9 @@
         "PostCode": "EC3R 6AH",
         "RatingValue": "5",
         "RatingDate": "2023-07-28T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000021594"
       },
       "geometry": {
         "type": "Point",
@@ -5511,7 +5989,9 @@
         "PostCode": "KT1 1UJ",
         "RatingValue": "5",
         "RatingDate": "2022-02-11T00:00:00",
-        "LocalAuthorityName": "Kingston-Upon-Thames"
+        "LocalAuthorityName": "Kingston-Upon-Thames",
+        "LocalAuthorityCode": "521",
+        "LocalAuthorityBusinessID": "17/96146/RBK"
       },
       "geometry": {
         "type": "Point",
@@ -5534,7 +6014,9 @@
         "PostCode": "CV4 7ES",
         "RatingValue": "5",
         "RatingDate": "2022-05-23T00:00:00",
-        "LocalAuthorityName": "Coventry"
+        "LocalAuthorityName": "Coventry",
+        "LocalAuthorityCode": "407",
+        "LocalAuthorityBusinessID": "PI/000217333"
       },
       "geometry": {
         "type": "Point",
@@ -5557,7 +6039,9 @@
         "PostCode": "BS1 1PN",
         "RatingValue": "5",
         "RatingDate": "2023-07-04T00:00:00",
-        "LocalAuthorityName": "Bristol"
+        "LocalAuthorityName": "Bristol",
+        "LocalAuthorityCode": "855",
+        "LocalAuthorityBusinessID": "251353"
       },
       "geometry": {
         "type": "Point",
@@ -5580,7 +6064,9 @@
         "PostCode": "M12 6JZ",
         "RatingValue": "5",
         "RatingDate": "2023-06-06T00:00:00",
-        "LocalAuthorityName": "Manchester"
+        "LocalAuthorityName": "Manchester",
+        "LocalAuthorityCode": "415",
+        "LocalAuthorityBusinessID": "1523737"
       },
       "geometry": {
         "type": "Point",
@@ -5603,7 +6089,9 @@
         "PostCode": "N1 9AB",
         "RatingValue": "5",
         "RatingDate": "2022-09-07T00:00:00",
-        "LocalAuthorityName": "Islington"
+        "LocalAuthorityName": "Islington",
+        "LocalAuthorityCode": "519",
+        "LocalAuthorityBusinessID": "PI/000153296"
       },
       "geometry": {
         "type": "Point",
@@ -5626,7 +6114,9 @@
         "PostCode": "N7 8FB",
         "RatingValue": "5",
         "RatingDate": "2022-09-07T00:00:00",
-        "LocalAuthorityName": "Islington"
+        "LocalAuthorityName": "Islington",
+        "LocalAuthorityCode": "519",
+        "LocalAuthorityBusinessID": "PI/000279085"
       },
       "geometry": {
         "type": "Point",
@@ -5649,7 +6139,9 @@
         "PostCode": "EC1Y 4AB",
         "RatingValue": "5",
         "RatingDate": "2022-09-06T00:00:00",
-        "LocalAuthorityName": "Islington"
+        "LocalAuthorityName": "Islington",
+        "LocalAuthorityCode": "519",
+        "LocalAuthorityBusinessID": "PI/000285765"
       },
       "geometry": {
         "type": "Point",
@@ -5672,7 +6164,9 @@
         "PostCode": "SW3 1HY",
         "RatingValue": "5",
         "RatingDate": "2023-07-19T00:00:00",
-        "LocalAuthorityName": "Kensington and Chelsea"
+        "LocalAuthorityName": "Kensington and Chelsea",
+        "LocalAuthorityCode": "520",
+        "LocalAuthorityBusinessID": "INSPF/02/762100"
       },
       "geometry": {
         "type": "Point",
@@ -5695,7 +6189,9 @@
         "PostCode": "BN11 3AX",
         "RatingValue": "5",
         "RatingDate": "2023-06-26T00:00:00",
-        "LocalAuthorityName": "Worthing"
+        "LocalAuthorityName": "Worthing",
+        "LocalAuthorityCode": "329",
+        "LocalAuthorityBusinessID": "PI/000064445"
       },
       "geometry": {
         "type": "Point",
@@ -5718,7 +6214,9 @@
         "PostCode": "SE1 9SE",
         "RatingValue": "5",
         "RatingDate": "2023-06-30T00:00:00",
-        "LocalAuthorityName": "Southwark"
+        "LocalAuthorityName": "Southwark",
+        "LocalAuthorityCode": "528",
+        "LocalAuthorityBusinessID": "183608"
       },
       "geometry": {
         "type": "Point",
@@ -5741,7 +6239,9 @@
         "PostCode": "SW7 3HZ",
         "RatingValue": "5",
         "RatingDate": "2023-06-27T00:00:00",
-        "LocalAuthorityName": "Kensington and Chelsea"
+        "LocalAuthorityName": "Kensington and Chelsea",
+        "LocalAuthorityCode": "520",
+        "LocalAuthorityBusinessID": "INSPF/06/015052"
       },
       "geometry": {
         "type": "Point",
@@ -5764,7 +6264,9 @@
         "PostCode": "CM77 8YH",
         "RatingValue": "5",
         "RatingDate": "2023-06-21T00:00:00",
-        "LocalAuthorityName": "Braintree"
+        "LocalAuthorityName": "Braintree",
+        "LocalAuthorityCode": "110",
+        "LocalAuthorityBusinessID": "23/00072/MIXED"
       },
       "geometry": {
         "type": "Point",
@@ -5787,7 +6289,9 @@
         "PostCode": "LS2 8LX",
         "RatingValue": "5",
         "RatingDate": "2023-06-27T00:00:00",
-        "LocalAuthorityName": "Leeds"
+        "LocalAuthorityName": "Leeds",
+        "LocalAuthorityCode": "413",
+        "LocalAuthorityBusinessID": "22/01215/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -5810,7 +6314,9 @@
         "PostCode": "CM23 5QZ",
         "RatingValue": "5",
         "RatingDate": "2023-07-05T00:00:00",
-        "LocalAuthorityName": "Uttlesford"
+        "LocalAuthorityName": "Uttlesford",
+        "LocalAuthorityCode": "122",
+        "LocalAuthorityBusinessID": "23/00033/COM"
       },
       "geometry": {
         "type": "Point",
@@ -5833,7 +6339,9 @@
         "PostCode": "EC2V 6BJ",
         "RatingValue": "5",
         "RatingDate": "2023-06-28T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000002762"
       },
       "geometry": {
         "type": "Point",
@@ -5856,7 +6364,9 @@
         "PostCode": "NW6 6JE",
         "RatingValue": "5",
         "RatingDate": "2023-02-20T00:00:00",
-        "LocalAuthorityName": "Brent"
+        "LocalAuthorityName": "Brent",
+        "LocalAuthorityCode": "504",
+        "LocalAuthorityBusinessID": "14424"
       },
       "geometry": {
         "type": "Point",
@@ -5879,7 +6389,9 @@
         "PostCode": "WC1V 6AN",
         "RatingValue": "5",
         "RatingDate": "2022-11-24T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "61379"
       },
       "geometry": {
         "type": "Point",
@@ -5902,7 +6414,9 @@
         "PostCode": "SW10 9TN",
         "RatingValue": "5",
         "RatingDate": "2023-01-09T00:00:00",
-        "LocalAuthorityName": "Kensington and Chelsea"
+        "LocalAuthorityName": "Kensington and Chelsea",
+        "LocalAuthorityCode": "520",
+        "LocalAuthorityBusinessID": "INSPF/12/127036"
       },
       "geometry": {
         "type": "Point",
@@ -5925,7 +6439,9 @@
         "PostCode": "SE1 9SP",
         "RatingValue": "5",
         "RatingDate": "2023-06-30T00:00:00",
-        "LocalAuthorityName": "Southwark"
+        "LocalAuthorityName": "Southwark",
+        "LocalAuthorityCode": "528",
+        "LocalAuthorityBusinessID": "189515"
       },
       "geometry": {
         "type": "Point",
@@ -5948,7 +6464,9 @@
         "PostCode": "KT1 1JP",
         "RatingValue": "5",
         "RatingDate": "2023-07-05T00:00:00",
-        "LocalAuthorityName": "Kingston-Upon-Thames"
+        "LocalAuthorityName": "Kingston-Upon-Thames",
+        "LocalAuthorityCode": "521",
+        "LocalAuthorityBusinessID": "17/96149/RBK"
       },
       "geometry": {
         "type": "Point",
@@ -5971,7 +6489,9 @@
         "PostCode": "BS1 6BY",
         "RatingValue": "5",
         "RatingDate": "2023-08-04T00:00:00",
-        "LocalAuthorityName": "Bristol"
+        "LocalAuthorityName": "Bristol",
+        "LocalAuthorityCode": "855",
+        "LocalAuthorityBusinessID": "248018"
       },
       "geometry": {
         "type": "Point",
@@ -5994,7 +6514,9 @@
         "PostCode": "EC4A 1ES",
         "RatingValue": "5",
         "RatingDate": "2023-08-17T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000020477"
       },
       "geometry": {
         "type": "Point",
@@ -6017,7 +6539,9 @@
         "PostCode": "SO17 1TW",
         "RatingValue": "5",
         "RatingDate": "2019-10-16T00:00:00",
-        "LocalAuthorityName": "Southampton"
+        "LocalAuthorityName": "Southampton",
+        "LocalAuthorityCode": "877",
+        "LocalAuthorityBusinessID": "17/00057/FOOD"
       },
       "geometry": {
         "type": "Point",
@@ -6040,7 +6564,9 @@
         "PostCode": "NW1 2QL",
         "RatingValue": "5",
         "RatingDate": "2019-11-14T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "194208"
       },
       "geometry": {
         "type": "Point",
@@ -6063,7 +6589,9 @@
         "PostCode": "NW1 2QL",
         "RatingValue": "5",
         "RatingDate": "2019-12-18T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "194585"
       },
       "geometry": {
         "type": "Point",
@@ -6086,7 +6614,9 @@
         "PostCode": "EC1N 8JT",
         "RatingValue": "5",
         "RatingDate": "2019-12-01T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "197684"
       },
       "geometry": {
         "type": "Point",
@@ -6109,7 +6639,9 @@
         "PostCode": "SE1 9HA",
         "RatingValue": "5",
         "RatingDate": "2020-02-03T00:00:00",
-        "LocalAuthorityName": "Southwark"
+        "LocalAuthorityName": "Southwark",
+        "LocalAuthorityCode": "528",
+        "LocalAuthorityBusinessID": "196332"
       },
       "geometry": {
         "type": "Point",
@@ -6132,7 +6664,9 @@
         "PostCode": "SE1 2QN",
         "RatingValue": "5",
         "RatingDate": "2020-02-04T00:00:00",
-        "LocalAuthorityName": "Southwark"
+        "LocalAuthorityName": "Southwark",
+        "LocalAuthorityCode": "528",
+        "LocalAuthorityBusinessID": "88595"
       },
       "geometry": {
         "type": "Point",
@@ -6155,7 +6689,9 @@
         "PostCode": "CH1 2HA",
         "RatingValue": "5",
         "RatingDate": "2020-02-08T00:00:00",
-        "LocalAuthorityName": "Cheshire West and Chester"
+        "LocalAuthorityName": "Cheshire West and Chester",
+        "LocalAuthorityCode": "704",
+        "LocalAuthorityBusinessID": "10/00019/COM"
       },
       "geometry": {
         "type": "Point",
@@ -6178,7 +6714,9 @@
         "PostCode": "W6 9PA",
         "RatingValue": "5",
         "RatingDate": "2021-05-05T00:00:00",
-        "LocalAuthorityName": "Hammersmith and Fulham"
+        "LocalAuthorityName": "Hammersmith and Fulham",
+        "LocalAuthorityCode": "513",
+        "LocalAuthorityBusinessID": "2015/00158/COMB"
       },
       "geometry": {
         "type": "Point",
@@ -6201,7 +6739,9 @@
         "PostCode": "EX4 4SZ",
         "RatingValue": "5",
         "RatingDate": "2019-03-01T00:00:00",
-        "LocalAuthorityName": "Exeter City"
+        "LocalAuthorityName": "Exeter City",
+        "LocalAuthorityCode": "073",
+        "LocalAuthorityBusinessID": "PI/000075594"
       },
       "geometry": {
         "type": "Point",
@@ -6224,7 +6764,9 @@
         "PostCode": "M13 9GP",
         "RatingValue": "5",
         "RatingDate": "2019-01-29T00:00:00",
-        "LocalAuthorityName": "Manchester"
+        "LocalAuthorityName": "Manchester",
+        "LocalAuthorityCode": "415",
+        "LocalAuthorityBusinessID": "1511127"
       },
       "geometry": {
         "type": "Point",
@@ -6247,7 +6789,9 @@
         "PostCode": "N1 9AP",
         "RatingValue": "5",
         "RatingDate": "2021-09-02T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "195031"
       },
       "geometry": {
         "type": "Point",
@@ -6270,7 +6814,9 @@
         "PostCode": "N1 9AP",
         "RatingValue": "5",
         "RatingDate": "2021-09-02T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "73982"
       },
       "geometry": {
         "type": "Point",
@@ -6293,7 +6839,9 @@
         "PostCode": "NW3 2AJ",
         "RatingValue": "5",
         "RatingDate": "2021-10-15T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "200322"
       },
       "geometry": {
         "type": "Point",
@@ -6316,7 +6864,9 @@
         "PostCode": "KT19 8DR",
         "RatingValue": "5",
         "RatingDate": "2021-12-04T00:00:00",
-        "LocalAuthorityName": "Epsom and Ewell"
+        "LocalAuthorityName": "Epsom and Ewell",
+        "LocalAuthorityCode": "306",
+        "LocalAuthorityBusinessID": "18/00001/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -6339,7 +6889,9 @@
         "PostCode": "NW1 2RT",
         "RatingValue": "5",
         "RatingDate": "2022-01-05T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "200319"
       },
       "geometry": {
         "type": "Point",
@@ -6362,7 +6914,9 @@
         "PostCode": "M1 1RG",
         "RatingValue": "5",
         "RatingDate": "2021-04-13T00:00:00",
-        "LocalAuthorityName": "Manchester"
+        "LocalAuthorityName": "Manchester",
+        "LocalAuthorityCode": "415",
+        "LocalAuthorityBusinessID": "1503536"
       },
       "geometry": {
         "type": "Point",
@@ -6385,7 +6939,9 @@
         "PostCode": "B1 2JB",
         "RatingValue": "5",
         "RatingDate": "2021-10-06T00:00:00",
-        "LocalAuthorityName": "Birmingham"
+        "LocalAuthorityName": "Birmingham",
+        "LocalAuthorityCode": "402",
+        "LocalAuthorityBusinessID": "PI/500269935"
       },
       "geometry": {
         "type": "Point",
@@ -6408,7 +6964,9 @@
         "PostCode": "B5 4BU",
         "RatingValue": "5",
         "RatingDate": "2019-10-21T00:00:00",
-        "LocalAuthorityName": "Birmingham"
+        "LocalAuthorityName": "Birmingham",
+        "LocalAuthorityCode": "402",
+        "LocalAuthorityBusinessID": "PI/000487483"
       },
       "geometry": {
         "type": "Point",
@@ -6431,7 +6989,9 @@
         "PostCode": "N1C 4AL",
         "RatingValue": "5",
         "RatingDate": "2018-06-26T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "195078"
       },
       "geometry": {
         "type": "Point",
@@ -6454,7 +7014,9 @@
         "PostCode": "NW1 7BU",
         "RatingValue": "5",
         "RatingDate": "2019-06-12T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "195710"
       },
       "geometry": {
         "type": "Point",
@@ -6477,7 +7039,9 @@
         "PostCode": "NW1 7JR",
         "RatingValue": "5",
         "RatingDate": "2019-09-03T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "5769"
       },
       "geometry": {
         "type": "Point",
@@ -6500,7 +7064,9 @@
         "PostCode": "NW5 2TJ",
         "RatingValue": "5",
         "RatingDate": "2019-02-28T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "184181"
       },
       "geometry": {
         "type": "Point",
@@ -6523,7 +7089,9 @@
         "PostCode": "N1 9AL",
         "RatingValue": "5",
         "RatingDate": "2018-06-26T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "76021"
       },
       "geometry": {
         "type": "Point",
@@ -6546,7 +7114,9 @@
         "PostCode": "LS1 4DT",
         "RatingValue": "5",
         "RatingDate": "2021-07-14T00:00:00",
-        "LocalAuthorityName": "Leeds"
+        "LocalAuthorityName": "Leeds",
+        "LocalAuthorityCode": "413",
+        "LocalAuthorityBusinessID": "15/00846/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -6569,7 +7139,9 @@
         "PostCode": "B91 3TA",
         "RatingValue": "5",
         "RatingDate": "2023-09-01T00:00:00",
-        "LocalAuthorityName": "Solihull"
+        "LocalAuthorityName": "Solihull",
+        "LocalAuthorityCode": "426",
+        "LocalAuthorityBusinessID": "CP/108199"
       },
       "geometry": {
         "type": "Point",
@@ -6592,7 +7164,9 @@
         "PostCode": "RH10 1ES",
         "RatingValue": "5",
         "RatingDate": "2023-09-04T00:00:00",
-        "LocalAuthorityName": "Crawley"
+        "LocalAuthorityName": "Crawley",
+        "LocalAuthorityCode": "326",
+        "LocalAuthorityBusinessID": "13/00079/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -6615,7 +7189,9 @@
         "PostCode": "N15 4QD",
         "RatingValue": "5",
         "RatingDate": "2023-08-18T00:00:00",
-        "LocalAuthorityName": "Haringey"
+        "LocalAuthorityName": "Haringey",
+        "LocalAuthorityCode": "514",
+        "LocalAuthorityBusinessID": "PI/000166813"
       },
       "geometry": {
         "type": "Point",
@@ -6638,7 +7214,9 @@
         "PostCode": "M90 3FE",
         "RatingValue": "5",
         "RatingDate": "2023-08-02T00:00:00",
-        "LocalAuthorityName": "Manchester"
+        "LocalAuthorityName": "Manchester",
+        "LocalAuthorityCode": "415",
+        "LocalAuthorityBusinessID": "1506088"
       },
       "geometry": {
         "type": "Point",
@@ -6661,7 +7239,9 @@
         "PostCode": "EC3M 5AD",
         "RatingValue": "5",
         "RatingDate": "2023-09-13T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000015880"
       },
       "geometry": {
         "type": "Point",
@@ -6684,7 +7264,9 @@
         "PostCode": "SW11 1RU",
         "RatingValue": "5",
         "RatingDate": "2023-09-25T00:00:00",
-        "LocalAuthorityName": "Wandsworth"
+        "LocalAuthorityName": "Wandsworth",
+        "LocalAuthorityCode": "532",
+        "LocalAuthorityBusinessID": "PI/000465570"
       },
       "geometry": {
         "type": "Point",
@@ -6707,7 +7289,9 @@
         "PostCode": "NW1 3AX",
         "RatingValue": "5",
         "RatingDate": "2023-10-23T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "198031"
       },
       "geometry": {
         "type": "Point",
@@ -6730,7 +7314,9 @@
         "PostCode": "BN1 1HL",
         "RatingValue": "5",
         "RatingDate": "2023-11-23T00:00:00",
-        "LocalAuthorityName": "Brighton and Hove"
+        "LocalAuthorityName": "Brighton and Hove",
+        "LocalAuthorityCode": "875",
+        "LocalAuthorityBusinessID": "2023/00148/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -6753,7 +7339,9 @@
         "PostCode": "BN1 1ZA",
         "RatingValue": "5",
         "RatingDate": "2023-11-17T00:00:00",
-        "LocalAuthorityName": "Brighton and Hove"
+        "LocalAuthorityName": "Brighton and Hove",
+        "LocalAuthorityCode": "875",
+        "LocalAuthorityBusinessID": "2023/00212/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -6776,7 +7364,9 @@
         "PostCode": "SE10 9EJ",
         "RatingValue": "5",
         "RatingDate": "2023-10-13T00:00:00",
-        "LocalAuthorityName": "Greenwich"
+        "LocalAuthorityName": "Greenwich",
+        "LocalAuthorityCode": "511",
+        "LocalAuthorityBusinessID": "14457"
       },
       "geometry": {
         "type": "Point",
@@ -6799,7 +7389,9 @@
         "PostCode": "TN1 1QR",
         "RatingValue": "5",
         "RatingDate": "2023-10-30T00:00:00",
-        "LocalAuthorityName": "Tunbridge Wells"
+        "LocalAuthorityName": "Tunbridge Wells",
+        "LocalAuthorityCode": "192",
+        "LocalAuthorityBusinessID": "12/00151/MIXED"
       },
       "geometry": {
         "type": "Point",
@@ -6822,7 +7414,9 @@
         "PostCode": "WC2A 1DD",
         "RatingValue": "5",
         "RatingDate": "2022-10-27T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "196726"
       },
       "geometry": {
         "type": "Point",
@@ -6845,7 +7439,9 @@
         "PostCode": "BS34 5DG",
         "RatingValue": "5",
         "RatingDate": "2023-11-10T00:00:00",
-        "LocalAuthorityName": "South Gloucestershire"
+        "LocalAuthorityName": "South Gloucestershire",
+        "LocalAuthorityCode": "856",
+        "LocalAuthorityBusinessID": "139781"
       },
       "geometry": {
         "type": "Point",
@@ -6868,7 +7464,9 @@
         "PostCode": "RM20 2ZF",
         "RatingValue": "5",
         "RatingDate": "2023-10-28T00:00:00",
-        "LocalAuthorityName": "Thurrock"
+        "LocalAuthorityName": "Thurrock",
+        "LocalAuthorityCode": "894",
+        "LocalAuthorityBusinessID": "21/00124/CP"
       },
       "geometry": {
         "type": "Point",
@@ -6891,7 +7489,9 @@
         "PostCode": "SW18 4TF",
         "RatingValue": "5",
         "RatingDate": "2023-08-14T00:00:00",
-        "LocalAuthorityName": "Wandsworth"
+        "LocalAuthorityName": "Wandsworth",
+        "LocalAuthorityCode": "532",
+        "LocalAuthorityBusinessID": "PI/000458686"
       },
       "geometry": {
         "type": "Point",
@@ -6914,7 +7514,9 @@
         "PostCode": "W1T 4TT",
         "RatingValue": "5",
         "RatingDate": "2023-08-31T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "201935"
       },
       "geometry": {
         "type": "Point",
@@ -6937,7 +7539,9 @@
         "PostCode": "B2 4EG",
         "RatingValue": "5",
         "RatingDate": "2016-07-07T00:00:00",
-        "LocalAuthorityName": "Birmingham"
+        "LocalAuthorityName": "Birmingham",
+        "LocalAuthorityCode": "402",
+        "LocalAuthorityBusinessID": "PI/000153277"
       },
       "geometry": {
         "type": "Point",
@@ -6960,7 +7564,9 @@
         "PostCode": "M4 3AQ",
         "RatingValue": "5",
         "RatingDate": "2023-07-12T00:00:00",
-        "LocalAuthorityName": "Manchester"
+        "LocalAuthorityName": "Manchester",
+        "LocalAuthorityCode": "415",
+        "LocalAuthorityBusinessID": "1514741"
       },
       "geometry": {
         "type": "Point",
@@ -6983,7 +7589,9 @@
         "PostCode": "EC3M 4AD",
         "RatingValue": "5",
         "RatingDate": "2023-09-27T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000005502"
       },
       "geometry": {
         "type": "Point",
@@ -7006,7 +7614,9 @@
         "PostCode": "WC1V 7PU",
         "RatingValue": "5",
         "RatingDate": "2023-06-09T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000006928"
       },
       "geometry": {
         "type": "Point",
@@ -7029,7 +7639,9 @@
         "PostCode": "W4 5TL",
         "RatingValue": "5",
         "RatingDate": "2023-04-18T00:00:00",
-        "LocalAuthorityName": "Hounslow"
+        "LocalAuthorityName": "Hounslow",
+        "LocalAuthorityCode": "518",
+        "LocalAuthorityBusinessID": "135998"
       },
       "geometry": {
         "type": "Point",
@@ -7052,7 +7664,9 @@
         "PostCode": "W4 5YA",
         "RatingValue": "5",
         "RatingDate": "2023-04-19T00:00:00",
-        "LocalAuthorityName": "Hounslow"
+        "LocalAuthorityName": "Hounslow",
+        "LocalAuthorityCode": "518",
+        "LocalAuthorityBusinessID": "152805"
       },
       "geometry": {
         "type": "Point",
@@ -7075,7 +7689,9 @@
         "PostCode": "EC4M 9DJ",
         "RatingValue": "5",
         "RatingDate": "2023-03-24T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000028855"
       },
       "geometry": {
         "type": "Point",
@@ -7098,7 +7714,9 @@
         "PostCode": "E1 6BF",
         "RatingValue": "5",
         "RatingDate": "2024-11-05T00:00:00",
-        "LocalAuthorityName": "Tower Hamlets"
+        "LocalAuthorityName": "Tower Hamlets",
+        "LocalAuthorityCode": "530",
+        "LocalAuthorityBusinessID": "155375"
       },
       "geometry": {
         "type": "Point",
@@ -7121,7 +7739,9 @@
         "PostCode": "SW17 9PA",
         "RatingValue": "5",
         "RatingDate": "2024-12-13T00:00:00",
-        "LocalAuthorityName": "Wandsworth"
+        "LocalAuthorityName": "Wandsworth",
+        "LocalAuthorityCode": "532",
+        "LocalAuthorityBusinessID": "PI/000436188"
       },
       "geometry": {
         "type": "Point",
@@ -7144,7 +7764,9 @@
         "PostCode": "NW1 6JJ",
         "RatingValue": "5",
         "RatingDate": "2025-01-04T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "18/00390/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -7167,7 +7789,9 @@
         "PostCode": "CV37 6EY",
         "RatingValue": "5",
         "RatingDate": "2024-12-10T00:00:00",
-        "LocalAuthorityName": "Stratford-on-Avon"
+        "LocalAuthorityName": "Stratford-on-Avon",
+        "LocalAuthorityCode": "320",
+        "LocalAuthorityBusinessID": "22/00211/FOOD"
       },
       "geometry": {
         "type": "Point",
@@ -7190,7 +7814,9 @@
         "PostCode": "N10 3RS",
         "RatingValue": "5",
         "RatingDate": "2024-12-06T00:00:00",
-        "LocalAuthorityName": "Haringey"
+        "LocalAuthorityName": "Haringey",
+        "LocalAuthorityCode": "514",
+        "LocalAuthorityBusinessID": "PI/000165134"
       },
       "geometry": {
         "type": "Point",
@@ -7213,7 +7839,9 @@
         "PostCode": "L2 9UJ",
         "RatingValue": "5",
         "RatingDate": "2019-05-02T00:00:00",
-        "LocalAuthorityName": "Liverpool"
+        "LocalAuthorityName": "Liverpool",
+        "LocalAuthorityCode": "414",
+        "LocalAuthorityBusinessID": "PI/000233679"
       },
       "geometry": {
         "type": "Point",
@@ -7236,7 +7864,9 @@
         "PostCode": "L3 9QT",
         "RatingValue": "5",
         "RatingDate": "2018-06-25T00:00:00",
-        "LocalAuthorityName": "Liverpool"
+        "LocalAuthorityName": "Liverpool",
+        "LocalAuthorityCode": "414",
+        "LocalAuthorityBusinessID": "PI/000271178"
       },
       "geometry": {
         "type": "Point",
@@ -7259,7 +7889,9 @@
         "PostCode": "E14 9GE",
         "RatingValue": "5",
         "RatingDate": "2023-12-13T00:00:00",
-        "LocalAuthorityName": "Tower Hamlets"
+        "LocalAuthorityName": "Tower Hamlets",
+        "LocalAuthorityCode": "530",
+        "LocalAuthorityBusinessID": "197366"
       },
       "geometry": {
         "type": "Point",
@@ -7282,7 +7914,9 @@
         "PostCode": "KT13 8ED",
         "RatingValue": "5",
         "RatingDate": "2023-11-22T00:00:00",
-        "LocalAuthorityName": "Elmbridge"
+        "LocalAuthorityName": "Elmbridge",
+        "LocalAuthorityCode": "305",
+        "LocalAuthorityBusinessID": "FR/202300128"
       },
       "geometry": {
         "type": "Point",
@@ -7305,7 +7939,9 @@
         "PostCode": "GL1 5SH",
         "RatingValue": "5",
         "RatingDate": "2025-01-09T00:00:00",
-        "LocalAuthorityName": "Gloucester City"
+        "LocalAuthorityName": "Gloucester City",
+        "LocalAuthorityCode": "127",
+        "LocalAuthorityBusinessID": "24/00193/FOOD"
       },
       "geometry": {
         "type": "Point",
@@ -7328,7 +7964,9 @@
         "PostCode": "LU2 9LY",
         "RatingValue": "5",
         "RatingDate": "2023-06-21T00:00:00",
-        "LocalAuthorityName": "Luton"
+        "LocalAuthorityName": "Luton",
+        "LocalAuthorityCode": "869",
+        "LocalAuthorityBusinessID": "43072"
       },
       "geometry": {
         "type": "Point",
@@ -7351,7 +7989,9 @@
         "PostCode": "N17 9NA",
         "RatingValue": "5",
         "RatingDate": "2022-10-31T00:00:00",
-        "LocalAuthorityName": "Haringey"
+        "LocalAuthorityName": "Haringey",
+        "LocalAuthorityCode": "514",
+        "LocalAuthorityBusinessID": "PI/000164956"
       },
       "geometry": {
         "type": "Point",
@@ -7374,7 +8014,9 @@
         "PostCode": "WC2E 9JD",
         "RatingValue": "5",
         "RatingDate": "2025-01-11T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "00849/0065/0/000"
       },
       "geometry": {
         "type": "Point",
@@ -7397,7 +8039,9 @@
         "PostCode": "E15 1DE",
         "RatingValue": "5",
         "RatingDate": "2025-01-01T00:00:00",
-        "LocalAuthorityName": "Newham"
+        "LocalAuthorityName": "Newham",
+        "LocalAuthorityCode": "525",
+        "LocalAuthorityBusinessID": "18/00143/FOOD"
       },
       "geometry": {
         "type": "Point",
@@ -7420,7 +8064,9 @@
         "PostCode": "RH12 1PB",
         "RatingValue": "5",
         "RatingDate": "2024-11-05T00:00:00",
-        "LocalAuthorityName": "Horsham"
+        "LocalAuthorityName": "Horsham",
+        "LocalAuthorityCode": "327",
+        "LocalAuthorityBusinessID": "WES/33"
       },
       "geometry": {
         "type": "Point",
@@ -7443,7 +8089,9 @@
         "PostCode": "HG1 1RF",
         "RatingValue": "5",
         "RatingDate": "2025-01-09T00:00:00",
-        "LocalAuthorityName": "North Yorkshire"
+        "LocalAuthorityName": "North Yorkshire",
+        "LocalAuthorityCode": "250",
+        "LocalAuthorityBusinessID": "PI/000121403"
       },
       "geometry": {
         "type": "Point",
@@ -7466,7 +8114,9 @@
         "PostCode": "W1B 5EA",
         "RatingValue": "4",
         "RatingDate": "2024-02-04T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "10/00139/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -7489,7 +8139,9 @@
         "PostCode": "W2 1RH",
         "RatingValue": "4",
         "RatingDate": "2024-01-10T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "AC9P19-T1561Z-7XFG5P"
       },
       "geometry": {
         "type": "Point",
@@ -7512,7 +8164,9 @@
         "PostCode": "WC2B 6UF",
         "RatingValue": "4",
         "RatingDate": "2024-04-02T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "01075/0029/0/000"
       },
       "geometry": {
         "type": "Point",
@@ -7535,7 +8189,9 @@
         "PostCode": "EC1Y 8NX",
         "RatingValue": "4",
         "RatingDate": "2024-08-21T00:00:00",
-        "LocalAuthorityName": "Islington"
+        "LocalAuthorityName": "Islington",
+        "LocalAuthorityCode": "519",
+        "LocalAuthorityBusinessID": "PI/000263824"
       },
       "geometry": {
         "type": "Point",
@@ -7558,7 +8214,9 @@
         "PostCode": "EC1M 5QP",
         "RatingValue": "4",
         "RatingDate": "2024-08-21T00:00:00",
-        "LocalAuthorityName": "Islington"
+        "LocalAuthorityName": "Islington",
+        "LocalAuthorityCode": "519",
+        "LocalAuthorityBusinessID": "PI/000010513"
       },
       "geometry": {
         "type": "Point",
@@ -7581,7 +8239,9 @@
         "PostCode": "EC1R 4QD",
         "RatingValue": "4",
         "RatingDate": "2024-08-21T00:00:00",
-        "LocalAuthorityName": "Islington"
+        "LocalAuthorityName": "Islington",
+        "LocalAuthorityCode": "519",
+        "LocalAuthorityBusinessID": "PI/000279373"
       },
       "geometry": {
         "type": "Point",
@@ -7604,7 +8264,9 @@
         "PostCode": "N1 9LH",
         "RatingValue": "4",
         "RatingDate": "2024-08-21T00:00:00",
-        "LocalAuthorityName": "Islington"
+        "LocalAuthorityName": "Islington",
+        "LocalAuthorityCode": "519",
+        "LocalAuthorityBusinessID": "PI/000029981"
       },
       "geometry": {
         "type": "Point",
@@ -7627,7 +8289,9 @@
         "PostCode": "E1W 1YN",
         "RatingValue": "4",
         "RatingDate": "2024-11-05T00:00:00",
-        "LocalAuthorityName": "Tower Hamlets"
+        "LocalAuthorityName": "Tower Hamlets",
+        "LocalAuthorityCode": "530",
+        "LocalAuthorityBusinessID": "151571"
       },
       "geometry": {
         "type": "Point",
@@ -7650,7 +8314,9 @@
         "PostCode": "SW1W 9TP",
         "RatingValue": "4",
         "RatingDate": "2023-10-16T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "17/00253/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -7673,7 +8339,9 @@
         "PostCode": "W1T 1HN",
         "RatingValue": "4",
         "RatingDate": "2024-03-13T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "01522/0007/0/000"
       },
       "geometry": {
         "type": "Point",
@@ -7696,7 +8364,9 @@
         "PostCode": "SW1V 1JZ",
         "RatingValue": "4",
         "RatingDate": "2024-03-25T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "08/00108/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -7719,7 +8389,9 @@
         "PostCode": "EC1M 4AA",
         "RatingValue": "4",
         "RatingDate": "2024-04-08T00:00:00",
-        "LocalAuthorityName": "Islington"
+        "LocalAuthorityName": "Islington",
+        "LocalAuthorityCode": "519",
+        "LocalAuthorityBusinessID": "PI/000120792"
       },
       "geometry": {
         "type": "Point",
@@ -7742,7 +8414,9 @@
         "PostCode": "BA1 1QL",
         "RatingValue": "4",
         "RatingDate": "2024-06-18T00:00:00",
-        "LocalAuthorityName": "Bath and North East Somerset"
+        "LocalAuthorityName": "Bath and North East Somerset",
+        "LocalAuthorityCode": "857",
+        "LocalAuthorityBusinessID": "06/00195/MIXED"
       },
       "geometry": {
         "type": "Point",
@@ -7765,7 +8439,9 @@
         "PostCode": "W1S 2GD",
         "RatingValue": "4",
         "RatingDate": "2024-06-10T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "10/00091/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -7788,7 +8464,9 @@
         "PostCode": "N4 3JU",
         "RatingValue": "4",
         "RatingDate": "2024-06-11T00:00:00",
-        "LocalAuthorityName": "Islington"
+        "LocalAuthorityName": "Islington",
+        "LocalAuthorityCode": "519",
+        "LocalAuthorityBusinessID": "PI/000295759"
       },
       "geometry": {
         "type": "Point",
@@ -7811,7 +8489,9 @@
         "PostCode": "SP1 2AA",
         "RatingValue": "4",
         "RatingDate": "2024-06-11T00:00:00",
-        "LocalAuthorityName": "Wiltshire"
+        "LocalAuthorityName": "Wiltshire",
+        "LocalAuthorityCode": "709",
+        "LocalAuthorityBusinessID": "PI/000084050"
       },
       "geometry": {
         "type": "Point",
@@ -7834,7 +8514,9 @@
         "PostCode": "WC1A 1EU",
         "RatingValue": "4",
         "RatingDate": "2024-01-13T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "66797"
       },
       "geometry": {
         "type": "Point",
@@ -7857,7 +8539,9 @@
         "PostCode": "WC2H 9HN",
         "RatingValue": "4",
         "RatingDate": "2023-10-21T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "74584"
       },
       "geometry": {
         "type": "Point",
@@ -7880,7 +8564,9 @@
         "PostCode": "WC1X 8AL",
         "RatingValue": "4",
         "RatingDate": "2022-01-19T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "32459"
       },
       "geometry": {
         "type": "Point",
@@ -7903,7 +8589,9 @@
         "PostCode": "E1 6JE",
         "RatingValue": "4",
         "RatingDate": "2021-11-02T00:00:00",
-        "LocalAuthorityName": "Hackney"
+        "LocalAuthorityName": "Hackney",
+        "LocalAuthorityCode": "512",
+        "LocalAuthorityBusinessID": "189474"
       },
       "geometry": {
         "type": "Point",
@@ -7926,7 +8614,9 @@
         "PostCode": "W2 1DL",
         "RatingValue": "4",
         "RatingDate": "2024-10-02T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "KMT7XF-WVE8DN-QSB1YM"
       },
       "geometry": {
         "type": "Point",
@@ -7949,7 +8639,9 @@
         "PostCode": "SW6 1BW",
         "RatingValue": "4",
         "RatingDate": "2023-04-28T00:00:00",
-        "LocalAuthorityName": "Hammersmith and Fulham"
+        "LocalAuthorityName": "Hammersmith and Fulham",
+        "LocalAuthorityCode": "513",
+        "LocalAuthorityBusinessID": "2006/00196/COMB"
       },
       "geometry": {
         "type": "Point",
@@ -7972,7 +8664,9 @@
         "PostCode": "CV35 0AA",
         "RatingValue": "4",
         "RatingDate": "2023-07-19T00:00:00",
-        "LocalAuthorityName": "Stratford-on-Avon"
+        "LocalAuthorityName": "Stratford-on-Avon",
+        "LocalAuthorityCode": "320",
+        "LocalAuthorityBusinessID": "23/00116/FOOD"
       },
       "geometry": {
         "type": "Point",
@@ -7995,7 +8689,9 @@
         "PostCode": "NR2 1QD",
         "RatingValue": "4",
         "RatingDate": "2023-10-21T00:00:00",
-        "LocalAuthorityName": "Norwich City"
+        "LocalAuthorityName": "Norwich City",
+        "LocalAuthorityCode": "232",
+        "LocalAuthorityBusinessID": "05/00129/FD_HS"
       },
       "geometry": {
         "type": "Point",
@@ -8018,7 +8714,9 @@
         "PostCode": "W2 1HB",
         "RatingValue": "3",
         "RatingDate": "2023-09-27T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "18/00374/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -8041,7 +8739,9 @@
         "PostCode": "W1U 6TU",
         "RatingValue": "3",
         "RatingDate": "2023-11-22T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "01123/0120/0/000"
       },
       "geometry": {
         "type": "Point",
@@ -8064,7 +8764,9 @@
         "PostCode": "OX1 3EY",
         "RatingValue": "3",
         "RatingDate": "2024-01-31T00:00:00",
-        "LocalAuthorityName": "Oxford City"
+        "LocalAuthorityName": "Oxford City",
+        "LocalAuthorityCode": "269",
+        "LocalAuthorityBusinessID": "22/00072/COM"
       },
       "geometry": {
         "type": "Point",
@@ -8087,7 +8789,9 @@
         "PostCode": "TW6 1QG",
         "RatingValue": "3",
         "RatingDate": "2023-10-31T00:00:00",
-        "LocalAuthorityName": "Hillingdon"
+        "LocalAuthorityName": "Hillingdon",
+        "LocalAuthorityCode": "517",
+        "LocalAuthorityBusinessID": "46210"
       },
       "geometry": {
         "type": "Point",
@@ -8110,7 +8814,9 @@
         "PostCode": "WC2N 4AA",
         "RatingValue": "2",
         "RatingDate": "2023-10-25T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "00618/0077/0/002"
       },
       "geometry": {
         "type": "Point",
@@ -8133,7 +8839,9 @@
         "PostCode": "B2 4QE",
         "RatingValue": "2",
         "RatingDate": "2024-01-17T00:00:00",
-        "LocalAuthorityName": "Birmingham"
+        "LocalAuthorityName": "Birmingham",
+        "LocalAuthorityCode": "402",
+        "LocalAuthorityBusinessID": "PI/000629750"
       },
       "geometry": {
         "type": "Point",
@@ -8156,7 +8864,9 @@
         "PostCode": "G2 6TS",
         "RatingValue": "Pass and Eat Safe",
         "RatingDate": "2010-09-14T00:00:00",
-        "LocalAuthorityName": "Glasgow City"
+        "LocalAuthorityName": "Glasgow City",
+        "LocalAuthorityCode": "776",
+        "LocalAuthorityBusinessID": "16890/0065/0/000"
       },
       "geometry": {
         "type": "Point",
@@ -8179,7 +8889,9 @@
         "PostCode": "KY16 9NX",
         "RatingValue": "Pass and Eat Safe",
         "RatingDate": "2015-01-06T00:00:00",
-        "LocalAuthorityName": "Fife"
+        "LocalAuthorityName": "Fife",
+        "LocalAuthorityCode": "775",
+        "LocalAuthorityBusinessID": "51560/0107/7/000"
       },
       "geometry": {
         "type": "Point",
@@ -8202,7 +8914,9 @@
         "PostCode": "EH12 9DN",
         "RatingValue": "Pass",
         "RatingDate": "2018-11-29T00:00:00",
-        "LocalAuthorityName": "Edinburgh (City of)"
+        "LocalAuthorityName": "Edinburgh (City of)",
+        "LocalAuthorityCode": "773",
+        "LocalAuthorityBusinessID": "194974"
       },
       "geometry": {
         "type": "Point",
@@ -8225,7 +8939,9 @@
         "PostCode": "EH3 9BE",
         "RatingValue": "Pass",
         "RatingDate": "2019-04-02T00:00:00",
-        "LocalAuthorityName": "Edinburgh (City of)"
+        "LocalAuthorityName": "Edinburgh (City of)",
+        "LocalAuthorityCode": "773",
+        "LocalAuthorityBusinessID": "192498"
       },
       "geometry": {
         "type": "Point",
@@ -8248,7 +8964,9 @@
         "PostCode": "EH2 4BL",
         "RatingValue": "Pass",
         "RatingDate": "2018-04-17T00:00:00",
-        "LocalAuthorityName": "Edinburgh (City of)"
+        "LocalAuthorityName": "Edinburgh (City of)",
+        "LocalAuthorityCode": "773",
+        "LocalAuthorityBusinessID": "193593"
       },
       "geometry": {
         "type": "Point",
@@ -8271,7 +8989,9 @@
         "PostCode": "EH1 1QG",
         "RatingValue": "Pass",
         "RatingDate": "2019-07-31T00:00:00",
-        "LocalAuthorityName": "Edinburgh (City of)"
+        "LocalAuthorityName": "Edinburgh (City of)",
+        "LocalAuthorityCode": "773",
+        "LocalAuthorityBusinessID": "181913"
       },
       "geometry": {
         "type": "Point",
@@ -8294,7 +9014,9 @@
         "PostCode": "G1 3BS",
         "RatingValue": "Pass",
         "RatingDate": "2013-09-06T00:00:00",
-        "LocalAuthorityName": "Glasgow City"
+        "LocalAuthorityName": "Glasgow City",
+        "LocalAuthorityCode": "776",
+        "LocalAuthorityBusinessID": "12/00547/COM"
       },
       "geometry": {
         "type": "Point",
@@ -8317,7 +9039,9 @@
         "PostCode": "G1 3SQ",
         "RatingValue": "Pass",
         "RatingDate": "2018-09-17T00:00:00",
-        "LocalAuthorityName": "Glasgow City"
+        "LocalAuthorityName": "Glasgow City",
+        "LocalAuthorityCode": "776",
+        "LocalAuthorityBusinessID": "16/00701/COM"
       },
       "geometry": {
         "type": "Point",
@@ -8340,7 +9064,9 @@
         "PostCode": "G12 8SH",
         "RatingValue": "Pass",
         "RatingDate": "2019-03-06T00:00:00",
-        "LocalAuthorityName": "Glasgow City"
+        "LocalAuthorityName": "Glasgow City",
+        "LocalAuthorityCode": "776",
+        "LocalAuthorityBusinessID": "17/00002/COM"
       },
       "geometry": {
         "type": "Point",
@@ -8363,7 +9089,9 @@
         "PostCode": "G34 9DY",
         "RatingValue": "Pass",
         "RatingDate": "2019-10-17T00:00:00",
-        "LocalAuthorityName": "Glasgow City"
+        "LocalAuthorityName": "Glasgow City",
+        "LocalAuthorityCode": "776",
+        "LocalAuthorityBusinessID": "17/00632/COM"
       },
       "geometry": {
         "type": "Point",
@@ -8386,7 +9114,9 @@
         "PostCode": "EH2 2PJ",
         "RatingValue": "Pass",
         "RatingDate": "2022-11-15T00:00:00",
-        "LocalAuthorityName": "Edinburgh (City of)"
+        "LocalAuthorityName": "Edinburgh (City of)",
+        "LocalAuthorityCode": "773",
+        "LocalAuthorityBusinessID": "56063"
       },
       "geometry": {
         "type": "Point",
@@ -8409,7 +9139,9 @@
         "PostCode": "EH2 3DN",
         "RatingValue": "Pass",
         "RatingDate": "2023-05-30T00:00:00",
-        "LocalAuthorityName": "Edinburgh (City of)"
+        "LocalAuthorityName": "Edinburgh (City of)",
+        "LocalAuthorityCode": "773",
+        "LocalAuthorityBusinessID": "36302"
       },
       "geometry": {
         "type": "Point",
@@ -8432,7 +9164,9 @@
         "PostCode": "EH12 9DN",
         "RatingValue": "Pass",
         "RatingDate": "2023-07-20T00:00:00",
-        "LocalAuthorityName": "Edinburgh (City of)"
+        "LocalAuthorityName": "Edinburgh (City of)",
+        "LocalAuthorityCode": "773",
+        "LocalAuthorityBusinessID": "203187"
       },
       "geometry": {
         "type": "Point",
@@ -8455,7 +9189,9 @@
         "PostCode": "EH12 9DN",
         "RatingValue": "Pass",
         "RatingDate": "2023-07-20T00:00:00",
-        "LocalAuthorityName": "Edinburgh (City of)"
+        "LocalAuthorityName": "Edinburgh (City of)",
+        "LocalAuthorityCode": "773",
+        "LocalAuthorityBusinessID": "202749"
       },
       "geometry": {
         "type": "Point",
@@ -8478,7 +9214,9 @@
         "PostCode": "AB10 1TL",
         "RatingValue": "Pass",
         "RatingDate": "2019-10-10T00:00:00",
-        "LocalAuthorityName": "Aberdeen City"
+        "LocalAuthorityName": "Aberdeen City",
+        "LocalAuthorityCode": "760",
+        "LocalAuthorityBusinessID": "EHDC11054"
       },
       "geometry": {
         "type": "Point",
@@ -8501,7 +9239,9 @@
         "PostCode": "G1 3PL",
         "RatingValue": "Pass",
         "RatingDate": "2020-03-13T00:00:00",
-        "LocalAuthorityName": "Glasgow City"
+        "LocalAuthorityName": "Glasgow City",
+        "LocalAuthorityCode": "776",
+        "LocalAuthorityBusinessID": "08/00200/COM"
       },
       "geometry": {
         "type": "Point",
@@ -8524,7 +9264,9 @@
         "PostCode": "EH10 4ES",
         "RatingValue": "Pass",
         "RatingDate": "2024-12-04T00:00:00",
-        "LocalAuthorityName": "Edinburgh (City of)"
+        "LocalAuthorityName": "Edinburgh (City of)",
+        "LocalAuthorityCode": "773",
+        "LocalAuthorityBusinessID": "209378"
       },
       "geometry": {
         "type": "Point",
@@ -8547,7 +9289,9 @@
         "PostCode": "EH1 1BB",
         "RatingValue": "Pass",
         "RatingDate": "2019-11-13T00:00:00",
-        "LocalAuthorityName": "Edinburgh (City of)"
+        "LocalAuthorityName": "Edinburgh (City of)",
+        "LocalAuthorityCode": "773",
+        "LocalAuthorityBusinessID": "192048"
       },
       "geometry": {
         "type": "Point",
@@ -8570,7 +9314,9 @@
         "PostCode": "AB25 1HJ",
         "RatingValue": "Pass",
         "RatingDate": "2019-09-25T00:00:00",
-        "LocalAuthorityName": "Aberdeen City"
+        "LocalAuthorityName": "Aberdeen City",
+        "LocalAuthorityCode": "760",
+        "LocalAuthorityBusinessID": "EHDC10884"
       },
       "geometry": {
         "type": "Point",
@@ -8593,7 +9339,9 @@
         "PostCode": "SW6 4HH",
         "RatingValue": "AwaitingInspection",
         "RatingDate": "1901-01-01T00:00:00",
-        "LocalAuthorityName": "Hammersmith and Fulham"
+        "LocalAuthorityName": "Hammersmith and Fulham",
+        "LocalAuthorityCode": "513",
+        "LocalAuthorityBusinessID": "2024/00347/COMB"
       },
       "geometry": {
         "type": "Point",
@@ -8616,7 +9364,9 @@
         "PostCode": "BN21 3AN",
         "RatingValue": "AwaitingInspection",
         "RatingDate": "1901-01-01T00:00:00",
-        "LocalAuthorityName": "Eastbourne"
+        "LocalAuthorityName": "Eastbourne",
+        "LocalAuthorityCode": "102",
+        "LocalAuthorityBusinessID": "9103937"
       },
       "geometry": {
         "type": "Point",
@@ -8639,7 +9389,9 @@
         "PostCode": "NW4 3FZ",
         "RatingValue": "AwaitingInspection",
         "RatingDate": "1901-01-01T00:00:00",
-        "LocalAuthorityName": "Barnet"
+        "LocalAuthorityName": "Barnet",
+        "LocalAuthorityCode": "502",
+        "LocalAuthorityBusinessID": "24/00466/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -8662,7 +9414,9 @@
         "PostCode": "RG1 1LY",
         "RatingValue": "AwaitingInspection",
         "RatingDate": "1901-01-01T00:00:00",
-        "LocalAuthorityName": "Reading"
+        "LocalAuthorityName": "Reading",
+        "LocalAuthorityCode": "884",
+        "LocalAuthorityBusinessID": "144941"
       },
       "geometry": {
         "type": "Point",
@@ -8685,7 +9439,9 @@
         "PostCode": "N9 0TY",
         "RatingValue": "AwaitingInspection",
         "RatingDate": "1901-01-01T00:00:00",
-        "LocalAuthorityName": "Enfield"
+        "LocalAuthorityName": "Enfield",
+        "LocalAuthorityCode": "510",
+        "LocalAuthorityBusinessID": "PI/000195440"
       },
       "geometry": {
         "type": "Point",
@@ -8708,7 +9464,9 @@
         "PostCode": "",
         "RatingValue": "AwaitingInspection",
         "RatingDate": "1901-01-01T00:00:00",
-        "LocalAuthorityName": "North Northamptonshire"
+        "LocalAuthorityName": "North Northamptonshire",
+        "LocalAuthorityCode": "235",
+        "LocalAuthorityBusinessID": "24/00127/COM"
       },
       "geometry": {
         "type": "Point",
@@ -8731,7 +9489,9 @@
         "PostCode": "SW1Y 4PE",
         "RatingValue": "AwaitingInspection",
         "RatingDate": "1901-01-01T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "13/00181/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -8754,7 +9514,9 @@
         "PostCode": "EH7 4FQ",
         "RatingValue": "Awaiting Inspection",
         "RatingDate": "2024-07-26T00:00:00",
-        "LocalAuthorityName": "Edinburgh (City of)"
+        "LocalAuthorityName": "Edinburgh (City of)",
+        "LocalAuthorityCode": "773",
+        "LocalAuthorityBusinessID": "209374"
       },
       "geometry": {
         "type": "Point",
@@ -8777,7 +9539,9 @@
         "PostCode": "SM1 1EX",
         "RatingValue": "AwaitingInspection",
         "RatingDate": "1901-01-01T00:00:00",
-        "LocalAuthorityName": "Sutton"
+        "LocalAuthorityName": "Sutton",
+        "LocalAuthorityCode": "529",
+        "LocalAuthorityBusinessID": "24/00156/COM"
       },
       "geometry": {
         "type": "Point",
@@ -8800,7 +9564,9 @@
         "PostCode": "CO1 1LX",
         "RatingValue": "AwaitingInspection",
         "RatingDate": "1901-01-01T00:00:00",
-        "LocalAuthorityName": "Colchester"
+        "LocalAuthorityName": "Colchester",
+        "LocalAuthorityCode": "114",
+        "LocalAuthorityBusinessID": "FR/000003499"
       },
       "geometry": {
         "type": "Point",
@@ -8823,7 +9589,9 @@
         "PostCode": "RG9 2AH",
         "RatingValue": "AwaitingInspection",
         "RatingDate": "1901-01-01T00:00:00",
-        "LocalAuthorityName": "South Oxfordshire"
+        "LocalAuthorityName": "South Oxfordshire",
+        "LocalAuthorityCode": "270",
+        "LocalAuthorityBusinessID": "AD:14243"
       },
       "geometry": {
         "type": "Point",
@@ -8846,7 +9614,9 @@
         "PostCode": "S9 1EL",
         "RatingValue": "5",
         "RatingDate": "2024-10-10T00:00:00",
-        "LocalAuthorityName": "Sheffield"
+        "LocalAuthorityName": "Sheffield",
+        "LocalAuthorityCode": "425",
+        "LocalAuthorityBusinessID": "54870"
       },
       "geometry": {
         "type": "Point",
@@ -8869,7 +9639,9 @@
         "PostCode": "WC1V 7DN",
         "RatingValue": "5",
         "RatingDate": "2022-11-24T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "12539"
       },
       "geometry": {
         "type": "Point",
@@ -8892,7 +9664,9 @@
         "PostCode": "GU51 1AA",
         "RatingValue": "5",
         "RatingDate": "2024-04-22T00:00:00",
-        "LocalAuthorityName": "Hart"
+        "LocalAuthorityName": "Hart",
+        "LocalAuthorityCode": "136",
+        "LocalAuthorityBusinessID": "24/00009/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -8915,7 +9689,9 @@
         "PostCode": "GU51 1AA",
         "RatingValue": "5",
         "RatingDate": "2023-07-17T00:00:00",
-        "LocalAuthorityName": "Hart"
+        "LocalAuthorityName": "Hart",
+        "LocalAuthorityCode": "136",
+        "LocalAuthorityBusinessID": "23/00042/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -8938,7 +9714,9 @@
         "PostCode": "W5 5DB",
         "RatingValue": "AwaitingInspection",
         "RatingDate": "1901-01-01T00:00:00",
-        "LocalAuthorityName": "Ealing"
+        "LocalAuthorityName": "Ealing",
+        "LocalAuthorityCode": "509",
+        "LocalAuthorityBusinessID": "CP05121"
       },
       "geometry": {
         "type": "Point",
@@ -8961,7 +9739,9 @@
         "PostCode": "HA1 1JX",
         "RatingValue": "AwaitingInspection",
         "RatingDate": "1901-01-01T00:00:00",
-        "LocalAuthorityName": "Harrow"
+        "LocalAuthorityName": "Harrow",
+        "LocalAuthorityCode": "515",
+        "LocalAuthorityBusinessID": "PI/000133435"
       },
       "geometry": {
         "type": "Point",
@@ -8984,7 +9764,9 @@
         "PostCode": "UB8 1JP",
         "RatingValue": "AwaitingInspection",
         "RatingDate": "1901-01-01T00:00:00",
-        "LocalAuthorityName": "Hillingdon"
+        "LocalAuthorityName": "Hillingdon",
+        "LocalAuthorityCode": "517",
+        "LocalAuthorityBusinessID": "151293"
       },
       "geometry": {
         "type": "Point",
@@ -9007,7 +9789,9 @@
         "PostCode": "E14 5AH",
         "RatingValue": "5",
         "RatingDate": "2023-06-16T00:00:00",
-        "LocalAuthorityName": "Tower Hamlets"
+        "LocalAuthorityName": "Tower Hamlets",
+        "LocalAuthorityCode": "530",
+        "LocalAuthorityBusinessID": "202241"
       },
       "geometry": {
         "type": "Point",
@@ -9030,7 +9814,9 @@
         "PostCode": "SW1W 9SJ",
         "RatingValue": "4",
         "RatingDate": "2024-04-17T00:00:00",
-        "LocalAuthorityName": "Westminster"
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "DWBX39-JXQTQN-M1D1AW"
       },
       "geometry": {
         "type": "Point",
@@ -9053,7 +9839,9 @@
         "PostCode": "W10 5NE",
         "RatingValue": "5",
         "RatingDate": "2023-11-20T00:00:00",
-        "LocalAuthorityName": "Kensington and Chelsea"
+        "LocalAuthorityName": "Kensington and Chelsea",
+        "LocalAuthorityCode": "520",
+        "LocalAuthorityBusinessID": "INSPF/18/215851"
       },
       "geometry": {
         "type": "Point",
@@ -9076,7 +9864,9 @@
         "PostCode": "CM24 1RW",
         "RatingValue": "5",
         "RatingDate": "2024-02-16T00:00:00",
-        "LocalAuthorityName": "Uttlesford"
+        "LocalAuthorityName": "Uttlesford",
+        "LocalAuthorityCode": "122",
+        "LocalAuthorityBusinessID": "15/00022/COM"
       },
       "geometry": {
         "type": "Point",
@@ -9099,7 +9889,9 @@
         "PostCode": "CM24 1RW",
         "RatingValue": "5",
         "RatingDate": "2024-02-16T00:00:00",
-        "LocalAuthorityName": "Uttlesford"
+        "LocalAuthorityName": "Uttlesford",
+        "LocalAuthorityCode": "122",
+        "LocalAuthorityBusinessID": "17/00073/COM"
       },
       "geometry": {
         "type": "Point",
@@ -9122,7 +9914,9 @@
         "PostCode": "LS1 2JP",
         "RatingValue": "5",
         "RatingDate": "2020-02-17T00:00:00",
-        "LocalAuthorityName": "Leeds"
+        "LocalAuthorityName": "Leeds",
+        "LocalAuthorityCode": "413",
+        "LocalAuthorityBusinessID": "00005141"
       },
       "geometry": {
         "type": "Point",
@@ -9145,7 +9939,9 @@
         "PostCode": "TW6 2GA",
         "RatingValue": "5",
         "RatingDate": "2023-12-19T00:00:00",
-        "LocalAuthorityName": "Hillingdon"
+        "LocalAuthorityName": "Hillingdon",
+        "LocalAuthorityCode": "517",
+        "LocalAuthorityBusinessID": "150724"
       },
       "geometry": {
         "type": "Point",
@@ -9168,7 +9964,9 @@
         "PostCode": "TW6 2GA",
         "RatingValue": "5",
         "RatingDate": "2023-05-11T00:00:00",
-        "LocalAuthorityName": "Hillingdon"
+        "LocalAuthorityName": "Hillingdon",
+        "LocalAuthorityCode": "517",
+        "LocalAuthorityBusinessID": "45639"
       },
       "geometry": {
         "type": "Point",
@@ -9191,7 +9989,9 @@
         "PostCode": "EC4M 7DY",
         "RatingValue": "5",
         "RatingDate": "2023-06-15T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000014478"
       },
       "geometry": {
         "type": "Point",
@@ -9214,7 +10014,9 @@
         "PostCode": "OX3 9DU",
         "RatingValue": "5",
         "RatingDate": "2024-12-03T00:00:00",
-        "LocalAuthorityName": "Oxford City"
+        "LocalAuthorityName": "Oxford City",
+        "LocalAuthorityCode": "269",
+        "LocalAuthorityBusinessID": "22/00176/COM"
       },
       "geometry": {
         "type": "Point",
@@ -9237,7 +10039,9 @@
         "PostCode": "B26 3QY",
         "RatingValue": "5",
         "RatingDate": "2023-09-11T00:00:00",
-        "LocalAuthorityName": "Solihull"
+        "LocalAuthorityName": "Solihull",
+        "LocalAuthorityCode": "426",
+        "LocalAuthorityBusinessID": "CP/106294"
       },
       "geometry": {
         "type": "Point",
@@ -9260,7 +10064,9 @@
         "PostCode": "LS1 6AW",
         "RatingValue": "5",
         "RatingDate": "2024-06-19T00:00:00",
-        "LocalAuthorityName": "Leeds"
+        "LocalAuthorityName": "Leeds",
+        "LocalAuthorityCode": "413",
+        "LocalAuthorityBusinessID": "23/01160/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -9283,7 +10089,9 @@
         "PostCode": "TW6 3XA",
         "RatingValue": "5",
         "RatingDate": "2023-10-17T00:00:00",
-        "LocalAuthorityName": "Hillingdon"
+        "LocalAuthorityName": "Hillingdon",
+        "LocalAuthorityCode": "517",
+        "LocalAuthorityBusinessID": "46233"
       },
       "geometry": {
         "type": "Point",
@@ -9306,7 +10114,9 @@
         "PostCode": "LS15 8GG",
         "RatingValue": "5",
         "RatingDate": "2023-07-10T00:00:00",
-        "LocalAuthorityName": "Leeds"
+        "LocalAuthorityName": "Leeds",
+        "LocalAuthorityCode": "413",
+        "LocalAuthorityBusinessID": "23/00191/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -9329,7 +10139,9 @@
         "PostCode": "NW1 3BY",
         "RatingValue": "5",
         "RatingDate": "2024-03-05T00:00:00",
-        "LocalAuthorityName": "Camden"
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "33416"
       },
       "geometry": {
         "type": "Point",
@@ -9352,7 +10164,9 @@
         "PostCode": "LS1 4AP",
         "RatingValue": "5",
         "RatingDate": "2024-07-18T00:00:00",
-        "LocalAuthorityName": "Leeds"
+        "LocalAuthorityName": "Leeds",
+        "LocalAuthorityCode": "413",
+        "LocalAuthorityBusinessID": "24/00171/COMM"
       },
       "geometry": {
         "type": "Point",
@@ -9375,7 +10189,9 @@
         "PostCode": "M17 8DF",
         "RatingValue": "5",
         "RatingDate": "2024-06-24T00:00:00",
-        "LocalAuthorityName": "Trafford"
+        "LocalAuthorityName": "Trafford",
+        "LocalAuthorityCode": "431",
+        "LocalAuthorityBusinessID": "44358"
       },
       "geometry": {
         "type": "Point",
@@ -9398,7 +10214,9 @@
         "PostCode": "SO21 1PP",
         "RatingValue": "5",
         "RatingDate": "2024-09-12T00:00:00",
-        "LocalAuthorityName": "Winchester City"
+        "LocalAuthorityName": "Winchester City",
+        "LocalAuthorityCode": "143",
+        "LocalAuthorityBusinessID": "24/00121/MIXED"
       },
       "geometry": {
         "type": "Point",
@@ -9421,7 +10239,9 @@
         "PostCode": "B3 2QD",
         "RatingValue": "5",
         "RatingDate": "2023-05-25T00:00:00",
-        "LocalAuthorityName": "Birmingham"
+        "LocalAuthorityName": "Birmingham",
+        "LocalAuthorityCode": "402",
+        "LocalAuthorityBusinessID": "PI/000616219"
       },
       "geometry": {
         "type": "Point",
@@ -9444,7 +10264,9 @@
         "PostCode": "SE2 9SA",
         "RatingValue": "5",
         "RatingDate": "2024-01-09T00:00:00",
-        "LocalAuthorityName": "Bexley"
+        "LocalAuthorityName": "Bexley",
+        "LocalAuthorityCode": "503",
+        "LocalAuthorityBusinessID": "24/00014/CP"
       },
       "geometry": {
         "type": "Point",
@@ -9467,7 +10289,9 @@
         "PostCode": "RG18 9XX",
         "RatingValue": "5",
         "RatingDate": "2023-05-12T00:00:00",
-        "LocalAuthorityName": "West Berkshire"
+        "LocalAuthorityName": "West Berkshire",
+        "LocalAuthorityCode": "883",
+        "LocalAuthorityBusinessID": "9103313"
       },
       "geometry": {
         "type": "Point",
@@ -9490,7 +10314,9 @@
         "PostCode": "RG30 3UQ",
         "RatingValue": "5",
         "RatingDate": "2024-10-24T00:00:00",
-        "LocalAuthorityName": "West Berkshire"
+        "LocalAuthorityName": "West Berkshire",
+        "LocalAuthorityCode": "883",
+        "LocalAuthorityBusinessID": "9104116"
       },
       "geometry": {
         "type": "Point",
@@ -9513,7 +10339,9 @@
         "PostCode": "RG1 1LX",
         "RatingValue": "5",
         "RatingDate": "2024-03-28T00:00:00",
-        "LocalAuthorityName": "Reading"
+        "LocalAuthorityName": "Reading",
+        "LocalAuthorityCode": "884",
+        "LocalAuthorityBusinessID": "133349"
       },
       "geometry": {
         "type": "Point",
@@ -9536,7 +10364,9 @@
         "PostCode": "RG1 2AQ",
         "RatingValue": "5",
         "RatingDate": "2024-08-19T00:00:00",
-        "LocalAuthorityName": "Reading"
+        "LocalAuthorityName": "Reading",
+        "LocalAuthorityCode": "884",
+        "LocalAuthorityBusinessID": "33032"
       },
       "geometry": {
         "type": "Point",
@@ -9559,7 +10389,9 @@
         "PostCode": "BN11 2HP",
         "RatingValue": "5",
         "RatingDate": "2024-08-29T00:00:00",
-        "LocalAuthorityName": "Worthing"
+        "LocalAuthorityName": "Worthing",
+        "LocalAuthorityCode": "329",
+        "LocalAuthorityBusinessID": "9104042"
       },
       "geometry": {
         "type": "Point",
@@ -9582,7 +10414,9 @@
         "PostCode": "RG21 7LG",
         "RatingValue": "5",
         "RatingDate": "2024-11-11T00:00:00",
-        "LocalAuthorityName": "Basingstoke and Deane"
+        "LocalAuthorityName": "Basingstoke and Deane",
+        "LocalAuthorityCode": "131",
+        "LocalAuthorityBusinessID": "15/00056/CP"
       },
       "geometry": {
         "type": "Point",
@@ -9605,7 +10439,9 @@
         "PostCode": "SW17 0QT",
         "RatingValue": "5",
         "RatingDate": "2024-04-08T00:00:00",
-        "LocalAuthorityName": "Wandsworth"
+        "LocalAuthorityName": "Wandsworth",
+        "LocalAuthorityCode": "532",
+        "LocalAuthorityBusinessID": "PI/000458502"
       },
       "geometry": {
         "type": "Point",
@@ -9628,7 +10464,9 @@
         "PostCode": "TW6 1QG",
         "RatingValue": "5",
         "RatingDate": "2024-06-25T00:00:00",
-        "LocalAuthorityName": "Hillingdon"
+        "LocalAuthorityName": "Hillingdon",
+        "LocalAuthorityCode": "517",
+        "LocalAuthorityBusinessID": "52370"
       },
       "geometry": {
         "type": "Point",
@@ -9651,7 +10489,9 @@
         "PostCode": "RG30 3UQ",
         "RatingValue": "5",
         "RatingDate": "2023-05-11T00:00:00",
-        "LocalAuthorityName": "West Berkshire"
+        "LocalAuthorityName": "West Berkshire",
+        "LocalAuthorityCode": "883",
+        "LocalAuthorityBusinessID": "9103322"
       },
       "geometry": {
         "type": "Point",
@@ -9674,7 +10514,9 @@
         "PostCode": "S1 4HN",
         "RatingValue": "AwaitingInspection",
         "RatingDate": "1901-01-01T00:00:00",
-        "LocalAuthorityName": "Sheffield"
+        "LocalAuthorityName": "Sheffield",
+        "LocalAuthorityCode": "425",
+        "LocalAuthorityBusinessID": "55019"
       },
       "geometry": {
         "type": "Point",
@@ -9697,7 +10539,9 @@
         "PostCode": "B77 5PS",
         "RatingValue": "5",
         "RatingDate": "2024-12-05T00:00:00",
-        "LocalAuthorityName": "North Warwickshire"
+        "LocalAuthorityName": "North Warwickshire",
+        "LocalAuthorityCode": "317",
+        "LocalAuthorityBusinessID": "33204"
       },
       "geometry": {
         "type": "Point",
@@ -9720,7 +10564,9 @@
         "PostCode": "HA4 0SA",
         "RatingValue": "5",
         "RatingDate": "2023-06-02T00:00:00",
-        "LocalAuthorityName": "Hillingdon"
+        "LocalAuthorityName": "Hillingdon",
+        "LocalAuthorityCode": "517",
+        "LocalAuthorityBusinessID": "150083"
       },
       "geometry": {
         "type": "Point",
@@ -9743,7 +10589,9 @@
         "PostCode": "IG4 5AQ",
         "RatingValue": "3",
         "RatingDate": "2024-10-09T00:00:00",
-        "LocalAuthorityName": "Redbridge"
+        "LocalAuthorityName": "Redbridge",
+        "LocalAuthorityCode": "526",
+        "LocalAuthorityBusinessID": "201738"
       },
       "geometry": {
         "type": "Point",
@@ -9766,7 +10614,9 @@
         "PostCode": "OX1 3EX",
         "RatingValue": "5",
         "RatingDate": "2022-07-07T00:00:00",
-        "LocalAuthorityName": "Oxford City"
+        "LocalAuthorityName": "Oxford City",
+        "LocalAuthorityCode": "269",
+        "LocalAuthorityBusinessID": "22/00074/COM"
       },
       "geometry": {
         "type": "Point",
@@ -9789,7 +10639,9 @@
         "PostCode": "LU3 2RR",
         "RatingValue": "5",
         "RatingDate": "2023-06-19T00:00:00",
-        "LocalAuthorityName": "Luton"
+        "LocalAuthorityName": "Luton",
+        "LocalAuthorityCode": "869",
+        "LocalAuthorityBusinessID": "136789"
       },
       "geometry": {
         "type": "Point",
@@ -9812,7 +10664,9 @@
         "PostCode": "E14 8RP",
         "RatingValue": "5",
         "RatingDate": "2022-02-04T00:00:00",
-        "LocalAuthorityName": "Tower Hamlets"
+        "LocalAuthorityName": "Tower Hamlets",
+        "LocalAuthorityCode": "530",
+        "LocalAuthorityBusinessID": "16393"
       },
       "geometry": {
         "type": "Point",
@@ -9835,7 +10689,9 @@
         "PostCode": "E14 4QS",
         "RatingValue": "5",
         "RatingDate": "2024-11-18T00:00:00",
-        "LocalAuthorityName": "Tower Hamlets"
+        "LocalAuthorityName": "Tower Hamlets",
+        "LocalAuthorityCode": "530",
+        "LocalAuthorityBusinessID": "16466"
       },
       "geometry": {
         "type": "Point",
@@ -9858,7 +10714,9 @@
         "PostCode": "E14 5NY",
         "RatingValue": "5",
         "RatingDate": "2024-05-29T00:00:00",
-        "LocalAuthorityName": "Tower Hamlets"
+        "LocalAuthorityName": "Tower Hamlets",
+        "LocalAuthorityCode": "530",
+        "LocalAuthorityBusinessID": "19787"
       },
       "geometry": {
         "type": "Point",
@@ -9881,7 +10739,9 @@
         "PostCode": "EC2Y 9AW",
         "RatingValue": "5",
         "RatingDate": "2022-03-25T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000101933"
       },
       "geometry": {
         "type": "Point",
@@ -9904,7 +10764,9 @@
         "PostCode": "EC4N 8AF",
         "RatingValue": "5",
         "RatingDate": "2023-06-07T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000027486"
       },
       "geometry": {
         "type": "Point",
@@ -9927,7 +10789,9 @@
         "PostCode": "EC3M 5DJ",
         "RatingValue": "5",
         "RatingDate": "2023-05-02T00:00:00",
-        "LocalAuthorityName": "City of London Corporation"
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000014735"
       },
       "geometry": {
         "type": "Point",
@@ -9950,7 +10814,9 @@
         "PostCode": "SW12 9DH",
         "RatingValue": "5",
         "RatingDate": "2023-12-15T00:00:00",
-        "LocalAuthorityName": "Wandsworth"
+        "LocalAuthorityName": "Wandsworth",
+        "LocalAuthorityCode": "532",
+        "LocalAuthorityBusinessID": "PI/000459782"
       },
       "geometry": {
         "type": "Point",
@@ -9962,3 +10828,4 @@
     }
   ]
 }
+

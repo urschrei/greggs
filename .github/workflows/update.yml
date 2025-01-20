@@ -32,7 +32,10 @@ jobs:
                   AddressLine4:       .AddressLine4,
                   PostCode:           .PostCode,
                   RatingValue:        .RatingValue,
-                  LocalAuthorityName: .LocalAuthorityName
+                  RatingDate:         .RatingDate,
+                  LocalAuthorityName: .LocalAuthorityName,
+                  LocalAuthorityCode: .LocalAuthorityCode,
+                  LocalAuthorityBusinessID: .LocalAuthorityBusinessID
                 },
                 geometry: {
                   type: "Point",
@@ -66,7 +69,10 @@ jobs:
                   AddressLine4:       .AddressLine4,
                   PostCode:           .PostCode,
                   RatingValue:        .RatingValue,
-                  LocalAuthorityName: .LocalAuthorityName
+                  RatingDate:         .RatingDate,
+                  LocalAuthorityName: .LocalAuthorityName,
+                  LocalAuthorityCode: .LocalAuthorityCode,
+                  LocalAuthorityBusinessID: .LocalAuthorityBusinessID
                 },
                 geometry: {
                   type: "Point",
