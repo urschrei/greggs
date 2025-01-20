@@ -44,6 +44,7 @@ jobs:
               }
             ]
           }' > static/latest_greggs.geojson
+          echo >> static/latest_greggs.geojson
 
           curl -X GET -H "x-api-version: 2" -H "Accept: application/json" "https://api.ratings.food.gov.uk/Establishments?name=Pret%20A%20Manger" | \
            jq '{
@@ -77,6 +78,7 @@ jobs:
               }
             ]
           }' > static/latest_greggs.geojson
+          echo >> static/latest_pret.geojson
           
       - name: Update FHRS GeoJSON if it changed
         run: |
