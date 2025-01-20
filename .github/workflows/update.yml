@@ -1,0 +1,90 @@
+name: Weekly API Data Update
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Runs at 00:00 on Sunday
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Fetch and transform new FHRS data
+        run: |
+          curl -X GET -H "x-api-version: 2" -H "Accept: application/json" "https://api.ratings.food.gov.uk/Establishments?name=Greggs" | \
+           jq '{
+            type: "FeatureCollection",
+            features: [
+              .establishments[]
+              | select(.geocode
+                       and .geocode.latitude  != null
+                       and .geocode.longitude != null)
+              | {
+                type: "Feature",
+                properties: {
+                  FHRSID:             .FHRSID,
+                  BusinessName:       .BusinessName,
+                  BusinessTypeID:     .BusinessTypeID,
+                  AddressLine1:       .AddressLine1,
+                  AddressLine2:       .AddressLine2,
+                  AddressLine3:       .AddressLine3,
+                  AddressLine4:       .AddressLine4,
+                  PostCode:           .PostCode,
+                  RatingValue:        .RatingValue,
+                  LocalAuthorityName: .LocalAuthorityName
+                },
+                geometry: {
+                  type: "Point",
+                  coordinates: [
+                    (.geocode.longitude | tonumber),
+                    (.geocode.latitude  | tonumber)
+                  ]
+                }
+              }
+            ]
+          }' > static/latest_greggs.geojson
+
+          curl -X GET -H "x-api-version: 2" -H "Accept: application/json" "https://api.ratings.food.gov.uk/Establishments?name=Pret%20A%20Manger" | \
+           jq '{
+            type: "FeatureCollection",
+            features: [
+              .establishments[]
+              | select(.geocode
+                       and .geocode.latitude  != null
+                       and .geocode.longitude != null)
+              | {
+                type: "Feature",
+                properties: {
+                  FHRSID:             .FHRSID,
+                  BusinessName:       .BusinessName,
+                  BusinessTypeID:     .BusinessTypeID,
+                  AddressLine1:       .AddressLine1,
+                  AddressLine2:       .AddressLine2,
+                  AddressLine3:       .AddressLine3,
+                  AddressLine4:       .AddressLine4,
+                  PostCode:           .PostCode,
+                  RatingValue:        .RatingValue,
+                  LocalAuthorityName: .LocalAuthorityName
+                },
+                geometry: {
+                  type: "Point",
+                  coordinates: [
+                    (.geocode.longitude | tonumber),
+                    (.geocode.latitude  | tonumber)
+                  ]
+                }
+              }
+            ]
+          }' > static/latest_greggs.geojson
+          
+      - name: Update FHRS GeoJSON if it changed
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          
+          if [[ -n $(git status --porcelain) ]]; then
+            git add static/*.geojson
+            git commit -m "Weekly data update"
+            git push
+          fi
