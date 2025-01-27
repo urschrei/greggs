@@ -95,5 +95,6 @@ jobs:
             echo Data changed: writing new files!
             git add static/*.geojson
             git commit -m "Updated data on `date +'%Y-%m-%d'`"
+            git pull
             git push
           fi
