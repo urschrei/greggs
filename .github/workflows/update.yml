@@ -83,7 +83,7 @@ jobs:
                 }
               }
             ]
-          }' > static/latest_greggs.geojson
+          }' > static/latest_pret.geojson
           echo >> static/latest_pret.geojson
           
       - name: Update FHRS GeoJSON if it changed
@@ -92,7 +92,8 @@ jobs:
           git config --global user.email 'action@github.com'
           
           if [[ -n $(git status --porcelain) ]]; then
+            echo Data changed: writing new files!
             git add static/*.geojson
-            git commit -m "Weekly data update"
+            git commit -m "Updated data on `date +'%Y-%m-%d'`"
             git push
           fi
