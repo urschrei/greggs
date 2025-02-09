@@ -4979,31 +4979,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1774063,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "154 Ashford Designer Outlet Kimberley Way",
-        "AddressLine2": "",
-        "AddressLine3": "Ashford",
-        "AddressLine4": "",
-        "PostCode": "TN24 0DQ",
-        "RatingValue": "5",
-        "RatingDate": "2023-11-23T00:00:00",
-        "LocalAuthorityName": "Ashford",
-        "LocalAuthorityCode": "179",
-        "LocalAuthorityBusinessID": "05101"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.8784203,
-          51.1389277
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 938944,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -6629,31 +6604,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 289801,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "21 - 23 Northgate Street",
-        "AddressLine2": "",
-        "AddressLine3": "Chester",
-        "AddressLine4": "Cheshire",
-        "PostCode": "CH1 2HA",
-        "RatingValue": "5",
-        "RatingDate": "2020-02-08T00:00:00",
-        "LocalAuthorityName": "Cheshire West and Chester",
-        "LocalAuthorityCode": "704",
-        "LocalAuthorityBusinessID": "10/00019/COM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.8919031,
-          53.1911071
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 841853,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -7979,56 +7929,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 427730,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "556 OXFORD STREET",
-        "AddressLine2": "",
-        "AddressLine3": "LONDON",
-        "AddressLine4": "",
-        "PostCode": "W1C 1LZ",
-        "RatingValue": "5",
-        "RatingDate": "2025-01-16T00:00:00",
-        "LocalAuthorityName": "Westminster",
-        "LocalAuthorityCode": "533",
-        "LocalAuthorityBusinessID": "00159/0556/0/000"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.1585462,
-          51.5139668
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 499757,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "121 - 123 Mount Pleasant Road",
-        "AddressLine2": "Royal Tunbridge Wells",
-        "AddressLine3": "Kent",
-        "AddressLine4": "",
-        "PostCode": "TN1 1QR",
-        "RatingValue": "5",
-        "RatingDate": "2023-10-30T00:00:00",
-        "LocalAuthorityName": "Tunbridge Wells",
-        "LocalAuthorityCode": "192",
-        "LocalAuthorityBusinessID": "12/00151/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.26342,
-          51.13417
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 729010,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 7844,
@@ -8129,6 +8029,56 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 427730,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "556 OXFORD STREET",
+        "AddressLine2": "",
+        "AddressLine3": "LONDON",
+        "AddressLine4": "",
+        "PostCode": "W1C 1LZ",
+        "RatingValue": "5",
+        "RatingDate": "2025-01-16T00:00:00",
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "00159/0556/0/000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1585462,
+          51.5139668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 499757,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "121 - 123 Mount Pleasant Road",
+        "AddressLine2": "Royal Tunbridge Wells",
+        "AddressLine3": "Kent",
+        "AddressLine4": "",
+        "PostCode": "TN1 1QR",
+        "RatingValue": "5",
+        "RatingDate": "2023-10-30T00:00:00",
+        "LocalAuthorityName": "Tunbridge Wells",
+        "LocalAuthorityCode": "192",
+        "LocalAuthorityBusinessID": "12/00151/MIXED"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.26342,
+          51.13417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1046226,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -8148,6 +8098,56 @@
         "coordinates": [
           -0.2672228,
           51.3330904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 289801,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "21 - 23 Northgate Street",
+        "AddressLine2": "",
+        "AddressLine3": "Chester",
+        "AddressLine4": "Cheshire",
+        "PostCode": "CH1 2HA",
+        "RatingValue": "5",
+        "RatingDate": "2025-01-21T00:00:00",
+        "LocalAuthorityName": "Cheshire West and Chester",
+        "LocalAuthorityCode": "704",
+        "LocalAuthorityBusinessID": "10/00019/COM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8919031,
+          53.1911071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1774063,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "154 Ashford Designer Outlet Kimberley Way",
+        "AddressLine2": "",
+        "AddressLine3": "Ashford",
+        "AddressLine4": "",
+        "PostCode": "TN24 0DQ",
+        "RatingValue": "5",
+        "RatingDate": "2025-01-20T00:00:00",
+        "LocalAuthorityName": "Ashford",
+        "LocalAuthorityCode": "179",
+        "LocalAuthorityBusinessID": "05101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8784203,
+          51.1389277
         ]
       }
     },
@@ -9604,6 +9604,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1797929,
+        "BusinessName": "Pret a Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Unit 2 York Railway Station",
+        "AddressLine2": "Station Road",
+        "AddressLine3": "York",
+        "AddressLine4": "",
+        "PostCode": "YO24 1AB",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "York",
+        "LocalAuthorityCode": "868",
+        "LocalAuthorityBusinessID": "76335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0927418,
+          53.9579335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1767574,
         "BusinessName": "Pret a Manger Frasers",
         "BusinessTypeID": 1,
@@ -10673,6 +10698,31 @@
         "coordinates": [
           -0.027773,
           51.506381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1796487,
+        "BusinessName": "Store Pret A Manager",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "Barton Mills Service Station",
+        "AddressLine2": "Fiveways",
+        "AddressLine3": "Barton Mills",
+        "AddressLine4": "Suffolk",
+        "PostCode": "IP28 6AE",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "West Suffolk",
+        "LocalAuthorityCode": "298",
+        "LocalAuthorityBusinessID": "FR/000003506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.533405,
+          52.338398
         ]
       }
     },
