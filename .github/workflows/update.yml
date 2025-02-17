@@ -82,7 +82,7 @@ jobs:
                   ]
                 }
               }
-            ] | sort_by(.properties.FHRSID)]
+            ] | sort_by(.properties.FHRSID)
           }' > static/latest_pret.geojson
           echo >> static/latest_pret.geojson
           
