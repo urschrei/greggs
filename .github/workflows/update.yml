@@ -45,7 +45,7 @@ jobs:
                   ]
                 }
               }
-            ]
+            ] | sort_by(.properties.FHRSID)
           }' > static/latest_greggs.geojson
           echo >> static/latest_greggs.geojson
 
@@ -82,7 +82,7 @@ jobs:
                   ]
                 }
               }
-            ]
+            ] | sort_by(.properties.FHRSID)]
           }' > static/latest_pret.geojson
           echo >> static/latest_pret.geojson
           
