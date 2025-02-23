@@ -5979,31 +5979,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1007371,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Pret A Manger",
-        "AddressLine2": "271 Holloway Road",
-        "AddressLine3": "London",
-        "AddressLine4": "N7 8FB",
-        "PostCode": "N7 8FB",
-        "RatingValue": "5",
-        "RatingDate": "2022-09-07T00:00:00",
-        "LocalAuthorityName": "Islington",
-        "LocalAuthorityCode": "519",
-        "LocalAuthorityBusinessID": "PI/000279085"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.1118469,
-          51.5519732
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1007421,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -8938,7 +8913,7 @@
         "AddressLine4": "",
         "PostCode": "CF10 1FS",
         "RatingValue": "5",
-        "RatingDate": "2023-04-06T00:00:00",
+        "RatingDate": "2025-02-18T00:00:00",
         "LocalAuthorityName": "Cardiff",
         "LocalAuthorityCode": "556",
         "LocalAuthorityBusinessID": "786816"
