@@ -4556,14 +4556,14 @@
       "properties": {
         "FHRSID": 729010,
         "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 7844,
+        "BusinessTypeID": 1,
         "AddressLine1": "S79 To S80",
         "AddressLine2": "Central Management Suite",
         "AddressLine3": "Gunwharf Quays",
         "AddressLine4": "Portsmouth",
         "PostCode": "PO1 3TZ",
         "RatingValue": "5",
-        "RatingDate": "2017-11-14T00:00:00",
+        "RatingDate": "2025-02-26T00:00:00",
         "LocalAuthorityName": "Portsmouth",
         "LocalAuthorityCode": "876",
         "LocalAuthorityBusinessID": "51141"
@@ -5988,7 +5988,7 @@
         "AddressLine4": "Southampton",
         "PostCode": "SO17 1TW",
         "RatingValue": "5",
-        "RatingDate": "2019-10-16T00:00:00",
+        "RatingDate": "2025-02-17T00:00:00",
         "LocalAuthorityName": "Southampton",
         "LocalAuthorityCode": "877",
         "LocalAuthorityBusinessID": "17/00057/FOOD"
@@ -6433,7 +6433,7 @@
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
         "AddressLine1": "BASEMENT TO FIRST FLOOR 9 ARGYLL STREET",
-        "AddressLine2": "",
+        "AddressLine2": "CITY OF WESTMINSTER",
         "AddressLine3": "LONDON",
         "AddressLine4": "",
         "PostCode": "W1F 7TG",
@@ -6712,8 +6712,8 @@
         "AddressLine3": "LONDON",
         "AddressLine4": "",
         "PostCode": "W2 1HB",
-        "RatingValue": "3",
-        "RatingDate": "2023-09-27T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-02-22T00:00:00",
         "LocalAuthorityName": "Westminster",
         "LocalAuthorityCode": "533",
         "LocalAuthorityBusinessID": "18/00374/COMM"
@@ -9412,8 +9412,8 @@
         "AddressLine3": "Warwick",
         "AddressLine4": "",
         "PostCode": "CV35 0AA",
-        "RatingValue": "4",
-        "RatingDate": "2023-07-19T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-02-25T00:00:00",
         "LocalAuthorityName": "Stratford-on-Avon",
         "LocalAuthorityCode": "320",
         "LocalAuthorityBusinessID": "23/00116/FOOD"
@@ -10662,8 +10662,8 @@
         "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "W5 5DB",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-02-12T00:00:00",
         "LocalAuthorityName": "Ealing",
         "LocalAuthorityCode": "509",
         "LocalAuthorityBusinessID": "CP05121"
@@ -10823,6 +10823,56 @@
         "coordinates": [
           -1.0927418,
           53.9579335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1802070,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "140 Aldersgate Street",
+        "AddressLine2": "London",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "EC1A 4HY",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "25/00116/COMM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.097658,
+          51.519631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1802938,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Morrisons Petrol Station",
+        "AddressLine2": "Ten Perch Road",
+        "AddressLine3": "Canterbury",
+        "AddressLine4": "Kent",
+        "PostCode": "CT1 3TQ",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Canterbury City",
+        "LocalAuthorityCode": "180",
+        "LocalAuthorityBusinessID": "CP/25/00033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0622587,
+          51.2714833
         ]
       }
     }
