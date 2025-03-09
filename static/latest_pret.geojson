@@ -5338,7 +5338,7 @@
         "AddressLine4": "Devon",
         "PostCode": "EX4 4SZ",
         "RatingValue": "5",
-        "RatingDate": "2019-03-01T00:00:00",
+        "RatingDate": "2025-03-05T00:00:00",
         "LocalAuthorityName": "Exeter City",
         "LocalAuthorityCode": "073",
         "LocalAuthorityBusinessID": "PI/000075594"
@@ -6223,31 +6223,6 @@
         "coordinates": [
           -0.0091265,
           51.5414014
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1033402,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "45 High Street",
-        "AddressLine2": "Ealing",
-        "AddressLine3": "",
-        "AddressLine4": "",
-        "PostCode": "W5 5DB",
-        "RatingValue": "5",
-        "RatingDate": "2023-04-04T00:00:00",
-        "LocalAuthorityName": "Ealing",
-        "LocalAuthorityCode": "509",
-        "LocalAuthorityBusinessID": "PI000169258"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.305094,
-          51.51211
         ]
       }
     },
@@ -10812,8 +10787,8 @@
         "AddressLine3": "York",
         "AddressLine4": "",
         "PostCode": "YO24 1AB",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-02-26T00:00:00",
         "LocalAuthorityName": "York",
         "LocalAuthorityCode": "868",
         "LocalAuthorityBusinessID": "76335"
