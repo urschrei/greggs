@@ -2204,6 +2204,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 425600,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "Unit 26&27 St Pancras Station",
+        "AddressLine2": "Euston Road",
+        "AddressLine3": "",
+        "AddressLine4": "London",
+        "PostCode": "N1C 4QP",
+        "RatingValue": "5",
+        "RatingDate": "2024-07-03T00:00:00",
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "58073"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1261217,
+          51.5314298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 425828,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 7844,
@@ -6613,7 +6638,7 @@
         "AddressLine4": "London",
         "PostCode": "NW5 2TJ",
         "RatingValue": "5",
-        "RatingDate": "2019-02-28T00:00:00",
+        "RatingDate": "2025-03-04T00:00:00",
         "LocalAuthorityName": "Camden",
         "LocalAuthorityCode": "506",
         "LocalAuthorityBusinessID": "184181"
@@ -10388,7 +10413,7 @@
         "AddressLine4": "Street",
         "PostCode": "BA16 0BB",
         "RatingValue": "5",
-        "RatingDate": "2023-09-25T00:00:00",
+        "RatingDate": "2021-04-14T00:00:00",
         "LocalAuthorityName": "Somerset",
         "LocalAuthorityCode": "281",
         "LocalAuthorityBusinessID": "FR/201200112"
