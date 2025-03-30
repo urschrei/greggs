@@ -3313,7 +3313,7 @@
         "AddressLine4": "",
         "PostCode": "SW8 2LE",
         "RatingValue": "5",
-        "RatingDate": "2024-08-09T00:00:00",
+        "RatingDate": "2025-03-17T00:00:00",
         "LocalAuthorityName": "Lambeth",
         "LocalAuthorityCode": "522",
         "LocalAuthorityBusinessID": "10/00179/COMM"
@@ -3488,7 +3488,7 @@
         "AddressLine4": "",
         "PostCode": "SW19 7NS",
         "RatingValue": "5",
-        "RatingDate": "2022-01-10T00:00:00",
+        "RatingDate": "2025-03-11T00:00:00",
         "LocalAuthorityName": "Merton",
         "LocalAuthorityCode": "524",
         "LocalAuthorityBusinessID": "PI/000097138"
@@ -8838,7 +8838,7 @@
         "AddressLine4": "",
         "PostCode": "RH2 7AA",
         "RatingValue": "5",
-        "RatingDate": "2023-03-21T00:00:00",
+        "RatingDate": "2025-02-15T00:00:00",
         "LocalAuthorityName": "Reigate and Banstead",
         "LocalAuthorityCode": "309",
         "LocalAuthorityBusinessID": "22/00184/COMM"
@@ -10312,8 +10312,8 @@
         "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "EH7 4FQ",
-        "RatingValue": "Awaiting Inspection",
-        "RatingDate": "2024-07-26T00:00:00",
+        "RatingValue": "Pass",
+        "RatingDate": "2025-03-25T00:00:00",
         "LocalAuthorityName": "Edinburgh (City of)",
         "LocalAuthorityCode": "773",
         "LocalAuthorityBusinessID": "209374"
@@ -10487,8 +10487,8 @@
         "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "SW6 4HH",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-03-26T00:00:00",
         "LocalAuthorityName": "Hammersmith and Fulham",
         "LocalAuthorityCode": "513",
         "LocalAuthorityBusinessID": "2024/00347/COMB"
