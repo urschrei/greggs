@@ -5138,7 +5138,7 @@
         "AddressLine4": "",
         "PostCode": "W6 9PA",
         "RatingValue": "5",
-        "RatingDate": "2021-05-05T00:00:00",
+        "RatingDate": "2025-03-27T00:00:00",
         "LocalAuthorityName": "Hammersmith and Fulham",
         "LocalAuthorityCode": "513",
         "LocalAuthorityBusinessID": "2015/00158/COMB"
@@ -10873,6 +10873,31 @@
         "coordinates": [
           1.0622587,
           51.2714833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1813320,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "7 Garden Boulevard",
+        "AddressLine2": "Maidenhead",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "SL6 1QQ",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Windsor and Maidenhead",
+        "LocalAuthorityCode": "886",
+        "LocalAuthorityBusinessID": "25/00080/COM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7209445,
+          51.5208916
         ]
       }
     }
