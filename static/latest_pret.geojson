@@ -3412,8 +3412,8 @@
         "AddressLine3": "HENLEY-ON-THAMES",
         "AddressLine4": "Oxon",
         "PostCode": "RG9 2AH",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-04-01T00:00:00",
         "LocalAuthorityName": "South Oxfordshire",
         "LocalAuthorityCode": "270",
         "LocalAuthorityBusinessID": "AD:14243"
@@ -5748,31 +5748,6 @@
         "coordinates": [
           -0.212060004472733,
           51.4946403503418
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 975932,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "163 - 165 High Street",
-        "AddressLine2": "Cheltenham",
-        "AddressLine3": "Gloucestershire",
-        "AddressLine4": "",
-        "PostCode": "GL50 1DF",
-        "RatingValue": "5",
-        "RatingDate": "2023-05-09T00:00:00",
-        "LocalAuthorityName": "Cheltenham",
-        "LocalAuthorityCode": "124",
-        "LocalAuthorityBusinessID": "17/00093/FOOD"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.0734292,
-          51.9004074
         ]
       }
     },
@@ -10413,7 +10388,7 @@
         "AddressLine4": "Street",
         "PostCode": "BA16 0BB",
         "RatingValue": "5",
-        "RatingDate": "2021-04-14T00:00:00",
+        "RatingDate": "2023-09-25T00:00:00",
         "LocalAuthorityName": "Somerset",
         "LocalAuthorityCode": "281",
         "LocalAuthorityBusinessID": "FR/201200112"
