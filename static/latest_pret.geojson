@@ -88,7 +88,7 @@
         "AddressLine4": "",
         "PostCode": "E1W 1YN",
         "RatingValue": "4",
-        "RatingDate": "2024-11-05T00:00:00",
+        "RatingDate": "2025-03-26T00:00:00",
         "LocalAuthorityName": "Tower Hamlets",
         "LocalAuthorityCode": "530",
         "LocalAuthorityBusinessID": "151571"
@@ -4579,31 +4579,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 729010,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "S79 To S80",
-        "AddressLine2": "Central Management Suite",
-        "AddressLine3": "Gunwharf Quays",
-        "AddressLine4": "Portsmouth",
-        "PostCode": "PO1 3TZ",
-        "RatingValue": "5",
-        "RatingDate": "2025-02-26T00:00:00",
-        "LocalAuthorityName": "Portsmouth",
-        "LocalAuthorityCode": "876",
-        "LocalAuthorityBusinessID": "51141"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1060322,
-          50.7965764
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 730029,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -4679,31 +4654,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 756031,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 7844,
-        "AddressLine1": "",
-        "AddressLine2": "34 Oxford Street",
-        "AddressLine3": "Manchester",
-        "AddressLine4": "",
-        "PostCode": "M1 5EL",
-        "RatingValue": "5",
-        "RatingDate": "2023-12-08T00:00:00",
-        "LocalAuthorityName": "Manchester",
-        "LocalAuthorityCode": "415",
-        "LocalAuthorityBusinessID": "1499651"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.2429288,
-          53.4762854
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 760780,
         "BusinessName": "Pret A Manger (Airside 1)",
         "BusinessTypeID": 1,
@@ -4773,56 +4723,6 @@
         "coordinates": [
           -1.087959,
           51.265654
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 768313,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Unit 1b",
-        "AddressLine2": "4 Hardman Square",
-        "AddressLine3": "Manchester",
-        "AddressLine4": "",
-        "PostCode": "M3 3EB",
-        "RatingValue": "5",
-        "RatingDate": "2024-01-29T00:00:00",
-        "LocalAuthorityName": "Manchester",
-        "LocalAuthorityCode": "415",
-        "LocalAuthorityBusinessID": "968331"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.252245,
-          53.479904
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 768704,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 7844,
-        "AddressLine1": "",
-        "AddressLine2": "27 Cross Street",
-        "AddressLine3": "Manchester",
-        "AddressLine4": "",
-        "PostCode": "M2 1WL",
-        "RatingValue": "5",
-        "RatingDate": "2024-03-22T00:00:00",
-        "LocalAuthorityName": "Manchester",
-        "LocalAuthorityCode": "415",
-        "LocalAuthorityBusinessID": "5348"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.244195,
-          53.481881
         ]
       }
     },
@@ -5104,31 +5004,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 840220,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "",
-        "AddressLine2": "1 Piccadilly Gardens",
-        "AddressLine3": "Manchester",
-        "AddressLine4": "",
-        "PostCode": "M1 1RG",
-        "RatingValue": "5",
-        "RatingDate": "2021-04-13T00:00:00",
-        "LocalAuthorityName": "Manchester",
-        "LocalAuthorityCode": "415",
-        "LocalAuthorityBusinessID": "1503536"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.236456,
-          53.480342
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 841853,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -5323,31 +5198,6 @@
         "coordinates": [
           -1.547601,
           53.794176
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 897510,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Unit C6 Terminal 1 Manchester Airport",
-        "AddressLine2": "Ringway Road",
-        "AddressLine3": "Manchester",
-        "AddressLine4": "",
-        "PostCode": "M90 1QX",
-        "RatingValue": "5",
-        "RatingDate": "2022-04-12T00:00:00",
-        "LocalAuthorityName": "Manchester",
-        "LocalAuthorityCode": "415",
-        "LocalAuthorityBusinessID": "1504254"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.270855,
-          53.361889
         ]
       }
     },
@@ -5873,31 +5723,6 @@
         "coordinates": [
           -1.41013395786285,
           53.4148712158203
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 991332,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Unit B Terminal 1 Arrivals Manchester Airport",
-        "AddressLine2": "Chicago Avenue",
-        "AddressLine3": "Manchester",
-        "AddressLine4": "",
-        "PostCode": "M90 3FE",
-        "RatingValue": "5",
-        "RatingDate": "2023-08-02T00:00:00",
-        "LocalAuthorityName": "Manchester",
-        "LocalAuthorityCode": "415",
-        "LocalAuthorityBusinessID": "1506088"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.27189302444458,
-          53.3619422912598
         ]
       }
     },
@@ -6829,31 +6654,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1105844,
-        "BusinessName": "Pret a Manger",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "Unit 8 Manchester Business School",
-        "AddressLine2": "134 Oxford Road",
-        "AddressLine3": "Manchester",
-        "AddressLine4": "",
-        "PostCode": "M13 9GP",
-        "RatingValue": "5",
-        "RatingDate": "2019-01-29T00:00:00",
-        "LocalAuthorityName": "Manchester",
-        "LocalAuthorityCode": "415",
-        "LocalAuthorityBusinessID": "1511127"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.23578095436096,
-          53.4676666259766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1108130,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -7107,10 +6907,10 @@
         "FHRSID": 1205109,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
-        "AddressLine1": "Rootes Social Building",
-        "AddressLine2": "Gibbet Hill Road",
-        "AddressLine3": "Coventry",
-        "AddressLine4": "",
+        "AddressLine1": "Pret A Manger Rootes Social Building Gibbet Hill Road",
+        "AddressLine2": "",
+        "AddressLine3": "",
+        "AddressLine4": "Coventry",
         "PostCode": "CV4 7ES",
         "RatingValue": "5",
         "RatingDate": "2022-05-23T00:00:00",
@@ -7121,8 +6921,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.560254,
-          52.378897
+          -1.5611753,
+          52.3783416
         ]
       }
     },
@@ -7473,31 +7273,6 @@
         "coordinates": [
           -0.142155,
           51.5243377
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1223480,
-        "BusinessName": "Pret a Manger",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "Unit R1 Arndale Centre",
-        "AddressLine2": "Market Street",
-        "AddressLine3": "Manchester",
-        "AddressLine4": "",
-        "PostCode": "M4 3AQ",
-        "RatingValue": "5",
-        "RatingDate": "2023-07-12T00:00:00",
-        "LocalAuthorityName": "Manchester",
-        "LocalAuthorityCode": "415",
-        "LocalAuthorityBusinessID": "1514741"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.241703,
-          53.483468
         ]
       }
     },
@@ -7923,31 +7698,6 @@
         "coordinates": [
           0.0090005,
           51.5149651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1494414,
-        "BusinessName": "Pret a Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "BP Ardwick Service Station",
-        "AddressLine2": "Chancellor Lane",
-        "AddressLine3": "Manchester",
-        "AddressLine4": "",
-        "PostCode": "M12 6JZ",
-        "RatingValue": "5",
-        "RatingDate": "2023-06-06T00:00:00",
-        "LocalAuthorityName": "Manchester",
-        "LocalAuthorityCode": "415",
-        "LocalAuthorityBusinessID": "1523737"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.2161101,
-          53.4735825
         ]
       }
     },
@@ -9554,31 +9304,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1667176,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "The Liberty",
-        "AddressLine2": "Romford",
-        "AddressLine3": "",
-        "AddressLine4": "",
-        "PostCode": "RM1 3RL",
-        "RatingValue": "5",
-        "RatingDate": "2024-02-28T00:00:00",
-        "LocalAuthorityName": "Havering",
-        "LocalAuthorityCode": "516",
-        "LocalAuthorityBusinessID": "140250"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.18348,
-          51.57834
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1669012,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -10873,6 +10598,231 @@
         "coordinates": [
           -0.7209445,
           51.5208916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1817336,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "",
+        "AddressLine2": "34 Oxford Street",
+        "AddressLine3": "Manchester",
+        "AddressLine4": "",
+        "PostCode": "M1 5EL",
+        "RatingValue": "5",
+        "RatingDate": "2023-12-08T00:00:00",
+        "LocalAuthorityName": "Manchester",
+        "LocalAuthorityCode": "415",
+        "LocalAuthorityBusinessID": "AC-072024-006078"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2429288,
+          53.4762854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1817783,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "",
+        "AddressLine2": "79-81 Deansgate",
+        "AddressLine3": "Manchester",
+        "AddressLine4": "",
+        "PostCode": "M3 2BW",
+        "RatingValue": "5",
+        "RatingDate": "2025-03-01T00:00:00",
+        "LocalAuthorityName": "Manchester",
+        "LocalAuthorityCode": "415",
+        "LocalAuthorityBusinessID": "AC-072024-006611"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.246774,
+          53.482226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1818628,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "",
+        "AddressLine2": "1 Piccadilly Gardens",
+        "AddressLine3": "Manchester",
+        "AddressLine4": "",
+        "PostCode": "M1 1RG",
+        "RatingValue": "5",
+        "RatingDate": "2021-04-13T00:00:00",
+        "LocalAuthorityName": "Manchester",
+        "LocalAuthorityCode": "415",
+        "LocalAuthorityBusinessID": "AC-072024-012985"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.236456,
+          53.480342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1818964,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "",
+        "AddressLine2": "27 Cross Street",
+        "AddressLine3": "Manchester",
+        "AddressLine4": "",
+        "PostCode": "M2 1WL",
+        "RatingValue": "5",
+        "RatingDate": "2024-03-22T00:00:00",
+        "LocalAuthorityName": "Manchester",
+        "LocalAuthorityCode": "415",
+        "LocalAuthorityBusinessID": "AC-072024-013457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.244195,
+          53.481881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1819116,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Unit C6 Terminal 1 Manchester Airport",
+        "AddressLine2": "Ringway Road",
+        "AddressLine3": "Manchester",
+        "AddressLine4": "",
+        "PostCode": "M90 1QX",
+        "RatingValue": "5",
+        "RatingDate": "2022-04-12T00:00:00",
+        "LocalAuthorityName": "Manchester",
+        "LocalAuthorityCode": "415",
+        "LocalAuthorityBusinessID": "AC-072024-013642"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.270855,
+          53.361889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1819544,
+        "BusinessName": "Pret a Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "BP Ardwick Service Station",
+        "AddressLine2": "Chancellor Lane",
+        "AddressLine3": "Manchester",
+        "AddressLine4": "",
+        "PostCode": "M12 6JZ",
+        "RatingValue": "5",
+        "RatingDate": "2023-06-06T00:00:00",
+        "LocalAuthorityName": "Manchester",
+        "LocalAuthorityCode": "415",
+        "LocalAuthorityBusinessID": "AC-072024-014138"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2161101,
+          53.4735825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1820603,
+        "BusinessName": "Pret a Manger",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "Unit 8 Manchester Business School",
+        "AddressLine2": "134 Oxford Road",
+        "AddressLine3": "Manchester",
+        "AddressLine4": "",
+        "PostCode": "M13 9GP",
+        "RatingValue": "5",
+        "RatingDate": "2024-06-26T00:00:00",
+        "LocalAuthorityName": "Manchester",
+        "LocalAuthorityCode": "415",
+        "LocalAuthorityBusinessID": "AC-072024-015451"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.23578095436096,
+          53.4676666259766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1820859,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Unit 1b",
+        "AddressLine2": "4 Hardman Square",
+        "AddressLine3": "Manchester",
+        "AddressLine4": "",
+        "PostCode": "M3 3EB",
+        "RatingValue": "5",
+        "RatingDate": "2024-01-29T00:00:00",
+        "LocalAuthorityName": "Manchester",
+        "LocalAuthorityCode": "415",
+        "LocalAuthorityBusinessID": "AC-072024-015754"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.252245,
+          53.479904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1821627,
+        "BusinessName": "Pret a Manger",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "Unit R1 Arndale Centre",
+        "AddressLine2": "Market Street",
+        "AddressLine3": "Manchester",
+        "AddressLine4": "",
+        "PostCode": "M4 3AQ",
+        "RatingValue": "5",
+        "RatingDate": "2023-07-12T00:00:00",
+        "LocalAuthorityName": "Manchester",
+        "LocalAuthorityCode": "415",
+        "LocalAuthorityBusinessID": "AC-072024-016664"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.241703,
+          53.483468
         ]
       }
     }
