@@ -8254,6 +8254,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1552253,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Crow Orchard Service Station",
+        "AddressLine2": "Mossy Lea Road",
+        "AddressLine3": "Wrightington",
+        "AddressLine4": "Lancashire",
+        "PostCode": "WN6 9RA",
+        "RatingValue": "5",
+        "RatingDate": "2025-03-13T00:00:00",
+        "LocalAuthorityName": "West Lancashire",
+        "LocalAuthorityCode": "206",
+        "LocalAuthorityBusinessID": "PI/000162607"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.693207,
+          53.588404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1563199,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 7844,
@@ -9304,6 +9329,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1667176,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "The Liberty",
+        "AddressLine2": "Romford",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "RM1 3RL",
+        "RatingValue": "5",
+        "RatingDate": "2024-02-28T00:00:00",
+        "LocalAuthorityName": "Havering",
+        "LocalAuthorityCode": "516",
+        "LocalAuthorityBusinessID": "140250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.18348,
+          51.57834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1669012,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -9663,7 +9713,7 @@
         "AddressLine4": "",
         "PostCode": "AL1 3DP",
         "RatingValue": "5",
-        "RatingDate": "2023-04-19T00:00:00",
+        "RatingDate": "2025-04-09T00:00:00",
         "LocalAuthorityName": "St Albans City",
         "LocalAuthorityCode": "160",
         "LocalAuthorityBusinessID": "FR/201300027"
@@ -10480,15 +10530,15 @@
       "type": "Feature",
       "properties": {
         "FHRSID": 1796487,
-        "BusinessName": "Store Pret A Manager",
+        "BusinessName": "Pret A Manger",
         "BusinessTypeID": 7844,
         "AddressLine1": "Barton Mills Service Station",
         "AddressLine2": "Fiveways",
         "AddressLine3": "Barton Mills",
         "AddressLine4": "Suffolk",
         "PostCode": "IP28 6AE",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-04-16T00:00:00",
         "LocalAuthorityName": "West Suffolk",
         "LocalAuthorityCode": "298",
         "LocalAuthorityBusinessID": "FR/000003506"
