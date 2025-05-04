@@ -2954,31 +2954,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 428123,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "127 QUEENSWAY",
-        "AddressLine2": "",
-        "AddressLine3": "LONDON",
-        "AddressLine4": "",
-        "PostCode": "W2 4SJ",
-        "RatingValue": "5",
-        "RatingDate": "2019-10-28T00:00:00",
-        "LocalAuthorityName": "Westminster",
-        "LocalAuthorityCode": "533",
-        "LocalAuthorityBusinessID": "01512/0127/0/000"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.187968,
-          51.5134538
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 428140,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -4737,8 +4712,8 @@
         "AddressLine3": "LONDON",
         "AddressLine4": "",
         "PostCode": "SW1Y 4PE",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2024-11-11T00:00:00",
         "LocalAuthorityName": "Westminster",
         "LocalAuthorityCode": "533",
         "LocalAuthorityBusinessID": "13/00181/COMM"
@@ -9962,8 +9937,8 @@
         "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "N9 0TY",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-04-24T00:00:00",
         "LocalAuthorityName": "Enfield",
         "LocalAuthorityCode": "510",
         "LocalAuthorityBusinessID": "PI/000195440"

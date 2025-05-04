@@ -2913,7 +2913,7 @@
         "AddressLine4": "Portsmouth",
         "PostCode": "PO3 5QP",
         "RatingValue": "5",
-        "RatingDate": "2018-06-13T00:00:00",
+        "RatingDate": "2025-04-24T00:00:00",
         "LocalAuthorityName": "Portsmouth",
         "LocalAuthorityCode": "876",
         "LocalAuthorityBusinessID": "15767"
@@ -3713,7 +3713,7 @@
         "AddressLine4": "",
         "PostCode": "PO2 0LN",
         "RatingValue": "5",
-        "RatingDate": "2019-10-21T00:00:00",
+        "RatingDate": "2025-04-24T00:00:00",
         "LocalAuthorityName": "Portsmouth",
         "LocalAuthorityCode": "876",
         "LocalAuthorityBusinessID": "26346"
@@ -8538,7 +8538,7 @@
         "AddressLine4": "",
         "PostCode": "HG4 1BW",
         "RatingValue": "5",
-        "RatingDate": "2023-07-12T00:00:00",
+        "RatingDate": "2025-05-01T00:00:00",
         "LocalAuthorityName": "North Yorkshire",
         "LocalAuthorityCode": "250",
         "LocalAuthorityBusinessID": "PI/000034123"
@@ -8648,31 +8648,6 @@
         "coordinates": [
           -2.752021,
           51.591407
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 225676,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "",
-        "AddressLine2": "136 Dalton Road",
-        "AddressLine3": "Barrow-In-Furness",
-        "AddressLine4": "Cumbria",
-        "PostCode": "LA14 1JH",
-        "RatingValue": "5",
-        "RatingDate": "2022-06-25T00:00:00",
-        "LocalAuthorityName": "Westmorland and Furness",
-        "LocalAuthorityCode": "056",
-        "LocalAuthorityBusinessID": "16967"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.224961,
-          54.11288
         ]
       }
     },
@@ -11254,31 +11229,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 280989,
-        "BusinessName": "Greggs at Broad St Mall",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "",
-        "AddressLine2": "Broad Street",
-        "AddressLine3": "Reading",
-        "AddressLine4": "",
-        "PostCode": "RG1 7QE",
-        "RatingValue": "5",
-        "RatingDate": "2024-10-25T00:00:00",
-        "LocalAuthorityName": "Reading",
-        "LocalAuthorityCode": "884",
-        "LocalAuthorityBusinessID": "649"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.975908,
-          51.454819
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 283122,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -12530,7 +12480,7 @@
       "type": "Feature",
       "properties": {
         "FHRSID": 315263,
-        "BusinessName": "Greggs of Twickenham",
+        "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
         "AddressLine1": "",
         "AddressLine2": "94 Station Road",
@@ -12538,7 +12488,7 @@
         "AddressLine4": "Addlestone",
         "PostCode": "KT15 2AD",
         "RatingValue": "5",
-        "RatingDate": "2023-06-23T00:00:00",
+        "RatingDate": "2025-04-24T00:00:00",
         "LocalAuthorityName": "Runnymede",
         "LocalAuthorityCode": "310",
         "LocalAuthorityBusinessID": "1101"
@@ -13212,8 +13162,8 @@
         "AddressLine3": "Leeds",
         "AddressLine4": "",
         "PostCode": "LS19 7SP",
-        "RatingValue": "4",
-        "RatingDate": "2023-03-23T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-04-14T00:00:00",
         "LocalAuthorityName": "Leeds",
         "LocalAuthorityCode": "413",
         "LocalAuthorityBusinessID": "00014848"
@@ -13263,7 +13213,7 @@
         "AddressLine4": "",
         "PostCode": "LS21 3AQ",
         "RatingValue": "5",
-        "RatingDate": "2023-03-24T00:00:00",
+        "RatingDate": "2025-04-23T00:00:00",
         "LocalAuthorityName": "Leeds",
         "LocalAuthorityCode": "413",
         "LocalAuthorityBusinessID": "00017245"
@@ -17788,7 +17738,7 @@
         "AddressLine4": "",
         "PostCode": "SE27 9AF",
         "RatingValue": "5",
-        "RatingDate": "2022-12-12T00:00:00",
+        "RatingDate": "2025-03-11T00:00:00",
         "LocalAuthorityName": "Lambeth",
         "LocalAuthorityCode": "522",
         "LocalAuthorityBusinessID": "56140/0324/2/000"
@@ -26713,7 +26663,7 @@
         "AddressLine4": "",
         "PostCode": "SK4 1TN",
         "RatingValue": "5",
-        "RatingDate": "2023-04-13T00:00:00",
+        "RatingDate": "2025-04-24T00:00:00",
         "LocalAuthorityName": "Stockport",
         "LocalAuthorityCode": "428",
         "LocalAuthorityBusinessID": "40089"
@@ -31063,7 +31013,7 @@
         "AddressLine4": "Teesside Industrial Estate",
         "PostCode": "TS17 9LN",
         "RatingValue": "5",
-        "RatingDate": "2023-04-25T00:00:00",
+        "RatingDate": "2025-04-17T00:00:00",
         "LocalAuthorityName": "Stockton On Tees",
         "LocalAuthorityCode": "862",
         "LocalAuthorityBusinessID": "220430"
@@ -31248,31 +31198,6 @@
         "coordinates": [
           -3.622533,
           55.0787888
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 990254,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "",
-        "AddressLine2": "22 Union Square",
-        "AddressLine3": "Torquay",
-        "AddressLine4": "",
-        "PostCode": "TQ1 3UT",
-        "RatingValue": "5",
-        "RatingDate": "2024-11-05T00:00:00",
-        "LocalAuthorityName": "Torbay",
-        "LocalAuthorityCode": "892",
-        "LocalAuthorityBusinessID": "A015T322UN/1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.52924203872681,
-          50.4673500061035
         ]
       }
     },
@@ -32048,31 +31973,6 @@
         "coordinates": [
           -2.07804608345032,
           52.5926246643066
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1017149,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "",
-        "AddressLine2": "16 Victoria Street",
-        "AddressLine3": "Paignton",
-        "AddressLine4": "",
-        "PostCode": "TQ4 5DN",
-        "RatingValue": "5",
-        "RatingDate": "2025-02-07T00:00:00",
-        "LocalAuthorityName": "Torbay",
-        "LocalAuthorityCode": "892",
-        "LocalAuthorityBusinessID": "A015T316VI/1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.56650304794312,
-          50.4355049133301
         ]
       }
     },
@@ -36548,31 +36448,6 @@
         "coordinates": [
           -3.41469192504883,
           53.3362159729004
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1196561,
-        "BusinessName": "Greggs Plc",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "",
-        "AddressLine2": "Yannons Road",
-        "AddressLine3": "Paignton",
-        "AddressLine4": "",
-        "PostCode": "TQ4 7TS",
-        "RatingValue": "5",
-        "RatingDate": "2024-11-25T00:00:00",
-        "LocalAuthorityName": "Torbay",
-        "LocalAuthorityCode": "892",
-        "LocalAuthorityBusinessID": "A015P7YANN/1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.58581495285034,
-          50.419921875
         ]
       }
     },
@@ -41288,7 +41163,7 @@
         "AddressLine4": "",
         "PostCode": "RG2 8HA",
         "RatingValue": "5",
-        "RatingDate": "2021-07-03T00:00:00",
+        "RatingDate": "2024-06-05T00:00:00",
         "LocalAuthorityName": "Reading",
         "LocalAuthorityCode": "884",
         "LocalAuthorityBusinessID": "138810"
@@ -42506,7 +42381,7 @@
       "properties": {
         "FHRSID": 1416024,
         "BusinessName": "Greggs PLC",
-        "BusinessTypeID": 7844,
+        "BusinessTypeID": 4613,
         "AddressLine1": "Unit C 3 Crabtree Street",
         "AddressLine2": "",
         "AddressLine3": "Blackburn",
@@ -43137,8 +43012,8 @@
         "AddressLine3": "Dartford",
         "AddressLine4": "Kent",
         "PostCode": "DA1 4LB",
-        "RatingValue": "4",
-        "RatingDate": "2022-02-17T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-05-01T00:00:00",
         "LocalAuthorityName": "Bexley",
         "LocalAuthorityCode": "503",
         "LocalAuthorityBusinessID": "22/00006/CP"
@@ -43910,7 +43785,7 @@
         "AddressLine1": "",
         "AddressLine2": "Unit 124-126 The Mall",
         "AddressLine3": "",
-        "AddressLine4": "",
+        "AddressLine4": "Luton",
         "PostCode": "LU1 2LJ",
         "RatingValue": "AwaitingInspection",
         "RatingDate": "1901-01-01T00:00:00",
@@ -46963,7 +46838,7 @@
         "AddressLine4": "",
         "PostCode": "KT2 5PU",
         "RatingValue": "5",
-        "RatingDate": "2023-06-07T00:00:00",
+        "RatingDate": "2025-04-24T00:00:00",
         "LocalAuthorityName": "Richmond-Upon-Thames",
         "LocalAuthorityCode": "527",
         "LocalAuthorityBusinessID": "PI/000450119"
@@ -47863,7 +47738,7 @@
         "AddressLine4": "Essex",
         "PostCode": "CM1 2RY",
         "RatingValue": "5",
-        "RatingDate": "2023-04-25T00:00:00",
+        "RatingDate": "2025-04-10T00:00:00",
         "LocalAuthorityName": "Chelmsford",
         "LocalAuthorityCode": "113",
         "LocalAuthorityBusinessID": "23/00023/COMM"
@@ -49063,7 +48938,7 @@
         "AddressLine4": "Vale Of Glamorgan",
         "PostCode": "CF61 1XA",
         "RatingValue": "5",
-        "RatingDate": "2023-11-13T00:00:00",
+        "RatingDate": "2025-04-16T00:00:00",
         "LocalAuthorityName": "Vale of Glamorgan",
         "LocalAuthorityCode": "570",
         "LocalAuthorityBusinessID": "788264"
@@ -49263,7 +49138,7 @@
         "AddressLine4": "",
         "PostCode": "BL2 6PY",
         "RatingValue": "5",
-        "RatingDate": "2023-07-01T00:00:00",
+        "RatingDate": "2025-04-10T00:00:00",
         "LocalAuthorityName": "Bolton",
         "LocalAuthorityCode": "403",
         "LocalAuthorityBusinessID": "161939"
@@ -55031,7 +54906,7 @@
       "properties": {
         "FHRSID": 1740437,
         "BusinessName": "Greggs Westend",
-        "BusinessTypeID": 7844,
+        "BusinessTypeID": 4613,
         "AddressLine1": "Texaco Preston New Road",
         "AddressLine2": "",
         "AddressLine3": "Blackburn",
@@ -55598,31 +55473,6 @@
         "coordinates": [
           -1.1112187,
           52.9655875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1751464,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 7844,
-        "AddressLine1": "",
-        "AddressLine2": "119 Newton Road",
-        "AddressLine3": "Torquay",
-        "AddressLine4": "Torbay",
-        "PostCode": "TQ2 7AR",
-        "RatingValue": "5",
-        "RatingDate": "2024-08-15T00:00:00",
-        "LocalAuthorityName": "Torbay",
-        "LocalAuthorityCode": "892",
-        "LocalAuthorityBusinessID": "C065T7119N/2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.549416,
-          50.482319
         ]
       }
     },
@@ -58362,8 +58212,8 @@
         "AddressLine3": "Chiseldon",
         "AddressLine4": "Swindon",
         "PostCode": "SN4 0NR",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2023-12-12T00:00:00",
         "LocalAuthorityName": "Swindon",
         "LocalAuthorityCode": "881",
         "LocalAuthorityBusinessID": "25/00024/FOOD"
@@ -58956,7 +58806,7 @@
       "properties": {
         "FHRSID": 1810033,
         "BusinessName": "Greggs, Subway, Asda Express Fernley PFS",
-        "BusinessTypeID": 7844,
+        "BusinessTypeID": 7840,
         "AddressLine1": "Euro Garages",
         "AddressLine2": "Shoppenhangers Service Station",
         "AddressLine3": "Shoppenhangers Road",
@@ -59162,8 +59012,8 @@
         "AddressLine3": "Stoke-On-Trent",
         "AddressLine4": "",
         "PostCode": "ST3 6HE",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-04-25T00:00:00",
         "LocalAuthorityName": "Stoke-On-Trent",
         "LocalAuthorityCode": "880",
         "LocalAuthorityBusinessID": "874191"
@@ -60098,6 +59948,206 @@
         "coordinates": [
           -4.3574267,
           55.8455192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1825300,
+        "BusinessName": "Greggs Plc",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "Yannons Road Paignton",
+        "AddressLine2": "",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "TQ4 7TS",
+        "RatingValue": "5",
+        "RatingDate": "2024-11-25T00:00:00",
+        "LocalAuthorityName": "Torbay",
+        "LocalAuthorityCode": "892",
+        "LocalAuthorityBusinessID": "143357475642768"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.58642723,
+          50.41865267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1825330,
+        "BusinessName": "Greggs",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "16 Victoria Street Paignton",
+        "AddressLine2": "",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "TQ4 5DN",
+        "RatingValue": "5",
+        "RatingDate": "2025-02-07T00:00:00",
+        "LocalAuthorityName": "Torbay",
+        "LocalAuthorityCode": "892",
+        "LocalAuthorityBusinessID": "143359455642784"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5670197,
+          50.4356091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1825363,
+        "BusinessName": "Greggs",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "22 Union Square Torquay",
+        "AddressLine2": "",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "TQ1 3UT",
+        "RatingValue": "5",
+        "RatingDate": "2024-11-05T00:00:00",
+        "LocalAuthorityName": "Torbay",
+        "LocalAuthorityCode": "892",
+        "LocalAuthorityBusinessID": "143360435642786"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5294894,
+          50.4670116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1826389,
+        "BusinessName": "Greggs",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "119 Newton Road Torquay Torbay",
+        "AddressLine2": "",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "TQ2 7AR",
+        "RatingValue": "5",
+        "RatingDate": "2024-08-15T00:00:00",
+        "LocalAuthorityName": "Torbay",
+        "LocalAuthorityCode": "892",
+        "LocalAuthorityBusinessID": "143449425645562"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.54946,
+          50.4824243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1826939,
+        "BusinessName": "Greggs PLC",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "",
+        "AddressLine2": "Unit 2B Sunnyfield Parade",
+        "AddressLine3": "Sunnyfield",
+        "AddressLine4": "",
+        "PostCode": "TS7 9BL",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Redcar and Cleveland",
+        "LocalAuthorityCode": "860",
+        "LocalAuthorityBusinessID": "78904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1792549,
+          54.5473528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1827406,
+        "BusinessName": "Greggs at Broad St Mall",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "Broad Street",
+        "AddressLine3": "Reading",
+        "AddressLine4": "",
+        "PostCode": "RG1 7QE",
+        "RatingValue": "5",
+        "RatingDate": "2024-10-25T00:00:00",
+        "LocalAuthorityName": "Reading",
+        "LocalAuthorityCode": "884",
+        "LocalAuthorityBusinessID": "06540"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.975908,
+          51.454819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1827779,
+        "BusinessName": "Greggs PLC",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "3 Greenlaw Place",
+        "AddressLine2": "Newton Mearns",
+        "AddressLine3": "",
+        "AddressLine4": "East Renfrewshire",
+        "PostCode": "G77 6GR",
+        "RatingValue": "Awaiting Inspection",
+        "RatingDate": "2025-02-07T00:00:00",
+        "LocalAuthorityName": "East Renfrewshire",
+        "LocalAuthorityCode": "787",
+        "LocalAuthorityBusinessID": "2025/2808/COMM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.347148,
+          55.7828384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1827894,
+        "BusinessName": "MFG Cromer Greggs",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "Morrisons Garage",
+        "AddressLine2": "1-3 Prince Of Wales Road",
+        "AddressLine3": "Cromer",
+        "AddressLine4": "Norfolk",
+        "PostCode": "NR27 9HR",
+        "RatingValue": "5",
+        "RatingDate": "2025-04-25T00:00:00",
+        "LocalAuthorityName": "North Norfolk",
+        "LocalAuthorityCode": "231",
+        "LocalAuthorityBusinessID": "PI/000088293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2984616,
+          52.9323094
         ]
       }
     }
