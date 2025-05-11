@@ -3079,31 +3079,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 74057,
-        "BusinessName": "Greggs Plc",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "21 East Walk",
-        "AddressLine2": "Yate",
-        "AddressLine3": "Bristol",
-        "AddressLine4": "South Gloucestershire",
-        "PostCode": "BS37 4AS",
-        "RatingValue": "5",
-        "RatingDate": "2024-05-07T00:00:00",
-        "LocalAuthorityName": "South Gloucestershire",
-        "LocalAuthorityCode": "856",
-        "LocalAuthorityBusinessID": "1700"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.4123684,
-          51.540357
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 75300,
         "BusinessName": "Greggs Outlet",
         "BusinessTypeID": 4613,
@@ -5288,7 +5263,7 @@
         "AddressLine4": "",
         "PostCode": "G32 7PB",
         "RatingValue": "Pass",
-        "RatingDate": "2019-11-11T00:00:00",
+        "RatingDate": "2025-05-01T00:00:00",
         "LocalAuthorityName": "Glasgow City",
         "LocalAuthorityCode": "776",
         "LocalAuthorityBusinessID": "59170/1029/0/000"
@@ -6063,7 +6038,7 @@
         "AddressLine4": "",
         "PostCode": "E2 0RN",
         "RatingValue": "5",
-        "RatingDate": "2023-04-13T00:00:00",
+        "RatingDate": "2025-05-01T00:00:00",
         "LocalAuthorityName": "Tower Hamlets",
         "LocalAuthorityCode": "530",
         "LocalAuthorityBusinessID": "9821"
@@ -8038,7 +8013,7 @@
         "AddressLine4": "Nottingham",
         "PostCode": "NG1 3QE",
         "RatingValue": "5",
-        "RatingDate": "2023-01-03T00:00:00",
+        "RatingDate": "2025-04-30T00:00:00",
         "LocalAuthorityName": "Nottingham City",
         "LocalAuthorityCode": "899",
         "LocalAuthorityBusinessID": "34594"
@@ -16338,7 +16313,7 @@
         "AddressLine4": "",
         "PostCode": "WD6 1AH",
         "RatingValue": "5",
-        "RatingDate": "2023-04-17T00:00:00",
+        "RatingDate": "2025-04-15T00:00:00",
         "LocalAuthorityName": "Hertsmere",
         "LocalAuthorityCode": "158",
         "LocalAuthorityBusinessID": "245752"
@@ -16848,31 +16823,6 @@
         "coordinates": [
           -1.518191,
           52.928252
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 443051,
-        "BusinessName": "Greggs the Bakers",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "",
-        "AddressLine2": "15 Chapel Road",
-        "AddressLine3": "",
-        "AddressLine4": "Ilford",
-        "PostCode": "IG1 2AF",
-        "RatingValue": "5",
-        "RatingDate": "2023-05-30T00:00:00",
-        "LocalAuthorityName": "Redbridge",
-        "LocalAuthorityCode": "526",
-        "LocalAuthorityBusinessID": "1415"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.070497,
-          51.557709
         ]
       }
     },
@@ -18388,7 +18338,7 @@
         "AddressLine4": "",
         "PostCode": "KA26 9BS",
         "RatingValue": "Pass",
-        "RatingDate": "2023-03-23T00:00:00",
+        "RatingDate": "2025-04-04T00:00:00",
         "LocalAuthorityName": "South Ayrshire",
         "LocalAuthorityCode": "766",
         "LocalAuthorityBusinessID": "12/00171/COMM"
@@ -19038,7 +18988,7 @@
         "AddressLine4": "Uxbridge",
         "PostCode": "UB10 9PG",
         "RatingValue": "5",
-        "RatingDate": "2023-05-17T00:00:00",
+        "RatingDate": "2025-04-28T00:00:00",
         "LocalAuthorityName": "Hillingdon",
         "LocalAuthorityCode": "517",
         "LocalAuthorityBusinessID": "50561"
@@ -19913,7 +19863,7 @@
         "AddressLine4": "",
         "PostCode": "S5 0QF",
         "RatingValue": "5",
-        "RatingDate": "2023-04-03T00:00:00",
+        "RatingDate": "2025-04-07T00:00:00",
         "LocalAuthorityName": "Sheffield",
         "LocalAuthorityCode": "425",
         "LocalAuthorityBusinessID": "40218"
@@ -20687,8 +20637,8 @@
         "AddressLine3": "Weoley",
         "AddressLine4": "Birmingham",
         "PostCode": "B31 2JU",
-        "RatingValue": "2",
-        "RatingDate": "2025-03-05T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-05-01T00:00:00",
         "LocalAuthorityName": "Birmingham",
         "LocalAuthorityCode": "402",
         "LocalAuthorityBusinessID": "PI/000044914"
@@ -22613,7 +22563,7 @@
         "AddressLine4": "",
         "PostCode": "DH4 4AB",
         "RatingValue": "5",
-        "RatingDate": "2022-11-29T00:00:00",
+        "RatingDate": "2025-01-14T00:00:00",
         "LocalAuthorityName": "Sunderland",
         "LocalAuthorityCode": "429",
         "LocalAuthorityBusinessID": "003127-1"
@@ -33888,7 +33838,7 @@
         "AddressLine4": "",
         "PostCode": "NR34 9HD",
         "RatingValue": "5",
-        "RatingDate": "2022-01-10T00:00:00",
+        "RatingDate": "2025-04-03T00:00:00",
         "LocalAuthorityName": "East Suffolk",
         "LocalAuthorityCode": "302",
         "LocalAuthorityBusinessID": "06/01142/CP"
@@ -37713,7 +37663,7 @@
         "AddressLine4": "Mumbles",
         "PostCode": "SA3 4AT",
         "RatingValue": "5",
-        "RatingDate": "2023-10-03T00:00:00",
+        "RatingDate": "2025-04-24T00:00:00",
         "LocalAuthorityName": "Swansea",
         "LocalAuthorityCode": "568",
         "LocalAuthorityBusinessID": "164941"
@@ -38312,8 +38262,8 @@
         "AddressLine3": "East Riding Of Yorkshire",
         "AddressLine4": "",
         "PostCode": "YO16 7NS",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-04-17T00:00:00",
         "LocalAuthorityName": "East Riding of Yorkshire",
         "LocalAuthorityCode": "863",
         "LocalAuthorityBusinessID": "238376"
@@ -40538,7 +40488,7 @@
         "AddressLine4": "Milton Keynes",
         "PostCode": "MK4 4DD",
         "RatingValue": "5",
-        "RatingDate": "2023-05-24T00:00:00",
+        "RatingDate": "2025-04-16T00:00:00",
         "LocalAuthorityName": "Milton Keynes",
         "LocalAuthorityCode": "870",
         "LocalAuthorityBusinessID": "92084"
@@ -41038,7 +40988,7 @@
         "AddressLine4": "Essex",
         "PostCode": "CM9 4DY",
         "RatingValue": "5",
-        "RatingDate": "2023-05-09T00:00:00",
+        "RatingDate": "2025-05-01T00:00:00",
         "LocalAuthorityName": "Maldon",
         "LocalAuthorityCode": "117",
         "LocalAuthorityBusinessID": "21/00056/CPREM"
@@ -52698,31 +52648,6 @@
         "coordinates": [
           -1.165473,
           50.825678
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1691925,
-        "BusinessName": "PGG Wimborne Greggs",
-        "BusinessTypeID": 7844,
-        "AddressLine1": "11 Wimborne Road West",
-        "AddressLine2": "",
-        "AddressLine3": "Canford Bottom",
-        "AddressLine4": "Dorset",
-        "PostCode": "BH21 2DG",
-        "RatingValue": "5",
-        "RatingDate": "2023-02-17T00:00:00",
-        "LocalAuthorityName": "Dorset",
-        "LocalAuthorityCode": "085",
-        "LocalAuthorityBusinessID": "10881"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.9506034,
-          50.7991637
         ]
       }
     },
