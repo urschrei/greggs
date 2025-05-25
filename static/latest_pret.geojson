@@ -259,8 +259,8 @@
         "BusinessTypeID": 1,
         "AddressLine1": "",
         "AddressLine2": "1 The Dome",
-        "AddressLine3": "The Trafford Centre",
-        "AddressLine4": "Manchester",
+        "AddressLine3": "Trafford Centre",
+        "AddressLine4": "Trafford Park",
         "PostCode": "M17 8DF",
         "RatingValue": "5",
         "RatingDate": "2024-06-24T00:00:00",
@@ -271,8 +271,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.34902,
-          53.466187
+          -2.34902000427246,
+          53.4661865234375
         ]
       }
     },
@@ -2537,8 +2537,8 @@
         "AddressLine3": "LONDON",
         "AddressLine4": "",
         "PostCode": "WC2N 4AA",
-        "RatingValue": "2",
-        "RatingDate": "2023-10-25T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-05-21T00:00:00",
         "LocalAuthorityName": "Westminster",
         "LocalAuthorityCode": "533",
         "LocalAuthorityBusinessID": "00618/0077/0/002"
@@ -10848,6 +10848,56 @@
         "coordinates": [
           -2.241703,
           53.483468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1833015,
+        "BusinessName": "Pret a Manger Ltd",
+        "BusinessTypeID": 1,
+        "AddressLine1": "21 Wimbledon Bridge",
+        "AddressLine2": "Wimbledon",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "SW19 7NH",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Merton",
+        "LocalAuthorityCode": "524",
+        "LocalAuthorityBusinessID": "PI/000492482"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2066102,
+          51.4210884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1833924,
+        "BusinessName": "Pret A Manger c/o MFG",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "700 Green Lanes",
+        "AddressLine2": "Southgate",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "N21 3RL",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Enfield",
+        "LocalAuthorityCode": "510",
+        "LocalAuthorityBusinessID": "PI/000197933"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0969969,
+          51.6295727
         ]
       }
     }
