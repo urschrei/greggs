@@ -981,7 +981,7 @@
       "properties": {
         "FHRSID": 294575,
         "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 7844,
+        "BusinessTypeID": 1,
         "AddressLine1": "28 Fenchurch Avenue",
         "AddressLine2": "London",
         "AddressLine3": "",
@@ -3204,6 +3204,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 469350,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "1-3 Amhurst Road",
+        "AddressLine2": "",
+        "AddressLine3": "Hackney",
+        "AddressLine4": "London",
+        "PostCode": "E8 1JB",
+        "RatingValue": "5",
+        "RatingDate": "2025-04-28T00:00:00",
+        "LocalAuthorityName": "Hackney",
+        "LocalAuthorityCode": "512",
+        "LocalAuthorityBusinessID": "23607"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0555625,
+          51.5472586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 470036,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 7844,
@@ -4512,8 +4537,8 @@
         "AddressLine3": "",
         "AddressLine4": "Heathrow Airport",
         "PostCode": "TW6 1QG",
-        "RatingValue": "3",
-        "RatingDate": "2023-10-31T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-05-22T00:00:00",
         "LocalAuthorityName": "Hillingdon",
         "LocalAuthorityCode": "517",
         "LocalAuthorityBusinessID": "46210"
@@ -6111,7 +6136,7 @@
         "AddressLine2": "Stratford Station",
         "AddressLine3": "Station Street",
         "AddressLine4": "Stratford",
-        "PostCode": "E15 1DE",
+        "PostCode": "E15 1AZ",
         "RatingValue": "5",
         "RatingDate": "2025-01-01T00:00:00",
         "LocalAuthorityName": "Newham",
@@ -7388,7 +7413,7 @@
         "AddressLine4": "West Thurrock",
         "PostCode": "RM20 2ZF",
         "RatingValue": "5",
-        "RatingDate": "2023-10-28T00:00:00",
+        "RatingDate": "2025-05-10T00:00:00",
         "LocalAuthorityName": "Thurrock",
         "LocalAuthorityCode": "894",
         "LocalAuthorityBusinessID": "21/00124/CP"
