@@ -463,7 +463,7 @@
         "AddressLine4": "",
         "PostCode": "YO19 4TA",
         "RatingValue": "5",
-        "RatingDate": "2023-11-28T00:00:00",
+        "RatingDate": "2025-05-15T00:00:00",
         "LocalAuthorityName": "York",
         "LocalAuthorityCode": "868",
         "LocalAuthorityBusinessID": "26718"
@@ -1512,8 +1512,8 @@
         "AddressLine3": "Fulham Road",
         "AddressLine4": "London",
         "PostCode": "SW6 1BW",
-        "RatingValue": "4",
-        "RatingDate": "2023-04-28T00:00:00",
+        "RatingValue": "3",
+        "RatingDate": "2025-04-30T00:00:00",
         "LocalAuthorityName": "Hammersmith and Fulham",
         "LocalAuthorityCode": "513",
         "LocalAuthorityBusinessID": "2006/00196/COMB"
@@ -3163,7 +3163,7 @@
         "AddressLine4": "",
         "PostCode": "SW7 4SS",
         "RatingValue": "5",
-        "RatingDate": "2023-09-29T00:00:00",
+        "RatingDate": "2025-05-29T00:00:00",
         "LocalAuthorityName": "Kensington and Chelsea",
         "LocalAuthorityCode": "520",
         "LocalAuthorityBusinessID": "INSPF/07/027140"
@@ -8455,7 +8455,7 @@
       "type": "Feature",
       "properties": {
         "FHRSID": 1573055,
-        "BusinessName": "Pret A Manger (Jenner Wing, St Georg",
+        "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
         "AddressLine1": "Jenner Wing",
         "AddressLine2": "St Georges Hospital",
@@ -8505,7 +8505,7 @@
       "type": "Feature",
       "properties": {
         "FHRSID": 1573539,
-        "BusinessName": "Pret A Manager (Ground And Part Firs",
+        "BusinessName": "Pret A Manager",
         "BusinessTypeID": 1,
         "AddressLine1": "Ground And Part First Floor At 200",
         "AddressLine2": "198-200 Balham High Road",
@@ -9787,8 +9787,8 @@
         "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "SM1 1EX",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2024-06-06T00:00:00",
         "LocalAuthorityName": "Sutton",
         "LocalAuthorityCode": "529",
         "LocalAuthorityBusinessID": "24/00156/COM"
@@ -10923,6 +10923,56 @@
         "coordinates": [
           -0.0969969,
           51.6295727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1836784,
+        "BusinessName": "PRET A MANGER",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Dalton Park Murton",
+        "AddressLine2": "",
+        "AddressLine3": "Seaham",
+        "AddressLine4": "United Kingdom",
+        "PostCode": "SR7 9HU",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Durham",
+        "LocalAuthorityCode": "706",
+        "LocalAuthorityBusinessID": "E9LCYC-MHW3N5-J5VEVT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3747166,
+          54.815373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1838036,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "PRET A MANGER",
+        "AddressLine2": "173 London Road",
+        "AddressLine3": "Burgess Hill",
+        "AddressLine4": "West Sussex",
+        "PostCode": "RH15 8LJ",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Mid Sussex",
+        "LocalAuthorityCode": "328",
+        "LocalAuthorityBusinessID": "CP/25/0103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1392449,
+          50.957958
         ]
       }
     }
