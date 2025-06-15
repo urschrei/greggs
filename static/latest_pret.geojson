@@ -8238,7 +8238,7 @@
         "AddressLine4": "",
         "PostCode": "LS22 5GT",
         "RatingValue": "5",
-        "RatingDate": "2022-10-28T00:00:00",
+        "RatingDate": "2025-06-05T00:00:00",
         "LocalAuthorityName": "North Yorkshire",
         "LocalAuthorityCode": "250",
         "LocalAuthorityBusinessID": "PI/000122126"
@@ -8963,7 +8963,7 @@
         "AddressLine4": "Luton",
         "PostCode": "LU3 2RR",
         "RatingValue": "5",
-        "RatingDate": "2023-06-19T00:00:00",
+        "RatingDate": "2025-06-09T00:00:00",
         "LocalAuthorityName": "Luton",
         "LocalAuthorityCode": "869",
         "LocalAuthorityBusinessID": "136789"
@@ -10512,8 +10512,8 @@
         "AddressLine3": "Rushden",
         "AddressLine4": "",
         "PostCode": "",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-05-21T00:00:00",
         "LocalAuthorityName": "North Northamptonshire",
         "LocalAuthorityCode": "235",
         "LocalAuthorityBusinessID": "24/00127/COM"
