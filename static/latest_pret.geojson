@@ -2063,7 +2063,7 @@
         "AddressLine4": "London",
         "PostCode": "WC1V 7DN",
         "RatingValue": "5",
-        "RatingDate": "2022-11-24T00:00:00",
+        "RatingDate": "2025-06-18T00:00:00",
         "LocalAuthorityName": "Camden",
         "LocalAuthorityCode": "506",
         "LocalAuthorityBusinessID": "12539"
@@ -2779,31 +2779,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 428026,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "120 BAKER STREET",
-        "AddressLine2": "",
-        "AddressLine3": "LONDON",
-        "AddressLine4": "",
-        "PostCode": "W1U 6TU",
-        "RatingValue": "3",
-        "RatingDate": "2023-11-22T00:00:00",
-        "LocalAuthorityName": "Westminster",
-        "LocalAuthorityCode": "533",
-        "LocalAuthorityBusinessID": "01123/0120/0/000"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.1568651,
-          51.5213324
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 428033,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -3013,7 +2988,7 @@
         "AddressLine4": "",
         "PostCode": "WC2R 1AB",
         "RatingValue": "5",
-        "RatingDate": "2023-05-15T00:00:00",
+        "RatingDate": "2025-06-24T00:00:00",
         "LocalAuthorityName": "Westminster",
         "LocalAuthorityCode": "533",
         "LocalAuthorityBusinessID": "01576/0180/3/000"
@@ -5087,8 +5062,8 @@
         "AddressLine3": "Silvertown",
         "AddressLine4": "London",
         "PostCode": "E16 2PX",
-        "RatingValue": "5",
-        "RatingDate": "2019-02-11T00:00:00",
+        "RatingValue": "3",
+        "RatingDate": "2025-05-23T00:00:00",
         "LocalAuthorityName": "Newham",
         "LocalAuthorityCode": "525",
         "LocalAuthorityBusinessID": "10/00045/FOOD"
@@ -5854,31 +5829,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1011678,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Nugent Shopping Park",
-        "AddressLine2": "Cray Avenue",
-        "AddressLine3": "Orpington",
-        "AddressLine4": "",
-        "PostCode": "BR5 3RP",
-        "RatingValue": "5",
-        "RatingDate": "2023-08-08T00:00:00",
-        "LocalAuthorityName": "Bromley",
-        "LocalAuthorityCode": "505",
-        "LocalAuthorityBusinessID": "17/00287/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.112894,
-          51.392806
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1011968,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 7844,
@@ -6198,31 +6148,6 @@
         "coordinates": [
           -2.7543442,
           52.7083427
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1052486,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "86 High Street",
-        "AddressLine2": "Bromley",
-        "AddressLine3": "",
-        "AddressLine4": "",
-        "PostCode": "BR1 1EY",
-        "RatingValue": "5",
-        "RatingDate": "2024-07-29T00:00:00",
-        "LocalAuthorityName": "Bromley",
-        "LocalAuthorityCode": "505",
-        "LocalAuthorityBusinessID": "18/00154/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.014921,
-          51.403012
         ]
       }
     },
@@ -7379,31 +7304,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1256472,
-        "BusinessName": "Pret A Manger & Veggie Pret",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Unit 1 Canada Place",
-        "AddressLine2": "38 Canada Square",
-        "AddressLine3": "London",
-        "AddressLine4": "",
-        "PostCode": "E14 5AH",
-        "RatingValue": "5",
-        "RatingDate": "2023-06-16T00:00:00",
-        "LocalAuthorityName": "Tower Hamlets",
-        "LocalAuthorityCode": "530",
-        "LocalAuthorityBusinessID": "202241"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.017467,
-          51.504472
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1371289,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -8073,31 +7973,6 @@
         "coordinates": [
           -1.13276,
           52.635443
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1534152,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "212 - 214 High Street",
-        "AddressLine2": "Beckenham",
-        "AddressLine3": "",
-        "AddressLine4": "",
-        "PostCode": "BR3 1EN",
-        "RatingValue": "5",
-        "RatingDate": "2024-05-15T00:00:00",
-        "LocalAuthorityName": "Bromley",
-        "LocalAuthorityCode": "505",
-        "LocalAuthorityBusinessID": "22/00717/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.0285752,
-          51.406709
         ]
       }
     },
@@ -8913,7 +8788,7 @@
         "AddressLine4": "Braintree",
         "PostCode": "CM77 8YH",
         "RatingValue": "5",
-        "RatingDate": "2023-06-21T00:00:00",
+        "RatingDate": "2025-06-16T00:00:00",
         "LocalAuthorityName": "Braintree",
         "LocalAuthorityCode": "110",
         "LocalAuthorityBusinessID": "23/00072/MIXED"
@@ -10612,8 +10487,8 @@
         "AddressLine3": "Canterbury",
         "AddressLine4": "Kent",
         "PostCode": "CT1 3TQ",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-06-16T00:00:00",
         "LocalAuthorityName": "Canterbury City",
         "LocalAuthorityCode": "180",
         "LocalAuthorityBusinessID": "CP/25/00033"
