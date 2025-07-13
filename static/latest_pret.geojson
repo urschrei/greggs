@@ -1413,7 +1413,7 @@
         "AddressLine4": "",
         "PostCode": "SW3 1HY",
         "RatingValue": "5",
-        "RatingDate": "2023-07-19T00:00:00",
+        "RatingDate": "2025-06-25T00:00:00",
         "LocalAuthorityName": "Kensington and Chelsea",
         "LocalAuthorityCode": "520",
         "LocalAuthorityBusinessID": "INSPF/02/762100"
@@ -1438,7 +1438,7 @@
         "AddressLine4": "",
         "PostCode": "SW7 3HZ",
         "RatingValue": "5",
-        "RatingDate": "2023-06-27T00:00:00",
+        "RatingDate": "2025-06-19T00:00:00",
         "LocalAuthorityName": "Kensington and Chelsea",
         "LocalAuthorityCode": "520",
         "LocalAuthorityBusinessID": "INSPF/06/015052"
@@ -1738,7 +1738,7 @@
         "AddressLine4": "London",
         "PostCode": "SE1 2QN",
         "RatingValue": "5",
-        "RatingDate": "2020-02-04T00:00:00",
+        "RatingDate": "2025-06-28T00:00:00",
         "LocalAuthorityName": "Southwark",
         "LocalAuthorityCode": "528",
         "LocalAuthorityBusinessID": "88595"
@@ -4163,7 +4163,7 @@
         "AddressLine4": "London",
         "PostCode": "SE1 9SE",
         "RatingValue": "5",
-        "RatingDate": "2023-06-30T00:00:00",
+        "RatingDate": "2025-06-17T00:00:00",
         "LocalAuthorityName": "Southwark",
         "LocalAuthorityCode": "528",
         "LocalAuthorityBusinessID": "183608"
@@ -6388,7 +6388,7 @@
         "AddressLine4": "London",
         "PostCode": "SE1 9SP",
         "RatingValue": "5",
-        "RatingDate": "2023-06-30T00:00:00",
+        "RatingDate": "2025-06-16T00:00:00",
         "LocalAuthorityName": "Southwark",
         "LocalAuthorityCode": "528",
         "LocalAuthorityBusinessID": "189515"
@@ -7838,7 +7838,7 @@
         "AddressLine4": "Bristol",
         "PostCode": "BS7 8TX",
         "RatingValue": "5",
-        "RatingDate": "2023-05-22T00:00:00",
+        "RatingDate": "2025-05-20T00:00:00",
         "LocalAuthorityName": "Bristol",
         "LocalAuthorityCode": "855",
         "LocalAuthorityBusinessID": "258038"
@@ -7973,31 +7973,6 @@
         "coordinates": [
           -1.7780263,
           52.4128027
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1532647,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "25 - 27 Gallowtree Gate",
-        "AddressLine2": "Leicester",
-        "AddressLine3": "",
-        "AddressLine4": "",
-        "PostCode": "LE1 5AD",
-        "RatingValue": "5",
-        "RatingDate": "2023-06-06T00:00:00",
-        "LocalAuthorityName": "Leicester City",
-        "LocalAuthorityCode": "878",
-        "LocalAuthorityBusinessID": "22/00382/CP"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.13276,
-          52.635443
         ]
       }
     },
@@ -8988,7 +8963,7 @@
         "AddressLine4": "Fleet",
         "PostCode": "GU51 1AA",
         "RatingValue": "5",
-        "RatingDate": "2023-07-17T00:00:00",
+        "RatingDate": "2025-06-06T00:00:00",
         "LocalAuthorityName": "Hart",
         "LocalAuthorityCode": "136",
         "LocalAuthorityBusinessID": "23/00042/COMM"
@@ -9898,31 +9873,6 @@
         "coordinates": [
           -0.0592299,
           51.6248586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1740515,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "PRET A MANGER UNIT 2 1 PADDINGTON SQUARE",
-        "AddressLine2": "CITY OF WESTMINSTER",
-        "AddressLine3": "LONDON",
-        "AddressLine4": "",
-        "PostCode": "W2 1DL",
-        "RatingValue": "4",
-        "RatingDate": "2024-10-02T00:00:00",
-        "LocalAuthorityName": "Westminster",
-        "LocalAuthorityCode": "533",
-        "LocalAuthorityBusinessID": "KMT7XF-WVE8DN-QSB1YM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.1750981,
-          51.5164156
         ]
       }
     },
