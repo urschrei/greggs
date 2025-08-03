@@ -6812,8 +6812,8 @@
         "AddressLine3": "LONDON",
         "AddressLine4": "",
         "PostCode": "W1H 6HG",
-        "RatingValue": "5",
-        "RatingDate": "2024-03-04T00:00:00",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
         "LocalAuthorityName": "Westminster",
         "LocalAuthorityCode": "533",
         "LocalAuthorityBusinessID": "19/00268/COMM"
