@@ -113,7 +113,7 @@
         "AddressLine4": "",
         "PostCode": "E1 8DA",
         "RatingValue": "5",
-        "RatingDate": "2022-12-16T00:00:00",
+        "RatingDate": "2025-07-10T00:00:00",
         "LocalAuthorityName": "Tower Hamlets",
         "LocalAuthorityCode": "530",
         "LocalAuthorityBusinessID": "152552"
@@ -488,7 +488,7 @@
         "AddressLine4": "",
         "PostCode": "WD17 1LQ",
         "RatingValue": "5",
-        "RatingDate": "2023-07-03T00:00:00",
+        "RatingDate": "2025-07-24T00:00:00",
         "LocalAuthorityName": "Watford",
         "LocalAuthorityCode": "163",
         "LocalAuthorityBusinessID": "11/00062/FOOD2"
@@ -5538,7 +5538,7 @@
         "AddressLine4": "",
         "PostCode": "CM24 1RW",
         "RatingValue": "5",
-        "RatingDate": "2024-02-16T00:00:00",
+        "RatingDate": "2025-07-15T00:00:00",
         "LocalAuthorityName": "Uttlesford",
         "LocalAuthorityCode": "122",
         "LocalAuthorityBusinessID": "17/00073/COM"
@@ -7662,8 +7662,8 @@
         "AddressLine3": "Oxfordshire",
         "AddressLine4": "",
         "PostCode": "OX1 3EY",
-        "RatingValue": "3",
-        "RatingDate": "2024-01-31T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-07-22T00:00:00",
         "LocalAuthorityName": "Oxford City",
         "LocalAuthorityCode": "269",
         "LocalAuthorityBusinessID": "22/00072/COM"
@@ -8938,7 +8938,7 @@
         "AddressLine4": "Bradford",
         "PostCode": "BD1 1US",
         "RatingValue": "5",
-        "RatingDate": "2023-08-01T00:00:00",
+        "RatingDate": "2025-08-05T00:00:00",
         "LocalAuthorityName": "Bradford",
         "LocalAuthorityCode": "404",
         "LocalAuthorityBusinessID": "278320"
