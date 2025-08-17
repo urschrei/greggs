@@ -913,7 +913,7 @@
         "AddressLine4": "",
         "PostCode": "EC4R 9AN",
         "RatingValue": "5",
-        "RatingDate": "2023-04-04T00:00:00",
+        "RatingDate": "2025-07-23T00:00:00",
         "LocalAuthorityName": "City of London Corporation",
         "LocalAuthorityCode": "508",
         "LocalAuthorityBusinessID": "PI/000015098"
@@ -1563,7 +1563,7 @@
         "AddressLine4": "London",
         "PostCode": "W12 7GF",
         "RatingValue": "5",
-        "RatingDate": "2023-04-28T00:00:00",
+        "RatingDate": "2025-08-12T00:00:00",
         "LocalAuthorityName": "Hammersmith and Fulham",
         "LocalAuthorityCode": "513",
         "LocalAuthorityBusinessID": "2011/00069/COMB"
@@ -5062,7 +5062,7 @@
         "AddressLine3": "Silvertown",
         "AddressLine4": "London",
         "PostCode": "E16 2PX",
-        "RatingValue": "3",
+        "RatingValue": "5",
         "RatingDate": "2025-05-23T00:00:00",
         "LocalAuthorityName": "Newham",
         "LocalAuthorityCode": "525",
@@ -8579,31 +8579,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1587223,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "42 - 44 Woodhouse Lane",
-        "AddressLine2": "Woodhouse",
-        "AddressLine3": "Leeds",
-        "AddressLine4": "",
-        "PostCode": "LS2 8LX",
-        "RatingValue": "5",
-        "RatingDate": "2023-06-27T00:00:00",
-        "LocalAuthorityName": "Leeds",
-        "LocalAuthorityCode": "413",
-        "LocalAuthorityBusinessID": "22/01215/COMM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.544791,
-          53.801383
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1587253,
         "BusinessName": "Pret  A Manger",
         "BusinessTypeID": 1,
@@ -8630,7 +8605,7 @@
       "type": "Feature",
       "properties": {
         "FHRSID": 1587265,
-        "BusinessName": "BP Londis Brooklands & Pret a Manger",
+        "BusinessName": "BP Londis Brooklands & Pret a Manger & Burger King",
         "BusinessTypeID": 4613,
         "AddressLine1": "Shop 331 Brighton Road",
         "AddressLine2": "",
@@ -10887,8 +10862,8 @@
         "AddressLine3": "Hertfordshire",
         "AddressLine4": "",
         "PostCode": "AL1 4SU",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-08-05T00:00:00",
         "LocalAuthorityName": "St Albans City",
         "LocalAuthorityCode": "160",
         "LocalAuthorityBusinessID": "FR/202500054"
