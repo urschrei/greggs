@@ -538,7 +538,7 @@
         "AddressLine4": "Cheshire",
         "PostCode": "CH65 9LA",
         "RatingValue": "5",
-        "RatingDate": "2023-08-31T00:00:00",
+        "RatingDate": "2025-08-11T00:00:00",
         "LocalAuthorityName": "Cheshire West and Chester",
         "LocalAuthorityCode": "704",
         "LocalAuthorityBusinessID": "11/00110/COM"
@@ -3184,7 +3184,7 @@
         "BusinessTypeID": 1,
         "AddressLine1": "1-3 Amhurst Road",
         "AddressLine2": "",
-        "AddressLine3": "",
+        "AddressLine3": "Hackney",
         "AddressLine4": "London",
         "PostCode": "E8 1JB",
         "RatingValue": "5",
@@ -3209,7 +3209,7 @@
         "BusinessTypeID": 7844,
         "AddressLine1": "",
         "AddressLine2": "57 Great Eastern Street",
-        "AddressLine3": "",
+        "AddressLine3": "Hackney",
         "AddressLine4": "London",
         "PostCode": "EC2A 3QD",
         "RatingValue": "5",
@@ -3221,8 +3221,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.0811951,
-          51.5245702
+          -0.081234,
+          51.524579
         ]
       }
     },
@@ -3959,7 +3959,7 @@
         "BusinessTypeID": 7844,
         "AddressLine1": "",
         "AddressLine2": "192-193 Shoreditch High Street",
-        "AddressLine3": "",
+        "AddressLine3": "Hackney",
         "AddressLine4": "London",
         "PostCode": "E1 6HU",
         "RatingValue": "5",
@@ -3971,8 +3971,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.0775629,
-          51.5238722
+          -0.077655,
+          51.524673
         ]
       }
     },
@@ -4637,8 +4637,8 @@
         "AddressLine3": "Stansted",
         "AddressLine4": "",
         "PostCode": "CM24 1RW",
-        "RatingValue": "5",
-        "RatingDate": "2024-02-16T00:00:00",
+        "RatingValue": "4",
+        "RatingDate": "2025-07-15T00:00:00",
         "LocalAuthorityName": "Uttlesford",
         "LocalAuthorityCode": "122",
         "LocalAuthorityBusinessID": "15/00022/COM"
@@ -4884,7 +4884,7 @@
         "BusinessTypeID": 1,
         "AddressLine1": "",
         "AddressLine2": "161 City Road",
-        "AddressLine3": "",
+        "AddressLine3": "Hackney",
         "AddressLine4": "London",
         "PostCode": "EC1V 1NR",
         "RatingValue": "5",
@@ -4896,8 +4896,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.089766,
-          51.5279174
+          -0.089682,
+          51.527989
         ]
       }
     },
@@ -6459,7 +6459,7 @@
         "BusinessTypeID": 1,
         "AddressLine1": "",
         "AddressLine2": "128 Shoreditch High Street",
-        "AddressLine3": "",
+        "AddressLine3": "Hackney",
         "AddressLine4": "London",
         "PostCode": "E1 6JE",
         "RatingValue": "4",
@@ -7309,7 +7309,7 @@
         "BusinessTypeID": 1,
         "AddressLine1": "",
         "AddressLine2": "64-66 Kingsland High Street",
-        "AddressLine3": "",
+        "AddressLine3": "Hackney",
         "AddressLine4": "London",
         "PostCode": "E8 2JP",
         "RatingValue": "5",
@@ -7538,7 +7538,7 @@
         "AddressLine4": "London",
         "PostCode": "NW3 2AJ",
         "RatingValue": "5",
-        "RatingDate": "2021-10-15T00:00:00",
+        "RatingDate": "2025-08-07T00:00:00",
         "LocalAuthorityName": "Camden",
         "LocalAuthorityCode": "506",
         "LocalAuthorityBusinessID": "200322"
@@ -7823,6 +7823,31 @@
         "coordinates": [
           0.4737228,
           51.7337735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1514425,
+        "BusinessName": "Pret a Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "173 Stoke Newington High Street",
+        "AddressLine2": "",
+        "AddressLine3": "Hackney",
+        "AddressLine4": "London",
+        "PostCode": "N16 0PE",
+        "RatingValue": "5",
+        "RatingDate": "2023-05-26T00:00:00",
+        "LocalAuthorityName": "Hackney",
+        "LocalAuthorityCode": "512",
+        "LocalAuthorityBusinessID": "HAC1335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0738991,
+          51.5618417
         ]
       }
     },
@@ -10873,6 +10898,31 @@
         "coordinates": [
           -0.311201,
           51.75148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1862045,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "PRET A MANGER",
+        "AddressLine2": "Unit 44",
+        "AddressLine3": "Cotswolds Designer Outlet",
+        "AddressLine4": "Platinum Drive",
+        "PostCode": "GL20 7FY",
+        "RatingValue": "5",
+        "RatingDate": "2025-08-06T00:00:00",
+        "LocalAuthorityName": "Tewkesbury",
+        "LocalAuthorityCode": "129",
+        "LocalAuthorityBusinessID": "25/00100/COMM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1142967,
+          51.9967758
         ]
       }
     }
