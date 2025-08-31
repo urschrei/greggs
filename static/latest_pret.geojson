@@ -6804,31 +6804,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1156888,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "BASEMENT AND GROUND FLOOR PORTMAN SQUARE HOUSE 15 ORCHARD STREET",
-        "AddressLine2": "",
-        "AddressLine3": "LONDON",
-        "AddressLine4": "",
-        "PostCode": "W1H 6HG",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
-        "LocalAuthorityName": "Westminster",
-        "LocalAuthorityCode": "533",
-        "LocalAuthorityBusinessID": "19/00268/COMM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.1545171,
-          51.5152344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1180804,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -8888,7 +8863,7 @@
         "AddressLine4": "London",
         "PostCode": "SW11 1RU",
         "RatingValue": "5",
-        "RatingDate": "2023-09-25T00:00:00",
+        "RatingDate": "2025-08-02T00:00:00",
         "LocalAuthorityName": "Wandsworth",
         "LocalAuthorityCode": "532",
         "LocalAuthorityBusinessID": "PI/000465570"
