@@ -7804,31 +7804,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1514425,
-        "BusinessName": "Pret a Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "173 Stoke Newington High Street",
-        "AddressLine2": "",
-        "AddressLine3": "Hackney",
-        "AddressLine4": "London",
-        "PostCode": "N16 0PE",
-        "RatingValue": "5",
-        "RatingDate": "2023-05-26T00:00:00",
-        "LocalAuthorityName": "Hackney",
-        "LocalAuthorityCode": "512",
-        "LocalAuthorityBusinessID": "HAC1335"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.0738991,
-          51.5618417
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1518428,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -8405,7 +8380,7 @@
       "type": "Feature",
       "properties": {
         "FHRSID": 1573539,
-        "BusinessName": "Pret A Manager",
+        "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
         "AddressLine1": "Ground And Part First Floor At 200",
         "AddressLine2": "198-200 Balham High Road",
@@ -8413,7 +8388,7 @@
         "AddressLine4": "",
         "PostCode": "SW12 9DH",
         "RatingValue": "5",
-        "RatingDate": "2023-12-15T00:00:00",
+        "RatingDate": "2025-08-13T00:00:00",
         "LocalAuthorityName": "Wandsworth",
         "LocalAuthorityCode": "532",
         "LocalAuthorityBusinessID": "PI/000459782"
@@ -8513,7 +8488,7 @@
         "AddressLine4": "Kendal",
         "PostCode": "LA8 9PY",
         "RatingValue": "5",
-        "RatingDate": "2023-04-14T00:00:00",
+        "RatingDate": "2025-08-19T00:00:00",
         "LocalAuthorityName": "Westmorland and Furness",
         "LocalAuthorityCode": "056",
         "LocalAuthorityBusinessID": "72674"
@@ -8538,7 +8513,7 @@
         "AddressLine4": "",
         "PostCode": "CM23 3UH",
         "RatingValue": "5",
-        "RatingDate": "2023-08-08T00:00:00",
+        "RatingDate": "2025-08-29T00:00:00",
         "LocalAuthorityName": "East Hertfordshire",
         "LocalAuthorityCode": "157",
         "LocalAuthorityBusinessID": "23/00001/CP"
@@ -9013,7 +8988,7 @@
         "AddressLine4": "Bishops Stortford",
         "PostCode": "CM23 5QZ",
         "RatingValue": "5",
-        "RatingDate": "2023-07-05T00:00:00",
+        "RatingDate": "2025-08-26T00:00:00",
         "LocalAuthorityName": "Uttlesford",
         "LocalAuthorityCode": "122",
         "LocalAuthorityBusinessID": "23/00033/COM"
@@ -10898,6 +10873,31 @@
         "coordinates": [
           -2.1142967,
           51.9967758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1864970,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Belfast International Airport",
+        "AddressLine2": "",
+        "AddressLine3": "Belfast",
+        "AddressLine4": "",
+        "PostCode": "BT29 4AB",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Antrim and Newtownabbey",
+        "LocalAuthorityCode": "801",
+        "LocalAuthorityBusinessID": "703151"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2169572,
+          54.6615467
         ]
       }
     }
