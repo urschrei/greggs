@@ -7804,6 +7804,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1514425,
+        "BusinessName": "Pret a Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "173 Stoke Newington High Street",
+        "AddressLine2": "",
+        "AddressLine3": "Hackney",
+        "AddressLine4": "London",
+        "PostCode": "N16 0PE",
+        "RatingValue": "5",
+        "RatingDate": "2023-05-26T00:00:00",
+        "LocalAuthorityName": "Hackney",
+        "LocalAuthorityCode": "512",
+        "LocalAuthorityBusinessID": "HAC1335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0738991,
+          51.5618417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1518428,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -9663,7 +9688,7 @@
         "AddressLine4": "",
         "PostCode": "SM1 1EX",
         "RatingValue": "5",
-        "RatingDate": "2024-06-06T00:00:00",
+        "RatingDate": "2025-06-06T00:00:00",
         "LocalAuthorityName": "Sutton",
         "LocalAuthorityCode": "529",
         "LocalAuthorityBusinessID": "24/00156/COM"
@@ -10787,8 +10812,8 @@
         "AddressLine3": "Seaham",
         "AddressLine4": "United Kingdom",
         "PostCode": "SR7 9HU",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-09-02T00:00:00",
         "LocalAuthorityName": "Durham",
         "LocalAuthorityCode": "706",
         "LocalAuthorityBusinessID": "E9LCYC-MHW3N5-J5VEVT"
