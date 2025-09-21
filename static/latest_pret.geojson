@@ -3182,8 +3182,8 @@
         "FHRSID": 469350,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
-        "AddressLine1": "1-3 Amhurst Road",
-        "AddressLine2": "",
+        "AddressLine1": "",
+        "AddressLine2": "1-3 Amhurst Road",
         "AddressLine3": "Hackney",
         "AddressLine4": "London",
         "PostCode": "E8 1JB",
@@ -3206,7 +3206,7 @@
       "properties": {
         "FHRSID": 470036,
         "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 7844,
+        "BusinessTypeID": 1,
         "AddressLine1": "",
         "AddressLine2": "57 Great Eastern Street",
         "AddressLine3": "Hackney",
@@ -3956,14 +3956,14 @@
       "properties": {
         "FHRSID": 622419,
         "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 7844,
+        "BusinessTypeID": 1,
         "AddressLine1": "",
         "AddressLine2": "192-193 Shoreditch High Street",
         "AddressLine3": "Hackney",
         "AddressLine4": "London",
         "PostCode": "E1 6HU",
         "RatingValue": "5",
-        "RatingDate": "2022-10-20T00:00:00",
+        "RatingDate": "2025-02-13T00:00:00",
         "LocalAuthorityName": "Hackney",
         "LocalAuthorityCode": "512",
         "LocalAuthorityBusinessID": "19975"
@@ -4888,7 +4888,7 @@
         "AddressLine4": "London",
         "PostCode": "EC1V 1NR",
         "RatingValue": "5",
-        "RatingDate": "2024-03-05T00:00:00",
+        "RatingDate": "2024-05-02T00:00:00",
         "LocalAuthorityName": "Hackney",
         "LocalAuthorityCode": "512",
         "LocalAuthorityBusinessID": "185242"
@@ -6462,8 +6462,8 @@
         "AddressLine3": "Hackney",
         "AddressLine4": "London",
         "PostCode": "E1 6JE",
-        "RatingValue": "4",
-        "RatingDate": "2021-11-02T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2023-05-26T00:00:00",
         "LocalAuthorityName": "Hackney",
         "LocalAuthorityCode": "512",
         "LocalAuthorityBusinessID": "189474"
@@ -7754,31 +7754,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1502430,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "4-6 James Street",
-        "AddressLine2": "Harrogate",
-        "AddressLine3": "North Yorkshire",
-        "AddressLine4": "",
-        "PostCode": "HG1 1RF",
-        "RatingValue": "5",
-        "RatingDate": "2025-01-09T00:00:00",
-        "LocalAuthorityName": "North Yorkshire",
-        "LocalAuthorityCode": "250",
-        "LocalAuthorityBusinessID": "PI/000121403"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.539826,
-          53.992644
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1513284,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -8129,31 +8104,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1551425,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 7844,
-        "AddressLine1": "Moto Wetherby Motorway Service Area",
-        "AddressLine2": "Kirk Deighton",
-        "AddressLine3": "North Yorkshire",
-        "AddressLine4": "",
-        "PostCode": "LS22 5GT",
-        "RatingValue": "5",
-        "RatingDate": "2025-06-05T00:00:00",
-        "LocalAuthorityName": "North Yorkshire",
-        "LocalAuthorityCode": "250",
-        "LocalAuthorityBusinessID": "PI/000122126"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.36885297298431,
-          53.9475212097168
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1552253,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -8373,31 +8323,6 @@
         "coordinates": [
           -0.1757211,
           51.426718
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1573139,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Unit 86",
-        "AddressLine2": "2 Garratt Lane",
-        "AddressLine3": "London",
-        "AddressLine4": "",
-        "PostCode": "SW18 4TF",
-        "RatingValue": "5",
-        "RatingDate": "2023-08-14T00:00:00",
-        "LocalAuthorityName": "Wandsworth",
-        "LocalAuthorityCode": "532",
-        "LocalAuthorityBusinessID": "PI/000458686"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.1931218,
-          51.4566196
         ]
       }
     },
@@ -10923,6 +10848,31 @@
         "coordinates": [
           -6.2169572,
           54.6615467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1869547,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "4 James Street",
+        "AddressLine2": "",
+        "AddressLine3": "",
+        "AddressLine4": "Harrogate",
+        "PostCode": "HG1 1RF",
+        "RatingValue": "5",
+        "RatingDate": "2025-01-09T00:00:00",
+        "LocalAuthorityName": "North Yorkshire",
+        "LocalAuthorityCode": "250",
+        "LocalAuthorityBusinessID": "Cx13231"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5381142,
+          53.9920239
         ]
       }
     }
