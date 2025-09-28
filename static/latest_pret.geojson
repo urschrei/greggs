@@ -4763,7 +4763,7 @@
         "AddressLine4": "",
         "PostCode": "WC2R 1AP",
         "RatingValue": "5",
-        "RatingDate": "2023-10-16T00:00:00",
+        "RatingDate": "2025-09-17T00:00:00",
         "LocalAuthorityName": "Westminster",
         "LocalAuthorityCode": "533",
         "LocalAuthorityBusinessID": "14/00229/COMM"
@@ -5963,7 +5963,7 @@
         "AddressLine4": "",
         "PostCode": "EH1 1BB",
         "RatingValue": "Pass",
-        "RatingDate": "2019-11-13T00:00:00",
+        "RatingDate": "2025-09-10T00:00:00",
         "LocalAuthorityName": "Edinburgh (City of)",
         "LocalAuthorityCode": "773",
         "LocalAuthorityBusinessID": "192048"
@@ -8538,7 +8538,7 @@
         "AddressLine4": "West Sussex",
         "PostCode": "BN11 2HP",
         "RatingValue": "5",
-        "RatingDate": "2024-08-29T00:00:00",
+        "RatingDate": "2025-09-18T00:00:00",
         "LocalAuthorityName": "Worthing",
         "LocalAuthorityCode": "329",
         "LocalAuthorityBusinessID": "9104042"
@@ -9087,8 +9087,8 @@
         "AddressLine3": "LONDON",
         "AddressLine4": "",
         "PostCode": "W2 1RH",
-        "RatingValue": "4",
-        "RatingDate": "2024-01-10T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-09-21T00:00:00",
         "LocalAuthorityName": "Westminster",
         "LocalAuthorityCode": "533",
         "LocalAuthorityBusinessID": "AC9P19-T1561Z-7XFG5P"
