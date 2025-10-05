@@ -138,7 +138,7 @@
         "AddressLine4": "",
         "PostCode": "E14 8RP",
         "RatingValue": "5",
-        "RatingDate": "2022-02-04T00:00:00",
+        "RatingDate": "2025-08-27T00:00:00",
         "LocalAuthorityName": "Tower Hamlets",
         "LocalAuthorityCode": "530",
         "LocalAuthorityBusinessID": "16393"
@@ -1588,7 +1588,7 @@
         "AddressLine4": "Luton",
         "PostCode": "LU2 9LY",
         "RatingValue": "5",
-        "RatingDate": "2023-06-21T00:00:00",
+        "RatingDate": "2025-09-29T00:00:00",
         "LocalAuthorityName": "Luton",
         "LocalAuthorityCode": "869",
         "LocalAuthorityBusinessID": "43072"
@@ -7704,31 +7704,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1499380,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "42 High Street",
-        "AddressLine2": "Brentwood",
-        "AddressLine3": "Essex",
-        "AddressLine4": "",
-        "PostCode": "CM14 4AJ",
-        "RatingValue": "5",
-        "RatingDate": "2024-07-13T00:00:00",
-        "LocalAuthorityName": "Brentwood",
-        "LocalAuthorityCode": "111",
-        "LocalAuthorityBusinessID": "22/00094/FH"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.3024984,
-          51.6201547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1502101,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -9088,7 +9063,7 @@
         "AddressLine4": "",
         "PostCode": "W2 1RH",
         "RatingValue": "5",
-        "RatingDate": "2025-09-21T00:00:00",
+        "RatingDate": "2025-09-15T00:00:00",
         "LocalAuthorityName": "Westminster",
         "LocalAuthorityCode": "533",
         "LocalAuthorityBusinessID": "AC9P19-T1561Z-7XFG5P"
@@ -10181,14 +10156,14 @@
       "properties": {
         "FHRSID": 1775826,
         "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Unit R2 Brent Cross Shopping CentrePrince Charles Drive",
+        "BusinessTypeID": 7841,
+        "AddressLine1": "Brent Cross Shopping Centre  Prince Charles Drive London",
         "AddressLine2": "",
         "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "NW4 3FZ",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-09-15T00:00:00",
         "LocalAuthorityName": "Barnet",
         "LocalAuthorityCode": "502",
         "LocalAuthorityBusinessID": "24/00466/COMM"
@@ -10196,8 +10171,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.2237626,
-          51.5764202
+          -0.224534,
+          51.576185
         ]
       }
     },
@@ -10687,8 +10662,8 @@
         "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "SW19 7NH",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-09-08T00:00:00",
         "LocalAuthorityName": "Merton",
         "LocalAuthorityCode": "524",
         "LocalAuthorityBusinessID": "PI/000492482"
@@ -10712,8 +10687,8 @@
         "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "N21 3RL",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "4",
+        "RatingDate": "2025-08-30T00:00:00",
         "LocalAuthorityName": "Enfield",
         "LocalAuthorityCode": "510",
         "LocalAuthorityBusinessID": "PI/000197933"
