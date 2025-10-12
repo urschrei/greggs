@@ -929,31 +929,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 294525,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Retail Unit Commercial Union House",
-        "AddressLine2": "1-5 Long Lane",
-        "AddressLine3": "London",
-        "AddressLine4": "",
-        "PostCode": "EC1A 9HF",
-        "RatingValue": "5",
-        "RatingDate": "2023-05-18T00:00:00",
-        "LocalAuthorityName": "City of London Corporation",
-        "LocalAuthorityCode": "508",
-        "LocalAuthorityBusinessID": "PI/000015245"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.098421,
-          51.519985
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 294574,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 7844,
@@ -3773,31 +3748,6 @@
         "coordinates": [
           -0.1075207,
           51.5224352
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 591951,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Unit B",
-        "AddressLine2": "24 - 26 The Martlets",
-        "AddressLine3": "Northgate",
-        "AddressLine4": "Crawley",
-        "PostCode": "RH10 1ES",
-        "RatingValue": "5",
-        "RatingDate": "2023-09-04T00:00:00",
-        "LocalAuthorityName": "Crawley",
-        "LocalAuthorityCode": "326",
-        "LocalAuthorityBusinessID": "13/00079/COMM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.186822,
-          51.114535
         ]
       }
     },
@@ -8213,7 +8163,7 @@
         "AddressLine4": "",
         "PostCode": "SW11 1PX",
         "RatingValue": "5",
-        "RatingDate": "2024-03-04T00:00:00",
+        "RatingDate": "2025-09-16T00:00:00",
         "LocalAuthorityName": "Wandsworth",
         "LocalAuthorityCode": "532",
         "LocalAuthorityBusinessID": "PI/000424328"
@@ -10707,10 +10657,10 @@
         "FHRSID": 1836784,
         "BusinessName": "PRET A MANGER",
         "BusinessTypeID": 1,
-        "AddressLine1": "Dalton Park Murton",
+        "AddressLine1": "LAND AND PROPERTY AT DALTON PARK",
         "AddressLine2": "",
-        "AddressLine3": "Seaham",
-        "AddressLine4": "United Kingdom",
+        "AddressLine3": "MURTON",
+        "AddressLine4": "",
         "PostCode": "SR7 9HU",
         "RatingValue": "5",
         "RatingDate": "2025-09-02T00:00:00",
@@ -10737,8 +10687,8 @@
         "AddressLine3": "Burgess Hill",
         "AddressLine4": "West Sussex",
         "PostCode": "RH15 8LJ",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "4",
+        "RatingDate": "2025-09-05T00:00:00",
         "LocalAuthorityName": "Mid Sussex",
         "LocalAuthorityCode": "328",
         "LocalAuthorityBusinessID": "CP/25/0103"
@@ -10848,6 +10798,31 @@
         "coordinates": [
           -1.5381142,
           53.9920239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1877354,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Stonecross Services",
+        "AddressLine2": "Downham Eastern Bypass A10",
+        "AddressLine3": "Bexwell",
+        "AddressLine4": "DOWNHAM MARKET",
+        "PostCode": "PE38 9FG",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "King's Lynn and West Norfolk",
+        "LocalAuthorityCode": "230",
+        "LocalAuthorityBusinessID": "25/0291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3980202,
+          52.5981744
         ]
       }
     }
