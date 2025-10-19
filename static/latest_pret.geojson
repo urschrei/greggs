@@ -1288,7 +1288,7 @@
         "AddressLine4": "Bristol",
         "PostCode": "BS8 1QE",
         "RatingValue": "5",
-        "RatingDate": "2023-11-13T00:00:00",
+        "RatingDate": "2025-10-04T00:00:00",
         "LocalAuthorityName": "Bristol",
         "LocalAuthorityCode": "855",
         "LocalAuthorityBusinessID": "5688"
@@ -1787,8 +1787,8 @@
         "AddressLine3": "LONDON",
         "AddressLine4": "",
         "PostCode": "SW1V 1JZ",
-        "RatingValue": "4",
-        "RatingDate": "2024-03-25T00:00:00",
+        "RatingValue": "AwaitingPublication",
+        "RatingDate": "1900-01-01T00:00:00",
         "LocalAuthorityName": "Westminster",
         "LocalAuthorityCode": "533",
         "LocalAuthorityBusinessID": "08/00108/COMM"
@@ -2713,7 +2713,7 @@
         "AddressLine4": "",
         "PostCode": "WC2B 6UF",
         "RatingValue": "4",
-        "RatingDate": "2024-04-02T00:00:00",
+        "RatingDate": "2025-09-13T00:00:00",
         "LocalAuthorityName": "Westminster",
         "LocalAuthorityCode": "533",
         "LocalAuthorityBusinessID": "01075/0029/0/000"
@@ -5413,7 +5413,7 @@
         "AddressLine4": "",
         "PostCode": "E14 9GE",
         "RatingValue": "5",
-        "RatingDate": "2023-12-13T00:00:00",
+        "RatingDate": "2025-10-01T00:00:00",
         "LocalAuthorityName": "Tower Hamlets",
         "LocalAuthorityCode": "530",
         "LocalAuthorityBusinessID": "197366"
@@ -8213,7 +8213,7 @@
         "AddressLine4": "",
         "PostCode": "SW15 1SU",
         "RatingValue": "5",
-        "RatingDate": "2024-02-28T00:00:00",
+        "RatingDate": "2025-10-01T00:00:00",
         "LocalAuthorityName": "Wandsworth",
         "LocalAuthorityCode": "532",
         "LocalAuthorityBusinessID": "PI/000436313"
@@ -8838,7 +8838,7 @@
         "AddressLine4": "Austhorpe",
         "PostCode": "LS15 8GG",
         "RatingValue": "5",
-        "RatingDate": "2023-07-10T00:00:00",
+        "RatingDate": "2025-10-06T00:00:00",
         "LocalAuthorityName": "Leeds",
         "LocalAuthorityCode": "413",
         "LocalAuthorityBusinessID": "23/00191/COMM"
@@ -10823,6 +10823,31 @@
         "coordinates": [
           0.3980202,
           52.5981744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1878792,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Martlesham Heath Filling Station",
+        "AddressLine2": "119 Anson Road",
+        "AddressLine3": "Martlesham Heath",
+        "AddressLine4": "Martlesham",
+        "PostCode": "IP5 3RA",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "East Suffolk",
+        "LocalAuthorityCode": "302",
+        "LocalAuthorityBusinessID": "25/00427/CP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.27546,
+          52.065179
         ]
       }
     }
