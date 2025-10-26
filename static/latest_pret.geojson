@@ -1487,8 +1487,8 @@
         "AddressLine3": "Fulham Road",
         "AddressLine4": "London",
         "PostCode": "SW6 1BW",
-        "RatingValue": "3",
-        "RatingDate": "2025-04-30T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-10-15T00:00:00",
         "LocalAuthorityName": "Hammersmith and Fulham",
         "LocalAuthorityCode": "513",
         "LocalAuthorityBusinessID": "2006/00196/COMB"
@@ -3538,7 +3538,7 @@
         "AddressLine4": "",
         "PostCode": "L2 9UJ",
         "RatingValue": "5",
-        "RatingDate": "2019-05-02T00:00:00",
+        "RatingDate": "2025-09-30T00:00:00",
         "LocalAuthorityName": "Liverpool",
         "LocalAuthorityCode": "414",
         "LocalAuthorityBusinessID": "PI/000233679"
@@ -5688,7 +5688,7 @@
         "AddressLine4": "",
         "PostCode": "L3 9QT",
         "RatingValue": "5",
-        "RatingDate": "2018-06-25T00:00:00",
+        "RatingDate": "2025-10-23T00:00:00",
         "LocalAuthorityName": "Liverpool",
         "LocalAuthorityCode": "414",
         "LocalAuthorityBusinessID": "PI/000271178"
@@ -10633,7 +10633,7 @@
         "BusinessName": "Pret A Manger c/o MFG",
         "BusinessTypeID": 4613,
         "AddressLine1": "700 Green Lanes",
-        "AddressLine2": "Southgate",
+        "AddressLine2": "LONDON",
         "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "N21 3RL",
@@ -10646,8 +10646,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.0969969,
-          51.6295727
+          -0.096779,
+          51.629819
         ]
       }
     },
@@ -10698,6 +10698,31 @@
         "coordinates": [
           -0.1392449,
           50.957958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1839211,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "",
+        "AddressLine2": "Old Warwick Road",
+        "AddressLine3": "",
+        "AddressLine4": "Leamington Spa",
+        "PostCode": "CV31 3NT",
+        "RatingValue": "5",
+        "RatingDate": "2025-10-15T00:00:00",
+        "LocalAuthorityName": "Warwick",
+        "LocalAuthorityCode": "321",
+        "LocalAuthorityBusinessID": "98784"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5411978,
+          52.2837925
         ]
       }
     },
@@ -10848,6 +10873,31 @@
         "coordinates": [
           1.27546,
           52.065179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1883842,
+        "BusinessName": "Pret a Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "12 Bold Street",
+        "AddressLine2": "",
+        "AddressLine3": "Liverpool",
+        "AddressLine4": "",
+        "PostCode": "L1 4DS",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Liverpool",
+        "LocalAuthorityCode": "414",
+        "LocalAuthorityBusinessID": "101458"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9811697,
+          53.4043015
         ]
       }
     }
