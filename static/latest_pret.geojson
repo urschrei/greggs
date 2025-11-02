@@ -10900,6 +10900,31 @@
           53.4043015
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1885792,
+        "BusinessName": "Pret A Manger - Clapham Common",
+        "BusinessTypeID": 1,
+        "AddressLine1": "1 The Pavement",
+        "AddressLine2": "London",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "SW4 0HY",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Lambeth",
+        "LocalAuthorityCode": "522",
+        "LocalAuthorityBusinessID": "25/00412/COMM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.139296,
+          51.462063
+        ]
+      }
     }
   ]
 }
