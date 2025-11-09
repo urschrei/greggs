@@ -88,7 +88,7 @@
         "AddressLine4": "",
         "PostCode": "CR0 6RD",
         "RatingValue": "5",
-        "RatingDate": "2023-08-08T00:00:00",
+        "RatingDate": "2025-10-31T00:00:00",
         "LocalAuthorityName": "Croydon",
         "LocalAuthorityCode": "507",
         "LocalAuthorityBusinessID": "01351/0251/0/200"
@@ -1579,6 +1579,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 41619,
+        "BusinessName": "Eastern Greens London",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "Eastern Greens London",
+        "AddressLine2": "485 Commercial Road",
+        "AddressLine3": "London",
+        "AddressLine4": "",
+        "PostCode": "E1 0HA",
+        "RatingValue": "2",
+        "RatingDate": "2025-10-13T00:00:00",
+        "LocalAuthorityName": "Tower Hamlets",
+        "LocalAuthorityCode": "530",
+        "LocalAuthorityBusinessID": "10308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0488287,
+          51.5137089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 42627,
         "BusinessName": "Greggs",
         "BusinessTypeID": 7844,
@@ -2148,6 +2173,56 @@
         "coordinates": [
           -0.739048,
           52.412397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 57645,
+        "BusinessName": "Greens",
+        "BusinessTypeID": 1,
+        "AddressLine1": "",
+        "AddressLine2": "",
+        "AddressLine3": "549 Lisburn Road",
+        "AddressLine4": "Belfast",
+        "PostCode": "BT9 7GQ",
+        "RatingValue": "3",
+        "RatingDate": "2025-06-04T00:00:00",
+        "LocalAuthorityName": "Belfast City",
+        "LocalAuthorityCode": "807",
+        "LocalAuthorityBusinessID": "129401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.955199,
+          54.575755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 58883,
+        "BusinessName": "Greens Of Markinch",
+        "BusinessTypeID": 7840,
+        "AddressLine1": "14 -16 Balbirnie Street Markinch Glenrothes Fife",
+        "AddressLine2": "",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "KY7 6DB",
+        "RatingValue": "Pass",
+        "RatingDate": "2025-04-15T00:00:00",
+        "LocalAuthorityName": "Fife",
+        "LocalAuthorityCode": "775",
+        "LocalAuthorityBusinessID": "13030/0016/3/002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.134419,
+          56.203819
         ]
       }
     },
@@ -3729,6 +3804,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 106849,
+        "BusinessName": "Cissy Greens",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "30 Deardengate",
+        "AddressLine2": "Haslingden",
+        "AddressLine3": "Rossendale",
+        "AddressLine4": "Lancashire",
+        "PostCode": "BB4 5QJ",
+        "RatingValue": "5",
+        "RatingDate": "2023-11-14T00:00:00",
+        "LocalAuthorityName": "Rossendale",
+        "LocalAuthorityCode": "204",
+        "LocalAuthorityBusinessID": "374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.325339,
+          53.705801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 107172,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -3929,6 +4029,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 110527,
+        "BusinessName": "Greens",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "14 High Street Crail Anstruther Fife",
+        "AddressLine2": "",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "KY10 3TD",
+        "RatingValue": "Pass",
+        "RatingDate": "2015-04-21T00:00:00",
+        "LocalAuthorityName": "Fife",
+        "LocalAuthorityCode": "775",
+        "LocalAuthorityBusinessID": "40170/0012/0/000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.626443,
+          56.260283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 110607,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -3948,6 +4073,31 @@
         "coordinates": [
           0.12701,
           51.538928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 111745,
+        "BusinessName": "Greens",
+        "BusinessTypeID": 7843,
+        "AddressLine1": "",
+        "AddressLine2": "63-65 North Road",
+        "AddressLine3": "Lancaster",
+        "AddressLine4": "Lancashire",
+        "PostCode": "LA1 1LU",
+        "RatingValue": "5",
+        "RatingDate": "2023-12-06T00:00:00",
+        "LocalAuthorityName": "Lancaster City",
+        "LocalAuthorityCode": "200",
+        "LocalAuthorityBusinessID": "4104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7994119,
+          54.0499159
         ]
       }
     },
@@ -4579,6 +4729,56 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 121661,
+        "BusinessName": "Greens Of Ceres",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "2-6 Main Street Ceres Cupar Fife",
+        "AddressLine2": "",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "KY15 5NA",
+        "RatingValue": "Pass",
+        "RatingDate": "2024-01-05T00:00:00",
+        "LocalAuthorityName": "Fife",
+        "LocalAuthorityCode": "775",
+        "LocalAuthorityBusinessID": "50320/0002/6/000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.971598,
+          56.293068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 122017,
+        "BusinessName": "Greens Of Crossford",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "88 Main Street Crossford Dunfermline Fife",
+        "AddressLine2": "",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "KY12 8NL",
+        "RatingValue": "Pass",
+        "RatingDate": "2025-04-30T00:00:00",
+        "LocalAuthorityName": "Fife",
+        "LocalAuthorityCode": "775",
+        "LocalAuthorityBusinessID": "50580/0088/0/000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.497243,
+          56.06378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 122230,
         "BusinessName": "Greggs  Plc",
         "BusinessTypeID": 7844,
@@ -4898,6 +5098,31 @@
         "coordinates": [
           -4.169989,
           55.851912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 128928,
+        "BusinessName": "Greens Delicatessen",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "10 Poulton Street",
+        "AddressLine2": "",
+        "AddressLine3": "Kirkham",
+        "AddressLine4": "Lancashire",
+        "PostCode": "PR4 2AB",
+        "RatingValue": "5",
+        "RatingDate": "2025-02-19T00:00:00",
+        "LocalAuthorityName": "Fylde",
+        "LocalAuthorityCode": "198",
+        "LocalAuthorityBusinessID": "5921"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8719237,
+          53.7826383
         ]
       }
     },
@@ -5954,6 +6179,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 170554,
+        "BusinessName": "Greens Chemist",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "1 - 3 St Marys Road",
+        "AddressLine2": "",
+        "AddressLine3": "Shoreham-by-sea",
+        "AddressLine4": "West Sussex",
+        "PostCode": "BN43 5ZA",
+        "RatingValue": "Exempt",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Adur",
+        "LocalAuthorityCode": "323",
+        "LocalAuthorityBusinessID": "PI/000017899"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.27334201335907,
+          50.8332099914551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 172779,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -6979,6 +7229,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 203401,
+        "BusinessName": "Greens Of Pangbourne",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "10 Whitchurch Road",
+        "AddressLine2": "Pangbourne",
+        "AddressLine3": "Reading",
+        "AddressLine4": "West Berkshire",
+        "PostCode": "RG8 7BP",
+        "RatingValue": "5",
+        "RatingDate": "2025-06-13T00:00:00",
+        "LocalAuthorityName": "West Berkshire",
+        "LocalAuthorityCode": "883",
+        "LocalAuthorityBusinessID": "07/21736/FOODPR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0860349,
+          51.4843598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 204392,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -7854,6 +8129,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 222082,
+        "BusinessName": "Greens Village Store",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "Greens Stores Main Street",
+        "AddressLine2": "",
+        "AddressLine3": "Sibford Ferris",
+        "AddressLine4": "Oxfordshire",
+        "PostCode": "OX15 5RG",
+        "RatingValue": "5",
+        "RatingDate": "2018-03-26T00:00:00",
+        "LocalAuthorityName": "Cherwell",
+        "LocalAuthorityCode": "268",
+        "LocalAuthorityBusinessID": "999000050635"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4778275,
+          52.0341126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 222735,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 7844,
@@ -7998,6 +8298,31 @@
         "coordinates": [
           -4.385843,
           55.878805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 225987,
+        "BusinessName": "Greens Bakery",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "24 Jarrow Street",
+        "AddressLine3": "Barrow-In-Furness",
+        "AddressLine4": "Cumbria",
+        "PostCode": "LA13 9SZ",
+        "RatingValue": "5",
+        "RatingDate": "2022-07-09T00:00:00",
+        "LocalAuthorityName": "Westmorland and Furness",
+        "LocalAuthorityCode": "056",
+        "LocalAuthorityBusinessID": "15642"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.212419,
+          54.112404
         ]
       }
     },
@@ -9229,6 +9554,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 242438,
+        "BusinessName": "Lil Greens",
+        "BusinessTypeID": 1,
+        "AddressLine1": "",
+        "AddressLine2": "33-35 Abbey End",
+        "AddressLine3": "",
+        "AddressLine4": "Kenilworth",
+        "PostCode": "CV8 1QJ",
+        "RatingValue": "5",
+        "RatingDate": "2025-08-21T00:00:00",
+        "LocalAuthorityName": "Warwick",
+        "LocalAuthorityCode": "321",
+        "LocalAuthorityBusinessID": "453"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.579768,
+          52.344185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 242535,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -10105,7 +10455,7 @@
       "type": "Feature",
       "properties": {
         "FHRSID": 264268,
-        "BusinessName": "Greggs",
+        "BusinessName": "Greggs PLC",
         "BusinessTypeID": 4613,
         "AddressLine1": "7 Bury Street",
         "AddressLine2": "Abingdon",
@@ -10113,7 +10463,7 @@
         "AddressLine4": "",
         "PostCode": "OX14 3QY",
         "RatingValue": "5",
-        "RatingDate": "2024-01-15T00:00:00",
+        "RatingDate": "2025-10-20T00:00:00",
         "LocalAuthorityName": "Vale of White Horse",
         "LocalAuthorityCode": "271",
         "LocalAuthorityBusinessID": "100121312853"
@@ -10604,6 +10954,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 285882,
+        "BusinessName": "The Greens",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Magdalen Fields",
+        "AddressLine2": "Berwick-Upon-Tweed",
+        "AddressLine3": "Northumberland",
+        "AddressLine4": "",
+        "PostCode": "TD15 1NE",
+        "RatingValue": "5",
+        "RatingDate": "2025-03-11T00:00:00",
+        "LocalAuthorityName": "Northumberland",
+        "LocalAuthorityCode": "707",
+        "LocalAuthorityBusinessID": "183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.00342,
+          55.775638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 285906,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -10873,6 +11248,31 @@
         "coordinates": [
           -2.905862,
           54.378495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 299377,
+        "BusinessName": "Greens Cafe & Bistro",
+        "BusinessTypeID": 1,
+        "AddressLine1": "",
+        "AddressLine2": "College Street",
+        "AddressLine3": "",
+        "AddressLine4": "Grasmere",
+        "PostCode": "LA22 9SZ",
+        "RatingValue": "5",
+        "RatingDate": "2022-09-15T00:00:00",
+        "LocalAuthorityName": "Westmorland and Furness",
+        "LocalAuthorityCode": "056",
+        "LocalAuthorityBusinessID": "1674"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.023926,
+          54.459157
         ]
       }
     },
@@ -11354,6 +11754,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 305612,
+        "BusinessName": "New Greens Community Centre",
+        "BusinessTypeID": 7843,
+        "AddressLine1": "New Greens Hall",
+        "AddressLine2": "High Oaks",
+        "AddressLine3": "St Albans",
+        "AddressLine4": "Hertfordshire",
+        "PostCode": "AL3 6DL",
+        "RatingValue": "5",
+        "RatingDate": "2024-01-27T00:00:00",
+        "LocalAuthorityName": "St Albans City",
+        "LocalAuthorityCode": "160",
+        "LocalAuthorityBusinessID": "PI/000009744"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3394,
+          51.770261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 310383,
         "BusinessName": "Greggs Bakery",
         "BusinessTypeID": 4613,
@@ -11388,7 +11813,7 @@
         "AddressLine4": "Bristol",
         "PostCode": "BS10 7DR",
         "RatingValue": "5",
-        "RatingDate": "2023-11-11T00:00:00",
+        "RatingDate": "2025-10-18T00:00:00",
         "LocalAuthorityName": "Bristol",
         "LocalAuthorityCode": "855",
         "LocalAuthorityBusinessID": "104096"
@@ -11773,6 +12198,31 @@
         "coordinates": [
           -0.1289,
           51.63297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 316593,
+        "BusinessName": "Greens Pharmacy",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "48 Green Lanes",
+        "AddressLine2": "LONDON",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "N13 6JU",
+        "RatingValue": "5",
+        "RatingDate": "2023-10-19T00:00:00",
+        "LocalAuthorityName": "Enfield",
+        "LocalAuthorityCode": "510",
+        "LocalAuthorityBusinessID": "PI/000054675"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10922,
+          51.611388
         ]
       }
     },
@@ -12213,7 +12663,7 @@
         "AddressLine4": "",
         "PostCode": "LS13 2ET",
         "RatingValue": "5",
-        "RatingDate": "2023-08-02T00:00:00",
+        "RatingDate": "2025-10-18T00:00:00",
         "LocalAuthorityName": "Leeds",
         "LocalAuthorityCode": "413",
         "LocalAuthorityBusinessID": "00012966"
@@ -13313,7 +13763,7 @@
         "AddressLine4": "NN5 5JR",
         "PostCode": "NN5 5JR",
         "RatingValue": "5",
-        "RatingDate": "2019-08-01T00:00:00",
+        "RatingDate": "2025-10-23T00:00:00",
         "LocalAuthorityName": "West Northamptonshire",
         "LocalAuthorityCode": "236",
         "LocalAuthorityBusinessID": "PI/000075990"
@@ -13648,6 +14098,31 @@
         "coordinates": [
           -1.878701,
           50.741909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 345323,
+        "BusinessName": "Fulham Greens",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "265 New King's Road",
+        "AddressLine2": "London",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "SW6 4RB",
+        "RatingValue": "5",
+        "RatingDate": "2023-09-29T00:00:00",
+        "LocalAuthorityName": "Hammersmith and Fulham",
+        "LocalAuthorityCode": "513",
+        "LocalAuthorityBusinessID": "02508/0265/1/001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.201283,
+          51.472355
         ]
       }
     },
@@ -14563,7 +15038,7 @@
         "AddressLine4": "Bristol",
         "PostCode": "BS13 0BE",
         "RatingValue": "5",
-        "RatingDate": "2023-11-09T00:00:00",
+        "RatingDate": "2025-10-16T00:00:00",
         "LocalAuthorityName": "Bristol",
         "LocalAuthorityCode": "855",
         "LocalAuthorityBusinessID": "94262"
@@ -14854,6 +15329,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 409081,
+        "BusinessName": "The Greets Inn",
+        "BusinessTypeID": 7843,
+        "AddressLine1": "The Greets Inn",
+        "AddressLine2": "The Greets Inn",
+        "AddressLine3": "47 Friday Street Warnham",
+        "AddressLine4": "Horsham West Sussex",
+        "PostCode": "RH12 3QY",
+        "RatingValue": "5",
+        "RatingDate": "2024-09-11T00:00:00",
+        "LocalAuthorityName": "Horsham",
+        "LocalAuthorityCode": "327",
+        "LocalAuthorityBusinessID": "WN/14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3539832,
+          51.0889419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 410667,
         "BusinessName": "Greggs",
         "BusinessTypeID": 7844,
@@ -14873,6 +15373,31 @@
         "coordinates": [
           -1.95785701274872,
           50.6095733642578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 410864,
+        "BusinessName": "Clifton Greens",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "16 CLIFTON ROAD",
+        "AddressLine2": "",
+        "AddressLine3": "LONDON",
+        "AddressLine4": "",
+        "PostCode": "W9 1SS",
+        "RatingValue": "3",
+        "RatingDate": "2024-06-12T00:00:00",
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "00055/0016/0/000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.179318,
+          51.5258016
         ]
       }
     },
@@ -15954,6 +16479,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 445758,
+        "BusinessName": "Greens Cafe/Padstow Crazy Golf",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Greens Cafe And Crazy Golf",
+        "AddressLine2": "North Quay",
+        "AddressLine3": "Padstow",
+        "AddressLine4": "Cornwall",
+        "PostCode": "PL28 8AF",
+        "RatingValue": "5",
+        "RatingDate": "2024-10-10T00:00:00",
+        "LocalAuthorityName": "Cornwall",
+        "LocalAuthorityCode": "705",
+        "LocalAuthorityBusinessID": "E1_50924"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.936731,
+          50.543116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 448445,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -16379,6 +16929,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 462935,
+        "BusinessName": "Greens Hot Chocolate",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "Greens Amusements",
+        "AddressLine2": "The Esplanade",
+        "AddressLine3": "Chapel St Leonards Lincolnshire",
+        "AddressLine4": "",
+        "PostCode": "PE24 5TB",
+        "RatingValue": "5",
+        "RatingDate": "2021-10-04T00:00:00",
+        "LocalAuthorityName": "East Lindsey",
+        "LocalAuthorityCode": "220",
+        "LocalAuthorityBusinessID": "EHFDI/07836/08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.338317,
+          53.223912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 463334,
         "BusinessName": "Greggs",
         "BusinessTypeID": 7844,
@@ -16473,6 +17048,31 @@
         "coordinates": [
           -0.075797,
           51.547538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 469368,
+        "BusinessName": "Beans Love Greens",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "8 Calvert Avenue",
+        "AddressLine3": "Hackney",
+        "AddressLine4": "London",
+        "PostCode": "E2 7JP",
+        "RatingValue": "2",
+        "RatingDate": "2024-11-19T00:00:00",
+        "LocalAuthorityName": "Hackney",
+        "LocalAuthorityCode": "512",
+        "LocalAuthorityBusinessID": "2390"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.076341,
+          51.526081
         ]
       }
     },
@@ -16598,6 +17198,31 @@
         "coordinates": [
           -0.114305,
           51.462401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 483158,
+        "BusinessName": "Greens",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "Business",
+        "AddressLine2": "23 Streatham Vale",
+        "AddressLine3": "London",
+        "AddressLine4": "",
+        "PostCode": "SW16 5SE",
+        "RatingValue": "5",
+        "RatingDate": "2021-02-11T00:00:00",
+        "LocalAuthorityName": "Lambeth",
+        "LocalAuthorityCode": "522",
+        "LocalAuthorityBusinessID": "05/00588/COMM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.136672,
+          51.417256
         ]
       }
     },
@@ -17679,6 +18304,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 513100,
+        "BusinessName": "Greens Health Store",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "37 Rectory Grove",
+        "AddressLine2": "Leigh-On-Sea",
+        "AddressLine3": "Essex",
+        "AddressLine4": "",
+        "PostCode": "SS9 2HA",
+        "RatingValue": "5",
+        "RatingDate": "2022-04-19T00:00:00",
+        "LocalAuthorityName": "Southend-On-Sea",
+        "LocalAuthorityCode": "893",
+        "LocalAuthorityBusinessID": "12/01130/GGROC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.652629,
+          51.542508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 513101,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -18398,6 +19048,31 @@
         "coordinates": [
           -1.541519,
           53.795142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 537664,
+        "BusinessName": "Greens Pizza",
+        "BusinessTypeID": 1,
+        "AddressLine1": "",
+        "AddressLine2": "",
+        "AddressLine3": "283 Upper Newtownards Road",
+        "AddressLine4": "Belfast",
+        "PostCode": "BT4 3JH",
+        "RatingValue": "5",
+        "RatingDate": "2023-08-31T00:00:00",
+        "LocalAuthorityName": "Belfast City",
+        "LocalAuthorityCode": "807",
+        "LocalAuthorityBusinessID": "189787"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.864403,
+          54.594825
         ]
       }
     },
@@ -20379,6 +21054,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 608215,
+        "BusinessName": "Greens of Minster",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "24 Monkton Road",
+        "AddressLine2": "Minster",
+        "AddressLine3": "Kent",
+        "AddressLine4": "",
+        "PostCode": "CT12 4EA",
+        "RatingValue": "5",
+        "RatingDate": "2025-07-23T00:00:00",
+        "LocalAuthorityName": "Thanet",
+        "LocalAuthorityCode": "190",
+        "LocalAuthorityBusinessID": "PI/000020712"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3130108,
+          51.3345791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 608910,
         "BusinessName": "Greggs Plc",
         "BusinessTypeID": 4613,
@@ -21154,6 +21854,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 651274,
+        "BusinessName": "Greens",
+        "BusinessTypeID": 7843,
+        "AddressLine1": "Greens 38",
+        "AddressLine2": "36",
+        "AddressLine3": "Low Row",
+        "AddressLine4": "Sunderland",
+        "PostCode": "SR1 3PY",
+        "RatingValue": "5",
+        "RatingDate": "2023-03-01T00:00:00",
+        "LocalAuthorityName": "Sunderland",
+        "LocalAuthorityCode": "429",
+        "LocalAuthorityBusinessID": "000312-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3897986,
+          54.9056982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 651434,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -21229,6 +21954,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 651543,
+        "BusinessName": "Best One - Greens Super News",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "Am To PM News Limited",
+        "AddressLine2": "11",
+        "AddressLine3": "The Green",
+        "AddressLine4": "Sunderland",
+        "PostCode": "SR5 2HT",
+        "RatingValue": "5",
+        "RatingDate": "2023-01-11T00:00:00",
+        "LocalAuthorityName": "Sunderland",
+        "LocalAuthorityCode": "429",
+        "LocalAuthorityBusinessID": "000726-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4026210308075,
+          54.9194679260254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 651622,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -21273,6 +22023,31 @@
         "coordinates": [
           -1.383216,
           54.9067885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 651944,
+        "BusinessName": "Greens Pharmacy",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "149",
+        "AddressLine2": "Chester Road",
+        "AddressLine3": "Sunderland",
+        "AddressLine4": "",
+        "PostCode": "SR4 7HS",
+        "RatingValue": "Exempt",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Sunderland",
+        "LocalAuthorityCode": "429",
+        "LocalAuthorityBusinessID": "001325-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.403354,
+          54.901524
         ]
       }
     },
@@ -21548,6 +22323,31 @@
         "coordinates": [
           -0.503147,
           51.947446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 657687,
+        "BusinessName": "Greens Of Kirkcaldy",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "168 - 172 St Clair Street Kirkcaldy Fife",
+        "AddressLine2": "",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "KY1 2DB",
+        "RatingValue": "Pass",
+        "RatingDate": "2025-01-07T00:00:00",
+        "LocalAuthorityName": "Fife",
+        "LocalAuthorityCode": "775",
+        "LocalAuthorityBusinessID": "68610/0174/4/000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.136957,
+          56.128877
         ]
       }
     },
@@ -21973,6 +22773,31 @@
         "coordinates": [
           -3.3556839,
           55.1213248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 667549,
+        "BusinessName": "Village Greens Farm Shop Ltd",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "Denbies Wine Estate",
+        "AddressLine2": "Bradley Lane",
+        "AddressLine3": "",
+        "AddressLine4": "Dorking",
+        "PostCode": "RH5 6AA",
+        "RatingValue": "5",
+        "RatingDate": "2020-01-20T00:00:00",
+        "LocalAuthorityName": "Mole Valley",
+        "LocalAuthorityCode": "308",
+        "LocalAuthorityBusinessID": "86502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.331866,
+          51.24816
         ]
       }
     },
@@ -22738,7 +23563,7 @@
         "AddressLine4": "Rainham",
         "PostCode": "ME8 8PQ",
         "RatingValue": "5",
-        "RatingDate": "2023-10-30T00:00:00",
+        "RatingDate": "2025-11-05T00:00:00",
         "LocalAuthorityName": "Medway",
         "LocalAuthorityCode": "896",
         "LocalAuthorityBusinessID": "PI/000246947"
@@ -23004,6 +23829,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 696715,
+        "BusinessName": "George's Greens",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "Unit 2 Haxby Shopping Centre",
+        "AddressLine2": "The Village",
+        "AddressLine3": "Haxby",
+        "AddressLine4": "York",
+        "PostCode": "YO32 2LU",
+        "RatingValue": "5",
+        "RatingDate": "2024-06-05T00:00:00",
+        "LocalAuthorityName": "York",
+        "LocalAuthorityCode": "868",
+        "LocalAuthorityBusinessID": "60162"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.075844,
+          54.01629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 700004,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -23104,6 +23954,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 712864,
+        "BusinessName": "Greens Superfoods",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "267 South Norwood Hill",
+        "AddressLine2": "South Norwood",
+        "AddressLine3": "London",
+        "AddressLine4": "",
+        "PostCode": "SE25 6DP",
+        "RatingValue": "4",
+        "RatingDate": "2023-03-27T00:00:00",
+        "LocalAuthorityName": "Croydon",
+        "LocalAuthorityCode": "507",
+        "LocalAuthorityBusinessID": "14/00036/COMM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0871310010552406,
+          51.4095687866211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 713286,
         "BusinessName": "Greggs",
         "BusinessTypeID": 7844,
@@ -23188,7 +24063,7 @@
         "AddressLine4": "",
         "PostCode": "NN1 2AW",
         "RatingValue": "5",
-        "RatingDate": "2018-10-22T00:00:00",
+        "RatingDate": "2025-10-10T00:00:00",
         "LocalAuthorityName": "West Northamptonshire",
         "LocalAuthorityCode": "236",
         "LocalAuthorityBusinessID": "PI/000083975"
@@ -23879,6 +24754,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 754705,
+        "BusinessName": "Greens",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "",
+        "AddressLine2": "166 Station Road",
+        "AddressLine3": "Swinton",
+        "AddressLine4": "",
+        "PostCode": "M27 6BT",
+        "RatingValue": "1",
+        "RatingDate": "2025-09-03T00:00:00",
+        "LocalAuthorityName": "Salford",
+        "LocalAuthorityCode": "422",
+        "LocalAuthorityBusinessID": "3488"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.33641290664673,
+          53.515796661377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 756585,
         "BusinessName": "Greggs Bakery",
         "BusinessTypeID": 4613,
@@ -23973,6 +24873,31 @@
         "coordinates": [
           -0.246751,
           51.614637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 757700,
+        "BusinessName": "Greens International Food Centre",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "159 Station Road Edgware",
+        "AddressLine2": "",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "HA8 7JS",
+        "RatingValue": "3",
+        "RatingDate": "2023-09-07T00:00:00",
+        "LocalAuthorityName": "Barnet",
+        "LocalAuthorityCode": "502",
+        "LocalAuthorityBusinessID": "CP/36065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.276063,
+          51.614505
         ]
       }
     },
@@ -24204,31 +25129,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 774321,
-        "BusinessName": "Greggs Ltd",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "33 Broad Street",
-        "AddressLine2": "March",
-        "AddressLine3": "Cambridgeshire",
-        "AddressLine4": "",
-        "PostCode": "PE15 8TP",
-        "RatingValue": "5",
-        "RatingDate": "2024-11-07T00:00:00",
-        "LocalAuthorityName": "Fenland",
-        "LocalAuthorityCode": "029",
-        "LocalAuthorityBusinessID": "2008/000039"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.088565,
-          52.550435
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 776200,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -24323,6 +25223,31 @@
         "coordinates": [
           -0.273881,
           53.748134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 779251,
+        "BusinessName": "The Village Greens",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "20 Church Lane",
+        "AddressLine3": "Dore",
+        "AddressLine4": "Sheffield",
+        "PostCode": "S17 3GS",
+        "RatingValue": "5",
+        "RatingDate": "2022-08-23T00:00:00",
+        "LocalAuthorityName": "Sheffield",
+        "LocalAuthorityCode": "425",
+        "LocalAuthorityBusinessID": "1295"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.540619,
+          53.325512
         ]
       }
     },
@@ -25687,8 +26612,8 @@
         "AddressLine3": "Boucher Crescent",
         "AddressLine4": "Belfast",
         "PostCode": "BT12 6HU",
-        "RatingValue": "5",
-        "RatingDate": "2022-12-18T00:00:00",
+        "RatingValue": "4",
+        "RatingDate": "2025-10-01T00:00:00",
         "LocalAuthorityName": "Belfast City",
         "LocalAuthorityCode": "807",
         "LocalAuthorityBusinessID": "231636"
@@ -27638,7 +28563,7 @@
         "AddressLine4": "",
         "PostCode": "CR0 1TG",
         "RatingValue": "5",
-        "RatingDate": "2023-10-05T00:00:00",
+        "RatingDate": "2025-10-25T00:00:00",
         "LocalAuthorityName": "Croydon",
         "LocalAuthorityCode": "507",
         "LocalAuthorityBusinessID": "16/00625/COMM"
@@ -28054,31 +28979,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 949425,
-        "BusinessName": "ABM Catering @Regis Gate",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Restaurant",
-        "AddressLine2": "Regis Gate",
-        "AddressLine3": "North Street",
-        "AddressLine4": "Milton Regis",
-        "PostCode": "ME10 2FA",
-        "RatingValue": "5",
-        "RatingDate": "2025-07-10T00:00:00",
-        "LocalAuthorityName": "Swale",
-        "LocalAuthorityCode": "189",
-        "LocalAuthorityBusinessID": "17/500111/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.7343489,
-          51.3539542
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 950687,
         "BusinessName": "Greggs in Forecourt, Heston East",
         "BusinessTypeID": 7844,
@@ -28123,6 +29023,31 @@
         "coordinates": [
           -1.3081521,
           52.8217237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 952262,
+        "BusinessName": "West Hampstead Greens",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "243 West End Lane",
+        "AddressLine3": "",
+        "AddressLine4": "London",
+        "PostCode": "NW6 1XN",
+        "RatingValue": "5",
+        "RatingDate": "2024-12-06T00:00:00",
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "183522"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.191734,
+          51.5497072
         ]
       }
     },
@@ -28248,6 +29173,31 @@
         "coordinates": [
           -6.048472,
           54.51077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 958418,
+        "BusinessName": "Village Greens (Prestwich) Cooperative Ltd",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "1 Longfield Centre",
+        "AddressLine3": "Prestwich",
+        "AddressLine4": "Manchester",
+        "PostCode": "M25 1AY",
+        "RatingValue": "5",
+        "RatingDate": "2025-01-29T00:00:00",
+        "LocalAuthorityName": "Bury",
+        "LocalAuthorityCode": "405",
+        "LocalAuthorityBusinessID": "27105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.284318,
+          53.532945
         ]
       }
     },
@@ -28448,6 +29398,31 @@
         "coordinates": [
           -2.18281,
           53.047985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 962980,
+        "BusinessName": "Greens",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "43 Benhall Avenue",
+        "AddressLine2": "Cheltenham",
+        "AddressLine3": "Gloucestershire",
+        "AddressLine4": "",
+        "PostCode": "GL51 6AF",
+        "RatingValue": "5",
+        "RatingDate": "2024-04-08T00:00:00",
+        "LocalAuthorityName": "Cheltenham",
+        "LocalAuthorityCode": "124",
+        "LocalAuthorityBusinessID": "17/00072/FOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.118213,
+          51.894932
         ]
       }
     },
@@ -28788,7 +29763,7 @@
         "AddressLine4": "",
         "PostCode": "CF31 3XY",
         "RatingValue": "5",
-        "RatingDate": "2023-12-08T00:00:00",
+        "RatingDate": "2025-10-27T00:00:00",
         "LocalAuthorityName": "Bridgend",
         "LocalAuthorityCode": "553",
         "LocalAuthorityBusinessID": "715754"
@@ -29654,6 +30629,56 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 983488,
+        "BusinessName": "Greens Dairy Ltd",
+        "BusinessTypeID": 7,
+        "AddressLine1": "Greenscene Side Farm",
+        "AddressLine2": "Sheffield Road",
+        "AddressLine3": "Todwick",
+        "AddressLine4": "Sheffield",
+        "PostCode": "S26 1DJ",
+        "RatingValue": "Exempt",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Rotherham",
+        "LocalAuthorityCode": "420",
+        "LocalAuthorityBusinessID": "171225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.26663494110107,
+          53.3613471984863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 983964,
+        "BusinessName": "Greens Commerical Cleaning @ Indivior",
+        "BusinessTypeID": 1,
+        "AddressLine1": "",
+        "AddressLine2": "Henry Boot Way",
+        "AddressLine3": "Kingston Upon Hull",
+        "AddressLine4": "",
+        "PostCode": "HU4 7DW",
+        "RatingValue": "5",
+        "RatingDate": "2025-05-16T00:00:00",
+        "LocalAuthorityName": "Hull City",
+        "LocalAuthorityCode": "866",
+        "LocalAuthorityBusinessID": "69130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.407368987798691,
+          53.7252883911133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 984198,
         "BusinessName": "Greggs",
         "BusinessTypeID": 1,
@@ -30104,6 +31129,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 998756,
+        "BusinessName": "Greens Of Highgate",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "3 Highgate High Street",
+        "AddressLine3": "",
+        "AddressLine4": "London",
+        "PostCode": "N6 5JR",
+        "RatingValue": "5",
+        "RatingDate": "2022-03-21T00:00:00",
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "181758"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1460846,
+          51.5702442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1000399,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -30373,6 +31423,31 @@
         "coordinates": [
           -2.39549994468689,
           53.8404006958008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1010286,
+        "BusinessName": "Greens of Lisburn",
+        "BusinessTypeID": 7840,
+        "AddressLine1": "23-25 Bow Street",
+        "AddressLine2": "Old Warren",
+        "AddressLine3": "Lisburn",
+        "AddressLine4": "Antrim",
+        "PostCode": "BT28 1BJ",
+        "RatingValue": "5",
+        "RatingDate": "2025-10-13T00:00:00",
+        "LocalAuthorityName": "Lisburn and Castlereagh City",
+        "LocalAuthorityCode": "809",
+        "LocalAuthorityBusinessID": "507489"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.047049,
+          54.511161
         ]
       }
     },
@@ -30688,7 +31763,7 @@
         "AddressLine4": "",
         "PostCode": "LS28 7TY",
         "RatingValue": "5",
-        "RatingDate": "2023-08-15T00:00:00",
+        "RatingDate": "2025-10-18T00:00:00",
         "LocalAuthorityName": "Leeds",
         "LocalAuthorityCode": "413",
         "LocalAuthorityBusinessID": "16/00134/COMM"
@@ -30723,6 +31798,31 @@
         "coordinates": [
           -1.47148501873016,
           53.838939666748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1018382,
+        "BusinessName": "Nells Urban Greens",
+        "BusinessTypeID": 7838,
+        "AddressLine1": "6 Barrowby Avenue",
+        "AddressLine2": "Austhorpe",
+        "AddressLine3": "Leeds",
+        "AddressLine4": "",
+        "PostCode": "LS15 8QF",
+        "RatingValue": "5",
+        "RatingDate": "2019-07-24T00:00:00",
+        "LocalAuthorityName": "Leeds",
+        "LocalAuthorityCode": "413",
+        "LocalAuthorityBusinessID": "17/00474/COMM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.43297505378723,
+          53.7962760925293
         ]
       }
     },
@@ -30879,6 +31979,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1025009,
+        "BusinessName": "Greens Food And Wine",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "55 - 57 Woodside Green",
+        "AddressLine2": "South Norwood",
+        "AddressLine3": "London",
+        "AddressLine4": "",
+        "PostCode": "SE25 5HQ",
+        "RatingValue": "4",
+        "RatingDate": "2024-05-13T00:00:00",
+        "LocalAuthorityName": "Croydon",
+        "LocalAuthorityCode": "507",
+        "LocalAuthorityBusinessID": "17/00617/COMM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0705590024590492,
+          51.3871765136719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1025328,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -30938,7 +32063,7 @@
         "AddressLine4": "",
         "PostCode": "BH25 6QA",
         "RatingValue": "5",
-        "RatingDate": "2024-06-08T00:00:00",
+        "RatingDate": "2025-11-05T00:00:00",
         "LocalAuthorityName": "New Forest",
         "LocalAuthorityCode": "138",
         "LocalAuthorityBusinessID": "514"
@@ -31154,6 +32279,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1032010,
+        "BusinessName": "Local greens ltd",
+        "BusinessTypeID": 7841,
+        "AddressLine1": "Arch Unit 1169 Bath Factory E",
+        "AddressLine2": "41",
+        "AddressLine3": "Norwood Road",
+        "AddressLine4": "London",
+        "PostCode": "SE24 9AJ",
+        "RatingValue": "5",
+        "RatingDate": "2018-01-31T00:00:00",
+        "LocalAuthorityName": "Southwark",
+        "LocalAuthorityCode": "528",
+        "LocalAuthorityBusinessID": "189724"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.100704,
+          51.4516867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1032538,
         "BusinessName": "Greggs",
         "BusinessTypeID": 7839,
@@ -31273,6 +32423,31 @@
         "coordinates": [
           -1.6622565,
           53.8069397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1034341,
+        "BusinessName": "Eat Your Greens",
+        "BusinessTypeID": 1,
+        "AddressLine1": "42 New York Street",
+        "AddressLine2": "Leeds",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "LS2 7DY",
+        "RatingValue": "4",
+        "RatingDate": "2025-08-19T00:00:00",
+        "LocalAuthorityName": "Leeds",
+        "LocalAuthorityCode": "413",
+        "LocalAuthorityBusinessID": "17/01160/COMM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.536709,
+          53.796274
         ]
       }
     },
@@ -31523,6 +32698,31 @@
         "coordinates": [
           -1.8885702,
           52.3124219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1041050,
+        "BusinessName": "La Pitta / The Greeks",
+        "BusinessTypeID": 7846,
+        "AddressLine1": "",
+        "AddressLine2": "34 Bemrose Road",
+        "AddressLine3": "Derby",
+        "AddressLine4": "",
+        "PostCode": "DE24 8LQ",
+        "RatingValue": "5",
+        "RatingDate": "2024-03-25T00:00:00",
+        "LocalAuthorityName": "Derby City",
+        "LocalAuthorityCode": "871",
+        "LocalAuthorityBusinessID": "145841"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4491842,
+          52.8943078
         ]
       }
     },
@@ -32154,6 +33354,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1063442,
+        "BusinessName": "Goodness at Greens",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Derriford Hospital",
+        "AddressLine2": "Derriford Road",
+        "AddressLine3": "Plymouth",
+        "AddressLine4": "",
+        "PostCode": "PL6 8DH",
+        "RatingValue": "5",
+        "RatingDate": "2025-09-18T00:00:00",
+        "LocalAuthorityName": "Plymouth City",
+        "LocalAuthorityCode": "891",
+        "LocalAuthorityBusinessID": "259348"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.113695,
+          50.416728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1065295,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -32223,6 +33448,31 @@
         "coordinates": [
           -1.4020159,
           54.9200474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1070007,
+        "BusinessName": "Greens Restaurant",
+        "BusinessTypeID": 1,
+        "AddressLine1": "London House",
+        "AddressLine2": "London House",
+        "AddressLine3": "11-15 High Street",
+        "AddressLine4": "Tain",
+        "PostCode": "IV19 1AB",
+        "RatingValue": "Pass",
+        "RatingDate": "2018-08-09T00:00:00",
+        "LocalAuthorityName": "Highland",
+        "LocalAuthorityCode": "777",
+        "LocalAuthorityBusinessID": "48387"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.05512189865112,
+          57.8118438720703
         ]
       }
     },
@@ -32479,6 +33729,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1076642,
+        "BusinessName": "The New Era Greeks",
+        "BusinessTypeID": 1,
+        "AddressLine1": "",
+        "AddressLine2": "35-39 North Road",
+        "AddressLine3": "St Helens",
+        "AddressLine4": "",
+        "PostCode": "WA10 2TW",
+        "RatingValue": "5",
+        "RatingDate": "2025-09-21T00:00:00",
+        "LocalAuthorityName": "St Helens",
+        "LocalAuthorityCode": "421",
+        "LocalAuthorityBusinessID": "B17HSH35-3/3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.739503,
+          53.456434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1077041,
         "BusinessName": "Greggs @ Frontier Park",
         "BusinessTypeID": 7844,
@@ -32623,6 +33898,31 @@
         "coordinates": [
           -2.836467,
           52.4403463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1083632,
+        "BusinessName": "Village Greens Farm Shop Ltd",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "Ockley Court",
+        "AddressLine2": "Coles Lane",
+        "AddressLine3": "",
+        "AddressLine4": "Ockley",
+        "PostCode": "RH5 5LS",
+        "RatingValue": "5",
+        "RatingDate": "2019-06-04T00:00:00",
+        "LocalAuthorityName": "Mole Valley",
+        "LocalAuthorityCode": "308",
+        "LocalAuthorityBusinessID": "75890"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3476586,
+          51.1530208
         ]
       }
     },
@@ -33604,6 +34904,56 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1103956,
+        "BusinessName": "Smart Greens UK",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "Farmer Gows",
+        "AddressLine2": "Fernham Road",
+        "AddressLine3": "Longcot",
+        "AddressLine4": "Faringdon",
+        "PostCode": "SN7 7PR",
+        "RatingValue": "5",
+        "RatingDate": "2018-11-13T00:00:00",
+        "LocalAuthorityName": "Vale of White Horse",
+        "LocalAuthorityCode": "271",
+        "LocalAuthorityBusinessID": "010090578863"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5942801,
+          51.6186869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1105896,
+        "BusinessName": "Cagla UK Market (Ranj Greens LTD)",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "6 Ladybrook Lane",
+        "AddressLine2": "",
+        "AddressLine3": "Mansfield",
+        "AddressLine4": "Nottinghamshire",
+        "PostCode": "NG18 5JB",
+        "RatingValue": "5",
+        "RatingDate": "2024-01-30T00:00:00",
+        "LocalAuthorityName": "Mansfield",
+        "LocalAuthorityCode": "263",
+        "LocalAuthorityBusinessID": "61454"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2089346,
+          53.1472708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1106243,
         "BusinessName": "Greggs",
         "BusinessTypeID": 7844,
@@ -33612,8 +34962,8 @@
         "AddressLine3": "Smallbrook Queensway",
         "AddressLine4": "Birmingham",
         "PostCode": "B2 4QE",
-        "RatingValue": "4",
-        "RatingDate": "2024-06-05T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-10-28T00:00:00",
         "LocalAuthorityName": "Birmingham",
         "LocalAuthorityCode": "402",
         "LocalAuthorityBusinessID": "PI/000645616"
@@ -33979,6 +35329,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1130670,
+        "BusinessName": "King Arthur Grill and Greets Green Sports Bar",
+        "BusinessTypeID": 1,
+        "AddressLine1": " 101 Whitehall Road",
+        "AddressLine2": "West Bromwich",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "B70 0HG",
+        "RatingValue": "4",
+        "RatingDate": "2025-02-22T00:00:00",
+        "LocalAuthorityName": "Sandwell",
+        "LocalAuthorityCode": "423",
+        "LocalAuthorityBusinessID": "97876"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0270271,
+          52.5225413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1130944,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 1,
@@ -34054,6 +35429,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1133804,
+        "BusinessName": "Greens Essentials",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "Baldwins Lane Post Office",
+        "AddressLine2": "295 Baldwins Lane",
+        "AddressLine3": "Croxley Green",
+        "AddressLine4": "Rickmansworth",
+        "PostCode": "WD3 3LE",
+        "RatingValue": "4",
+        "RatingDate": "2018-01-18T00:00:00",
+        "LocalAuthorityName": "Three Rivers",
+        "LocalAuthorityCode": "162",
+        "LocalAuthorityBusinessID": "T/PI/000033897"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.449063003063202,
+          51.6537132263184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1134450,
         "BusinessName": "Greggs Plc",
         "BusinessTypeID": 1,
@@ -34123,6 +35523,31 @@
         "coordinates": [
           0.245340004563332,
           51.4851913452148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1136223,
+        "BusinessName": "Urban Greens",
+        "BusinessTypeID": 1,
+        "AddressLine1": "20 PALMER STREET",
+        "AddressLine2": "",
+        "AddressLine3": "LONDON",
+        "AddressLine4": "",
+        "PostCode": "SW1H 0PH",
+        "RatingValue": "5",
+        "RatingDate": "2024-04-30T00:00:00",
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "19/00170/COMM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1354123,
+          51.498425
         ]
       }
     },
@@ -34723,6 +36148,31 @@
         "coordinates": [
           -2.3509937,
           53.4663872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1181972,
+        "BusinessName": "Greens Of Ellon",
+        "BusinessTypeID": 7840,
+        "AddressLine1": "",
+        "AddressLine2": "9 The Square",
+        "AddressLine3": "Ellon",
+        "AddressLine4": "Aberdeenshire",
+        "PostCode": "AB41 9JB",
+        "RatingValue": "Improvement Required",
+        "RatingDate": "2025-08-08T00:00:00",
+        "LocalAuthorityName": "Aberdeenshire",
+        "LocalAuthorityCode": "761",
+        "LocalAuthorityBusinessID": "71596"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.070658,
+          57.36531
         ]
       }
     },
@@ -35423,6 +36873,31 @@
         "coordinates": [
           -2.3159944,
           53.6517167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1203880,
+        "BusinessName": "Easter Greens",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "4 Easter Road",
+        "AddressLine2": "Edinburgh",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "EH7 5RG",
+        "RatingValue": "Pass",
+        "RatingDate": "2019-10-29T00:00:00",
+        "LocalAuthorityName": "Edinburgh (City of)",
+        "LocalAuthorityCode": "773",
+        "LocalAuthorityBusinessID": "196730"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1718014,
+          55.9578
         ]
       }
     },
@@ -36279,6 +37754,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1223999,
+        "BusinessName": "Crouch End Greens Ltd",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "Shop B",
+        "AddressLine2": "59 Park Road",
+        "AddressLine3": "Hornsey",
+        "AddressLine4": "London",
+        "PostCode": "N8 8DP",
+        "RatingValue": "5",
+        "RatingDate": "2025-10-03T00:00:00",
+        "LocalAuthorityName": "Haringey",
+        "LocalAuthorityCode": "514",
+        "LocalAuthorityBusinessID": "PI/000132164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1262897,
+          51.5813953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1225416,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -36329,6 +37829,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1226558,
+        "BusinessName": "Greens And Grains",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "103 St James's Street",
+        "AddressLine2": "Brighton",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "BN2 1TP",
+        "RatingValue": "4",
+        "RatingDate": "2024-12-12T00:00:00",
+        "LocalAuthorityName": "Brighton and Hove",
+        "LocalAuthorityCode": "875",
+        "LocalAuthorityBusinessID": "2020/00095/COMM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.133110001683235,
+          50.8206024169922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1226987,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -36348,6 +37873,31 @@
         "coordinates": [
           -3.2193617,
           51.6699142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1227911,
+        "BusinessName": "Soo Greens Cafe",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Sol Central",
+        "AddressLine2": "Marefair",
+        "AddressLine3": "Northampton",
+        "AddressLine4": "NN1 1SR",
+        "PostCode": "NN1 1SR",
+        "RatingValue": "4",
+        "RatingDate": "2022-12-09T00:00:00",
+        "LocalAuthorityName": "West Northamptonshire",
+        "LocalAuthorityCode": "236",
+        "LocalAuthorityBusinessID": "PI/000092909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.901898,
+          52.236654
         ]
       }
     },
@@ -36688,7 +38238,7 @@
         "AddressLine4": "",
         "PostCode": "ST14 7HT",
         "RatingValue": "5",
-        "RatingDate": "2023-11-24T00:00:00",
+        "RatingDate": "2025-10-23T00:00:00",
         "LocalAuthorityName": "East Staffordshire",
         "LocalAuthorityCode": "288",
         "LocalAuthorityBusinessID": "88bdb733-cbbe-e211-8a33-00215ad1c18a"
@@ -36979,6 +38529,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1258119,
+        "BusinessName": "Greggs-Hilton Park Motorway Service Area- Southbound",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "Hilton Lane",
+        "AddressLine2": "Hilton",
+        "AddressLine3": "South Staffordshire",
+        "AddressLine4": "",
+        "PostCode": "WV11 2AT",
+        "RatingValue": "5",
+        "RatingDate": "2025-02-06T00:00:00",
+        "LocalAuthorityName": "South Staffordshire",
+        "LocalAuthorityCode": "291",
+        "LocalAuthorityBusinessID": "HL-60"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.05482411384583,
+          52.6425476074219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1258300,
         "BusinessName": "Greggs MFG",
         "BusinessTypeID": 4613,
@@ -37148,6 +38723,31 @@
         "coordinates": [
           -0.2138,
           53.740835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1264565,
+        "BusinessName": "Good on Greens",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "466 Old London Road",
+        "AddressLine2": "Hastings",
+        "AddressLine3": "East Sussex",
+        "AddressLine4": "",
+        "PostCode": "TN35 5BG",
+        "RatingValue": "5",
+        "RatingDate": "2024-01-30T00:00:00",
+        "LocalAuthorityName": "Hastings",
+        "LocalAuthorityCode": "103",
+        "LocalAuthorityBusinessID": "PI/000077547"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.608791,
+          50.87269
         ]
       }
     },
@@ -37398,6 +38998,31 @@
         "coordinates": [
           -1.96782505512238,
           52.6586990356445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1283183,
+        "BusinessName": "Angmering Village Greens",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "1 Carina Nurseries Mill Road",
+        "AddressLine2": "",
+        "AddressLine3": "Angmering",
+        "AddressLine4": "West Sussex",
+        "PostCode": "BN16 4HU",
+        "RatingValue": "5",
+        "RatingDate": "2021-06-14T00:00:00",
+        "LocalAuthorityName": "Arun",
+        "LocalAuthorityCode": "324",
+        "LocalAuthorityBusinessID": "9103088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4827562,
+          50.8261466
         ]
       }
     },
@@ -37929,6 +39554,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1297923,
+        "BusinessName": "Easter Greens",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "179 Morningside Road",
+        "AddressLine2": "Edinburgh",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "EH10 4QP",
+        "RatingValue": "Pass",
+        "RatingDate": "2022-03-15T00:00:00",
+        "LocalAuthorityName": "Edinburgh (City of)",
+        "LocalAuthorityCode": "773",
+        "LocalAuthorityBusinessID": "199075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2091781,
+          55.9288301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1298144,
         "BusinessName": "Greggs",
         "BusinessTypeID": 7841,
@@ -38137,8 +39787,8 @@
         "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "KY6 1BX",
-        "RatingValue": "Awaiting Inspection",
-        "RatingDate": "2025-10-01T00:00:00",
+        "RatingValue": "Pass",
+        "RatingDate": "2025-10-31T00:00:00",
         "LocalAuthorityName": "Fife",
         "LocalAuthorityCode": "775",
         "LocalAuthorityBusinessID": "20/00106/MIXED"
@@ -38173,6 +39823,31 @@
         "coordinates": [
           -3.171612,
           56.126793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1302297,
+        "BusinessName": "Greens Cafe",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Medical School University Hospital Nhs Trust Queens Medical Centre",
+        "AddressLine2": "Derby Road",
+        "AddressLine3": "",
+        "AddressLine4": "Nottingham",
+        "PostCode": "NG7 2UH",
+        "RatingValue": "5",
+        "RatingDate": "2022-05-24T00:00:00",
+        "LocalAuthorityName": "Nottingham City",
+        "LocalAuthorityCode": "899",
+        "LocalAuthorityBusinessID": "108011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1859523,
+          52.9438202
         ]
       }
     },
@@ -38323,6 +39998,31 @@
         "coordinates": [
           -0.131255,
           51.425596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1321672,
+        "BusinessName": "Roast & Greens",
+        "BusinessTypeID": 7841,
+        "AddressLine1": "",
+        "AddressLine2": "28 The Broadway",
+        "AddressLine3": "Hornsey",
+        "AddressLine4": "London",
+        "PostCode": "N8 9SU",
+        "RatingValue": "5",
+        "RatingDate": "2024-01-13T00:00:00",
+        "LocalAuthorityName": "Haringey",
+        "LocalAuthorityCode": "514",
+        "LocalAuthorityBusinessID": "PI/000162068"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.123456,
+          51.579057
         ]
       }
     },
@@ -38754,6 +40454,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1346334,
+        "BusinessName": "Tangled Greens (GreenSea Solutions Ltd)",
+        "BusinessTypeID": 7839,
+        "AddressLine1": "Ardtoe Marine Laboratory",
+        "AddressLine2": "",
+        "AddressLine3": "Ardtoe",
+        "AddressLine4": "Acharacle",
+        "PostCode": "PH36 4LD",
+        "RatingValue": "Awaiting Inspection",
+        "RatingDate": "1900-01-01T00:00:00",
+        "LocalAuthorityName": "Highland",
+        "LocalAuthorityCode": "777",
+        "LocalAuthorityBusinessID": "51384"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.87068700790405,
+          56.7641220092773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1346444,
         "BusinessName": "Greggs",
         "BusinessTypeID": 7844,
@@ -38773,6 +40498,31 @@
         "coordinates": [
           -2.0909595,
           53.5453104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1348760,
+        "BusinessName": "Greens Off Licence",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "1110 Melton Road",
+        "AddressLine3": "",
+        "AddressLine4": "Syston",
+        "PostCode": "LE7 2HA",
+        "RatingValue": "5",
+        "RatingDate": "2023-09-13T00:00:00",
+        "LocalAuthorityName": "Charnwood",
+        "LocalAuthorityCode": "210",
+        "LocalAuthorityBusinessID": "52220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.079362,
+          52.695058
         ]
       }
     },
@@ -38923,6 +40673,31 @@
         "coordinates": [
           -1.977198,
           50.742051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1354052,
+        "BusinessName": "Costcutter - JK Greens",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "",
+        "AddressLine3": "268-270 Newtownards Road",
+        "AddressLine4": "Belfast",
+        "PostCode": "BT4 1HD",
+        "RatingValue": "4",
+        "RatingDate": "2023-01-25T00:00:00",
+        "LocalAuthorityName": "Belfast City",
+        "LocalAuthorityCode": "807",
+        "LocalAuthorityBusinessID": "259100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8973272,
+          54.5988508
         ]
       }
     },
@@ -39279,6 +41054,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1373208,
+        "BusinessName": "Greens International Food Centre",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "45 Woodhouse Road London",
+        "AddressLine2": "",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "N12 9ET",
+        "RatingValue": "3",
+        "RatingDate": "2025-03-17T00:00:00",
+        "LocalAuthorityName": "Barnet",
+        "LocalAuthorityCode": "502",
+        "LocalAuthorityBusinessID": "21/00206/COMM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.172753,
+          51.612151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1373613,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -39313,7 +41113,7 @@
         "AddressLine4": "",
         "PostCode": "SE10 0PH",
         "RatingValue": "5",
-        "RatingDate": "2023-10-13T00:00:00",
+        "RatingDate": "2025-11-05T00:00:00",
         "LocalAuthorityName": "Greenwich",
         "LocalAuthorityCode": "511",
         "LocalAuthorityBusinessID": "14372"
@@ -40154,6 +41954,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1408845,
+        "BusinessName": "Greens Of Peterhead",
+        "BusinessTypeID": 7840,
+        "AddressLine1": "",
+        "AddressLine2": "44 Clerkhill Road",
+        "AddressLine3": "Peterhead",
+        "AddressLine4": "Aberdeenshire",
+        "PostCode": "AB42 2XE",
+        "RatingValue": "Improvement Required",
+        "RatingDate": "2025-03-17T00:00:00",
+        "LocalAuthorityName": "Aberdeenshire",
+        "LocalAuthorityCode": "761",
+        "LocalAuthorityBusinessID": "72781"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7988055,
+          57.5026666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1410533,
         "BusinessName": "Greggs",
         "BusinessTypeID": 7844,
@@ -40388,7 +42213,7 @@
         "AddressLine4": "Nottinghamshire",
         "PostCode": "DN22 7XQ",
         "RatingValue": "5",
-        "RatingDate": "2023-10-30T00:00:00",
+        "RatingDate": "2025-11-04T00:00:00",
         "LocalAuthorityName": "Bassetlaw",
         "LocalAuthorityCode": "260",
         "LocalAuthorityBusinessID": "PI/000136704"
@@ -40829,6 +42654,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1425930,
+        "BusinessName": "Greens Super Food",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "217 Wickham Road",
+        "AddressLine2": "Croydon",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "CR0 8TG",
+        "RatingValue": "4",
+        "RatingDate": "2022-05-16T00:00:00",
+        "LocalAuthorityName": "Croydon",
+        "LocalAuthorityCode": "507",
+        "LocalAuthorityBusinessID": "21/00735/COMM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0473480001091957,
+          51.3753356933594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1426249,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 4613,
@@ -41154,6 +43004,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1451666,
+        "BusinessName": "Greens of Kinross",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "54-56 High Street",
+        "AddressLine3": "Kinross",
+        "AddressLine4": "",
+        "PostCode": "KY13 8AN",
+        "RatingValue": "Pass",
+        "RatingDate": "2025-07-17T00:00:00",
+        "LocalAuthorityName": "Perth and Kinross",
+        "LocalAuthorityCode": "786",
+        "LocalAuthorityBusinessID": "R075D454-5/2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.42126752072819,
+          56.2047951278587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1452723,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -41354,6 +43229,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1468066,
+        "BusinessName": "Greens Of Inverurie",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "11 - 13 North Street",
+        "AddressLine3": "Inverurie",
+        "AddressLine4": "Aberdeenshire",
+        "PostCode": "AB51 4RJ",
+        "RatingValue": "Improvement Required",
+        "RatingDate": "2023-09-18T00:00:00",
+        "LocalAuthorityName": "Aberdeenshire",
+        "LocalAuthorityCode": "761",
+        "LocalAuthorityBusinessID": "72954"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.381188,
+          57.285604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1469781,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -41448,6 +43348,31 @@
         "coordinates": [
           -3.2239247,
           51.5890519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1486665,
+        "BusinessName": "Greens Of Aberdour",
+        "BusinessTypeID": 7840,
+        "AddressLine1": "84 High Street Aberdour Burntisland Fife",
+        "AddressLine2": "",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "KY3 0SW",
+        "RatingValue": "Pass",
+        "RatingDate": "2025-01-13T00:00:00",
+        "LocalAuthorityName": "Fife",
+        "LocalAuthorityCode": "775",
+        "LocalAuthorityBusinessID": "22/00045/MIXED"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3044911,
+          56.0530875
         ]
       }
     },
@@ -42123,6 +44048,31 @@
         "coordinates": [
           -3.0865452,
           55.8815338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1500541,
+        "BusinessName": "PARKWAY GREENS",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "52 Parkway",
+        "AddressLine3": "",
+        "AddressLine4": "London",
+        "PostCode": "NW1 7AH",
+        "RatingValue": "5",
+        "RatingDate": "2025-07-09T00:00:00",
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "201182"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1447497,
+          51.5381646
         ]
       }
     },
@@ -42929,6 +44879,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1529971,
+        "BusinessName": "Greens",
+        "BusinessTypeID": 7843,
+        "AddressLine1": "Cafe In Centre Of",
+        "AddressLine2": "Mell Square",
+        "AddressLine3": "Solihull",
+        "AddressLine4": "",
+        "PostCode": "B91 3AY",
+        "RatingValue": "5",
+        "RatingDate": "2023-01-06T00:00:00",
+        "LocalAuthorityName": "Solihull",
+        "LocalAuthorityCode": "426",
+        "LocalAuthorityBusinessID": "CP/111568"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.77612400054932,
+          52.4139060974121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1530940,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 1,
@@ -43104,6 +45079,56 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1536730,
+        "BusinessName": "Greens of Perth",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "97 Crieff Road",
+        "AddressLine3": "Perth",
+        "AddressLine4": "",
+        "PostCode": "PH1 2QB",
+        "RatingValue": "Awaiting Inspection",
+        "RatingDate": "2022-08-12T00:00:00",
+        "LocalAuthorityName": "Perth and Kinross",
+        "LocalAuthorityCode": "786",
+        "LocalAuthorityBusinessID": "R065P397CR/1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4640129,
+          56.4068851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1537572,
+        "BusinessName": "Greens on Wheels",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "22 Market Place",
+        "AddressLine3": "Brigg",
+        "AddressLine4": "North Lincolnshire",
+        "PostCode": "DN20 8LD",
+        "RatingValue": "4",
+        "RatingDate": "2023-05-09T00:00:00",
+        "LocalAuthorityName": "North Lincolnshire",
+        "LocalAuthorityCode": "864",
+        "LocalAuthorityBusinessID": "132992"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4923278,
+          53.5518129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1538057,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 7844,
@@ -43148,6 +45173,56 @@
         "coordinates": [
           -0.2065529,
           51.4213622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1540760,
+        "BusinessName": "Greens Norton British Legion Club",
+        "BusinessTypeID": 7843,
+        "AddressLine1": "10 School Lane",
+        "AddressLine2": "Greens Norton",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "NN12 8BU",
+        "RatingValue": "5",
+        "RatingDate": "2024-06-07T00:00:00",
+        "LocalAuthorityName": "West Northamptonshire",
+        "LocalAuthorityCode": "236",
+        "LocalAuthorityBusinessID": "FR/000000071"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0244668,
+          52.1424873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1540955,
+        "BusinessName": "Greens Norton Post Office & Stores",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "17A High Street",
+        "AddressLine2": "Greens Norton",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "NN12 8BA",
+        "RatingValue": "4",
+        "RatingDate": "2023-01-20T00:00:00",
+        "LocalAuthorityName": "West Northamptonshire",
+        "LocalAuthorityCode": "236",
+        "LocalAuthorityBusinessID": "FR/000001434"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0250797,
+          52.142553
         ]
       }
     },
@@ -43329,6 +45404,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1545028,
+        "BusinessName": "Greens of Dundee",
+        "BusinessTypeID": 7840,
+        "AddressLine1": "93 Albert Street",
+        "AddressLine2": "Dundee",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "DD4 6PB",
+        "RatingValue": "Improvement Required",
+        "RatingDate": "2025-06-24T00:00:00",
+        "LocalAuthorityName": "Dundee City",
+        "LocalAuthorityCode": "772",
+        "LocalAuthorityBusinessID": "A00G193ALB/1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9568035,
+          56.4701895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1545263,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 7844,
@@ -43404,6 +45504,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1547534,
+        "BusinessName": "Greens Breadshop",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "17 Lightcliffe Road",
+        "AddressLine2": "Brighouse",
+        "AddressLine3": "Calderdale",
+        "AddressLine4": "",
+        "PostCode": "HD6 2DR",
+        "RatingValue": "5",
+        "RatingDate": "2024-01-10T00:00:00",
+        "LocalAuthorityName": "Calderdale",
+        "LocalAuthorityCode": "406",
+        "LocalAuthorityBusinessID": "21/01606/COMM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7865489,
+          53.706322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1547544,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 7844,
@@ -43413,7 +45538,7 @@
         "AddressLine4": "",
         "PostCode": "HX1 1RU",
         "RatingValue": "5",
-        "RatingDate": "2023-11-27T00:00:00",
+        "RatingDate": "2025-11-05T00:00:00",
         "LocalAuthorityName": "Calderdale",
         "LocalAuthorityCode": "406",
         "LocalAuthorityBusinessID": "21/01617/COMM"
@@ -43729,6 +45854,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1552765,
+        "BusinessName": "Greens Of Fraserburgh",
+        "BusinessTypeID": 7840,
+        "AddressLine1": "",
+        "AddressLine2": "Units 2 And 3",
+        "AddressLine3": "Buchan Road",
+        "AddressLine4": "Fraserburgh",
+        "PostCode": "AB43 9UG",
+        "RatingValue": "Pass",
+        "RatingDate": "2023-12-19T00:00:00",
+        "LocalAuthorityName": "Aberdeenshire",
+        "LocalAuthorityCode": "761",
+        "LocalAuthorityBusinessID": "73434"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0293231,
+          57.6842438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1553251,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 7844,
@@ -43848,6 +45998,31 @@
         "coordinates": [
           -2.081157,
           52.510994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1555060,
+        "BusinessName": "Meaty Greeks",
+        "BusinessTypeID": 7846,
+        "AddressLine1": "101 Bridgnorth Road",
+        "AddressLine2": "Wollaston",
+        "AddressLine3": "Stourbridge",
+        "AddressLine4": "",
+        "PostCode": "DY8 3NY",
+        "RatingValue": "5",
+        "RatingDate": "2019-07-23T00:00:00",
+        "LocalAuthorityName": "Dudley",
+        "LocalAuthorityCode": "409",
+        "LocalAuthorityBusinessID": "FR/201900196"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.163378,
+          52.460295
         ]
       }
     },
@@ -44229,6 +46404,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1562617,
+        "BusinessName": "The Sweet Greeks",
+        "BusinessTypeID": 1,
+        "AddressLine1": "20 Mealcheapen Street",
+        "AddressLine2": "Worcester",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "WR1 2DQ",
+        "RatingValue": "5",
+        "RatingDate": "2024-11-27T00:00:00",
+        "LocalAuthorityName": "Worcester City",
+        "LocalAuthorityCode": "151",
+        "LocalAuthorityBusinessID": "22/00733/FOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.219301,
+          52.192737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1564231,
         "BusinessName": "Greggs @ Tesco Doncaster",
         "BusinessTypeID": 4613,
@@ -44548,6 +46748,31 @@
         "coordinates": [
           -0.1679528,
           51.4630538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1573599,
+        "BusinessName": "Greens Produce",
+        "BusinessTypeID": 7,
+        "AddressLine1": "17-18 The Arches",
+        "AddressLine2": "New Covent Garden Market",
+        "AddressLine3": "Nine Elms Lane",
+        "AddressLine4": "London",
+        "PostCode": "SW8 5PP",
+        "RatingValue": "5",
+        "RatingDate": "2024-03-27T00:00:00",
+        "LocalAuthorityName": "Wandsworth",
+        "LocalAuthorityCode": "532",
+        "LocalAuthorityBusinessID": "PI/000459929"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1300784,
+          51.4813135
         ]
       }
     },
@@ -45179,6 +47404,56 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1583642,
+        "BusinessName": "All Greens",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "61 Abbeville Road",
+        "AddressLine2": "London",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "SW4 9JW",
+        "RatingValue": "5",
+        "RatingDate": "2024-02-16T00:00:00",
+        "LocalAuthorityName": "Lambeth",
+        "LocalAuthorityCode": "522",
+        "LocalAuthorityBusinessID": "22/00347/COMM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1397259,
+          51.4547947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1584789,
+        "BusinessName": "Roast & Greens",
+        "BusinessTypeID": 1,
+        "AddressLine1": "",
+        "AddressLine2": "45 Crispin Street",
+        "AddressLine3": "London",
+        "AddressLine4": "",
+        "PostCode": "E1 6HQ",
+        "RatingValue": "5",
+        "RatingDate": "2024-11-20T00:00:00",
+        "LocalAuthorityName": "Tower Hamlets",
+        "LocalAuthorityCode": "530",
+        "LocalAuthorityBusinessID": "209669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.076605,
+          51.518774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1585482,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 1,
@@ -45323,6 +47598,31 @@
         "coordinates": [
           -2.4648621,
           56.7235305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1587966,
+        "BusinessName": "Greens Kitchen",
+        "BusinessTypeID": 7841,
+        "AddressLine1": "345 Green Lanes",
+        "AddressLine2": "LONDON",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "N13 4JG",
+        "RatingValue": "5",
+        "RatingDate": "2024-12-20T00:00:00",
+        "LocalAuthorityName": "Enfield",
+        "LocalAuthorityCode": "510",
+        "LocalAuthorityBusinessID": "PI/000191794"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.107561,
+          51.619337
         ]
       }
     },
@@ -45479,6 +47779,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1591990,
+        "BusinessName": "Greggs-Greengate",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "",
+        "AddressLine2": "Mainway East",
+        "AddressLine3": "Middleton",
+        "AddressLine4": "Manchester",
+        "PostCode": "M24 1RD",
+        "RatingValue": "5",
+        "RatingDate": "2025-08-12T00:00:00",
+        "LocalAuthorityName": "Rochdale",
+        "LocalAuthorityCode": "419",
+        "LocalAuthorityBusinessID": "144081"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.17543839,
+          53.53911089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1592743,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 7841,
@@ -45498,6 +47823,31 @@
         "coordinates": [
           -2.5013162,
           51.443765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1592840,
+        "BusinessName": "Angmering Village Greens",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "Ground Floor North Bank Chambers The Square",
+        "AddressLine2": "",
+        "AddressLine3": "Angmering",
+        "AddressLine4": "West Sussex",
+        "PostCode": "BN16 4EA",
+        "RatingValue": "5",
+        "RatingDate": "2023-03-03T00:00:00",
+        "LocalAuthorityName": "Arun",
+        "LocalAuthorityCode": "324",
+        "LocalAuthorityBusinessID": "9104274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.483802,
+          50.8289302
         ]
       }
     },
@@ -45729,6 +48079,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1600621,
+        "BusinessName": "Marvellous Beans and Greens",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "72 Brockley Rise",
+        "AddressLine2": "London",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "SE23 1LN",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Lewisham",
+        "LocalAuthorityCode": "523",
+        "LocalAuthorityBusinessID": "FR/000009488"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0407436,
+          51.4479925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1601207,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 4613,
@@ -45823,6 +48198,31 @@
         "coordinates": [
           -3.2027469,
           55.9516349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1602151,
+        "BusinessName": "Richmond Greens",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "46B Friars Stile Road",
+        "AddressLine2": "Richmond",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "TW10 6NQ",
+        "RatingValue": "1",
+        "RatingDate": "2025-04-29T00:00:00",
+        "LocalAuthorityName": "Richmond-Upon-Thames",
+        "LocalAuthorityCode": "527",
+        "LocalAuthorityBusinessID": "PI/000305660"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2967178,
+          51.4551922
         ]
       }
     },
@@ -46004,6 +48404,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1606299,
+        "BusinessName": "Urban Greens",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "1 New Change",
+        "AddressLine2": "London",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "EC4M 9AF",
+        "RatingValue": "5",
+        "RatingDate": "2023-04-17T00:00:00",
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "PI/000040059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09523,
+          51.513548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1607718,
         "BusinessName": "Greggs @ Budgens",
         "BusinessTypeID": 1,
@@ -46023,6 +48448,31 @@
         "coordinates": [
           -2.93166132,
           51.34412609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1607817,
+        "BusinessName": "Nonnington Farm Greens And Things Ltd",
+        "BusinessTypeID": 7838,
+        "AddressLine1": "Nonnington Farm",
+        "AddressLine2": "Eldridge Lane",
+        "AddressLine3": "Graffham",
+        "AddressLine4": "Petworth",
+        "PostCode": "GU28 0NT",
+        "RatingValue": "5",
+        "RatingDate": "2023-06-05T00:00:00",
+        "LocalAuthorityName": "Chichester",
+        "LocalAuthorityCode": "325",
+        "LocalAuthorityBusinessID": "23/00057/FOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6799343,
+          50.9520002
         ]
       }
     },
@@ -46223,6 +48673,56 @@
         "coordinates": [
           0.191976,
           51.565646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1612743,
+        "BusinessName": "Greens Of Dunblane",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "79 - 81 High Street",
+        "AddressLine2": "Dunblane",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "FK15 0ER",
+        "RatingValue": "Improvement Required",
+        "RatingDate": "2025-06-12T00:00:00",
+        "LocalAuthorityName": "Stirling",
+        "LocalAuthorityCode": "790",
+        "LocalAuthorityBusinessID": "23/00029/GRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9635001,
+          56.1887974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1612744,
+        "BusinessName": "Greens Of Strathblane",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "11 Old Mugdock Road",
+        "AddressLine2": "Stirling",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "G63 9EJ",
+        "RatingValue": "Pass",
+        "RatingDate": "2024-05-29T00:00:00",
+        "LocalAuthorityName": "Stirling",
+        "LocalAuthorityCode": "790",
+        "LocalAuthorityBusinessID": "23/00030/GRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3063401,
+          55.9839031
         ]
       }
     },
@@ -46473,6 +48973,31 @@
         "coordinates": [
           -0.2735401,
           52.0933696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1619903,
+        "BusinessName": "Greens of Broughty Ferry",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "38-40 Claypotts Road",
+        "AddressLine2": "Broughty Ferry",
+        "AddressLine3": "Dundee",
+        "AddressLine4": "",
+        "PostCode": "DD5 1BS",
+        "RatingValue": "Improvement Required",
+        "RatingDate": "2024-11-21T00:00:00",
+        "LocalAuthorityName": "Dundee City",
+        "LocalAuthorityCode": "772",
+        "LocalAuthorityBusinessID": "A06G138-40/4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.884465,
+          56.473987
         ]
       }
     },
@@ -47229,6 +49754,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1638553,
+        "BusinessName": "Greens",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "Store Gc12 Market Hall Church Street",
+        "AddressLine2": "",
+        "AddressLine3": "Blackburn",
+        "AddressLine4": "Blackburn With Darwen",
+        "PostCode": "BB1 5AF",
+        "RatingValue": "5",
+        "RatingDate": "2023-12-15T00:00:00",
+        "LocalAuthorityName": "Blackburn",
+        "LocalAuthorityCode": "897",
+        "LocalAuthorityBusinessID": "117367"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4826413,
+          53.7481423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1638923,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 7844,
@@ -47604,6 +50154,56 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1649410,
+        "BusinessName": "Greens of Oakbank",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "168 Oakbank Road",
+        "AddressLine3": "Perth",
+        "AddressLine4": "",
+        "PostCode": "PH1 1HA",
+        "RatingValue": "Pass",
+        "RatingDate": "2025-07-02T00:00:00",
+        "LocalAuthorityName": "Perth and Kinross",
+        "LocalAuthorityCode": "786",
+        "LocalAuthorityBusinessID": "R065P3168O/1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.47364,
+          56.392088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1649515,
+        "BusinessName": "Brown's Greens Cafe And Bar",
+        "BusinessTypeID": 1,
+        "AddressLine1": "3B Harrogate Road",
+        "AddressLine2": "Rawdon",
+        "AddressLine3": "Leeds",
+        "AddressLine4": "",
+        "PostCode": "LS19 6HW",
+        "RatingValue": "4",
+        "RatingDate": "2024-09-06T00:00:00",
+        "LocalAuthorityName": "Leeds",
+        "LocalAuthorityCode": "413",
+        "LocalAuthorityBusinessID": "23/00598/COMM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.684917,
+          53.853891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1650524,
         "BusinessName": "Gregg's",
         "BusinessTypeID": 7844,
@@ -47888,7 +50488,7 @@
         "AddressLine4": "Newark On Trent",
         "PostCode": "NG23 6JE",
         "RatingValue": "5",
-        "RatingDate": "2023-09-25T00:00:00",
+        "RatingDate": "2025-10-28T00:00:00",
         "LocalAuthorityName": "Newark and Sherwood",
         "LocalAuthorityCode": "264",
         "LocalAuthorityBusinessID": "23/00160/COMM"
@@ -47898,6 +50498,31 @@
         "coordinates": [
           -0.8073850274086,
           53.1463394165039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1658689,
+        "BusinessName": "Clocktower Greens Ltd",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "52 The Broadway",
+        "AddressLine3": "Hornsey",
+        "AddressLine4": "London",
+        "PostCode": "N8 9TP",
+        "RatingValue": "5",
+        "RatingDate": "2025-09-05T00:00:00",
+        "LocalAuthorityName": "Haringey",
+        "LocalAuthorityCode": "514",
+        "LocalAuthorityBusinessID": "PI/000166852"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1232237,
+          51.5797906
         ]
       }
     },
@@ -48263,7 +50888,7 @@
         "AddressLine4": "",
         "PostCode": "NE22 5TN",
         "RatingValue": "5",
-        "RatingDate": "2023-11-16T00:00:00",
+        "RatingDate": "2025-10-27T00:00:00",
         "LocalAuthorityName": "Northumberland",
         "LocalAuthorityCode": "707",
         "LocalAuthorityBusinessID": "24214"
@@ -48413,7 +51038,7 @@
         "AddressLine4": "Essex",
         "PostCode": "CM3 6JP",
         "RatingValue": "5",
-        "RatingDate": "2023-11-10T00:00:00",
+        "RatingDate": "2025-10-31T00:00:00",
         "LocalAuthorityName": "Maldon",
         "LocalAuthorityCode": "117",
         "LocalAuthorityBusinessID": "23/00079/CPREM"
@@ -48523,6 +51148,31 @@
         "coordinates": [
           0.218437,
           51.593746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1667301,
+        "BusinessName": "Minster Greens",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "16 High Street",
+        "AddressLine2": "",
+        "AddressLine3": "Wimborne Minster",
+        "AddressLine4": "Dorset",
+        "PostCode": "BH21 1HU",
+        "RatingValue": "5",
+        "RatingDate": "2023-09-19T00:00:00",
+        "LocalAuthorityName": "Dorset",
+        "LocalAuthorityCode": "085",
+        "LocalAuthorityBusinessID": "11687"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9879365,
+          50.7995239
         ]
       }
     },
@@ -49004,6 +51654,56 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1672682,
+        "BusinessName": "Greens Made Easy",
+        "BusinessTypeID": 7838,
+        "AddressLine1": "Croydon",
+        "AddressLine2": "Gloucester Road",
+        "AddressLine3": "Tottenham",
+        "AddressLine4": "London",
+        "PostCode": "N17 6LL",
+        "RatingValue": "5",
+        "RatingDate": "2023-10-24T00:00:00",
+        "LocalAuthorityName": "Haringey",
+        "LocalAuthorityCode": "514",
+        "LocalAuthorityBusinessID": "PI/000166623"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0835788,
+          51.5934563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1672930,
+        "BusinessName": "The Greeks",
+        "BusinessTypeID": 1,
+        "AddressLine1": "25-27 Sloan Street",
+        "AddressLine2": "",
+        "AddressLine3": "Lisburn",
+        "AddressLine4": "",
+        "PostCode": "BT27 5AG",
+        "RatingValue": "5",
+        "RatingDate": "2024-02-15T00:00:00",
+        "LocalAuthorityName": "Lisburn and Castlereagh City",
+        "LocalAuthorityCode": "809",
+        "LocalAuthorityBusinessID": "509132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0364386,
+          54.5096412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1672980,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 1,
@@ -49304,6 +52004,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1677024,
+        "BusinessName": "Meat The Greeks At No3",
+        "BusinessTypeID": 1,
+        "AddressLine1": "3 Bennington Street",
+        "AddressLine2": "Cheltenham",
+        "AddressLine3": "Gloucestershire",
+        "AddressLine4": "",
+        "PostCode": "GL50 4ED",
+        "RatingValue": "5",
+        "RatingDate": "2023-12-05T00:00:00",
+        "LocalAuthorityName": "Cheltenham",
+        "LocalAuthorityCode": "124",
+        "LocalAuthorityBusinessID": "23/00181/FOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.075066,
+          51.902386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1677122,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 1,
@@ -49448,6 +52173,31 @@
         "coordinates": [
           -1.489306,
           54.980763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1677833,
+        "BusinessName": "Greens Butchers",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "111 Boldon Lane",
+        "AddressLine2": "South Shields",
+        "AddressLine3": "Tyne & Wear",
+        "AddressLine4": "",
+        "PostCode": "NE34 0AS",
+        "RatingValue": "5",
+        "RatingDate": "2023-08-02T00:00:00",
+        "LocalAuthorityName": "South Tyneside",
+        "LocalAuthorityCode": "427",
+        "LocalAuthorityBusinessID": "FR/000000258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.439575,
+          54.972636
         ]
       }
     },
@@ -49704,6 +52454,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1680146,
+        "BusinessName": "Greens & Deli",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "The Tall House",
+        "AddressLine2": "6 Market Place",
+        "AddressLine3": "Tuxford",
+        "AddressLine4": "Nottinghamshire",
+        "PostCode": "NG22 0LJ",
+        "RatingValue": "5",
+        "RatingDate": "2023-12-01T00:00:00",
+        "LocalAuthorityName": "Bassetlaw",
+        "LocalAuthorityCode": "260",
+        "LocalAuthorityBusinessID": "PI/000142175"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8984338,
+          53.231224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1680478,
         "BusinessName": "Greggs plc",
         "BusinessTypeID": 7844,
@@ -49723,6 +52498,81 @@
         "coordinates": [
           -3.8107924,
           51.6028421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1681395,
+        "BusinessName": "Queen of Greens",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "Unit 1 Electric Avenue",
+        "AddressLine2": "",
+        "AddressLine3": "Liverpool",
+        "AddressLine4": "",
+        "PostCode": "L11 0EN",
+        "RatingValue": "5",
+        "RatingDate": "2025-03-03T00:00:00",
+        "LocalAuthorityName": "Liverpool",
+        "LocalAuthorityCode": "414",
+        "LocalAuthorityBusinessID": "91837"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9098511,
+          53.4608215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1681899,
+        "BusinessName": "Urban Greens",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Kensington Arcade",
+        "AddressLine2": "123 Kensington High Street",
+        "AddressLine3": "LONDON",
+        "AddressLine4": "",
+        "PostCode": "",
+        "RatingValue": "5",
+        "RatingDate": "2024-02-07T00:00:00",
+        "LocalAuthorityName": "Kensington and Chelsea",
+        "LocalAuthorityCode": "520",
+        "LocalAuthorityBusinessID": "INSPF/23/335432"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.178176144742633,
+          51.5772839360501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1682156,
+        "BusinessName": "Greens Of Portlethen",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "1 Rowanbank Court",
+        "AddressLine3": "Cookston Road",
+        "AddressLine4": "Portlethen",
+        "PostCode": "AB12 4NW",
+        "RatingValue": "Improvement Required",
+        "RatingDate": "2023-12-05T00:00:00",
+        "LocalAuthorityName": "Aberdeenshire",
+        "LocalAuthorityCode": "761",
+        "LocalAuthorityBusinessID": "73843"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.13114,
+          57.063417
         ]
       }
     },
@@ -49779,6 +52629,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1684344,
+        "BusinessName": "Amys Super Greens",
+        "BusinessTypeID": 7839,
+        "AddressLine1": "46 The Haven",
+        "AddressLine2": "",
+        "AddressLine3": "Littlehampton",
+        "AddressLine4": "West Sussex",
+        "PostCode": "BN17 6NT",
+        "RatingValue": "5",
+        "RatingDate": "2024-03-28T00:00:00",
+        "LocalAuthorityName": "Arun",
+        "LocalAuthorityCode": "324",
+        "LocalAuthorityBusinessID": "9104604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5211167,
+          50.809246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1684574,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 1,
@@ -49798,6 +52673,31 @@
         "coordinates": [
           0.4719099,
           51.7336367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1684685,
+        "BusinessName": "Red and Greens Africana Food Store",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "33 Cheapside",
+        "AddressLine3": "Bradford",
+        "AddressLine4": "",
+        "PostCode": "BD1 4HR",
+        "RatingValue": "1",
+        "RatingDate": "2024-06-27T00:00:00",
+        "LocalAuthorityName": "Bradford",
+        "LocalAuthorityCode": "404",
+        "LocalAuthorityBusinessID": "280992"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7525779,
+          53.7956336
         ]
       }
     },
@@ -49923,6 +52823,31 @@
         "coordinates": [
           -0.0615104,
           51.5271059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1689104,
+        "BusinessName": "Greens of Lanark",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "30 Westport",
+        "AddressLine3": "Lanark",
+        "AddressLine4": "South Lanarkshire",
+        "PostCode": "ML11 9HE",
+        "RatingValue": "Awaiting Inspection",
+        "RatingDate": "1900-01-01T00:00:00",
+        "LocalAuthorityName": "South Lanarkshire",
+        "LocalAuthorityCode": "780",
+        "LocalAuthorityBusinessID": "90687"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7838088,
+          55.6750428
         ]
       }
     },
@@ -50248,6 +53173,31 @@
         "coordinates": [
           -4.0659591,
           55.6768108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1697915,
+        "BusinessName": "Greens Of Banchory",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "37 High Street",
+        "AddressLine3": "Banchory",
+        "AddressLine4": "Aberdeenshire",
+        "PostCode": "AB31 5TJ",
+        "RatingValue": "Improvement Required",
+        "RatingDate": "2024-07-24T00:00:00",
+        "LocalAuthorityName": "Aberdeenshire",
+        "LocalAuthorityCode": "761",
+        "LocalAuthorityBusinessID": "73820"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.502429,
+          57.051419
         ]
       }
     },
@@ -50623,6 +53573,31 @@
         "coordinates": [
           -4.2923305,
           55.8767199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1702944,
+        "BusinessName": "Greens and Grocers",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "Greens and Grocers",
+        "AddressLine2": "Unit 4 On Ground Floor",
+        "AddressLine3": "334-338 Essex Road",
+        "AddressLine4": "London",
+        "PostCode": "N1 3PB",
+        "RatingValue": "4",
+        "RatingDate": "2024-04-05T00:00:00",
+        "LocalAuthorityName": "Islington",
+        "LocalAuthorityCode": "519",
+        "LocalAuthorityBusinessID": "PI/000295841"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0901147,
+          51.5436004
         ]
       }
     },
@@ -51129,6 +54104,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1716097,
+        "BusinessName": "Greggs",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "Unit 1a",
+        "AddressLine2": "Colney Fields Shopping Park",
+        "AddressLine3": "Barnet Road",
+        "AddressLine4": "London Colney",
+        "PostCode": "AL2 1AB",
+        "RatingValue": "5",
+        "RatingDate": "2024-03-05T00:00:00",
+        "LocalAuthorityName": "St Albans City",
+        "LocalAuthorityCode": "160",
+        "LocalAuthorityBusinessID": "FR/202300141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2825275,
+          51.7163913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1716833,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 4613,
@@ -51229,6 +54229,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1718324,
+        "BusinessName": "Greens Of Braemar",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "16 Mar Road",
+        "AddressLine3": "Braemar",
+        "AddressLine4": "Aberdeenshire",
+        "PostCode": "AB35 5YL",
+        "RatingValue": "Improvement Required",
+        "RatingDate": "2024-05-30T00:00:00",
+        "LocalAuthorityName": "Aberdeenshire",
+        "LocalAuthorityCode": "761",
+        "LocalAuthorityBusinessID": "74031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.401831,
+          57.006227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1718346,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 7844,
@@ -51248,6 +54273,31 @@
         "coordinates": [
           -3.1989751,
           51.4813369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1718516,
+        "BusinessName": "GREENS OF ASHGROVE",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "32 Ashgrove Road",
+        "AddressLine3": "Aberdeen",
+        "AddressLine4": "Aberdeen City",
+        "PostCode": "AB25 3AD",
+        "RatingValue": "Pass",
+        "RatingDate": "2024-06-11T00:00:00",
+        "LocalAuthorityName": "Aberdeen City",
+        "LocalAuthorityCode": "760",
+        "LocalAuthorityBusinessID": "EHDC15582"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1171682,
+          57.1600023
         ]
       }
     },
@@ -51323,6 +54373,31 @@
         "coordinates": [
           -2.786029,
           53.420821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1721517,
+        "BusinessName": "Greggs(Lawnswood)",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "Asda Express",
+        "AddressLine2": "Lawnswood Service Station",
+        "AddressLine3": "Otley Road",
+        "AddressLine4": "Adel",
+        "PostCode": "LS16 8AA",
+        "RatingValue": "5",
+        "RatingDate": "2024-04-24T00:00:00",
+        "LocalAuthorityName": "Leeds",
+        "LocalAuthorityCode": "413",
+        "LocalAuthorityBusinessID": "24/00125/COMM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5922971,
+          53.8487037
         ]
       }
     },
@@ -51448,6 +54523,31 @@
         "coordinates": [
           -1.4712908,
           53.7726925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1727542,
+        "BusinessName": "Urban Greens",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "26 Copthall Avenue",
+        "AddressLine2": "London",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "EC2R 7DN",
+        "RatingValue": "5",
+        "RatingDate": "2024-08-27T00:00:00",
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "24/00393/COMM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.087105,
+          51.516572
         ]
       }
     },
@@ -51748,6 +54848,31 @@
         "coordinates": [
           -0.9870101,
           50.8492128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1735195,
+        "BusinessName": "Parkway Greens Grocery Askew",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "121 - 123 Askew Road",
+        "AddressLine2": "London",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "W12 9AS",
+        "RatingValue": "5",
+        "RatingDate": "2024-08-14T00:00:00",
+        "LocalAuthorityName": "Hammersmith and Fulham",
+        "LocalAuthorityCode": "513",
+        "LocalAuthorityBusinessID": "2024/00208/COMB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2427307,
+          51.5026954
         ]
       }
     },
@@ -52079,6 +55204,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1742487,
+        "BusinessName": "Asda Express Ryelands/Greggs/Subway",
+        "BusinessTypeID": 7840,
+        "AddressLine1": "Ryelands Service Station",
+        "AddressLine2": "Owen Road",
+        "AddressLine3": "Lancaster",
+        "AddressLine4": "Lancashire",
+        "PostCode": "LA1 2LL",
+        "RatingValue": "5",
+        "RatingDate": "2025-08-11T00:00:00",
+        "LocalAuthorityName": "Lancaster City",
+        "LocalAuthorityCode": "200",
+        "LocalAuthorityBusinessID": "74542"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.801363,
+          54.05817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1742818,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 4613,
@@ -52173,6 +55323,31 @@
         "coordinates": [
           -2.10817935,
           52.8062126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1744956,
+        "BusinessName": "Greggs@Fickle Mermaid",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "Foresters Way",
+        "AddressLine2": "Chapel-En-Le-Frith",
+        "AddressLine3": "High Peak",
+        "AddressLine4": "",
+        "PostCode": "SK23 0RB",
+        "RatingValue": "5",
+        "RatingDate": "2024-09-12T00:00:00",
+        "LocalAuthorityName": "High Peak",
+        "LocalAuthorityCode": "067",
+        "LocalAuthorityBusinessID": "121610"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.90901303291321,
+          53.3306045532227
         ]
       }
     },
@@ -53179,6 +56354,56 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1759178,
+        "BusinessName": "Greens Village",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "93A Marfitt Street",
+        "AddressLine2": "Leicester",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "LE4 6RP",
+        "RatingValue": "5",
+        "RatingDate": "2024-11-28T00:00:00",
+        "LocalAuthorityName": "Leicester City",
+        "LocalAuthorityCode": "878",
+        "LocalAuthorityBusinessID": "24/00602/CP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.114877,
+          52.656824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1759208,
+        "BusinessName": "Four Greens Community Trust",
+        "BusinessTypeID": 7841,
+        "AddressLine1": "",
+        "AddressLine2": "15 Whitleigh Green",
+        "AddressLine3": "Plymouth",
+        "AddressLine4": "Plymouth",
+        "PostCode": "PL5 4DD",
+        "RatingValue": "3",
+        "RatingDate": "2024-09-04T00:00:00",
+        "LocalAuthorityName": "Plymouth City",
+        "LocalAuthorityCode": "891",
+        "LocalAuthorityBusinessID": "256326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1526187,
+          50.4187675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1759324,
         "BusinessName": "Greggs Farnborough Blackwater SP",
         "BusinessTypeID": 7844,
@@ -53298,6 +56523,31 @@
         "coordinates": [
           -0.189674,
           54.083347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1761981,
+        "BusinessName": "Greens of Kilbarchan",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "20 High Barholm",
+        "AddressLine3": "Kilbarchan",
+        "AddressLine4": "Johnstone",
+        "PostCode": "PA10 2EQ",
+        "RatingValue": "Pass",
+        "RatingDate": "2024-10-22T00:00:00",
+        "LocalAuthorityName": "Renfrewshire",
+        "LocalAuthorityCode": "788",
+        "LocalAuthorityBusinessID": "85141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5482983,
+          55.8339582
         ]
       }
     },
@@ -53654,6 +56904,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1768961,
+        "BusinessName": "River Greens",
+        "BusinessTypeID": 7840,
+        "AddressLine1": "295 King Street",
+        "AddressLine2": "London",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "W6 9NH",
+        "RatingValue": "5",
+        "RatingDate": "2024-12-09T00:00:00",
+        "LocalAuthorityName": "Hammersmith and Fulham",
+        "LocalAuthorityCode": "513",
+        "LocalAuthorityBusinessID": "2024/00340/COMB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.239967,
+          51.4932747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1769497,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 4613,
@@ -53829,6 +57104,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1771331,
+        "BusinessName": "Greens of Blairgowrie",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "Coupar Angus Road",
+        "AddressLine3": "Blairgowrie",
+        "AddressLine4": "",
+        "PostCode": "PH10 6JR",
+        "RatingValue": "Pass",
+        "RatingDate": "2024-11-26T00:00:00",
+        "LocalAuthorityName": "Perth and Kinross",
+        "LocalAuthorityCode": "786",
+        "LocalAuthorityBusinessID": "R065D2COUP/1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.33459362,
+          56.58625423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1771409,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 4613,
@@ -53923,6 +57223,31 @@
         "coordinates": [
           -1.31941699981689,
           53.4437103271484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1772044,
+        "BusinessName": "Greens Sandwiches",
+        "BusinessTypeID": 1,
+        "AddressLine1": "",
+        "AddressLine2": "61 Gladstone Road",
+        "AddressLine3": "Farnworth",
+        "AddressLine4": "Bolton",
+        "PostCode": "BL4 7EL",
+        "RatingValue": "5",
+        "RatingDate": "2023-10-04T00:00:00",
+        "LocalAuthorityName": "Bolton",
+        "LocalAuthorityCode": "403",
+        "LocalAuthorityBusinessID": "162887"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.402696,
+          53.550995
         ]
       }
     },
@@ -54129,6 +57454,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1777849,
+        "BusinessName": "Greens Nurseries",
+        "BusinessTypeID": 7846,
+        "AddressLine1": "New Fleenas Farm",
+        "AddressLine2": "",
+        "AddressLine3": "Nairn",
+        "AddressLine4": "Highland",
+        "PostCode": "IV12 5QN",
+        "RatingValue": "Awaiting Inspection",
+        "RatingDate": "1900-01-01T00:00:00",
+        "LocalAuthorityName": "Highland",
+        "LocalAuthorityCode": "777",
+        "LocalAuthorityBusinessID": "62603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8280151,
+          57.5419709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1779174,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -54248,6 +57598,31 @@
         "coordinates": [
           -1.693748,
           55.398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1782777,
+        "BusinessName": "Greens Bar And Kitchen",
+        "BusinessTypeID": 1,
+        "AddressLine1": "4 Jewry Street",
+        "AddressLine2": "Winchester",
+        "AddressLine3": "Hampshire",
+        "AddressLine4": "",
+        "PostCode": "SO23 8RZ",
+        "RatingValue": "5",
+        "RatingDate": "2025-01-16T00:00:00",
+        "LocalAuthorityName": "Winchester City",
+        "LocalAuthorityCode": "143",
+        "LocalAuthorityBusinessID": "24/00252/MIXED"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.316364,
+          51.063872
         ]
       }
     },
@@ -55579,6 +58954,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1805030,
+        "BusinessName": "GORMANS GREENS LTD",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "78 Hampstead High Street",
+        "AddressLine3": "",
+        "AddressLine4": "London",
+        "PostCode": "NW3 1RE",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "205632"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1766429,
+          51.5555796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1805902,
         "BusinessName": "Greggs MFG Nunnery Park",
         "BusinessTypeID": 7844,
@@ -55898,6 +59298,31 @@
         "coordinates": [
           -3.806495,
           56.0363337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1813978,
+        "BusinessName": "Greens Coffee",
+        "BusinessTypeID": 1,
+        "AddressLine1": "5 High Street",
+        "AddressLine2": "",
+        "AddressLine3": "Cambourne",
+        "AddressLine4": "Cambridgeshire",
+        "PostCode": "CB23 6JX",
+        "RatingValue": "5",
+        "RatingDate": "2025-04-03T00:00:00",
+        "LocalAuthorityName": "South Cambridgeshire",
+        "LocalAuthorityCode": "032",
+        "LocalAuthorityBusinessID": "9213786"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0686186,
+          52.2184306
         ]
       }
     },
@@ -56754,6 +60179,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1823058,
+        "BusinessName": "Parkway Greens Richmond Road",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "377 Richmond Road",
+        "AddressLine2": "Twickenham",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "TW1 2EF",
+        "RatingValue": "5",
+        "RatingDate": "2025-05-22T00:00:00",
+        "LocalAuthorityName": "Richmond-Upon-Thames",
+        "LocalAuthorityCode": "527",
+        "LocalAuthorityBusinessID": "PI/000491908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3107405,
+          51.455494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1823672,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 1,
@@ -57029,6 +60479,56 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1830161,
+        "BusinessName": "Greens n Grains, Maki Kazzo, N'Zalad, Sensei Burger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "",
+        "AddressLine2": "37 Brick Lane",
+        "AddressLine3": "London",
+        "AddressLine4": "",
+        "PostCode": "E1 6PU",
+        "RatingValue": "2",
+        "RatingDate": "2025-10-06T00:00:00",
+        "LocalAuthorityName": "Tower Hamlets",
+        "LocalAuthorityCode": "530",
+        "LocalAuthorityBusinessID": "216883"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.071429,
+          51.51815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1831565,
+        "BusinessName": "Greens Of Shettleston",
+        "BusinessTypeID": 7840,
+        "AddressLine1": "",
+        "AddressLine2": "1192 Shettleston Road",
+        "AddressLine3": "Glasgow",
+        "AddressLine4": "",
+        "PostCode": "G32 7PG",
+        "RatingValue": "Pass",
+        "RatingDate": "2025-05-07T00:00:00",
+        "LocalAuthorityName": "Glasgow City",
+        "LocalAuthorityCode": "776",
+        "LocalAuthorityBusinessID": "25/00471/COM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.165839,
+          55.851401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1831631,
         "BusinessName": "Greggs",
         "BusinessTypeID": 7841,
@@ -57098,6 +60598,31 @@
         "coordinates": [
           0.4573409,
           51.5701116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1834226,
+        "BusinessName": "Palm Greens",
+        "BusinessTypeID": 1,
+        "AddressLine1": "",
+        "AddressLine2": "114 Cheshire Street",
+        "AddressLine3": "London",
+        "AddressLine4": "",
+        "PostCode": "E2 6EJ",
+        "RatingValue": "5",
+        "RatingDate": "2025-05-21T00:00:00",
+        "LocalAuthorityName": "Tower Hamlets",
+        "LocalAuthorityCode": "530",
+        "LocalAuthorityBusinessID": "216460"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0666425,
+          51.5237105
         ]
       }
     },
@@ -57329,6 +60854,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1838353,
+        "BusinessName": "Lean Greens Ltd",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "58 Low Friar Street",
+        "AddressLine2": "",
+        "AddressLine3": "Newcastle Upon Tyne",
+        "AddressLine4": "",
+        "PostCode": "NE1 5UD",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Newcastle Upon Tyne",
+        "LocalAuthorityCode": "416",
+        "LocalAuthorityBusinessID": "73908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6188443,
+          54.9711437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1838424,
         "BusinessName": "Greggs Tottenham @",
         "BusinessTypeID": 7839,
@@ -57462,8 +61012,8 @@
         "AddressLine3": "",
         "AddressLine4": "North Carlton",
         "PostCode": "LN1 2ZR",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-09-16T00:00:00",
         "LocalAuthorityName": "West Lindsey",
         "LocalAuthorityCode": "225",
         "LocalAuthorityBusinessID": "148733"
@@ -57523,6 +61073,56 @@
         "coordinates": [
           -1.369821,
           52.541728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1844297,
+        "BusinessName": "Greens on the Go",
+        "BusinessTypeID": 1,
+        "AddressLine1": "144 Morrison Street",
+        "AddressLine2": "Edinburgh",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "EH3 8EX",
+        "RatingValue": "Improvement Required",
+        "RatingDate": "2025-09-22T00:00:00",
+        "LocalAuthorityName": "Edinburgh (City of)",
+        "LocalAuthorityCode": "773",
+        "LocalAuthorityBusinessID": "211821"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.208566,
+          55.946118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1844538,
+        "BusinessName": "Greens and Beans",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Unit 2",
+        "AddressLine2": "19 Museum Street",
+        "AddressLine3": "",
+        "AddressLine4": "London",
+        "PostCode": "WC1A 1JN",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Camden",
+        "LocalAuthorityCode": "506",
+        "LocalAuthorityBusinessID": "206288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1253877,
+          51.5173624
         ]
       }
     },
@@ -57779,6 +61379,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1848468,
+        "BusinessName": "Grains & Greens, Burrito Fiesta, Roots & Greens, Fitness Greens",
+        "BusinessTypeID": 7841,
+        "AddressLine1": "113 Railway Arches",
+        "AddressLine2": "Chapman Street",
+        "AddressLine3": "London",
+        "AddressLine4": "",
+        "PostCode": "E1 2PH",
+        "RatingValue": "4",
+        "RatingDate": "2025-07-11T00:00:00",
+        "LocalAuthorityName": "Tower Hamlets",
+        "LocalAuthorityCode": "530",
+        "LocalAuthorityBusinessID": "217343"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0609224,
+          51.5115481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1849707,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -58004,6 +61629,56 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1854432,
+        "BusinessName": "Rontec Crawley Greggs",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "Rontec Crawley Service Station",
+        "AddressLine2": "Crawley Avenue",
+        "AddressLine3": "Southgate",
+        "AddressLine4": "Crawley",
+        "PostCode": "RH10 8BA",
+        "RatingValue": "5",
+        "RatingDate": "2025-10-27T00:00:00",
+        "LocalAuthorityName": "Crawley",
+        "LocalAuthorityCode": "326",
+        "LocalAuthorityBusinessID": "25/00102/COMM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2059401,
+          51.1097893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1855373,
+        "BusinessName": "Greens of Larbert",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "2 Glenbervie Crescent",
+        "AddressLine3": "",
+        "AddressLine4": "Larbert",
+        "PostCode": "FK5 4NT",
+        "RatingValue": "Awaiting Inspection",
+        "RatingDate": "1900-01-01T00:00:00",
+        "LocalAuthorityName": "Falkirk",
+        "LocalAuthorityCode": "774",
+        "LocalAuthorityBusinessID": "PI/000112971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.83609,
+          56.027823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1855731,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 4613,
@@ -58031,7 +61706,7 @@
       "properties": {
         "FHRSID": 1856312,
         "BusinessName": "Greggs PLC",
-        "BusinessTypeID": 4613,
+        "BusinessTypeID": 7844,
         "AddressLine1": "Unit 2 Wycombe Trade Park",
         "AddressLine2": "Lincoln Road",
         "AddressLine3": "Cressex Business Park",
@@ -58223,6 +61898,56 @@
         "coordinates": [
           -1.4657834,
           52.9032934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1859588,
+        "BusinessName": "Fregos",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "70-72 Shieldmuir Street",
+        "AddressLine2": "Craigneuk",
+        "AddressLine3": "Wishaw",
+        "AddressLine4": "",
+        "PostCode": "ML2 7TH",
+        "RatingValue": "Awaiting Inspection",
+        "RatingDate": "1900-01-01T00:00:00",
+        "LocalAuthorityName": "North Lanarkshire",
+        "LocalAuthorityCode": "779",
+        "LocalAuthorityBusinessID": "C24HNL70-7/2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9559561,
+          55.7799558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1859593,
+        "BusinessName": "Meat and Greens",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "213-215 Duke Street",
+        "AddressLine3": "Park Hill",
+        "AddressLine4": "Sheffield",
+        "PostCode": "S2 5QP",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Sheffield",
+        "LocalAuthorityCode": "425",
+        "LocalAuthorityBusinessID": "39312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4545432,
+          53.3785975
         ]
       }
     },
@@ -58812,8 +62537,8 @@
         "AddressLine3": "Princes Avenue",
         "AddressLine4": "Walderslade",
         "PostCode": "ME5 7PQ",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-10-23T00:00:00",
         "LocalAuthorityName": "Medway",
         "LocalAuthorityCode": "896",
         "LocalAuthorityBusinessID": "25/00332/CP"
@@ -58912,8 +62637,8 @@
         "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "EH3 9BG",
-        "RatingValue": "Awaiting Inspection",
-        "RatingDate": "2025-09-02T00:00:00",
+        "RatingValue": "Pass",
+        "RatingDate": "2025-11-04T00:00:00",
         "LocalAuthorityName": "Edinburgh (City of)",
         "LocalAuthorityCode": "773",
         "LocalAuthorityBusinessID": "212585"
@@ -58998,6 +62723,31 @@
         "coordinates": [
           -3.0693233,
           53.2236622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1867061,
+        "BusinessName": "Greens Retail Ltd",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "265 Mearns Road",
+        "AddressLine2": "Newton Mearns",
+        "AddressLine3": "",
+        "AddressLine4": "East Renfrewshire",
+        "PostCode": "G77 5LU",
+        "RatingValue": "Pass",
+        "RatingDate": "2025-10-14T00:00:00",
+        "LocalAuthorityName": "East Renfrewshire",
+        "LocalAuthorityCode": "787",
+        "LocalAuthorityBusinessID": "2025/2836/COMM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3138149,
+          55.7750311
         ]
       }
     },
@@ -59098,6 +62848,31 @@
         "coordinates": [
           0.533405,
           52.338397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1868034,
+        "BusinessName": "Greens Greengrocer",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "14 Albert Parade Green Street",
+        "AddressLine2": "Eastbourne",
+        "AddressLine3": "East Sussex",
+        "AddressLine4": "",
+        "PostCode": "BN21 1SD",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Eastbourne",
+        "LocalAuthorityCode": "102",
+        "LocalAuthorityBusinessID": "9106759"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2569028,
+          50.7772688
         ]
       }
     },
@@ -59529,8 +63304,33 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1873448,
+        "BusinessName": "Greens Cafe",
+        "BusinessTypeID": 1,
+        "AddressLine1": "5 New Inn Hall Street",
+        "AddressLine2": "Oxford",
+        "AddressLine3": "Oxfordshire",
+        "AddressLine4": "",
+        "PostCode": "OX1 2DH",
+        "RatingValue": "5",
+        "RatingDate": "2025-09-18T00:00:00",
+        "LocalAuthorityName": "Oxford City",
+        "LocalAuthorityCode": "269",
+        "LocalAuthorityBusinessID": "25/00147/COM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2602216,
+          51.75199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1873795,
-        "BusinessName": "Greggs PLC",
+        "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
         "AddressLine1": "7 - 9 Broad Street",
         "AddressLine2": "March",
@@ -59573,6 +63373,31 @@
         "coordinates": [
           0.3286316,
           51.6307951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1874087,
+        "BusinessName": "Vittoria Greens",
+        "BusinessTypeID": 7841,
+        "AddressLine1": "32 Crescent Gardens",
+        "AddressLine2": "Newtown",
+        "AddressLine3": "Powys",
+        "AddressLine4": "",
+        "PostCode": "SY16 2HQ",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Powys",
+        "LocalAuthorityCode": "566",
+        "LocalAuthorityBusinessID": "PI/000017879"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3196955,
+          52.5191106
         ]
       }
     },
@@ -59937,8 +63762,8 @@
         "AddressLine3": "East Riding of Yorkshire",
         "AddressLine4": "",
         "PostCode": "HU10 6RJ",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-10-29T00:00:00",
         "LocalAuthorityName": "East Riding of Yorkshire",
         "LocalAuthorityCode": "863",
         "LocalAuthorityBusinessID": "242368"
@@ -60229,6 +64054,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1885274,
+        "BusinessName": "Greggs Plc",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "59 Great Western Outlet Village",
+        "AddressLine2": "1 - 144 Kemble Drive",
+        "AddressLine3": "Rodbourne",
+        "AddressLine4": "Swindon",
+        "PostCode": "SN2 2DZ",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Swindon",
+        "LocalAuthorityCode": "881",
+        "LocalAuthorityBusinessID": "25/00297/FOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.798116,
+          51.562597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1885395,
         "BusinessName": "Greggs Plc",
         "BusinessTypeID": 4613,
@@ -60273,6 +64123,106 @@
         "coordinates": [
           -1.4655663,
           54.9956726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1886315,
+        "BusinessName": "Greggs PLC",
+        "BusinessTypeID": 1,
+        "AddressLine1": "5 Castle Quay",
+        "AddressLine2": "",
+        "AddressLine3": "Banbury",
+        "AddressLine4": "Oxfordshire",
+        "PostCode": "OX16 5UH",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Cherwell",
+        "LocalAuthorityCode": "268",
+        "LocalAuthorityBusinessID": "77631"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3354908,
+          52.0627685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1887659,
+        "BusinessName": "Epping Greggs",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Thornwood Filling Station",
+        "AddressLine2": "Epping",
+        "AddressLine3": "Essex",
+        "AddressLine4": "",
+        "PostCode": "CM16 6LZ",
+        "RatingValue": "5",
+        "RatingDate": "2025-06-23T00:00:00",
+        "LocalAuthorityName": "Epping Forest",
+        "LocalAuthorityCode": "115",
+        "LocalAuthorityBusinessID": "PI/000146268"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.12398199737072,
+          51.73046875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1888776,
+        "BusinessName": "Greggs PLC",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "Unit A2 Pottery Road Kingsteignton",
+        "AddressLine2": "",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "TQ12 3BN",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Teignbridge",
+        "LocalAuthorityCode": "078",
+        "LocalAuthorityBusinessID": "25/05293/MIXED"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5990155,
+          50.541778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1888969,
+        "BusinessName": "Greggs PLC",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "Sevenoaks Railway Station",
+        "AddressLine2": "London Road",
+        "AddressLine3": "Sevenoaks",
+        "AddressLine4": "Kent",
+        "PostCode": "TN13 1DP",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Sevenoaks",
+        "LocalAuthorityCode": "187",
+        "LocalAuthorityBusinessID": "25/00223/MIXED/S"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1821882,
+          51.2769522
         ]
       }
     }

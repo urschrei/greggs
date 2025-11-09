@@ -304,6 +304,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 128341,
+        "BusinessName": "Pret-a-Manger",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "",
+        "AddressLine2": "38 Sauchiehall Street",
+        "AddressLine3": "Glasgow",
+        "AddressLine4": "",
+        "PostCode": "G2 3AH",
+        "RatingValue": "Pass",
+        "RatingDate": "2009-06-26T00:00:00",
+        "LocalAuthorityName": "Glasgow City",
+        "LocalAuthorityCode": "776",
+        "LocalAuthorityBusinessID": "58270/0038/0/000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.254942,
+          55.864665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 190221,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -1787,8 +1812,8 @@
         "AddressLine3": "LONDON",
         "AddressLine4": "",
         "PostCode": "SW1V 1JZ",
-        "RatingValue": "AwaitingPublication",
-        "RatingDate": "1900-01-01T00:00:00",
+        "RatingValue": "4",
+        "RatingDate": "2025-09-29T00:00:00",
         "LocalAuthorityName": "Westminster",
         "LocalAuthorityCode": "533",
         "LocalAuthorityBusinessID": "08/00108/COMM"
@@ -2279,6 +2304,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 427726,
+        "BusinessName": "Pret-A-Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "UNIT G15 WEST ONE SHOPPING CENTRE 381 OXFORD STREET",
+        "AddressLine2": "",
+        "AddressLine3": "LONDON",
+        "AddressLine4": "",
+        "PostCode": "W1C 2JS",
+        "RatingValue": "5",
+        "RatingDate": "2024-04-27T00:00:00",
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "00159/0381/0/019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1495888,
+          51.5137898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 427730,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -2423,6 +2473,31 @@
         "coordinates": [
           -0.1474214,
           51.5167682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 427789,
+        "BusinessName": "Pret-A-Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "BASEMENT AND GROUND FLOOR 18 HANOVER STREET",
+        "AddressLine2": "",
+        "AddressLine3": "LONDON",
+        "AddressLine4": "",
+        "PostCode": "W1S 1YN",
+        "RatingValue": "5",
+        "RatingDate": "2024-04-27T00:00:00",
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "00435/0018/0/001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1418809,
+          51.513722
         ]
       }
     },
@@ -3207,13 +3282,13 @@
         "FHRSID": 470857,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 7844,
-        "AddressLine1": "Unit 13 Ground Floor Western Concourse Kings Cross Railway Station",
+        "AddressLine1": "Unit CG08 Ground Floor Western Concourse Kings Cross Railway Station",
         "AddressLine2": "Euston Road",
         "AddressLine3": "",
         "AddressLine4": "",
-        "PostCode": "N1 9AP",
+        "PostCode": "N1C 9AP",
         "RatingValue": "5",
-        "RatingDate": "2021-09-02T00:00:00",
+        "RatingDate": "2025-10-18T00:00:00",
         "LocalAuthorityName": "Camden",
         "LocalAuthorityCode": "506",
         "LocalAuthorityBusinessID": "73982"
@@ -3854,31 +3929,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 610996,
-        "BusinessName": "Pret a Manger",
-        "BusinessTypeID": 7844,
-        "AddressLine1": "Unit 1 (Kitchen) Kings Cross And St Pancras Underground Station",
-        "AddressLine2": "Euston Road",
-        "AddressLine3": "",
-        "AddressLine4": "",
-        "PostCode": "N1 9AL",
-        "RatingValue": "5",
-        "RatingDate": "2018-06-26T00:00:00",
-        "LocalAuthorityName": "Camden",
-        "LocalAuthorityCode": "506",
-        "LocalAuthorityBusinessID": "76021"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.130695000126838,
-          51.5273950001157
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 617482,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 7844,
@@ -4388,7 +4438,7 @@
         "AddressLine4": "",
         "PostCode": "ME14 1QG",
         "RatingValue": "5",
-        "RatingDate": "2023-10-11T00:00:00",
+        "RatingDate": "2025-10-19T00:00:00",
         "LocalAuthorityName": "Maidstone",
         "LocalAuthorityCode": "185",
         "LocalAuthorityBusinessID": "PI/000083736/MA"
@@ -6238,7 +6288,7 @@
         "AddressLine4": "London",
         "PostCode": "N1 9AP",
         "RatingValue": "5",
-        "RatingDate": "2021-09-02T00:00:00",
+        "RatingDate": "2025-10-18T00:00:00",
         "LocalAuthorityName": "Camden",
         "LocalAuthorityCode": "506",
         "LocalAuthorityBusinessID": "195031"
@@ -6248,31 +6298,6 @@
         "coordinates": [
           -0.1234949,
           51.5307943
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1063504,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 7844,
-        "AddressLine1": "Unit 20 \"Kiosk\" To The Front Of Kings Cross Station Kings Cross Square",
-        "AddressLine2": "Euston Road",
-        "AddressLine3": "",
-        "AddressLine4": "London",
-        "PostCode": "N1C 4AL",
-        "RatingValue": "5",
-        "RatingDate": "2018-06-26T00:00:00",
-        "LocalAuthorityName": "Camden",
-        "LocalAuthorityCode": "506",
-        "LocalAuthorityBusinessID": "195078"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.123873002827168,
-          51.5303764343262
         ]
       }
     },
@@ -6813,7 +6838,7 @@
         "AddressLine4": "Coventry",
         "PostCode": "CV4 7ES",
         "RatingValue": "5",
-        "RatingDate": "2022-05-23T00:00:00",
+        "RatingDate": "2025-10-29T00:00:00",
         "LocalAuthorityName": "Coventry",
         "LocalAuthorityCode": "407",
         "LocalAuthorityBusinessID": "PI/000217333"
@@ -6937,8 +6962,8 @@
         "AddressLine3": "LONDON",
         "AddressLine4": "",
         "PostCode": "SW1Y 6JP",
-        "RatingValue": "5",
-        "RatingDate": "2024-09-09T00:00:00",
+        "RatingValue": "4",
+        "RatingDate": "2025-09-29T00:00:00",
         "LocalAuthorityName": "Westminster",
         "LocalAuthorityCode": "533",
         "LocalAuthorityBusinessID": "19/00589/COMM"
@@ -7505,15 +7530,15 @@
       "type": "Feature",
       "properties": {
         "FHRSID": 1427043,
-        "BusinessName": "Trading as BP, Londis & Pret a Manger",
+        "BusinessName": "BP, Londis & Pret a Manger",
         "BusinessTypeID": 1,
         "AddressLine1": "Victoria Road Service Station",
         "AddressLine2": "Victoria Road",
         "AddressLine3": "",
         "AddressLine4": "Ruislip",
         "PostCode": "HA4 0SA",
-        "RatingValue": "5",
-        "RatingDate": "2023-06-02T00:00:00",
+        "RatingValue": "4",
+        "RatingDate": "2025-10-02T00:00:00",
         "LocalAuthorityName": "Hillingdon",
         "LocalAuthorityCode": "517",
         "LocalAuthorityBusinessID": "150083"
@@ -9479,6 +9504,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1718214,
+        "BusinessName": "Pret-A-Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "127 High Street",
+        "AddressLine2": "Sevenoaks",
+        "AddressLine3": "Kent",
+        "AddressLine4": "",
+        "PostCode": "TN13 1UP",
+        "RatingValue": "5",
+        "RatingDate": "2024-08-02T00:00:00",
+        "LocalAuthorityName": "Sevenoaks",
+        "LocalAuthorityCode": "187",
+        "LocalAuthorityBusinessID": "24/00063/MIXED/S"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1923955,
+          51.2718064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1719938,
         "BusinessName": "Morrisons Daily Redditch - Pret A Manger.",
         "BusinessTypeID": 4613,
@@ -10123,31 +10173,6 @@
         "coordinates": [
           -0.224534,
           51.576185
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1775902,
-        "BusinessName": "Pret A Manger Ealing",
-        "BusinessTypeID": 1,
-        "AddressLine1": "45 High Street",
-        "AddressLine2": "Ealing",
-        "AddressLine3": "",
-        "AddressLine4": "",
-        "PostCode": "W5 5DB",
-        "RatingValue": "5",
-        "RatingDate": "2025-02-12T00:00:00",
-        "LocalAuthorityName": "Ealing",
-        "LocalAuthorityCode": "509",
-        "LocalAuthorityBusinessID": "CP05121"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.305094,
-          51.51211
         ]
       }
     },
