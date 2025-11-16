@@ -1363,7 +1363,7 @@
         "AddressLine4": "",
         "PostCode": "LS1 2JP",
         "RatingValue": "5",
-        "RatingDate": "2020-02-17T00:00:00",
+        "RatingDate": "2025-11-11T00:00:00",
         "LocalAuthorityName": "Leeds",
         "LocalAuthorityCode": "413",
         "LocalAuthorityBusinessID": "00005141"
@@ -1538,7 +1538,7 @@
         "AddressLine4": "London",
         "PostCode": "W6 9YD",
         "RatingValue": "5",
-        "RatingDate": "2023-11-11T00:00:00",
+        "RatingDate": "2025-10-28T00:00:00",
         "LocalAuthorityName": "Hammersmith and Fulham",
         "LocalAuthorityCode": "513",
         "LocalAuthorityBusinessID": "2007/00178/COMB"
@@ -4837,8 +4837,8 @@
         "AddressLine3": "LONDON",
         "AddressLine4": "",
         "PostCode": "NW8 6PG",
-        "RatingValue": "5",
-        "RatingDate": "2023-08-30T00:00:00",
+        "RatingValue": "4",
+        "RatingDate": "2025-10-10T00:00:00",
         "LocalAuthorityName": "Westminster",
         "LocalAuthorityCode": "533",
         "LocalAuthorityBusinessID": "04/00065/COMM"
@@ -9163,7 +9163,7 @@
         "AddressLine4": "",
         "PostCode": "N14 5BU",
         "RatingValue": "5",
-        "RatingDate": "2024-01-09T00:00:00",
+        "RatingDate": "2025-11-02T00:00:00",
         "LocalAuthorityName": "Enfield",
         "LocalAuthorityCode": "510",
         "LocalAuthorityBusinessID": "PI/000193725"
