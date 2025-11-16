@@ -26,9 +26,10 @@
     "@turf/nearest-point": "^7.2.0",
     "bootstrap": "^5.3.8",
     "jquery": "^3.7.1",
-    "mapbox-gl": "^3.16.0"
+    "maplibre-gl": "^5.0.0"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.22",
     "esbuild": "^0.27.0",
     "esbuild-plugin-browserslist": "^2.0.0",
     "esbuild-plugin-eslint": "^0.3.12",
