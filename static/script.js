@@ -14,9 +14,6 @@ import {
     pret_heat
 } from './layers.js';
 
-import jQuery from 'jquery';
-var $ = jQuery;
-
 const options = {
   weekday: 'long',
   year: 'numeric',
@@ -79,7 +76,7 @@ map.on('load', function() {
     if ("geolocation" in navigator) {
         // do nothing
     } else {
-        $('#locate').fadeOut(500);
+        document.getElementById('locate').style.display = 'none';
     }
 });
 
@@ -126,13 +123,14 @@ map.on('load', function() {
     });
 })
 
-$("#lookup").submit(function(event) {
+document.getElementById('lookup').addEventListener('submit', function(event) {
     event.preventDefault();
-    var pc = $("input").first().val();
-    $("input").first().val("");
-    $.getJSON("https://api.postcodes.io/postcodes/" + pc)
-        .done(function(data) {
-            $("#inputPostcode").removeClass("is-invalid");
+    var pc = document.querySelector('input').value;
+    document.querySelector('input').value = "";
+    fetch("https://api.postcodes.io/postcodes/" + pc)
+        .then(response => response.json())
+        .then(function(data) {
+            document.getElementById('inputPostcode').classList.remove('is-invalid');
             var p = point([data['result']['longitude'], data['result']['latitude']]);
             var nearest = nearestPoint(p, gdata[active_chain]);
             map.flyTo({
@@ -141,13 +139,13 @@ $("#lookup").submit(function(event) {
                 essential: true
             });
         })
-        .fail(function() {
-            $(".invalid-feedback").text("Enter a valid UK Post Code");
-            $("#inputPostcode").addClass("is-invalid");
+        .catch(function() {
+            document.querySelector('.invalid-feedback').textContent = "Enter a valid UK Post Code";
+            document.getElementById('inputPostcode').classList.add('is-invalid');
         });
 });
 
-$("#switch").click(function() {
+document.getElementById('switch').addEventListener('click', function() {
     if (active_chain == "greggs") {
         active_chain = "pret";
         map
@@ -155,11 +153,11 @@ $("#switch").click(function() {
             .setLayoutProperty('greggs_heat', 'visibility', 'none')
             .setLayoutProperty('pret_points', 'visibility', 'visible')
             .setLayoutProperty('pret_heat', 'visibility', 'visible');
-        $('#pcbutton')
-            .text("Nearest Pret")
-            .removeClass("greggs")
-            .addClass("pret");
-        $('#switch').text("Switch to Greggs");
+        const pcbutton = document.getElementById('pcbutton');
+        pcbutton.textContent = "Nearest Pret";
+        pcbutton.classList.remove("greggs");
+        pcbutton.classList.add("pret");
+        document.getElementById('switch').textContent = "Switch to Greggs";
     } else {
         active_chain = "greggs";
         map
@@ -167,11 +165,11 @@ $("#switch").click(function() {
             .setLayoutProperty('pret_heat', 'visibility', 'none')
             .setLayoutProperty('greggs_points', 'visibility', 'visible')
             .setLayoutProperty('greggs_heat', 'visibility', 'visible');
-        $('#pcbutton')
-            .text("Nearest Greggs")
-            .removeClass("pret")
-            .addClass("greggs");
-        $('#switch').text("Switch to Pret");
+        const pcbutton = document.getElementById('pcbutton');
+        pcbutton.textContent = "Nearest Greggs";
+        pcbutton.classList.remove("pret");
+        pcbutton.classList.add("greggs");
+        document.getElementById('switch').textContent = "Switch to Pret";
     }
 });
 
@@ -188,11 +186,11 @@ function glSuccess(position) {
 
 // If we can't geolocate for some reason
 function glError() {
-    $("#inputPostcode").addClass("is-invalid");
-    $(".invalid-feedback").text("Couldn't geolocate you!");
+    document.getElementById('inputPostcode').classList.add('is-invalid');
+    document.querySelector('.invalid-feedback').textContent = "Couldn't geolocate you!";
 }
 
-$("#locate").click(function() {
+document.getElementById('locate').addEventListener('click', function() {
     navigator.geolocation.getCurrentPosition(glSuccess, glError, {
         enableHighAccuracy: true,
         timeout: 2500
