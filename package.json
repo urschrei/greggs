@@ -22,18 +22,18 @@
   "homepage": "",
   "dependencies": {
     "@popperjs/core": "^2.11.8",
-    "@turf/helpers": "^6.5.0",
-    "@turf/nearest-point": "^6.5.0",
-    "bootstrap": "^5.3.0",
-    "jquery": "^3.5.0",
-    "mapbox-gl": "^3.9.2"
+    "@turf/helpers": "^7.2.0",
+    "@turf/nearest-point": "^7.2.0",
+    "bootstrap": "^5.3.8",
+    "jquery": "^3.7.1",
+    "mapbox-gl": "^3.16.0"
   },
   "devDependencies": {
-    "esbuild": "^0.25.0",
-    "esbuild-plugin-browserslist": "^0.16.0",
+    "esbuild": "^0.27.0",
+    "esbuild-plugin-browserslist": "^2.0.0",
     "esbuild-plugin-eslint": "^0.3.12",
     "esbuild-sass-plugin": "^3.3.1",
-    "eslint": "^9.17.0",
-    "postcss": "^8.4.49"
+    "eslint": "^9.39.1",
+    "postcss": "^8.5.6"
   }
 }
