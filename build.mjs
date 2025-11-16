@@ -27,9 +27,6 @@ await esbuild.build({
               return css;
           },
       }),
-      esbuildPluginBrowserslist(browserslist('>0.2%, not dead, not chrome < 51, not safari < 10, not android < 5, not ie < 12'), {
-          printUnknownTargets: false,
-      }),
   ],
   loader: {
     '.woff2': 'dataurl',

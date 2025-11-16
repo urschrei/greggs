@@ -1,4 +1,4 @@
-import mapboxgl from 'mapbox-gl';
+import maplibregl from 'maplibre-gl';
 import nearestPoint from '@turf/nearest-point'
 import {
     point,
@@ -24,10 +24,9 @@ const options = {
   day: 'numeric',
 };
 
-mapboxgl.accessToken = 'pk.eyJ1IjoidXJzY2hyZWkiLCJhIjoiY2pubHJsaGZjMWl1dzNrbzM3eDBuNzN3eiJ9.5xEWTiavcSRbv7LYZoAmUg';
-const map = new mapboxgl.Map({
+const map = new maplibregl.Map({
     container: 'map',
-    style: 'mapbox://styles/mapbox/light-v11',
+    style: 'https://tiles.openfreemap.org/styles/liberty',
     zoom: 5.205985389161131,
     center: {
         lng: -3.8,
@@ -66,7 +65,7 @@ async function getBranches(m) {
                             "data": data
                         })
                         .addLayer(dataSources[item]["p_layer"])
-                        .addLayer(dataSources[item]["h_layer"], "waterway-label");
+                        .addLayer(dataSources[item]["h_layer"]);
                     // Assign our FeatureCollection to an empty global variable so we can use it elsewhere
                     gdata[item] = featureCollection(data['features']);
                 })
@@ -110,7 +109,7 @@ map.on('load', function() {
             </div>
           </div>
         `;
-        new mapboxgl.Popup()
+        new maplibregl.Popup()
             .setLngLat(coordinates)
             .setHTML(popupContent)
             .addTo(map);
