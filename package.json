@@ -25,7 +25,6 @@
     "@turf/helpers": "^7.2.0",
     "@turf/nearest-point": "^7.2.0",
     "bootstrap": "^5.3.8",
-    "jquery": "^3.7.1",
     "maplibre-gl": "^5.0.0"
   },
   "devDependencies": {
