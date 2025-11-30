@@ -1812,7 +1812,7 @@
         "AddressLine3": "LONDON",
         "AddressLine4": "",
         "PostCode": "SW1V 1JZ",
-        "RatingValue": "4",
+        "RatingValue": "5",
         "RatingDate": "2025-09-29T00:00:00",
         "LocalAuthorityName": "Westminster",
         "LocalAuthorityCode": "533",
@@ -3538,7 +3538,7 @@
         "AddressLine4": "London Heathrow Airport",
         "PostCode": "TW6 2GA",
         "RatingValue": "5",
-        "RatingDate": "2025-11-14T00:00:00",
+        "RatingDate": "2023-05-11T00:00:00",
         "LocalAuthorityName": "Hillingdon",
         "LocalAuthorityCode": "517",
         "LocalAuthorityBusinessID": "45639"
@@ -4288,7 +4288,7 @@
         "AddressLine4": "South Gloucestershire",
         "PostCode": "BS34 5DG",
         "RatingValue": "5",
-        "RatingDate": "2023-11-10T00:00:00",
+        "RatingDate": "2025-11-20T00:00:00",
         "LocalAuthorityName": "South Gloucestershire",
         "LocalAuthorityCode": "856",
         "LocalAuthorityBusinessID": "139781"
@@ -4363,7 +4363,7 @@
         "AddressLine4": "",
         "PostCode": "EC3R 6AH",
         "RatingValue": "5",
-        "RatingDate": "2023-07-28T00:00:00",
+        "RatingDate": "2025-11-19T00:00:00",
         "LocalAuthorityName": "City of London Corporation",
         "LocalAuthorityCode": "508",
         "LocalAuthorityBusinessID": "PI/000021594"
@@ -7338,7 +7338,7 @@
         "AddressLine4": "",
         "PostCode": "SE10 9EJ",
         "RatingValue": "5",
-        "RatingDate": "2023-10-13T00:00:00",
+        "RatingDate": "2025-11-15T00:00:00",
         "LocalAuthorityName": "Greenwich",
         "LocalAuthorityCode": "511",
         "LocalAuthorityBusinessID": "14457"
@@ -8654,31 +8654,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1612842,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Unit L2",
-        "AddressLine2": "Braintree Village",
-        "AddressLine3": "Charter Way",
-        "AddressLine4": "Braintree",
-        "PostCode": "CM77 8YH",
-        "RatingValue": "5",
-        "RatingDate": "2025-06-16T00:00:00",
-        "LocalAuthorityName": "Braintree",
-        "LocalAuthorityCode": "110",
-        "LocalAuthorityBusinessID": "23/00072/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.5697495,
-          51.8703894
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1613047,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -8938,7 +8913,7 @@
         "AddressLine4": "Tottenham",
         "PostCode": "N15 4QD",
         "RatingValue": "5",
-        "RatingDate": "2023-08-18T00:00:00",
+        "RatingDate": "2025-11-20T00:00:00",
         "LocalAuthorityName": "Haringey",
         "LocalAuthorityCode": "514",
         "LocalAuthorityBusinessID": "PI/000166813"
@@ -11023,6 +10998,56 @@
         "coordinates": [
           -0.1247462,
           51.5011517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1893631,
+        "BusinessName": "Pret A Manger (Europe) Ltd",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "T.O. Retail Unit 2 Lower Concourse Liverpool Street Station",
+        "AddressLine2": "Liverpool Street Station",
+        "AddressLine3": "Liverpool Street",
+        "AddressLine4": "London",
+        "PostCode": "EC2M 7PY",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "25/00881/COMM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0812419,
+          51.5181204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1895278,
+        "BusinessName": "Pret A Manger (Europe) Ltd",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Kiosk Adjacent To Ticket Hall",
+        "AddressLine2": "The Arcade",
+        "AddressLine3": "Liverpool Street",
+        "AddressLine4": "London",
+        "PostCode": "EC2M 7PN",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "City of London Corporation",
+        "LocalAuthorityCode": "508",
+        "LocalAuthorityBusinessID": "25/00908/COMM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0825887,
+          51.5171381
         ]
       }
     }
