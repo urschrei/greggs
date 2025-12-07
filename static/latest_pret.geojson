@@ -13,7 +13,7 @@
         "AddressLine4": "",
         "PostCode": "NR2 1QD",
         "RatingValue": "4",
-        "RatingDate": "2023-10-21T00:00:00",
+        "RatingDate": "2025-11-05T00:00:00",
         "LocalAuthorityName": "Norwich City",
         "LocalAuthorityCode": "232",
         "LocalAuthorityBusinessID": "05/00129/FD_HS"
@@ -4862,8 +4862,8 @@
         "AddressLine3": "SALISBURY",
         "AddressLine4": "",
         "PostCode": "SP1 2AA",
-        "RatingValue": "4",
-        "RatingDate": "2024-06-11T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-11-27T00:00:00",
         "LocalAuthorityName": "Wiltshire",
         "LocalAuthorityCode": "709",
         "LocalAuthorityBusinessID": "PI/000084050"
@@ -7698,31 +7698,6 @@
         "coordinates": [
           -0.1167701,
           51.5057946
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1513284,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "PRET A MANGER",
-        "AddressLine2": "13 - 14 High Street",
-        "AddressLine3": "Chelmsford",
-        "AddressLine4": "",
-        "PostCode": "CM1 1BE",
-        "RatingValue": "5",
-        "RatingDate": "2024-11-06T00:00:00",
-        "LocalAuthorityName": "Chelmsford",
-        "LocalAuthorityCode": "113",
-        "LocalAuthorityBusinessID": "22/00102/COMM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.4737228,
-          51.7337735
         ]
       }
     },
@@ -11048,6 +11023,31 @@
         "coordinates": [
           -0.0825887,
           51.5171381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1896594,
+        "BusinessName": "Pret A Manger (Europe) Ltd",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Unit RU02",
+        "AddressLine2": "Richmond Railway Station",
+        "AddressLine3": "Kew Road",
+        "AddressLine4": "Richmond",
+        "PostCode": "TW9 2NA",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Richmond-Upon-Thames",
+        "LocalAuthorityCode": "527",
+        "LocalAuthorityBusinessID": "PI/000495327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3017165,
+          51.4632321
         ]
       }
     }
