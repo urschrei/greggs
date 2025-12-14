@@ -938,7 +938,7 @@
         "AddressLine4": "",
         "PostCode": "LE2 5BF",
         "RatingValue": "5",
-        "RatingDate": "2023-07-28T00:00:00",
+        "RatingDate": "2025-11-26T00:00:00",
         "LocalAuthorityName": "Oadby and Wigston",
         "LocalAuthorityCode": "216",
         "LocalAuthorityBusinessID": "07520/0028/0/000"
@@ -1863,7 +1863,7 @@
         "AddressLine4": "West Sussex",
         "PostCode": "RH15 9NP",
         "RatingValue": "5",
-        "RatingDate": "2023-08-24T00:00:00",
+        "RatingDate": "2025-12-02T00:00:00",
         "LocalAuthorityName": "Mid Sussex",
         "LocalAuthorityCode": "328",
         "LocalAuthorityBusinessID": "11/00194/MIXED"
@@ -4488,7 +4488,7 @@
         "AddressLine4": "Tyne And Wear",
         "PostCode": "NE26 2TE",
         "RatingValue": "5",
-        "RatingDate": "2023-07-26T00:00:00",
+        "RatingDate": "2025-12-09T00:00:00",
         "LocalAuthorityName": "North Tyneside",
         "LocalAuthorityCode": "417",
         "LocalAuthorityBusinessID": "46400/2500/3/010"
@@ -4948,31 +4948,6 @@
         "coordinates": [
           -2.287025,
           53.489246
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 127550,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 7844,
-        "AddressLine1": "",
-        "AddressLine2": "2 Upper Market Square",
-        "AddressLine3": "Hanley",
-        "AddressLine4": "Stoke-On-Trent",
-        "PostCode": "ST1 1NS",
-        "RatingValue": "5",
-        "RatingDate": "2024-03-07T00:00:00",
-        "LocalAuthorityName": "Stoke-On-Trent",
-        "LocalAuthorityCode": "880",
-        "LocalAuthorityBusinessID": "56966"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.174638,
-          53.026317
         ]
       }
     },
@@ -5812,8 +5787,8 @@
         "AddressLine3": "Bridgwater",
         "AddressLine4": "",
         "PostCode": "TA6 3BH",
-        "RatingValue": "5",
-        "RatingDate": "2023-09-19T00:00:00",
+        "RatingValue": "4",
+        "RatingDate": "2025-11-03T00:00:00",
         "LocalAuthorityName": "Somerset",
         "LocalAuthorityCode": "281",
         "LocalAuthorityBusinessID": "9689"
@@ -7312,8 +7287,8 @@
         "AddressLine3": "Bath",
         "AddressLine4": "",
         "PostCode": "BA1 1EQ",
-        "RatingValue": "4",
-        "RatingDate": "2024-06-24T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-12-01T00:00:00",
         "LocalAuthorityName": "Bath and North East Somerset",
         "LocalAuthorityCode": "857",
         "LocalAuthorityBusinessID": "14120/0008/0/000"
@@ -17608,9 +17583,9 @@
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
         "AddressLine1": "8 High Street",
-        "AddressLine2": "Godalming",
-        "AddressLine3": "Surrey",
-        "AddressLine4": "",
+        "AddressLine2": "",
+        "AddressLine3": "Godalming",
+        "AddressLine4": "Surrey",
         "PostCode": "GU7 1ED",
         "RatingValue": "5",
         "RatingDate": "2023-11-29T00:00:00",
@@ -17621,8 +17596,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.610692,
-          51.186021
+          -0.6106477,
+          51.1859444
         ]
       }
     },
@@ -20013,7 +19988,7 @@
         "AddressLine4": "Gateshead",
         "PostCode": "NE8 1BF",
         "RatingValue": "5",
-        "RatingDate": "2024-03-13T00:00:00",
+        "RatingDate": "2025-12-04T00:00:00",
         "LocalAuthorityName": "Gateshead",
         "LocalAuthorityCode": "410",
         "LocalAuthorityBusinessID": "87175"
@@ -23388,7 +23363,7 @@
         "AddressLine4": "South Lanarkshire",
         "PostCode": "ML3 7QR",
         "RatingValue": "Pass",
-        "RatingDate": "2019-09-09T00:00:00",
+        "RatingDate": "2025-12-03T00:00:00",
         "LocalAuthorityName": "South Lanarkshire",
         "LocalAuthorityCode": "780",
         "LocalAuthorityBusinessID": "84175"
@@ -26062,8 +26037,8 @@
         "AddressLine3": "",
         "AddressLine4": "Nuneaton",
         "PostCode": "CV10 7DA",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-09-09T00:00:00",
         "LocalAuthorityName": "Nuneaton and Bedworth",
         "LocalAuthorityCode": "318",
         "LocalAuthorityBusinessID": "99675"
@@ -26813,7 +26788,7 @@
         "AddressLine4": "Dumbarton",
         "PostCode": "G82 2TZ",
         "RatingValue": "Pass",
-        "RatingDate": "2024-06-11T00:00:00",
+        "RatingDate": "2025-12-04T00:00:00",
         "LocalAuthorityName": "West Dunbartonshire",
         "LocalAuthorityCode": "769",
         "LocalAuthorityBusinessID": "10013"
@@ -27673,31 +27648,6 @@
         "coordinates": [
           -0.437321,
           54.003547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 904080,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 7844,
-        "AddressLine1": "24 Gowthorpe",
-        "AddressLine2": "Selby",
-        "AddressLine3": "North Yorkshire",
-        "AddressLine4": "",
-        "PostCode": "",
-        "RatingValue": "5",
-        "RatingDate": "2024-09-20T00:00:00",
-        "LocalAuthorityName": "North Yorkshire",
-        "LocalAuthorityCode": "250",
-        "LocalAuthorityBusinessID": "PI/000036267"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0707969,
-          53.7839976
         ]
       }
     },
@@ -29838,7 +29788,7 @@
         "AddressLine4": "",
         "PostCode": "CF14 1DA",
         "RatingValue": "5",
-        "RatingDate": "2023-11-18T00:00:00",
+        "RatingDate": "2025-11-28T00:00:00",
         "LocalAuthorityName": "Cardiff",
         "LocalAuthorityCode": "556",
         "LocalAuthorityBusinessID": "724902"
@@ -30013,7 +29963,7 @@
         "AddressLine4": "",
         "PostCode": "CF24 3LJ",
         "RatingValue": "5",
-        "RatingDate": "2023-11-19T00:00:00",
+        "RatingDate": "2025-12-02T00:00:00",
         "LocalAuthorityName": "Cardiff",
         "LocalAuthorityCode": "556",
         "LocalAuthorityBusinessID": "738480"
@@ -30382,10 +30332,10 @@
         "FHRSID": 972390,
         "BusinessName": "Greggs",
         "BusinessTypeID": 7844,
-        "AddressLine1": "Asda Express PFS Haslemere",
-        "AddressLine2": "Haslemere Service Station",
-        "AddressLine3": "Junction Place",
-        "AddressLine4": "Haslemere",
+        "AddressLine1": "Haslemere Service Station Junction Place",
+        "AddressLine2": "",
+        "AddressLine3": "Haslemere",
+        "AddressLine4": "Surrey",
         "PostCode": "GU27 1LE",
         "RatingValue": "4",
         "RatingDate": "2024-10-23T00:00:00",
@@ -32713,7 +32663,7 @@
         "AddressLine4": "Nottinghamshire",
         "PostCode": "NG19 8HG",
         "RatingValue": "5",
-        "RatingDate": "2023-11-02T00:00:00",
+        "RatingDate": "2025-11-21T00:00:00",
         "LocalAuthorityName": "Mansfield",
         "LocalAuthorityCode": "263",
         "LocalAuthorityBusinessID": "61201"
@@ -37213,7 +37163,7 @@
         "AddressLine4": "Great Yarmouth",
         "PostCode": "NR31 0LZ",
         "RatingValue": "5",
-        "RatingDate": "2023-12-07T00:00:00",
+        "RatingDate": "2025-11-08T00:00:00",
         "LocalAuthorityName": "Great Yarmouth",
         "LocalAuthorityCode": "229",
         "LocalAuthorityBusinessID": "56092"
@@ -37307,10 +37257,10 @@
         "FHRSID": 1211460,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
-        "AddressLine1": "Manor Weald Service Station",
-        "AddressLine2": "Guildford Road",
-        "AddressLine3": "Milford",
-        "AddressLine4": "Godalming",
+        "AddressLine1": "Manor Weald Service Station Guildford Road",
+        "AddressLine2": "Milford",
+        "AddressLine3": "Godalming",
+        "AddressLine4": "Surrey",
         "PostCode": "GU8 5EL",
         "RatingValue": "5",
         "RatingDate": "2023-11-12T00:00:00",
@@ -37321,8 +37271,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.650496006011963,
-          51.1738700866699
+          -0.6505256,
+          51.1734098
         ]
       }
     },
@@ -38313,7 +38263,7 @@
         "AddressLine4": "Lichfield",
         "PostCode": "WS13 8NQ",
         "RatingValue": "5",
-        "RatingDate": "2023-12-04T00:00:00",
+        "RatingDate": "2025-11-14T00:00:00",
         "LocalAuthorityName": "Lichfield",
         "LocalAuthorityCode": "289",
         "LocalAuthorityBusinessID": "19/01234/COMM"
@@ -38738,7 +38688,7 @@
         "AddressLine4": "",
         "PostCode": "CF14 3AT",
         "RatingValue": "5",
-        "RatingDate": "2023-11-11T00:00:00",
+        "RatingDate": "2025-12-04T00:00:00",
         "LocalAuthorityName": "Cardiff",
         "LocalAuthorityCode": "556",
         "LocalAuthorityBusinessID": "775829"
@@ -41113,7 +41063,7 @@
         "AddressLine4": "Birtley",
         "PostCode": "DH3 2SJ",
         "RatingValue": "5",
-        "RatingDate": "2024-01-29T00:00:00",
+        "RatingDate": "2025-12-08T00:00:00",
         "LocalAuthorityName": "Gateshead",
         "LocalAuthorityCode": "410",
         "LocalAuthorityBusinessID": "95452"
@@ -44513,7 +44463,7 @@
         "AddressLine4": "East Dunbartonshire",
         "PostCode": "G61 3RB",
         "RatingValue": "Pass",
-        "RatingDate": "2024-06-05T00:00:00",
+        "RatingDate": "2025-12-08T00:00:00",
         "LocalAuthorityName": "East Dunbartonshire",
         "LocalAuthorityCode": "771",
         "LocalAuthorityBusinessID": "22/00041/MIXED"
@@ -49213,7 +49163,7 @@
         "AddressLine4": "",
         "PostCode": "DE4 3AT",
         "RatingValue": "5",
-        "RatingDate": "2024-01-30T00:00:00",
+        "RatingDate": "2025-12-10T00:00:00",
         "LocalAuthorityName": "Derbyshire Dales",
         "LocalAuthorityCode": "070",
         "LocalAuthorityBusinessID": "FR/000001558"
@@ -49488,7 +49438,7 @@
         "AddressLine4": "Tamworth",
         "PostCode": "B77 5GZ",
         "RatingValue": "5",
-        "RatingDate": "2023-11-10T00:00:00",
+        "RatingDate": "2025-11-24T00:00:00",
         "LocalAuthorityName": "Tamworth",
         "LocalAuthorityCode": "295",
         "LocalAuthorityBusinessID": "PI/000047300"
@@ -50888,7 +50838,7 @@
         "AddressLine4": "",
         "PostCode": "S20 7PJ",
         "RatingValue": "5",
-        "RatingDate": "2023-12-05T00:00:00",
+        "RatingDate": "2025-11-13T00:00:00",
         "LocalAuthorityName": "Sheffield",
         "LocalAuthorityCode": "425",
         "LocalAuthorityBusinessID": "53969"
@@ -51088,7 +51038,7 @@
         "AddressLine4": "",
         "PostCode": "TS6 6UX",
         "RatingValue": "5",
-        "RatingDate": "2025-12-01T00:00:00",
+        "RatingDate": "2025-12-08T00:00:00",
         "LocalAuthorityName": "Redcar and Cleveland",
         "LocalAuthorityCode": "860",
         "LocalAuthorityBusinessID": "77490"
@@ -51688,7 +51638,7 @@
         "AddressLine4": "",
         "PostCode": "IP33 1UN",
         "RatingValue": "5",
-        "RatingDate": "2024-01-25T00:00:00",
+        "RatingDate": "2025-11-30T00:00:00",
         "LocalAuthorityName": "West Suffolk",
         "LocalAuthorityCode": "298",
         "LocalAuthorityBusinessID": "FR/200110028"
@@ -51888,7 +51838,7 @@
         "AddressLine4": "",
         "PostCode": "GL50 4ED",
         "RatingValue": "5",
-        "RatingDate": "2023-12-05T00:00:00",
+        "RatingDate": "2025-11-26T00:00:00",
         "LocalAuthorityName": "Cheltenham",
         "LocalAuthorityCode": "124",
         "LocalAuthorityBusinessID": "23/00181/FOOD"
@@ -57012,8 +56962,8 @@
         "AddressLine3": "",
         "AddressLine4": "Falkirk",
         "PostCode": "FK2 9HT",
-        "RatingValue": "Awaiting Inspection",
-        "RatingDate": "2025-09-24T00:00:00",
+        "RatingValue": "Pass",
+        "RatingDate": "2025-12-08T00:00:00",
         "LocalAuthorityName": "Falkirk",
         "LocalAuthorityCode": "774",
         "LocalAuthorityBusinessID": "PI/000105570"
@@ -63679,6 +63629,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1881663,
+        "BusinessName": "Greggs",
+        "BusinessTypeID": 7841,
+        "AddressLine1": "Unit 3 Romans Business Park East Street",
+        "AddressLine2": "",
+        "AddressLine3": "Farnham",
+        "AddressLine4": "Surrey",
+        "PostCode": "GU9 7SX",
+        "RatingValue": "5",
+        "RatingDate": "2025-10-09T00:00:00",
+        "LocalAuthorityName": "Waverley",
+        "LocalAuthorityCode": "314",
+        "LocalAuthorityBusinessID": "PI/000182903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7904064,
+          51.2184265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1882251,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -63782,10 +63757,10 @@
         "FHRSID": 1883974,
         "BusinessName": "Greggs Ely",
         "BusinessTypeID": 1,
-        "AddressLine1": "Downham Road",
-        "AddressLine2": "Ely",
-        "AddressLine3": "Cambridgeshire",
-        "AddressLine4": "",
+        "AddressLine1": "Ely Service Station",
+        "AddressLine2": "Downham Road",
+        "AddressLine3": "Ely",
+        "AddressLine4": "Cambridgeshire",
         "PostCode": "CB6 1SG",
         "RatingValue": "5",
         "RatingDate": "2025-12-01T00:00:00",
@@ -63796,8 +63771,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.267464011907578,
-          52.422534942627
+          0.267463,
+          52.422536
         ]
       }
     },
@@ -64335,7 +64310,7 @@
         "AddressLine1": "123 High Street Harston Cambridge",
         "AddressLine2": "",
         "AddressLine3": "",
-        "AddressLine4": "",
+        "AddressLine4": "Cambridgeshire",
         "PostCode": "CB22 7QB",
         "RatingValue": "AwaitingInspection",
         "RatingDate": "1901-01-01T00:00:00",
@@ -64362,8 +64337,8 @@
         "AddressLine3": "Queenborough",
         "AddressLine4": "Kent",
         "PostCode": "ME11 5AR",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-12-03T00:00:00",
         "LocalAuthorityName": "Swale",
         "LocalAuthorityCode": "189",
         "LocalAuthorityBusinessID": "25/500734/MIXED"
@@ -64498,6 +64473,81 @@
         "coordinates": [
           -1.4693613,
           53.8076507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1897423,
+        "BusinessName": "Greggs PLC",
+        "BusinessTypeID": 1,
+        "AddressLine1": "14 The Square",
+        "AddressLine2": "Lichfield Road",
+        "AddressLine3": "Willenhall",
+        "AddressLine4": "Walsall",
+        "PostCode": "WV12 5EA",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Walsall",
+        "LocalAuthorityCode": "433",
+        "LocalAuthorityBusinessID": "PI/000152105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.037025,
+          52.612781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1897573,
+        "BusinessName": "Greggs",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Dorcan Way Service Station",
+        "AddressLine2": "Dorcan Way",
+        "AddressLine3": "Swindon",
+        "AddressLine4": "",
+        "PostCode": "SN3 3RA",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Swindon",
+        "LocalAuthorityCode": "881",
+        "LocalAuthorityBusinessID": "25/00315/FOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7441476,
+          51.5684968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1898777,
+        "BusinessName": "Greggs",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "",
+        "AddressLine2": "6-8 Market Square",
+        "AddressLine3": "Hanley",
+        "AddressLine4": "Stoke-On-Trent",
+        "PostCode": "ST1 1NU",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Stoke-On-Trent",
+        "LocalAuthorityCode": "880",
+        "LocalAuthorityBusinessID": "875876"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.174906,
+          53.0263967
         ]
       }
     }
