@@ -163,7 +163,7 @@
         "AddressLine4": "",
         "PostCode": "CR7 6JA",
         "RatingValue": "5",
-        "RatingDate": "2023-10-30T00:00:00",
+        "RatingDate": "2025-12-14T00:00:00",
         "LocalAuthorityName": "Croydon",
         "LocalAuthorityCode": "507",
         "LocalAuthorityBusinessID": "02671/0758/0/201"
@@ -3888,7 +3888,7 @@
         "AddressLine4": "Syston",
         "PostCode": "LE7 2HD",
         "RatingValue": "5",
-        "RatingDate": "2024-01-13T00:00:00",
+        "RatingDate": "2025-12-14T00:00:00",
         "LocalAuthorityName": "Charnwood",
         "LocalAuthorityCode": "210",
         "LocalAuthorityBusinessID": "38761"
@@ -8513,7 +8513,7 @@
         "AddressLine4": "Huddersfield",
         "PostCode": "HD1 2QB",
         "RatingValue": "5",
-        "RatingDate": "2023-04-21T00:00:00",
+        "RatingDate": "2025-12-09T00:00:00",
         "LocalAuthorityName": "Kirklees",
         "LocalAuthorityCode": "411",
         "LocalAuthorityBusinessID": "PI/000034874"
@@ -14213,7 +14213,7 @@
         "AddressLine4": "Stevenage",
         "PostCode": "SG1 1BP",
         "RatingValue": "5",
-        "RatingDate": "2023-11-23T00:00:00",
+        "RatingDate": "2025-12-15T00:00:00",
         "LocalAuthorityName": "Stevenage",
         "LocalAuthorityCode": "161",
         "LocalAuthorityBusinessID": "16660/0027/0/000"
@@ -14563,7 +14563,7 @@
         "AddressLine4": "Luton",
         "PostCode": "LU1 2TJ",
         "RatingValue": "5",
-        "RatingDate": "2023-11-03T00:00:00",
+        "RatingDate": "2025-12-05T00:00:00",
         "LocalAuthorityName": "Luton",
         "LocalAuthorityCode": "869",
         "LocalAuthorityBusinessID": "36393"
@@ -15838,7 +15838,7 @@
         "AddressLine4": "Bedworth",
         "PostCode": "CV12 8ND",
         "RatingValue": "5",
-        "RatingDate": "2023-11-29T00:00:00",
+        "RatingDate": "2025-11-24T00:00:00",
         "LocalAuthorityName": "Nuneaton and Bedworth",
         "LocalAuthorityCode": "318",
         "LocalAuthorityBusinessID": "45756"
@@ -21279,31 +21279,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 616755,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "172 Brownlow Hill",
-        "AddressLine2": "",
-        "AddressLine3": "Liverpool",
-        "AddressLine4": "",
-        "PostCode": "L3 5RF",
-        "RatingValue": "5",
-        "RatingDate": "2018-11-14T00:00:00",
-        "LocalAuthorityName": "Liverpool",
-        "LocalAuthorityCode": "414",
-        "LocalAuthorityBusinessID": "PI/000257454"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.9674017,
-          53.4057897
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 617439,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -22313,7 +22288,7 @@
         "AddressLine4": "",
         "PostCode": "KY1 2DB",
         "RatingValue": "Pass",
-        "RatingDate": "2025-01-07T00:00:00",
+        "RatingDate": "2025-12-17T00:00:00",
         "LocalAuthorityName": "Fife",
         "LocalAuthorityCode": "775",
         "LocalAuthorityBusinessID": "68610/0174/4/000"
@@ -30188,7 +30163,7 @@
         "AddressLine4": "",
         "PostCode": "CF23 7XH",
         "RatingValue": "5",
-        "RatingDate": "2023-11-25T00:00:00",
+        "RatingDate": "2025-12-04T00:00:00",
         "LocalAuthorityName": "Cardiff",
         "LocalAuthorityCode": "556",
         "LocalAuthorityBusinessID": "743643"
@@ -32513,7 +32488,7 @@
         "AddressLine4": "Anderton",
         "PostCode": "BL6 5UZ",
         "RatingValue": "5",
-        "RatingDate": "2023-11-10T00:00:00",
+        "RatingDate": "2025-12-04T00:00:00",
         "LocalAuthorityName": "Chorley",
         "LocalAuthorityCode": "197",
         "LocalAuthorityBusinessID": "18/00030/COMM"
@@ -32538,7 +32513,7 @@
         "AddressLine4": "Anderton",
         "PostCode": "BL6 5UZ",
         "RatingValue": "5",
-        "RatingDate": "2023-11-16T00:00:00",
+        "RatingDate": "2025-12-04T00:00:00",
         "LocalAuthorityName": "Chorley",
         "LocalAuthorityCode": "197",
         "LocalAuthorityBusinessID": "18/00031/COMM"
@@ -34788,7 +34763,7 @@
         "AddressLine4": "",
         "PostCode": "CT1 2SS",
         "RatingValue": "5",
-        "RatingDate": "2023-12-14T00:00:00",
+        "RatingDate": "2025-12-16T00:00:00",
         "LocalAuthorityName": "Canterbury City",
         "LocalAuthorityCode": "180",
         "LocalAuthorityBusinessID": "76972"
@@ -36963,7 +36938,7 @@
         "AddressLine4": "Stevenage",
         "PostCode": "SG1 2GX",
         "RatingValue": "5",
-        "RatingDate": "2023-10-31T00:00:00",
+        "RatingDate": "2025-12-15T00:00:00",
         "LocalAuthorityName": "Stevenage",
         "LocalAuthorityCode": "161",
         "LocalAuthorityBusinessID": "19/00055/OTHER"
@@ -37288,7 +37263,7 @@
         "AddressLine4": "Leicestershire",
         "PostCode": "LE10 2FR",
         "RatingValue": "5",
-        "RatingDate": "2023-11-30T00:00:00",
+        "RatingDate": "2025-11-27T00:00:00",
         "LocalAuthorityName": "Hinckley and Bosworth",
         "LocalAuthorityCode": "212",
         "LocalAuthorityBusinessID": "19/00152/COMM"
@@ -38113,7 +38088,7 @@
         "AddressLine4": "",
         "PostCode": "NE10 9BF",
         "RatingValue": "5",
-        "RatingDate": "2024-01-29T00:00:00",
+        "RatingDate": "2025-12-10T00:00:00",
         "LocalAuthorityName": "Gateshead",
         "LocalAuthorityCode": "410",
         "LocalAuthorityBusinessID": "94133"
@@ -38473,31 +38448,6 @@
         "coordinates": [
           -2.05482411384583,
           52.6425476074219
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1258300,
-        "BusinessName": "Greggs MFG",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "Gailey Service Station",
-        "AddressLine2": "Watling Street",
-        "AddressLine3": "Gailey",
-        "AddressLine4": "South Staffordshire",
-        "PostCode": "ST19 5PR",
-        "RatingValue": "5",
-        "RatingDate": "2025-01-13T00:00:00",
-        "LocalAuthorityName": "South Staffordshire",
-        "LocalAuthorityCode": "291",
-        "LocalAuthorityBusinessID": "PE-157/1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.12191104888916,
-          52.6920280456543
         ]
       }
     },
@@ -44613,7 +44563,7 @@
         "AddressLine4": "",
         "PostCode": "B37 5TR",
         "RatingValue": "5",
-        "RatingDate": "2023-08-11T00:00:00",
+        "RatingDate": "2025-12-09T00:00:00",
         "LocalAuthorityName": "Solihull",
         "LocalAuthorityCode": "426",
         "LocalAuthorityBusinessID": "CP/091921"
@@ -48588,7 +48538,7 @@
         "AddressLine4": "",
         "PostCode": "G63 9EJ",
         "RatingValue": "Pass",
-        "RatingDate": "2024-05-29T00:00:00",
+        "RatingDate": "2025-10-14T00:00:00",
         "LocalAuthorityName": "Stirling",
         "LocalAuthorityCode": "790",
         "LocalAuthorityBusinessID": "23/00030/GRE"
@@ -50613,7 +50563,7 @@
         "AddressLine4": "Kirkby",
         "PostCode": "L33 7AL",
         "RatingValue": "5",
-        "RatingDate": "2023-10-26T00:00:00",
+        "RatingDate": "2025-12-18T00:00:00",
         "LocalAuthorityName": "Knowsley",
         "LocalAuthorityCode": "412",
         "LocalAuthorityBusinessID": "23/00098/COM"
@@ -50913,7 +50863,7 @@
         "AddressLine4": "",
         "PostCode": "BD19 3QB",
         "RatingValue": "5",
-        "RatingDate": "2024-02-05T00:00:00",
+        "RatingDate": "2025-12-10T00:00:00",
         "LocalAuthorityName": "Kirklees",
         "LocalAuthorityCode": "411",
         "LocalAuthorityBusinessID": "PI/000311364"
@@ -52288,7 +52238,7 @@
         "AddressLine4": "Nottinghamshire",
         "PostCode": "NG22 0LJ",
         "RatingValue": "5",
-        "RatingDate": "2023-12-01T00:00:00",
+        "RatingDate": "2025-12-08T00:00:00",
         "LocalAuthorityName": "Bassetlaw",
         "LocalAuthorityCode": "260",
         "LocalAuthorityBusinessID": "PI/000142175"
@@ -52738,7 +52688,7 @@
         "AddressLine4": "",
         "PostCode": "PO13 0XN",
         "RatingValue": "5",
-        "RatingDate": "2024-01-24T00:00:00",
+        "RatingDate": "2025-12-17T00:00:00",
         "LocalAuthorityName": "Gosport",
         "LocalAuthorityCode": "135",
         "LocalAuthorityBusinessID": "000037042316-2"
@@ -54463,7 +54413,7 @@
         "AddressLine4": "Halesowen",
         "PostCode": "B63 4AJ",
         "RatingValue": "5",
-        "RatingDate": "2023-12-15T00:00:00",
+        "RatingDate": "2025-12-02T00:00:00",
         "LocalAuthorityName": "Dudley",
         "LocalAuthorityCode": "409",
         "LocalAuthorityBusinessID": "FR/202300200"
@@ -56913,7 +56863,7 @@
         "AddressLine4": "",
         "PostCode": "PH10 6JR",
         "RatingValue": "Pass",
-        "RatingDate": "2024-11-26T00:00:00",
+        "RatingDate": "2025-12-10T00:00:00",
         "LocalAuthorityName": "Perth and Kinross",
         "LocalAuthorityCode": "786",
         "LocalAuthorityBusinessID": "R065D2COUP/1"
@@ -59087,8 +59037,8 @@
         "AddressLine3": "Bellsdyke Road",
         "AddressLine4": "Larbert",
         "PostCode": "FK5 4ER",
-        "RatingValue": "Awaiting Inspection",
-        "RatingDate": "1900-01-01T00:00:00",
+        "RatingValue": "Pass",
+        "RatingDate": "2025-11-27T00:00:00",
         "LocalAuthorityName": "Falkirk",
         "LocalAuthorityCode": "774",
         "LocalAuthorityBusinessID": "PI/000105910"
@@ -62029,31 +61979,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1862715,
-        "BusinessName": "Greggs PLC",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "Greggs",
-        "AddressLine2": "Pellon Lane Service Station",
-        "AddressLine3": "151 Pellon Lane",
-        "AddressLine4": "Halifax",
-        "PostCode": "HX1 5RL",
-        "RatingValue": "5",
-        "RatingDate": "2025-10-03T00:00:00",
-        "LocalAuthorityName": "Calderdale",
-        "LocalAuthorityCode": "406",
-        "LocalAuthorityBusinessID": "25/00260/COMM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8752746,
-          53.7269486
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1862884,
         "BusinessName": "Greggs",
         "BusinessTypeID": 7844,
@@ -63456,14 +63381,14 @@
       "properties": {
         "FHRSID": 1877116,
         "BusinessName": "Greggs @Hayling Island PFS",
-        "BusinessTypeID": 1,
+        "BusinessTypeID": 7844,
         "AddressLine1": "181 Havant Road  Hayling Island",
         "AddressLine2": "",
         "AddressLine3": "Hampshire",
         "AddressLine4": "United Kingdom",
         "PostCode": "PO11 0LG",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-10-28T00:00:00",
         "LocalAuthorityName": "Havant",
         "LocalAuthorityCode": "137",
         "LocalAuthorityBusinessID": "NFWNNF-DBZFPN-T2ND5S"
@@ -63562,8 +63487,8 @@
         "AddressLine3": "CALCUTT",
         "AddressLine4": "",
         "PostCode": "SN6 6JR",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-12-10T00:00:00",
         "LocalAuthorityName": "Wiltshire",
         "LocalAuthorityCode": "709",
         "LocalAuthorityBusinessID": "PI/000296432"
@@ -63812,8 +63737,8 @@
         "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "NN7 3NT",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-12-03T00:00:00",
         "LocalAuthorityName": "West Northamptonshire",
         "LocalAuthorityCode": "236",
         "LocalAuthorityBusinessID": "FR/202500118"
@@ -64548,6 +64473,81 @@
         "coordinates": [
           -2.174906,
           53.0263967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1900668,
+        "BusinessName": "Greggs PLC",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "78 Cricklade Road",
+        "AddressLine2": "Swindon",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "SN2 8AF",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Swindon",
+        "LocalAuthorityCode": "881",
+        "LocalAuthorityBusinessID": "25/00350/FOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7766841,
+          51.5714166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1900975,
+        "BusinessName": "Greggs (Franchise)",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "Lockhurst Lane",
+        "AddressLine2": "",
+        "AddressLine3": "",
+        "AddressLine4": "Coventry",
+        "PostCode": "CV6 5NY",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Coventry",
+        "LocalAuthorityCode": "407",
+        "LocalAuthorityBusinessID": "Cx21218"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5027218,
+          52.42740855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1901335,
+        "BusinessName": "Greggs Plc",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "1 The Arcade Hill Top",
+        "AddressLine2": "Knottingley",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "WF11 8HZ",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Wakefield",
+        "LocalAuthorityCode": "432",
+        "LocalAuthorityBusinessID": "PI/000204396"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2550403,
+          53.7084007
         ]
       }
     }

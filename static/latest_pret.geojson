@@ -3487,8 +3487,8 @@
         "AddressLine3": "Kent",
         "AddressLine4": "",
         "PostCode": "TN1 1QR",
-        "RatingValue": "5",
-        "RatingDate": "2023-10-30T00:00:00",
+        "RatingValue": "4",
+        "RatingDate": "2025-11-21T00:00:00",
         "LocalAuthorityName": "Tunbridge Wells",
         "LocalAuthorityCode": "192",
         "LocalAuthorityBusinessID": "12/00151/MIXED"
@@ -5038,7 +5038,7 @@
         "AddressLine4": "",
         "PostCode": "M50 2HF",
         "RatingValue": "5",
-        "RatingDate": "2023-07-26T00:00:00",
+        "RatingDate": "2025-12-10T00:00:00",
         "LocalAuthorityName": "Salford",
         "LocalAuthorityCode": "422",
         "LocalAuthorityBusinessID": "161448"
@@ -5713,7 +5713,7 @@
         "AddressLine4": "",
         "PostCode": "RG1 1LX",
         "RatingValue": "5",
-        "RatingDate": "2024-03-28T00:00:00",
+        "RatingDate": "2025-12-04T00:00:00",
         "LocalAuthorityName": "Reading",
         "LocalAuthorityCode": "884",
         "LocalAuthorityBusinessID": "133349"
@@ -6588,7 +6588,7 @@
         "AddressLine4": "",
         "PostCode": "CT1 2JL",
         "RatingValue": "5",
-        "RatingDate": "2023-12-12T00:00:00",
+        "RatingDate": "2025-12-15T00:00:00",
         "LocalAuthorityName": "Canterbury City",
         "LocalAuthorityCode": "180",
         "LocalAuthorityBusinessID": "73713"
@@ -6638,7 +6638,7 @@
         "AddressLine4": "",
         "PostCode": "B3 3NH",
         "RatingValue": "5",
-        "RatingDate": "2023-03-14T00:00:00",
+        "RatingDate": "2025-12-16T00:00:00",
         "LocalAuthorityName": "Birmingham",
         "LocalAuthorityCode": "402",
         "LocalAuthorityBusinessID": "PI/000648770"
@@ -7905,7 +7905,7 @@
       "type": "Feature",
       "properties": {
         "FHRSID": 1534392,
-        "BusinessName": "Pret A Manger",
+        "BusinessName": "Pret a Manger Market street",
         "BusinessTypeID": 1,
         "AddressLine1": "22 Market Street",
         "AddressLine2": "",
@@ -7930,7 +7930,7 @@
       "type": "Feature",
       "properties": {
         "FHRSID": 1534394,
-        "BusinessName": "Pret A Manger",
+        "BusinessName": "Pret a Manger Cambridge station",
         "BusinessTypeID": 1,
         "AddressLine1": "Unit 4 1 Station Square",
         "AddressLine2": "",
@@ -8623,6 +8623,31 @@
         "coordinates": [
           -0.273609,
           51.495767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1612842,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Unit L2",
+        "AddressLine2": "Braintree Village",
+        "AddressLine3": "Charter Way",
+        "AddressLine4": "Braintree",
+        "PostCode": "CM77 8YH",
+        "RatingValue": "5",
+        "RatingDate": "2025-06-16T00:00:00",
+        "LocalAuthorityName": "Braintree",
+        "LocalAuthorityCode": "110",
+        "LocalAuthorityBusinessID": "23/00072/MIXED"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5697495,
+          51.8703894
         ]
       }
     },
@@ -9623,31 +9648,6 @@
         "coordinates": [
           -0.973412,
           51.458942
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1727646,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Pret a Manger",
-        "AddressLine2": "7 Lion Walk",
-        "AddressLine3": "Colchester",
-        "AddressLine4": "Essex",
-        "PostCode": "CO1 1LX",
-        "RatingValue": "5",
-        "RatingDate": "2025-01-13T00:00:00",
-        "LocalAuthorityName": "Colchester",
-        "LocalAuthorityCode": "114",
-        "LocalAuthorityBusinessID": "FR/000003499"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.9004231,
-          51.8885787
         ]
       }
     },
@@ -11073,6 +11073,31 @@
         "coordinates": [
           0.4737228,
           51.7337735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1901480,
+        "BusinessName": "Pret a Manger Colchester",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Pret a Manger",
+        "AddressLine2": "7 Lion Walk",
+        "AddressLine3": "Colchester",
+        "AddressLine4": "Essex",
+        "PostCode": "CO1 1LX",
+        "RatingValue": "5",
+        "RatingDate": "2025-01-13T00:00:00",
+        "LocalAuthorityName": "Colchester",
+        "LocalAuthorityCode": "114",
+        "LocalAuthorityBusinessID": "FR/000004029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9004231,
+          51.8885787
         ]
       }
     }
