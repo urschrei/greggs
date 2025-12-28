@@ -688,7 +688,7 @@
         "AddressLine4": "",
         "PostCode": "EC2M 7LA",
         "RatingValue": "5",
-        "RatingDate": "2022-07-28T00:00:00",
+        "RatingDate": "2025-12-10T00:00:00",
         "LocalAuthorityName": "City of London Corporation",
         "LocalAuthorityCode": "508",
         "LocalAuthorityBusinessID": "PI/000005137"
@@ -1963,7 +1963,7 @@
         "AddressLine4": "London",
         "PostCode": "EC1M 7AN",
         "RatingValue": "5",
-        "RatingDate": "2024-05-07T00:00:00",
+        "RatingDate": "2025-12-15T00:00:00",
         "LocalAuthorityName": "Islington",
         "LocalAuthorityCode": "519",
         "LocalAuthorityBusinessID": "PI/000089325"
@@ -1987,8 +1987,8 @@
         "AddressLine3": "3-5 St John Street",
         "AddressLine4": "London",
         "PostCode": "EC1M 4AA",
-        "RatingValue": "4",
-        "RatingDate": "2024-04-08T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-12-15T00:00:00",
         "LocalAuthorityName": "Islington",
         "LocalAuthorityCode": "519",
         "LocalAuthorityBusinessID": "PI/000120792"
@@ -6329,31 +6329,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1073966,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "",
-        "AddressLine2": "59-60 Selborne Walk",
-        "AddressLine3": "",
-        "AddressLine4": "Walthamstow",
-        "PostCode": "E17 7JR",
-        "RatingValue": "5",
-        "RatingDate": "2024-09-14T00:00:00",
-        "LocalAuthorityName": "Waltham Forest",
-        "LocalAuthorityCode": "531",
-        "LocalAuthorityBusinessID": "345164"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.02381999976933,
-          51.583381652832
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1079440,
         "BusinessName": "Pret a manger",
         "BusinessTypeID": 1,
@@ -7698,31 +7673,6 @@
         "coordinates": [
           -0.1167701,
           51.5057946
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1514425,
-        "BusinessName": "Pret a Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "173 Stoke Newington High Street",
-        "AddressLine2": "",
-        "AddressLine3": "Hackney",
-        "AddressLine4": "London",
-        "PostCode": "N16 0PE",
-        "RatingValue": "5",
-        "RatingDate": "2023-05-26T00:00:00",
-        "LocalAuthorityName": "Hackney",
-        "LocalAuthorityCode": "512",
-        "LocalAuthorityBusinessID": "HAC1335"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.0738991,
-          51.5618417
         ]
       }
     },
@@ -10862,8 +10812,8 @@
         "AddressLine3": "Martlesham Heath",
         "AddressLine4": "Martlesham",
         "PostCode": "IP5 3RA",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-12-17T00:00:00",
         "LocalAuthorityName": "East Suffolk",
         "LocalAuthorityCode": "302",
         "LocalAuthorityBusinessID": "25/00427/CP"
@@ -11098,6 +11048,31 @@
         "coordinates": [
           0.9004231,
           51.8885787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1903576,
+        "BusinessName": "Pret a Manger Eldon Square",
+        "BusinessTypeID": 1,
+        "AddressLine1": "7 Saint Georges Way",
+        "AddressLine2": "Intu Eldon Square",
+        "AddressLine3": "Newcastle Upon Tyne",
+        "AddressLine4": "",
+        "PostCode": "NE1 7JD",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Newcastle Upon Tyne",
+        "LocalAuthorityCode": "416",
+        "LocalAuthorityBusinessID": "74230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6153043,
+          54.9748892
         ]
       }
     }
