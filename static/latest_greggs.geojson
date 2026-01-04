@@ -15687,8 +15687,8 @@
         "AddressLine3": "",
         "AddressLine4": "London",
         "PostCode": "EC1N 7TS",
-        "RatingValue": "5",
-        "RatingDate": "2019-07-08T00:00:00",
+        "RatingValue": "2",
+        "RatingDate": "2025-11-26T00:00:00",
         "LocalAuthorityName": "Camden",
         "LocalAuthorityCode": "506",
         "LocalAuthorityBusinessID": "9549"
@@ -24013,7 +24013,7 @@
         "AddressLine4": "",
         "PostCode": "ME12 1NL",
         "RatingValue": "5",
-        "RatingDate": "2023-12-04T00:00:00",
+        "RatingDate": "2025-12-19T00:00:00",
         "LocalAuthorityName": "Swale",
         "LocalAuthorityCode": "189",
         "LocalAuthorityBusinessID": "PI/000081993/SW"
@@ -48687,7 +48687,7 @@
         "AddressLine3": "Dundee",
         "AddressLine4": "",
         "PostCode": "DD5 1BS",
-        "RatingValue": "Improvement Required",
+        "RatingValue": "Pass",
         "RatingDate": "2025-11-06T00:00:00",
         "LocalAuthorityName": "Dundee City",
         "LocalAuthorityCode": "772",
@@ -51513,7 +51513,7 @@
         "AddressLine4": "Suffolk",
         "PostCode": "CB9 8AR",
         "RatingValue": "5",
-        "RatingDate": "2024-01-13T00:00:00",
+        "RatingDate": "2025-12-08T00:00:00",
         "LocalAuthorityName": "West Suffolk",
         "LocalAuthorityCode": "298",
         "LocalAuthorityBusinessID": "FR/200110029"
@@ -52113,7 +52113,7 @@
         "AddressLine4": "",
         "PostCode": "PE16 6RN",
         "RatingValue": "5",
-        "RatingDate": "2023-11-17T00:00:00",
+        "RatingDate": "2025-11-18T00:00:00",
         "LocalAuthorityName": "Fenland",
         "LocalAuthorityCode": "029",
         "LocalAuthorityBusinessID": "2023/000185"
@@ -58230,7 +58230,7 @@
       "type": "Feature",
       "properties": {
         "FHRSID": 1797065,
-        "BusinessName": "Asda Express Greggs Chiseldon Camp",
+        "BusinessName": "Greggs Chiseldon Camp",
         "BusinessTypeID": 4613,
         "AddressLine1": "Chiseldon Service Station",
         "AddressLine2": "Marlborough Road",
@@ -60987,8 +60987,8 @@
         "AddressLine3": "Essex",
         "AddressLine4": "",
         "PostCode": "RM18 7QT",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-11-15T00:00:00",
         "LocalAuthorityName": "Thurrock",
         "LocalAuthorityCode": "894",
         "LocalAuthorityBusinessID": "25/00197/CP"
@@ -62754,31 +62754,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1871237,
-        "BusinessName": "Greggs - Asda Express PFS Brambles Farm",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "Cargo Fleet Lane",
-        "AddressLine2": "Middlesbrough",
-        "AddressLine3": "",
-        "AddressLine4": "",
-        "PostCode": "TS3 8EL",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
-        "LocalAuthorityName": "Middlesbrough",
-        "LocalAuthorityCode": "861",
-        "LocalAuthorityBusinessID": "86472"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.199264,
-          54.568576
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1871515,
         "BusinessName": "Greggs",
         "BusinessTypeID": 1,
@@ -64262,8 +64237,8 @@
         "AddressLine3": "Weston-Super-Mare",
         "AddressLine4": "",
         "PostCode": "BS22 6AD",
-        "RatingValue": "5",
-        "RatingDate": "2025-12-16T00:00:00",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
         "LocalAuthorityName": "North Somerset",
         "LocalAuthorityCode": "858",
         "LocalAuthorityBusinessID": "A01KWM1-3N/1"
