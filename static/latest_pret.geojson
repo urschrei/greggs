@@ -6413,7 +6413,7 @@
         "AddressLine4": "London",
         "PostCode": "E1 6JE",
         "RatingValue": "5",
-        "RatingDate": "2023-05-26T00:00:00",
+        "RatingDate": "2026-01-08T00:00:00",
         "LocalAuthorityName": "Hackney",
         "LocalAuthorityCode": "512",
         "LocalAuthorityBusinessID": "189474"
@@ -7813,7 +7813,7 @@
         "AddressLine4": "",
         "PostCode": "B91 3TA",
         "RatingValue": "5",
-        "RatingDate": "2023-09-01T00:00:00",
+        "RatingDate": "2025-12-18T00:00:00",
         "LocalAuthorityName": "Solihull",
         "LocalAuthorityCode": "426",
         "LocalAuthorityBusinessID": "CP/108199"
@@ -9373,31 +9373,6 @@
         "coordinates": [
           -0.1457445,
           51.4945387
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1715261,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "25-27 St Peters Street",
-        "AddressLine2": "St Albans",
-        "AddressLine3": "Hertfordshire",
-        "AddressLine4": "",
-        "PostCode": "AL1 3DP",
-        "RatingValue": "5",
-        "RatingDate": "2025-04-09T00:00:00",
-        "LocalAuthorityName": "St Albans City",
-        "LocalAuthorityCode": "160",
-        "LocalAuthorityBusinessID": "FR/201300027"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.338461,
-          51.753199
         ]
       }
     },
@@ -11012,8 +10987,8 @@
         "AddressLine3": "Chelmsford",
         "AddressLine4": "",
         "PostCode": "CM1 1BE",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2025-12-19T00:00:00",
         "LocalAuthorityName": "Chelmsford",
         "LocalAuthorityCode": "113",
         "LocalAuthorityBusinessID": "25/00305/COMM"
@@ -11038,7 +11013,7 @@
         "AddressLine4": "Essex",
         "PostCode": "CO1 1LX",
         "RatingValue": "5",
-        "RatingDate": "2025-01-13T00:00:00",
+        "RatingDate": "2026-01-07T00:00:00",
         "LocalAuthorityName": "Colchester",
         "LocalAuthorityCode": "114",
         "LocalAuthorityBusinessID": "FR/000004029"
@@ -11073,6 +11048,31 @@
         "coordinates": [
           -1.6153043,
           54.9748892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1904958,
+        "BusinessName": "Pret a Manger St Albans",
+        "BusinessTypeID": 1,
+        "AddressLine1": "25-27 St Peters Street",
+        "AddressLine2": "St Albans",
+        "AddressLine3": "Hertfordshire",
+        "AddressLine4": "",
+        "PostCode": "AL1 3DP",
+        "RatingValue": "5",
+        "RatingDate": "2025-04-09T00:00:00",
+        "LocalAuthorityName": "St Albans City",
+        "LocalAuthorityCode": "160",
+        "LocalAuthorityBusinessID": "FR/202500161"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.338461,
+          51.753199
         ]
       }
     }
