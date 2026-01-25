@@ -3812,8 +3812,8 @@
         "AddressLine3": "95 Farringdon Road",
         "AddressLine4": "London",
         "PostCode": "EC1R 3BT",
-        "RatingValue": "5",
-        "RatingDate": "2024-06-10T00:00:00",
+        "RatingValue": "4",
+        "RatingDate": "2025-12-15T00:00:00",
         "LocalAuthorityName": "Islington",
         "LocalAuthorityCode": "519",
         "LocalAuthorityBusinessID": "PI/000263010"
@@ -6638,7 +6638,7 @@
         "AddressLine4": "London",
         "PostCode": "SE1 0LX",
         "RatingValue": "5",
-        "RatingDate": "2024-03-19T00:00:00",
+        "RatingDate": "2026-01-09T00:00:00",
         "LocalAuthorityName": "Southwark",
         "LocalAuthorityCode": "528",
         "LocalAuthorityBusinessID": "194060"
@@ -8588,7 +8588,7 @@
         "AddressLine4": "Braintree",
         "PostCode": "CM77 8YH",
         "RatingValue": "5",
-        "RatingDate": "2025-06-16T00:00:00",
+        "RatingDate": "2026-01-12T00:00:00",
         "LocalAuthorityName": "Braintree",
         "LocalAuthorityCode": "110",
         "LocalAuthorityBusinessID": "23/00072/MIXED"
