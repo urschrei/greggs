@@ -3263,7 +3263,7 @@
         "AddressLine4": "London",
         "PostCode": "EC2A 3QD",
         "RatingValue": "5",
-        "RatingDate": "2023-10-12T00:00:00",
+        "RatingDate": "2026-01-17T00:00:00",
         "LocalAuthorityName": "Hackney",
         "LocalAuthorityCode": "512",
         "LocalAuthorityBusinessID": "32380"
@@ -4063,7 +4063,7 @@
         "AddressLine4": "Stratford",
         "PostCode": "E20 1ES",
         "RatingValue": "5",
-        "RatingDate": "2023-03-07T00:00:00",
+        "RatingDate": "2026-01-26T00:00:00",
         "LocalAuthorityName": "Newham",
         "LocalAuthorityCode": "525",
         "LocalAuthorityBusinessID": "12/00167/FOOD"
@@ -8488,7 +8488,7 @@
         "AddressLine4": "",
         "PostCode": "BN1 1HL",
         "RatingValue": "5",
-        "RatingDate": "2023-11-23T00:00:00",
+        "RatingDate": "2026-01-06T00:00:00",
         "LocalAuthorityName": "Brighton and Hove",
         "LocalAuthorityCode": "875",
         "LocalAuthorityBusinessID": "2023/00148/COMM"
@@ -8613,7 +8613,7 @@
         "AddressLine4": "",
         "PostCode": "BN1 1ZA",
         "RatingValue": "5",
-        "RatingDate": "2023-11-17T00:00:00",
+        "RatingDate": "2026-01-06T00:00:00",
         "LocalAuthorityName": "Brighton and Hove",
         "LocalAuthorityCode": "875",
         "LocalAuthorityBusinessID": "2023/00212/COMM"

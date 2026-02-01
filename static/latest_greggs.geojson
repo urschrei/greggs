@@ -38,7 +38,7 @@
         "AddressLine4": "",
         "PostCode": "CR0 0JD",
         "RatingValue": "5",
-        "RatingDate": "2024-02-05T00:00:00",
+        "RatingDate": "2026-01-24T00:00:00",
         "LocalAuthorityName": "Croydon",
         "LocalAuthorityCode": "507",
         "LocalAuthorityBusinessID": "00404/0033/0/200"
@@ -2488,7 +2488,7 @@
         "AddressLine4": "",
         "PostCode": "EH8 9JD",
         "RatingValue": "Pass",
-        "RatingDate": "2015-10-19T00:00:00",
+        "RatingDate": "2026-01-14T00:00:00",
         "LocalAuthorityName": "Edinburgh (City of)",
         "LocalAuthorityCode": "773",
         "LocalAuthorityBusinessID": "142785"
@@ -6738,7 +6738,7 @@
         "AddressLine4": "",
         "PostCode": "HU1 3LS",
         "RatingValue": "5",
-        "RatingDate": "2024-02-27T00:00:00",
+        "RatingDate": "2026-01-26T00:00:00",
         "LocalAuthorityName": "Hull City",
         "LocalAuthorityCode": "866",
         "LocalAuthorityBusinessID": "41749"
@@ -7363,7 +7363,7 @@
         "AddressLine4": "Blackburn With Darwen",
         "PostCode": "BB3 1AZ",
         "RatingValue": "5",
-        "RatingDate": "2023-11-21T00:00:00",
+        "RatingDate": "2025-12-20T00:00:00",
         "LocalAuthorityName": "Blackburn",
         "LocalAuthorityCode": "897",
         "LocalAuthorityBusinessID": "1230"
@@ -7388,7 +7388,7 @@
         "AddressLine4": "North Lincolnshire",
         "PostCode": "DN15 6SB",
         "RatingValue": "5",
-        "RatingDate": "2023-10-23T00:00:00",
+        "RatingDate": "2026-01-06T00:00:00",
         "LocalAuthorityName": "North Lincolnshire",
         "LocalAuthorityCode": "864",
         "LocalAuthorityBusinessID": "56493"
@@ -8188,7 +8188,7 @@
         "AddressLine4": "Renfrewshire",
         "PostCode": "PA4 8QL",
         "RatingValue": "Pass",
-        "RatingDate": "2024-02-01T00:00:00",
+        "RatingDate": "2026-01-20T00:00:00",
         "LocalAuthorityName": "Renfrewshire",
         "LocalAuthorityCode": "788",
         "LocalAuthorityBusinessID": "74461"
@@ -8563,7 +8563,7 @@
         "AddressLine4": "",
         "PostCode": "DL1 1PR",
         "RatingValue": "5",
-        "RatingDate": "2025-02-05T00:00:00",
+        "RatingDate": "2026-01-29T00:00:00",
         "LocalAuthorityName": "Darlington",
         "LocalAuthorityCode": "874",
         "LocalAuthorityBusinessID": "09890/0052/0/000"
@@ -12830,7 +12830,7 @@
       "type": "Feature",
       "properties": {
         "FHRSID": 321741,
-        "BusinessName": "Greggs  (West Point)",
+        "BusinessName": "Greggs  (Wellington Street)",
         "BusinessTypeID": 4613,
         "AddressLine1": "Unit A West Point",
         "AddressLine2": "Wellington Street",
@@ -12838,7 +12838,7 @@
         "AddressLine4": "",
         "PostCode": "LS1 4JY",
         "RatingValue": "5",
-        "RatingDate": "2023-06-01T00:00:00",
+        "RatingDate": "2026-01-13T00:00:00",
         "LocalAuthorityName": "Leeds",
         "LocalAuthorityCode": "413",
         "LocalAuthorityBusinessID": "07/00150/COMM"
@@ -18738,7 +18738,7 @@
         "AddressLine4": "Shropshire",
         "PostCode": "TF3 5HN",
         "RatingValue": "5",
-        "RatingDate": "2024-01-17T00:00:00",
+        "RatingDate": "2026-01-26T00:00:00",
         "LocalAuthorityName": "Telford and Wrekin Council",
         "LocalAuthorityCode": "900",
         "LocalAuthorityBusinessID": "13/00019/COMM"
@@ -20123,31 +20123,6 @@
         "coordinates": [
           -1.971477,
           52.437247
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 597816,
-        "BusinessName": "Griggs Stores",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "122 Park Hill Road",
-        "AddressLine2": "Birmingham",
-        "AddressLine3": "",
-        "AddressLine4": "",
-        "PostCode": "B17 9HD",
-        "RatingValue": "5",
-        "RatingDate": "2009-05-19T00:00:00",
-        "LocalAuthorityName": "Birmingham",
-        "LocalAuthorityCode": "402",
-        "LocalAuthorityBusinessID": "PI/000074217"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.946792,
-          52.463265
         ]
       }
     },
@@ -22223,56 +22198,6 @@
         "coordinates": [
           -3.30050492286682,
           55.9307632446289
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 662467,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "98 Ocean Drive",
-        "AddressLine2": "Edinburgh",
-        "AddressLine3": "",
-        "AddressLine4": "",
-        "PostCode": "EH6 6JJ",
-        "RatingValue": "Pass",
-        "RatingDate": "2019-08-01T00:00:00",
-        "LocalAuthorityName": "Edinburgh (City of)",
-        "LocalAuthorityCode": "773",
-        "LocalAuthorityBusinessID": "165358"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.179688,
-          55.980067
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 662507,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "Unit 32b Kinnaird Park",
-        "AddressLine2": "Edinburgh",
-        "AddressLine3": "",
-        "AddressLine4": "",
-        "PostCode": "EH15 3RD",
-        "RatingValue": "Pass",
-        "RatingDate": "2012-01-18T00:00:00",
-        "LocalAuthorityName": "Edinburgh (City of)",
-        "LocalAuthorityCode": "773",
-        "LocalAuthorityBusinessID": "165882"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.103382,
-          55.934346
         ]
       }
     },
@@ -24463,7 +24388,7 @@
         "AddressLine4": "Martlesham",
         "PostCode": "IP5 3RH",
         "RatingValue": "5",
-        "RatingDate": "2024-02-02T00:00:00",
+        "RatingDate": "2026-01-19T00:00:00",
         "LocalAuthorityName": "East Suffolk",
         "LocalAuthorityCode": "302",
         "LocalAuthorityBusinessID": "14/00243/CP"
@@ -26480,7 +26405,7 @@
       "type": "Feature",
       "properties": {
         "FHRSID": 863901,
-        "BusinessName": "Greggs",
+        "BusinessName": "Greggs PLC",
         "BusinessTypeID": 7839,
         "AddressLine1": "Greggs 23 Great Darkgate Street",
         "AddressLine2": "",
@@ -26738,7 +26663,7 @@
         "AddressLine4": "Essex",
         "PostCode": "CM18 6PA",
         "RatingValue": "5",
-        "RatingDate": "2023-10-26T00:00:00",
+        "RatingDate": "2026-01-07T00:00:00",
         "LocalAuthorityName": "Harlow",
         "LocalAuthorityCode": "116",
         "LocalAuthorityBusinessID": "COMM/01/00729"
@@ -27788,7 +27713,7 @@
         "AddressLine4": "Belfast",
         "PostCode": "BT1 5DA",
         "RatingValue": "5",
-        "RatingDate": "2023-12-11T00:00:00",
+        "RatingDate": "2026-01-15T00:00:00",
         "LocalAuthorityName": "Belfast City",
         "LocalAuthorityCode": "807",
         "LocalAuthorityBusinessID": "235088"
@@ -29638,7 +29563,7 @@
         "AddressLine4": "",
         "PostCode": "CF24 4NR",
         "RatingValue": "5",
-        "RatingDate": "2024-07-22T00:00:00",
+        "RatingDate": "2026-01-17T00:00:00",
         "LocalAuthorityName": "Cardiff",
         "LocalAuthorityCode": "556",
         "LocalAuthorityBusinessID": "730544"
@@ -32388,7 +32313,7 @@
         "AddressLine4": "Redditch",
         "PostCode": "B98 9DZ",
         "RatingValue": "5",
-        "RatingDate": "2024-09-17T00:00:00",
+        "RatingDate": "2026-01-17T00:00:00",
         "LocalAuthorityName": "Redditch",
         "LocalAuthorityCode": "149",
         "LocalAuthorityBusinessID": "18/00119/FOOD"
@@ -33362,8 +33287,8 @@
         "AddressLine3": "Llanelwedd",
         "AddressLine4": "Builth Wells Powys",
         "PostCode": "LD2 3SS",
-        "RatingValue": "4",
-        "RatingDate": "2024-07-17T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-01-22T00:00:00",
         "LocalAuthorityName": "Powys",
         "LocalAuthorityCode": "566",
         "LocalAuthorityBusinessID": "PI/000100369"
@@ -35338,7 +35263,7 @@
         "AddressLine4": "Wombwell",
         "PostCode": "S73 8DT",
         "RatingValue": "5",
-        "RatingDate": "2023-12-05T00:00:00",
+        "RatingDate": "2026-01-20T00:00:00",
         "LocalAuthorityName": "Barnsley",
         "LocalAuthorityCode": "401",
         "LocalAuthorityBusinessID": "72526"
@@ -39188,7 +39113,7 @@
         "AddressLine4": "Luton",
         "PostCode": "LU1 3LU",
         "RatingValue": "5",
-        "RatingDate": "2023-12-08T00:00:00",
+        "RatingDate": "2026-01-19T00:00:00",
         "LocalAuthorityName": "Luton",
         "LocalAuthorityCode": "869",
         "LocalAuthorityBusinessID": "134987"
@@ -41013,7 +40938,7 @@
         "AddressLine4": "",
         "PostCode": "KT1 1JH",
         "RatingValue": "5",
-        "RatingDate": "2023-08-10T00:00:00",
+        "RatingDate": "2026-01-22T00:00:00",
         "LocalAuthorityName": "Kingston-Upon-Thames",
         "LocalAuthorityCode": "521",
         "LocalAuthorityBusinessID": "21/01126/RBK"
@@ -41212,8 +41137,8 @@
         "AddressLine3": "Beddau",
         "AddressLine4": "Pontypridd",
         "PostCode": "CF38 2BL",
-        "RatingValue": "4",
-        "RatingDate": "2024-07-23T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-01-08T00:00:00",
         "LocalAuthorityName": "Rhondda Cynon Taf",
         "LocalAuthorityCode": "567",
         "LocalAuthorityBusinessID": "239359"
@@ -42913,7 +42838,7 @@
         "AddressLine4": "",
         "PostCode": "KY3 0SW",
         "RatingValue": "Pass",
-        "RatingDate": "2025-01-13T00:00:00",
+        "RatingDate": "2026-01-05T00:00:00",
         "LocalAuthorityName": "Fife",
         "LocalAuthorityCode": "775",
         "LocalAuthorityBusinessID": "22/00045/MIXED"
@@ -46963,7 +46888,7 @@
         "AddressLine4": "",
         "PostCode": "CO4 0NB",
         "RatingValue": "5",
-        "RatingDate": "2023-11-20T00:00:00",
+        "RatingDate": "2026-01-27T00:00:00",
         "LocalAuthorityName": "Colchester",
         "LocalAuthorityCode": "114",
         "LocalAuthorityBusinessID": "FR/000002048"
@@ -49838,7 +49763,7 @@
         "AddressLine4": "",
         "PostCode": "M29 8RZ",
         "RatingValue": "5",
-        "RatingDate": "2024-03-18T00:00:00",
+        "RatingDate": "2026-01-20T00:00:00",
         "LocalAuthorityName": "Wigan",
         "LocalAuthorityCode": "434",
         "LocalAuthorityBusinessID": "399373"
@@ -51288,7 +51213,7 @@
         "AddressLine4": "",
         "PostCode": "CF5 6XW",
         "RatingValue": "5",
-        "RatingDate": "2024-08-05T00:00:00",
+        "RatingDate": "2026-01-12T00:00:00",
         "LocalAuthorityName": "Vale of Glamorgan",
         "LocalAuthorityCode": "570",
         "LocalAuthorityBusinessID": "786488"
@@ -51680,7 +51605,7 @@
       "type": "Feature",
       "properties": {
         "FHRSID": 1678503,
-        "BusinessName": "Asda Express Greggs St Matthews",
+        "BusinessName": "Greggs",
         "BusinessTypeID": 7846,
         "AddressLine1": "St Matthews Service Station",
         "AddressLine2": "York Avenue",
@@ -52488,7 +52413,7 @@
         "AddressLine4": "Cropwell Bishop",
         "PostCode": "NG12 2JU",
         "RatingValue": "5",
-        "RatingDate": "2024-02-14T00:00:00",
+        "RatingDate": "2026-01-28T00:00:00",
         "LocalAuthorityName": "Rushcliffe",
         "LocalAuthorityCode": "266",
         "LocalAuthorityBusinessID": "24/00019/FOOD"
@@ -52512,8 +52437,8 @@
         "AddressLine3": "Strathaven",
         "AddressLine4": "South Lanarkshire",
         "PostCode": "ML10 6AF",
-        "RatingValue": "Awaiting Inspection",
-        "RatingDate": "1900-01-01T00:00:00",
+        "RatingValue": "Pass",
+        "RatingDate": "2026-01-23T00:00:00",
         "LocalAuthorityName": "South Lanarkshire",
         "LocalAuthorityCode": "780",
         "LocalAuthorityBusinessID": "90747"
@@ -53080,7 +53005,7 @@
       "type": "Feature",
       "properties": {
         "FHRSID": 1706449,
-        "BusinessName": "Moto Hospitality Ltd - Greggs (Southbound)",
+        "BusinessName": "Greggs (operated By Moto Hospitality) Winchester Southbound",
         "BusinessTypeID": 1,
         "AddressLine1": "Moto Hospitality Ltd",
         "AddressLine2": "Winchester Services Southbound",
@@ -60104,31 +60029,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1836488,
-        "BusinessName": "Greggs - Gillingham Kingsmead",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "Budgens Gillingham Service Station Kingsmead Business Park",
-        "AddressLine2": "",
-        "AddressLine3": "Gillingham",
-        "AddressLine4": "Dorset",
-        "PostCode": "SP8 5FB",
-        "RatingValue": "5",
-        "RatingDate": "2025-05-21T00:00:00",
-        "LocalAuthorityName": "Dorset",
-        "LocalAuthorityCode": "085",
-        "LocalAuthorityBusinessID": "47216"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.2567055,
-          51.0295945
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1837496,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 7841,
@@ -60723,31 +60623,6 @@
         "coordinates": [
           -0.0609224,
           51.5115481
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1849707,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "18 The Parade",
-        "AddressLine2": "Minehead",
-        "AddressLine3": "Somerset",
-        "AddressLine4": "",
-        "PostCode": "TA24 5UG",
-        "RatingValue": "5",
-        "RatingDate": "2025-03-17T00:00:00",
-        "LocalAuthorityName": "Somerset",
-        "LocalAuthorityCode": "281",
-        "LocalAuthorityBusinessID": "FR/000001511"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.477303,
-          51.20569
         ]
       }
     },
@@ -63254,6 +63129,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1884200,
+        "BusinessName": "Honest Greens",
+        "BusinessTypeID": 1,
+        "AddressLine1": "21-25 ST ANNE'S COURT",
+        "AddressLine2": "",
+        "AddressLine3": "LONDON",
+        "AddressLine4": "",
+        "PostCode": "W1F 0BJ",
+        "RatingValue": "5",
+        "RatingDate": "2025-12-19T00:00:00",
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "KJH7JJ-7H0BXE-VCB5Z2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1338638,
+          51.5145209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1884279,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 7839,
@@ -63283,8 +63183,8 @@
         "BusinessName": "Greggs",
         "BusinessTypeID": 1,
         "AddressLine1": "The Oval Service Station",
-        "AddressLine2": "Upper Heyford",
-        "AddressLine3": "",
+        "AddressLine2": "Daventry Link Road",
+        "AddressLine3": "Upper Heyford",
         "AddressLine4": "",
         "PostCode": "NN7 3NT",
         "RatingValue": "5",
@@ -63296,8 +63196,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.01989698410034,
-          52.2302856445313
+          -1.0186218,
+          52.2301567
         ]
       }
     },
@@ -63512,8 +63412,8 @@
         "AddressLine3": "Sevenoaks",
         "AddressLine4": "Kent",
         "PostCode": "TN13 1DP",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-01-22T00:00:00",
         "LocalAuthorityName": "Sevenoaks",
         "LocalAuthorityCode": "187",
         "LocalAuthorityBusinessID": "25/00223/MIXED/S"
@@ -63687,8 +63587,8 @@
         "AddressLine3": "Exeter",
         "AddressLine4": "",
         "PostCode": "EX4 3LN",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-01-21T00:00:00",
         "LocalAuthorityName": "Exeter City",
         "LocalAuthorityCode": "073",
         "LocalAuthorityBusinessID": "25/00157/COMM"
@@ -63923,6 +63823,31 @@
         "coordinates": [
           -2.934026,
           51.3565267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1895984,
+        "BusinessName": "Greggs [MFG Gillingham]",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "Kingsmead Business Park",
+        "AddressLine2": "",
+        "AddressLine3": "Gillingham",
+        "AddressLine4": "",
+        "PostCode": "SP8 5FB",
+        "RatingValue": "5",
+        "RatingDate": "2026-01-15T00:00:00",
+        "LocalAuthorityName": "Dorset",
+        "LocalAuthorityCode": "085",
+        "LocalAuthorityBusinessID": "47864"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2555488,
+          51.0289033
         ]
       }
     },
@@ -64205,15 +64130,15 @@
       "type": "Feature",
       "properties": {
         "FHRSID": 1906087,
-        "BusinessName": "Moto Hospitality Ltd - Greggs (Northbound)",
+        "BusinessName": "Greggs (operated By Moto Hospitality) Winchester Northbound",
         "BusinessTypeID": 7844,
         "AddressLine1": "Moto Hospitality Ltd",
         "AddressLine2": "Winchester Services Northbound",
         "AddressLine3": "Shroner Wood",
         "AddressLine4": "Winchester",
         "PostCode": "SO21 1PP",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-01-15T00:00:00",
         "LocalAuthorityName": "Winchester City",
         "LocalAuthorityCode": "143",
         "LocalAuthorityBusinessID": "26/00002/MIXED"
@@ -64262,8 +64187,8 @@
         "AddressLine3": "Staffordshire",
         "AddressLine4": "",
         "PostCode": "ST8 6QL",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-01-13T00:00:00",
         "LocalAuthorityName": "Staffordshire Moorlands",
         "LocalAuthorityCode": "293",
         "LocalAuthorityBusinessID": "122215"
@@ -64523,6 +64448,181 @@
         "coordinates": [
           -0.4831036,
           51.6367611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1910328,
+        "BusinessName": "Greggs PLC",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Unit 7 Dundee Road Retail Park",
+        "AddressLine2": "Dundee Road",
+        "AddressLine3": "Arbroath",
+        "AddressLine4": "",
+        "PostCode": "DD11 2EE",
+        "RatingValue": "Awaiting Inspection",
+        "RatingDate": "1900-01-01T00:00:00",
+        "LocalAuthorityName": "Angus",
+        "LocalAuthorityCode": "762",
+        "LocalAuthorityBusinessID": "22822"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6162198,
+          56.5488457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1910522,
+        "BusinessName": "Greggs",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "24 Spring Gardens",
+        "AddressLine2": "Buxton",
+        "AddressLine3": "Derbyshire",
+        "AddressLine4": "",
+        "PostCode": "SK17 6DE",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "High Peak",
+        "LocalAuthorityCode": "067",
+        "LocalAuthorityBusinessID": "122232"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9119512,
+          53.2589103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1910750,
+        "BusinessName": "Greggs PLC",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "UNITS 4 AND 5 LOWLAND ROAD",
+        "AddressLine2": "",
+        "AddressLine3": "BRANDON",
+        "AddressLine4": "",
+        "PostCode": "DH7 8NN",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Durham",
+        "LocalAuthorityCode": "706",
+        "LocalAuthorityBusinessID": "C0QFRM-ZN0AB0-5MV1NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6293909,
+          54.751326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1910854,
+        "BusinessName": "Greggs Robinhood North",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "Robin Hood North Service Station",
+        "AddressLine2": "325 Robin Hood Way",
+        "AddressLine3": "Kingston Vale",
+        "AddressLine4": "",
+        "PostCode": "SW20 0AB",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Kingston-Upon-Thames",
+        "LocalAuthorityCode": "521",
+        "LocalAuthorityBusinessID": "26/00050/COM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2512815,
+          51.4162839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1911062,
+        "BusinessName": "Greggs Plc",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "Greggs",
+        "AddressLine2": "37A Swanley Centre",
+        "AddressLine3": "Swanley",
+        "AddressLine4": "Kent",
+        "PostCode": "",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Sevenoaks",
+        "LocalAuthorityCode": "187",
+        "LocalAuthorityBusinessID": "26/00016/MIXED/S"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1734368,
+          51.3964636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1911636,
+        "BusinessName": "GREGGS BP SERVICE STATION",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "Bp Connect Garage 666 High Road Leyton",
+        "AddressLine2": "",
+        "AddressLine3": "Leyton",
+        "AddressLine4": "London",
+        "PostCode": "E10 6JP",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Waltham Forest",
+        "LocalAuthorityCode": "531",
+        "LocalAuthorityBusinessID": "9102789"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.007922,
+          51.5703804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1911714,
+        "BusinessName": "Greggs",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "Kinnaird Park",
+        "AddressLine2": "Edinburgh",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "EH15 3RD",
+        "RatingValue": "Pass",
+        "RatingDate": "2026-01-08T00:00:00",
+        "LocalAuthorityName": "Edinburgh (City of)",
+        "LocalAuthorityCode": "773",
+        "LocalAuthorityBusinessID": "196559"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.103382,
+          55.934346
         ]
       }
     }
