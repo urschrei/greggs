@@ -679,31 +679,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 293852,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 7844,
-        "AddressLine1": "17 Eldon Street",
-        "AddressLine2": "London",
-        "AddressLine3": "",
-        "AddressLine4": "",
-        "PostCode": "EC2M 7LA",
-        "RatingValue": "5",
-        "RatingDate": "2025-12-10T00:00:00",
-        "LocalAuthorityName": "City of London Corporation",
-        "LocalAuthorityCode": "508",
-        "LocalAuthorityBusinessID": "PI/000005137"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.084863,
-          51.518136
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 293875,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 7844,
@@ -1998,6 +1973,31 @@
         "coordinates": [
           -0.101927,
           51.5200247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 417245,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "Pret A Manger",
+        "AddressLine2": "Unit 1 Ground Floor Milbank House",
+        "AddressLine3": "1 Finsbury Square",
+        "AddressLine4": "London",
+        "PostCode": "EC2A 1AE",
+        "RatingValue": "5",
+        "RatingDate": "2024-08-22T00:00:00",
+        "LocalAuthorityName": "Islington",
+        "LocalAuthorityCode": "519",
+        "LocalAuthorityBusinessID": "PI/000141012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0875688,
+          51.5207446
         ]
       }
     },
@@ -7613,7 +7613,7 @@
         "AddressLine4": "",
         "PostCode": "OX1 3EX",
         "RatingValue": "5",
-        "RatingDate": "2022-07-07T00:00:00",
+        "RatingDate": "2026-01-28T00:00:00",
         "LocalAuthorityName": "Oxford City",
         "LocalAuthorityCode": "269",
         "LocalAuthorityBusinessID": "22/00074/COM"
@@ -9254,6 +9254,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1690976,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "Unit 1",
+        "AddressLine2": "Midsummer Boulevard",
+        "AddressLine3": "Central Milton Keynes",
+        "AddressLine4": "Milton Keynes",
+        "PostCode": "MK9 3GB",
+        "RatingValue": "5",
+        "RatingDate": "2024-02-14T00:00:00",
+        "LocalAuthorityName": "Milton Keynes",
+        "LocalAuthorityCode": "870",
+        "LocalAuthorityBusinessID": "95156"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7579609,
+          52.0415638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1693681,
         "BusinessName": "Pret A Manger [northbound]",
         "BusinessTypeID": 1,
@@ -9898,6 +9923,31 @@
         "coordinates": [
           -0.200597,
           51.47623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1770219,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Belfast Grand Central Station",
+        "AddressLine2": "",
+        "AddressLine3": "90-92 Grosvenor Road",
+        "AddressLine4": "Belfast",
+        "PostCode": "BT12 5AX",
+        "RatingValue": "5",
+        "RatingDate": "2024-11-06T00:00:00",
+        "LocalAuthorityName": "Belfast City",
+        "LocalAuthorityCode": "807",
+        "LocalAuthorityBusinessID": "271055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.93942,
+          54.59481
         ]
       }
     },
@@ -10829,6 +10879,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1885791,
+        "BusinessName": "Pret A Manger - Stockwell",
+        "BusinessTypeID": 1,
+        "AddressLine1": "354 - 358 South Lambeth Road",
+        "AddressLine2": "London",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "SW8 1UG",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Lambeth",
+        "LocalAuthorityCode": "522",
+        "LocalAuthorityBusinessID": "25/00411/COMM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1221744,
+          51.4732693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1885792,
         "BusinessName": "Pret A Manger - Clapham Common",
         "BusinessTypeID": 1,
@@ -11098,6 +11173,31 @@
         "coordinates": [
           -0.338461,
           51.753199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1912767,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Rownhams West Motorway Service Area",
+        "AddressLine2": "M27 Westbound Service Road",
+        "AddressLine3": "Rownhams",
+        "AddressLine4": "Hampshire",
+        "PostCode": "",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Test Valley",
+        "LocalAuthorityCode": "142",
+        "LocalAuthorityBusinessID": "26/00023/COMM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4510636,
+          50.9563798
         ]
       }
     }
