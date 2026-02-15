@@ -3233,7 +3233,7 @@
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
         "AddressLine1": "",
-        "AddressLine2": "1-3 Amhurst Road",
+        "AddressLine2": "1-3 AMHURST ROAD",
         "AddressLine3": "Hackney",
         "AddressLine4": "London",
         "PostCode": "E8 1JB",
@@ -3258,7 +3258,7 @@
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
         "AddressLine1": "",
-        "AddressLine2": "57 Great Eastern Street",
+        "AddressLine2": "57 GREAT EASTERN STREET",
         "AddressLine3": "Hackney",
         "AddressLine4": "London",
         "PostCode": "EC2A 3QD",
@@ -3271,8 +3271,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.081234,
-          51.524579
+          -0.0811951,
+          51.5245702
         ]
       }
     },
@@ -3958,7 +3958,7 @@
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
         "AddressLine1": "",
-        "AddressLine2": "192-193 Shoreditch High Street",
+        "AddressLine2": "192-193 SHOREDITCH HIGH STREET",
         "AddressLine3": "Hackney",
         "AddressLine4": "London",
         "PostCode": "E1 6HU",
@@ -3971,8 +3971,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.077655,
-          51.524673
+          -0.07747,
+          51.52403
         ]
       }
     },
@@ -4883,7 +4883,7 @@
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
         "AddressLine1": "",
-        "AddressLine2": "161 City Road",
+        "AddressLine2": "161 CITY ROAD",
         "AddressLine3": "Hackney",
         "AddressLine4": "London",
         "PostCode": "EC1V 1NR",
@@ -4896,8 +4896,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.089682,
-          51.527989
+          -0.089766,
+          51.5279174
         ]
       }
     },
@@ -6408,7 +6408,7 @@
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
         "AddressLine1": "",
-        "AddressLine2": "128 Shoreditch High Street",
+        "AddressLine2": "128 SHOREDITCH HIGH STREET",
         "AddressLine3": "Hackney",
         "AddressLine4": "London",
         "PostCode": "E1 6JE",
@@ -7233,7 +7233,7 @@
         "BusinessName": "Pret a Manger",
         "BusinessTypeID": 1,
         "AddressLine1": "",
-        "AddressLine2": "64-66 Kingsland High Street",
+        "AddressLine2": "64-66 KINGSLAND HIGH STREET",
         "AddressLine3": "Hackney",
         "AddressLine4": "London",
         "PostCode": "E8 2JP",
@@ -8688,7 +8688,7 @@
         "AddressLine4": "West Sussex",
         "PostCode": "BN11 3AX",
         "RatingValue": "5",
-        "RatingDate": "2023-06-26T00:00:00",
+        "RatingDate": "2026-02-05T00:00:00",
         "LocalAuthorityName": "Worthing",
         "LocalAuthorityCode": "329",
         "LocalAuthorityBusinessID": "PI/000064445"
@@ -8938,7 +8938,7 @@
         "AddressLine4": "",
         "PostCode": "PO19 1HS",
         "RatingValue": "5",
-        "RatingDate": "2024-01-15T00:00:00",
+        "RatingDate": "2026-02-05T00:00:00",
         "LocalAuthorityName": "Chichester",
         "LocalAuthorityCode": "325",
         "LocalAuthorityBusinessID": "23/00167/FOOD"
@@ -10163,7 +10163,7 @@
         "AddressLine4": "",
         "PostCode": "KT13 8ED",
         "RatingValue": "5",
-        "RatingDate": "2023-11-22T00:00:00",
+        "RatingDate": "2026-02-02T00:00:00",
         "LocalAuthorityName": "Elmbridge",
         "LocalAuthorityCode": "305",
         "LocalAuthorityBusinessID": "FR/202300128"
