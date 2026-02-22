@@ -1813,7 +1813,7 @@
         "AddressLine4": "",
         "PostCode": "W1S 2GD",
         "RatingValue": "4",
-        "RatingDate": "2024-06-10T00:00:00",
+        "RatingDate": "2026-01-12T00:00:00",
         "LocalAuthorityName": "Westminster",
         "LocalAuthorityCode": "533",
         "LocalAuthorityBusinessID": "10/00091/COMM"
@@ -7354,31 +7354,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1385497,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 7844,
-        "AddressLine1": "Unit 1B",
-        "AddressLine2": "Kingston Railway Station",
-        "AddressLine3": "Wood Street",
-        "AddressLine4": "Kingston Upon Thames",
-        "PostCode": "KT1 1UJ",
-        "RatingValue": "5",
-        "RatingDate": "2022-02-11T00:00:00",
-        "LocalAuthorityName": "Kingston-Upon-Thames",
-        "LocalAuthorityCode": "521",
-        "LocalAuthorityBusinessID": "17/96146/RBK"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.3019742,
-          51.4128512
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1385499,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -9238,7 +9213,7 @@
         "AddressLine4": "",
         "PostCode": "SE2 9SA",
         "RatingValue": "5",
-        "RatingDate": "2024-01-09T00:00:00",
+        "RatingDate": "2026-02-05T00:00:00",
         "LocalAuthorityName": "Bexley",
         "LocalAuthorityCode": "503",
         "LocalAuthorityBusinessID": "24/00014/CP"
@@ -10912,8 +10887,8 @@
         "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "SW4 0HY",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-01-29T00:00:00",
         "LocalAuthorityName": "Lambeth",
         "LocalAuthorityCode": "522",
         "LocalAuthorityBusinessID": "25/00412/COMM"
@@ -10987,8 +10962,8 @@
         "AddressLine3": "Liverpool Street",
         "AddressLine4": "London",
         "PostCode": "EC2M 7PY",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-01-30T00:00:00",
         "LocalAuthorityName": "City of London Corporation",
         "LocalAuthorityCode": "508",
         "LocalAuthorityBusinessID": "25/00881/COMM"
@@ -11012,8 +10987,8 @@
         "AddressLine3": "Liverpool Street",
         "AddressLine4": "London",
         "PostCode": "EC2M 7PN",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-01-30T00:00:00",
         "LocalAuthorityName": "City of London Corporation",
         "LocalAuthorityCode": "508",
         "LocalAuthorityBusinessID": "25/00908/COMM"
@@ -11198,6 +11173,31 @@
         "coordinates": [
           -1.4510636,
           50.9563798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1917657,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 7841,
+        "AddressLine1": "Service Station Southbound",
+        "AddressLine2": "",
+        "AddressLine3": "Stone",
+        "AddressLine4": "Staffordshire",
+        "PostCode": "ST15 0XE",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Stafford",
+        "LocalAuthorityCode": "292",
+        "LocalAuthorityBusinessID": "115511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1620066,
+          52.8730814
         ]
       }
     }
