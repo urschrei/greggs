@@ -22,18 +22,18 @@
   "homepage": "",
   "dependencies": {
     "@popperjs/core": "^2.11.8",
-    "@turf/helpers": "^7.3.3",
-    "@turf/nearest-point": "^7.3.3",
+    "@turf/helpers": "^7.3.4",
+    "@turf/nearest-point": "^7.3.4",
     "bootstrap": "^5.3.8",
-    "maplibre-gl": "^5.17.0"
+    "maplibre-gl": "^5.19.0"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.24",
-    "esbuild": "^0.27.2",
+    "autoprefixer": "^10.4.27",
+    "esbuild": "^0.27.3",
     "esbuild-plugin-browserslist": "^2.0.0",
     "esbuild-plugin-eslint": "^0.3.12",
     "esbuild-sass-plugin": "^3.6.0",
-    "eslint": "^9.39.2",
+    "eslint": "^10.0.2",
     "postcss": "^8.5.6"
   }
 }
