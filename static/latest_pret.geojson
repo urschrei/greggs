@@ -3905,7 +3905,7 @@
       "type": "Feature",
       "properties": {
         "FHRSID": 602773,
-        "BusinessName": "Pret A Manger",
+        "BusinessName": "Pret A Manger Selfridges",
         "BusinessTypeID": 1,
         "AddressLine1": "Selfridges",
         "AddressLine2": "The Bullring",
@@ -4663,7 +4663,7 @@
         "AddressLine4": "",
         "PostCode": "E2 7DG",
         "RatingValue": "5",
-        "RatingDate": "2023-04-06T00:00:00",
+        "RatingDate": "2026-02-10T00:00:00",
         "LocalAuthorityName": "Tower Hamlets",
         "LocalAuthorityCode": "530",
         "LocalAuthorityBusinessID": "194703"
@@ -7338,7 +7338,7 @@
         "AddressLine4": "",
         "PostCode": "KT1 1RB",
         "RatingValue": "5",
-        "RatingDate": "2023-11-07T00:00:00",
+        "RatingDate": "2026-02-20T00:00:00",
         "LocalAuthorityName": "Kingston-Upon-Thames",
         "LocalAuthorityCode": "521",
         "LocalAuthorityBusinessID": "13/00295/RBK"
@@ -9804,31 +9804,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1757068,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Unit 37d",
-        "AddressLine2": "Clarks Village",
-        "AddressLine3": "Farm Road",
-        "AddressLine4": "Street",
-        "PostCode": "BA16 0BB",
-        "RatingValue": "5",
-        "RatingDate": "2023-09-25T00:00:00",
-        "LocalAuthorityName": "Somerset",
-        "LocalAuthorityCode": "281",
-        "LocalAuthorityBusinessID": "FR/201200112"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.740242,
-          51.128294
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1763515,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 7844,
@@ -10737,8 +10712,8 @@
         "AddressLine3": "Belfast",
         "AddressLine4": "",
         "PostCode": "BT29 4AB",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-01-26T00:00:00",
         "LocalAuthorityName": "Antrim and Newtownabbey",
         "LocalAuthorityCode": "801",
         "LocalAuthorityBusinessID": "703151"
@@ -10929,31 +10904,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1893197,
-        "BusinessName": "Pret a Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "7 BRIDGE STREET",
-        "AddressLine2": "",
-        "AddressLine3": "LONDON",
-        "AddressLine4": "",
-        "PostCode": "SW1A 2JR",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
-        "LocalAuthorityName": "Westminster",
-        "LocalAuthorityCode": "533",
-        "LocalAuthorityBusinessID": "FZ9A8M-PSFSFP-DKABJR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.1247462,
-          51.5011517
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1893631,
         "BusinessName": "Pret A Manger (Europe) Ltd",
         "BusinessTypeID": 7844,
@@ -11112,8 +11062,8 @@
         "AddressLine3": "Newcastle Upon Tyne",
         "AddressLine4": "",
         "PostCode": "NE1 7JD",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-02-25T00:00:00",
         "LocalAuthorityName": "Newcastle Upon Tyne",
         "LocalAuthorityCode": "416",
         "LocalAuthorityBusinessID": "74230"
@@ -11198,6 +11148,56 @@
         "coordinates": [
           -2.1620066,
           52.8730814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1918063,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "Nottingham Railway Station",
+        "AddressLine2": "Carrington Street",
+        "AddressLine3": "",
+        "AddressLine4": "Nottingham",
+        "PostCode": "NG2 3AQ",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Nottingham City",
+        "LocalAuthorityCode": "899",
+        "LocalAuthorityBusinessID": "135723"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.146543,
+          52.947164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1919923,
+        "BusinessName": "Pret A Manger Northumberland Park @",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Petrol Filling Station",
+        "AddressLine2": "1-13 Willoughby Lane",
+        "AddressLine3": "Tottenham",
+        "AddressLine4": "London",
+        "PostCode": "N17 0QU",
+        "RatingValue": "5",
+        "RatingDate": "2026-01-13T00:00:00",
+        "LocalAuthorityName": "Haringey",
+        "LocalAuthorityCode": "514",
+        "LocalAuthorityBusinessID": "PI/000171029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.05539,
+          51.603296
         ]
       }
     }
