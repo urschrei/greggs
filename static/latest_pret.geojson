@@ -338,7 +338,7 @@
         "AddressLine4": "Gatwick",
         "PostCode": "RH6 0NP",
         "RatingValue": "5",
-        "RatingDate": "2023-12-05T00:00:00",
+        "RatingDate": "2026-02-25T00:00:00",
         "LocalAuthorityName": "Crawley",
         "LocalAuthorityCode": "326",
         "LocalAuthorityBusinessID": "09/00066/COMM"
@@ -2305,7 +2305,7 @@
       "type": "Feature",
       "properties": {
         "FHRSID": 427726,
-        "BusinessName": "Pret-A-Manger",
+        "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
         "AddressLine1": "UNIT G15 WEST ONE SHOPPING CENTRE 381 OXFORD STREET",
         "AddressLine2": "",
@@ -4188,7 +4188,7 @@
         "AddressLine4": "",
         "PostCode": "W2 6EZ",
         "RatingValue": "5",
-        "RatingDate": "2023-08-14T00:00:00",
+        "RatingDate": "2026-02-23T00:00:00",
         "LocalAuthorityName": "Westminster",
         "LocalAuthorityCode": "533",
         "LocalAuthorityBusinessID": "12/00146/COMM"
@@ -7763,7 +7763,7 @@
         "AddressLine4": "Birmingham Airport",
         "PostCode": "B26 3QY",
         "RatingValue": "5",
-        "RatingDate": "2023-09-11T00:00:00",
+        "RatingDate": "2026-02-20T00:00:00",
         "LocalAuthorityName": "Solihull",
         "LocalAuthorityCode": "426",
         "LocalAuthorityBusinessID": "CP/106294"
@@ -7813,7 +7813,7 @@
         "AddressLine4": "",
         "PostCode": "BR3 1EN",
         "RatingValue": "5",
-        "RatingDate": "2024-05-15T00:00:00",
+        "RatingDate": "2026-02-11T00:00:00",
         "LocalAuthorityName": "Bromley",
         "LocalAuthorityCode": "505",
         "LocalAuthorityBusinessID": "22/00717/MIXED"
@@ -9554,31 +9554,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1725843,
-        "BusinessName": "Pret a Manger",
-        "BusinessTypeID": 7841,
-        "AddressLine1": "",
-        "AddressLine2": "Unit 4 Overbridge Station Approach",
-        "AddressLine3": "Reading",
-        "AddressLine4": "",
-        "PostCode": "RG1 1LY",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
-        "LocalAuthorityName": "Reading",
-        "LocalAuthorityCode": "884",
-        "LocalAuthorityBusinessID": "144941"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.9731354,
-          51.4592584
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1734223,
         "BusinessName": "Pret A Manger (Moto Hospitality Ltd)",
         "BusinessTypeID": 1,
@@ -11198,6 +11173,56 @@
         "coordinates": [
           -0.05539,
           51.603296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1920098,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Chester Motorway Service Area Hapsford Interchange",
+        "AddressLine2": "Elton",
+        "AddressLine3": "Chester",
+        "AddressLine4": "Cheshire",
+        "PostCode": "CH2 4QZ",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Cheshire West and Chester",
+        "LocalAuthorityCode": "704",
+        "LocalAuthorityBusinessID": "43027"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.80250811576843,
+          53.2682342529297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1920623,
+        "BusinessName": "Pret A Manager",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Oakwood Gate Service Station",
+        "AddressLine2": "Oakwood Gate",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "WA3 6RW",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Warrington",
+        "LocalAuthorityCode": "890",
+        "LocalAuthorityBusinessID": "132544"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.527744,
+          53.4193563
         ]
       }
     }
