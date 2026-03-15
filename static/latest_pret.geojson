@@ -2304,31 +2304,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 427726,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "UNIT G15 WEST ONE SHOPPING CENTRE 381 OXFORD STREET",
-        "AddressLine2": "",
-        "AddressLine3": "LONDON",
-        "AddressLine4": "",
-        "PostCode": "W1C 2JS",
-        "RatingValue": "5",
-        "RatingDate": "2024-04-27T00:00:00",
-        "LocalAuthorityName": "Westminster",
-        "LocalAuthorityCode": "533",
-        "LocalAuthorityBusinessID": "00159/0381/0/019"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.1495888,
-          51.5137898
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 427730,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -10879,6 +10854,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1893197,
+        "BusinessName": "Pret a Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "7 BRIDGE STREET",
+        "AddressLine2": "",
+        "AddressLine3": "LONDON",
+        "AddressLine4": "",
+        "PostCode": "SW1A 2JR",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "FZ9A8M-PSFSFP-DKABJR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1247462,
+          51.5011517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1893631,
         "BusinessName": "Pret A Manger (Europe) Ltd",
         "BusinessTypeID": 7844,
@@ -11198,31 +11198,6 @@
         "coordinates": [
           -2.80250811576843,
           53.2682342529297
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1920623,
-        "BusinessName": "Pret A Manager",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Oakwood Gate Service Station",
-        "AddressLine2": "Oakwood Gate",
-        "AddressLine3": "",
-        "AddressLine4": "",
-        "PostCode": "WA3 6RW",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
-        "LocalAuthorityName": "Warrington",
-        "LocalAuthorityCode": "890",
-        "LocalAuthorityBusinessID": "132544"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.527744,
-          53.4193563
         ]
       }
     }
