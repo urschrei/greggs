@@ -1113,7 +1113,7 @@
         "AddressLine4": "",
         "PostCode": "EC2M 3AB",
         "RatingValue": "5",
-        "RatingDate": "2024-05-15T00:00:00",
+        "RatingDate": "2026-03-17T00:00:00",
         "LocalAuthorityName": "City of London Corporation",
         "LocalAuthorityCode": "508",
         "LocalAuthorityBusinessID": "PI/000018875"
@@ -5413,7 +5413,7 @@
         "AddressLine4": "",
         "PostCode": "SE1 8SB",
         "RatingValue": "5",
-        "RatingDate": "2023-11-08T00:00:00",
+        "RatingDate": "2026-03-13T00:00:00",
         "LocalAuthorityName": "Lambeth",
         "LocalAuthorityCode": "522",
         "LocalAuthorityBusinessID": "16/00447/COMM"
@@ -7338,7 +7338,7 @@
         "AddressLine4": "",
         "PostCode": "KT1 1JP",
         "RatingValue": "5",
-        "RatingDate": "2023-07-05T00:00:00",
+        "RatingDate": "2026-03-26T00:00:00",
         "LocalAuthorityName": "Kingston-Upon-Thames",
         "LocalAuthorityCode": "521",
         "LocalAuthorityBusinessID": "17/96149/RBK"
@@ -9063,7 +9063,7 @@
         "AddressLine4": "",
         "PostCode": "TW18 4UP",
         "RatingValue": "5",
-        "RatingDate": "2024-01-12T00:00:00",
+        "RatingDate": "2026-03-20T00:00:00",
         "LocalAuthorityName": "Spelthorne",
         "LocalAuthorityCode": "311",
         "LocalAuthorityBusinessID": "23/00159/COMM"
@@ -11148,6 +11148,31 @@
         "coordinates": [
           -2.80250811576843,
           53.2682342529297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1930552,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "Training Centre Aerodrome Service Station 38 Royston Road",
+        "AddressLine2": "",
+        "AddressLine3": "Duxford",
+        "AddressLine4": "Cambridgeshire",
+        "PostCode": "CB22 4QH",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "South Cambridgeshire",
+        "LocalAuthorityCode": "032",
+        "LocalAuthorityBusinessID": "9214851"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1310427,
+          52.0963426
         ]
       }
     }
