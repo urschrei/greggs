@@ -9013,7 +9013,7 @@
         "AddressLine4": "Belfast",
         "PostCode": "BT1 6JH",
         "RatingValue": "5",
-        "RatingDate": "2024-02-27T00:00:00",
+        "RatingDate": "2026-03-31T00:00:00",
         "LocalAuthorityName": "Belfast City",
         "LocalAuthorityCode": "807",
         "LocalAuthorityBusinessID": "268114"
@@ -11148,6 +11148,31 @@
         "coordinates": [
           -2.80250811576843,
           53.2682342529297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1920927,
+        "BusinessName": "Pret a Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "UNITS G4 TO G6 WEST ONE SHOPPING CENTRE 381 OXFORD STREET",
+        "AddressLine2": "",
+        "AddressLine3": "LONDON",
+        "AddressLine4": "",
+        "PostCode": "W1C 2JS",
+        "RatingValue": "5",
+        "RatingDate": "2026-03-23T00:00:00",
+        "LocalAuthorityName": "Westminster",
+        "LocalAuthorityCode": "533",
+        "LocalAuthorityBusinessID": "FSNAHV-B5JZX3-ZAR1PG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1495888,
+          51.5137898
         ]
       }
     },
