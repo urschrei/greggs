@@ -1313,7 +1313,7 @@
         "AddressLine4": "Bristol",
         "PostCode": "BS1 3BD",
         "RatingValue": "5",
-        "RatingDate": "2024-06-12T00:00:00",
+        "RatingDate": "2026-03-28T00:00:00",
         "LocalAuthorityName": "Bristol",
         "LocalAuthorityCode": "855",
         "LocalAuthorityBusinessID": "96680"
@@ -6813,7 +6813,7 @@
         "AddressLine4": "London",
         "PostCode": "NW1 2QL",
         "RatingValue": "5",
-        "RatingDate": "2019-11-14T00:00:00",
+        "RatingDate": "2026-04-01T00:00:00",
         "LocalAuthorityName": "Camden",
         "LocalAuthorityCode": "506",
         "LocalAuthorityBusinessID": "194208"
@@ -10887,8 +10887,8 @@
         "AddressLine3": "Richmond",
         "AddressLine4": "Richmond Upon Thames",
         "PostCode": "TW9 2NA",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-04-08T00:00:00",
         "LocalAuthorityName": "Richmond-Upon-Thames",
         "LocalAuthorityCode": "527",
         "LocalAuthorityBusinessID": "PI/000495327"
