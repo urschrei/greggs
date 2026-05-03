@@ -1988,7 +1988,7 @@
         "AddressLine4": "London",
         "PostCode": "EC2A 1AE",
         "RatingValue": "5",
-        "RatingDate": "2024-08-22T00:00:00",
+        "RatingDate": "2026-04-22T00:00:00",
         "LocalAuthorityName": "Islington",
         "LocalAuthorityCode": "519",
         "LocalAuthorityBusinessID": "PI/000141012"
@@ -4462,8 +4462,8 @@
         "AddressLine3": "London",
         "AddressLine4": "EC1Y 8NX",
         "PostCode": "EC1Y 8NX",
-        "RatingValue": "4",
-        "RatingDate": "2024-08-21T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-04-22T00:00:00",
         "LocalAuthorityName": "Islington",
         "LocalAuthorityCode": "519",
         "LocalAuthorityBusinessID": "PI/000263824"
@@ -6963,7 +6963,7 @@
         "AddressLine4": "EC1Y 1AG",
         "PostCode": "EC1Y 1AG",
         "RatingValue": "5",
-        "RatingDate": "2024-08-22T00:00:00",
+        "RatingDate": "2026-04-22T00:00:00",
         "LocalAuthorityName": "Islington",
         "LocalAuthorityCode": "519",
         "LocalAuthorityBusinessID": "PI/000285705"
@@ -11037,8 +11037,8 @@
         "AddressLine3": "Rownhams",
         "AddressLine4": "Hampshire",
         "PostCode": "",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-04-09T00:00:00",
         "LocalAuthorityName": "Test Valley",
         "LocalAuthorityCode": "142",
         "LocalAuthorityBusinessID": "26/00023/COMM"
