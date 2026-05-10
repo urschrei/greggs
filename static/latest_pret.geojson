@@ -2513,7 +2513,7 @@
         "AddressLine4": "",
         "PostCode": "W1W 6PY",
         "RatingValue": "5",
-        "RatingDate": "2023-06-26T00:00:00",
+        "RatingDate": "2026-04-23T00:00:00",
         "LocalAuthorityName": "Westminster",
         "LocalAuthorityCode": "533",
         "LocalAuthorityBusinessID": "00603/0136/0/000"
@@ -3638,7 +3638,7 @@
         "AddressLine4": "London",
         "PostCode": "SE1 1HR",
         "RatingValue": "5",
-        "RatingDate": "2024-04-11T00:00:00",
+        "RatingDate": "2026-04-02T00:00:00",
         "LocalAuthorityName": "Southwark",
         "LocalAuthorityCode": "528",
         "LocalAuthorityBusinessID": "182102"
@@ -4938,7 +4938,7 @@
         "AddressLine4": "London",
         "PostCode": "SE1 8NW",
         "RatingValue": "5",
-        "RatingDate": "2024-05-30T00:00:00",
+        "RatingDate": "2026-04-16T00:00:00",
         "LocalAuthorityName": "Southwark",
         "LocalAuthorityCode": "528",
         "LocalAuthorityBusinessID": "185429"
@@ -6082,7 +6082,7 @@
         "FHRSID": 1047539,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
-        "AddressLine1": "Stratford Underground Station",
+        "AddressLine1": "Unit 2 Southern Ticket Hall",
         "AddressLine2": "Stratford Station",
         "AddressLine3": "Station Street",
         "AddressLine4": "Stratford",
