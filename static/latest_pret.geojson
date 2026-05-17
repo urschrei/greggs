@@ -1887,8 +1887,8 @@
         "AddressLine3": "101-102 Turnmill Street",
         "AddressLine4": "London",
         "PostCode": "EC1M 5QP",
-        "RatingValue": "4",
-        "RatingDate": "2024-08-21T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-04-28T00:00:00",
         "LocalAuthorityName": "Islington",
         "LocalAuthorityCode": "519",
         "LocalAuthorityBusinessID": "PI/000010513"
@@ -1912,8 +1912,8 @@
         "AddressLine3": "27 Islington High Street",
         "AddressLine4": "London",
         "PostCode": "N1 9LH",
-        "RatingValue": "4",
-        "RatingDate": "2024-08-21T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-05-05T00:00:00",
         "LocalAuthorityName": "Islington",
         "LocalAuthorityCode": "519",
         "LocalAuthorityBusinessID": "PI/000029981"
@@ -3888,7 +3888,7 @@
         "AddressLine4": "Birmingham",
         "PostCode": "B5 4BU",
         "RatingValue": "5",
-        "RatingDate": "2019-10-21T00:00:00",
+        "RatingDate": "2020-08-11T00:00:00",
         "LocalAuthorityName": "Birmingham",
         "LocalAuthorityCode": "402",
         "LocalAuthorityBusinessID": "PI/000487483"
@@ -5862,8 +5862,8 @@
         "AddressLine3": "London",
         "AddressLine4": "EC1R 4QD",
         "PostCode": "EC1R 4QD",
-        "RatingValue": "4",
-        "RatingDate": "2024-08-21T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-04-28T00:00:00",
         "LocalAuthorityName": "Islington",
         "LocalAuthorityCode": "519",
         "LocalAuthorityBusinessID": "PI/000279373"
@@ -8913,7 +8913,7 @@
         "AddressLine4": "",
         "PostCode": "RM1 3RL",
         "RatingValue": "5",
-        "RatingDate": "2024-02-28T00:00:00",
+        "RatingDate": "2026-03-13T00:00:00",
         "LocalAuthorityName": "Havering",
         "LocalAuthorityCode": "516",
         "LocalAuthorityBusinessID": "140250"
@@ -10454,31 +10454,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1833924,
-        "BusinessName": "Pret A Manger c/o MFG",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "700 Green Lanes",
-        "AddressLine2": "LONDON",
-        "AddressLine3": "",
-        "AddressLine4": "",
-        "PostCode": "N21 3RL",
-        "RatingValue": "5",
-        "RatingDate": "2025-08-30T00:00:00",
-        "LocalAuthorityName": "Enfield",
-        "LocalAuthorityCode": "510",
-        "LocalAuthorityBusinessID": "PI/000197933"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.096779,
-          51.629819
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1836784,
         "BusinessName": "PRET A MANGER",
         "BusinessTypeID": 1,
@@ -11137,8 +11112,8 @@
         "AddressLine3": "Chester",
         "AddressLine4": "Cheshire",
         "PostCode": "CH2 4QZ",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-04-24T00:00:00",
         "LocalAuthorityName": "Cheshire West and Chester",
         "LocalAuthorityCode": "704",
         "LocalAuthorityBusinessID": "43027"
@@ -11198,6 +11173,31 @@
         "coordinates": [
           0.1310427,
           52.0963426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1945132,
+        "BusinessName": "Pret A Manger Highfields",
+        "BusinessTypeID": 1,
+        "AddressLine1": "700 Green Lanes",
+        "AddressLine2": "LONDON",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "N21 3RL",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Enfield",
+        "LocalAuthorityCode": "510",
+        "LocalAuthorityBusinessID": "PI/000208963"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.096779,
+          51.629819
         ]
       }
     }
