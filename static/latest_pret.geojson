@@ -712,8 +712,8 @@
         "AddressLine3": "London",
         "AddressLine4": "",
         "PostCode": "EC4A 2BH",
-        "RatingValue": "5",
-        "RatingDate": "2022-06-28T00:00:00",
+        "RatingValue": "4",
+        "RatingDate": "2026-04-13T00:00:00",
         "LocalAuthorityName": "City of London Corporation",
         "LocalAuthorityCode": "508",
         "LocalAuthorityBusinessID": "PI/000005958"
@@ -2013,7 +2013,7 @@
         "AddressLine4": "N1 9AB",
         "PostCode": "N1 9AB",
         "RatingValue": "5",
-        "RatingDate": "2025-02-11T00:00:00",
+        "RatingDate": "2026-05-18T00:00:00",
         "LocalAuthorityName": "Islington",
         "LocalAuthorityCode": "519",
         "LocalAuthorityBusinessID": "PI/000153296"
@@ -3182,9 +3182,9 @@
         "FHRSID": 434467,
         "BusinessName": "Pret a Manger at The Oracle",
         "BusinessTypeID": 1,
-        "AddressLine1": "",
-        "AddressLine2": "Bridge Street",
-        "AddressLine3": "Reading",
+        "AddressLine1": "Bridge Street",
+        "AddressLine2": "Reading",
+        "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "RG1 2AQ",
         "RatingValue": "5",
@@ -3196,8 +3196,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.971329,
-          51.453655
+          -0.97236539,
+          51.45247823
         ]
       }
     },
@@ -3687,8 +3687,8 @@
         "AddressLine3": "LONDON",
         "AddressLine4": "",
         "PostCode": "W1B 5EA",
-        "RatingValue": "4",
-        "RatingDate": "2024-02-04T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-04-16T00:00:00",
         "LocalAuthorityName": "Westminster",
         "LocalAuthorityCode": "533",
         "LocalAuthorityBusinessID": "10/00139/COMM"
@@ -4513,7 +4513,7 @@
         "AddressLine4": "",
         "PostCode": "EC2N 1AR",
         "RatingValue": "5",
-        "RatingDate": "2022-03-09T00:00:00",
+        "RatingDate": "2026-05-05T00:00:00",
         "LocalAuthorityName": "City of London Corporation",
         "LocalAuthorityCode": "508",
         "LocalAuthorityBusinessID": "PI/000026908"
@@ -4623,31 +4623,6 @@
         "coordinates": [
           0.261727,
           51.889948
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 761691,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "",
-        "AddressLine2": "121 Bethnal Green Road",
-        "AddressLine3": "London",
-        "AddressLine4": "",
-        "PostCode": "E2 7DG",
-        "RatingValue": "5",
-        "RatingDate": "2026-02-10T00:00:00",
-        "LocalAuthorityName": "Tower Hamlets",
-        "LocalAuthorityCode": "530",
-        "LocalAuthorityBusinessID": "194703"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.071197,
-          51.525331
         ]
       }
     },
@@ -5113,7 +5088,7 @@
         "AddressLine4": "",
         "PostCode": "EC3V 0AS",
         "RatingValue": "5",
-        "RatingDate": "2022-09-06T00:00:00",
+        "RatingDate": "2026-05-05T00:00:00",
         "LocalAuthorityName": "City of London Corporation",
         "LocalAuthorityCode": "508",
         "LocalAuthorityBusinessID": "PI/000028880"
@@ -5682,9 +5657,9 @@
         "FHRSID": 994495,
         "BusinessName": "Pret a Manger at Thames Tower",
         "BusinessTypeID": 1,
-        "AddressLine1": "",
-        "AddressLine2": "37-45 Station Road",
-        "AddressLine3": "Reading",
+        "AddressLine1": "37-45 Station Road",
+        "AddressLine2": "Reading",
+        "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "RG1 1LX",
         "RatingValue": "5",
@@ -5696,8 +5671,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.972725987434387,
-          51.4580917358398
+          -0.972243,
+          51.45775269
         ]
       }
     },
@@ -7954,31 +7929,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1563199,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 7844,
-        "AddressLine1": "Tottenham Hale Railway Station",
-        "AddressLine2": "Station Road",
-        "AddressLine3": "Tottenham",
-        "AddressLine4": "London",
-        "PostCode": "N17 9NA",
-        "RatingValue": "5",
-        "RatingDate": "2022-10-31T00:00:00",
-        "LocalAuthorityName": "Haringey",
-        "LocalAuthorityCode": "514",
-        "LocalAuthorityBusinessID": "PI/000164956"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.0603273,
-          51.5882
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1563405,
         "BusinessName": "PRET A MANGER",
         "BusinessTypeID": 7841,
@@ -8307,9 +8257,9 @@
         "FHRSID": 1587253,
         "BusinessName": "Pret  A Manger",
         "BusinessTypeID": 1,
-        "AddressLine1": "",
-        "AddressLine2": "211 Shinfield Road",
-        "AddressLine3": "Reading",
+        "AddressLine1": "211 Shinfield Road",
+        "AddressLine2": "Reading",
+        "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "RG2 8HA",
         "RatingValue": "5",
@@ -8321,8 +8271,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.945812,
-          51.427999
+          -0.945974,
+          51.4275769
         ]
       }
     },
@@ -11198,6 +11148,31 @@
         "coordinates": [
           -0.096779,
           51.629819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1945960,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Victoria Road Service Station",
+        "AddressLine2": "Victoria Road",
+        "AddressLine3": "",
+        "AddressLine4": "Ruislip",
+        "PostCode": "HA4 0SA",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Hillingdon",
+        "LocalAuthorityCode": "517",
+        "LocalAuthorityBusinessID": "152045"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.397466,
+          51.55943
         ]
       }
     }

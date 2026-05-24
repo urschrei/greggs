@@ -713,7 +713,7 @@
         "AddressLine4": "Tameside",
         "PostCode": "M43 7AD",
         "RatingValue": "5",
-        "RatingDate": "2024-05-24T00:00:00",
+        "RatingDate": "2026-05-14T00:00:00",
         "LocalAuthorityName": "Tameside",
         "LocalAuthorityCode": "430",
         "LocalAuthorityBusinessID": "05374/0031/0/000"
@@ -1788,7 +1788,7 @@
         "AddressLine4": "",
         "PostCode": "NE28 0LF",
         "RatingValue": "5",
-        "RatingDate": "2023-09-28T00:00:00",
+        "RatingDate": "2026-05-20T00:00:00",
         "LocalAuthorityName": "North Tyneside",
         "LocalAuthorityCode": "417",
         "LocalAuthorityBusinessID": "11/00069/FOOD"
@@ -2863,7 +2863,7 @@
         "AddressLine4": "",
         "PostCode": "CF44 7LB",
         "RatingValue": "5",
-        "RatingDate": "2024-11-15T00:00:00",
+        "RatingDate": "2026-05-06T00:00:00",
         "LocalAuthorityName": "Rhondda Cynon Taf",
         "LocalAuthorityCode": "567",
         "LocalAuthorityBusinessID": "188878"
@@ -4457,9 +4457,9 @@
         "FHRSID": 119499,
         "BusinessName": "Greggs",
         "BusinessTypeID": 7844,
-        "AddressLine1": "31 The Mall",
-        "AddressLine2": "Burnley",
-        "AddressLine3": "Lancashire",
+        "AddressLine1": "31 THE MALL",
+        "AddressLine2": "",
+        "AddressLine3": "BURNLEY",
         "AddressLine4": "",
         "PostCode": "BB11 1BA",
         "RatingValue": "5",
@@ -4482,9 +4482,9 @@
         "FHRSID": 119524,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
-        "AddressLine1": "69 The Mall",
-        "AddressLine2": "Burnley",
-        "AddressLine3": "Lancashire",
+        "AddressLine1": "69 THE MALL",
+        "AddressLine2": "",
+        "AddressLine3": "BURNLEY",
         "AddressLine4": "",
         "PostCode": "BB11 1BA",
         "RatingValue": "4",
@@ -4537,8 +4537,8 @@
         "AddressLine3": "Pontyclun",
         "AddressLine4": "",
         "PostCode": "CF72 9EA",
-        "RatingValue": "4",
-        "RatingDate": "2024-11-14T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-05-08T00:00:00",
         "LocalAuthorityName": "Rhondda Cynon Taf",
         "LocalAuthorityCode": "567",
         "LocalAuthorityBusinessID": "49668"
@@ -5438,7 +5438,7 @@
         "AddressLine4": "Lancashire",
         "PostCode": "LA5 9JX",
         "RatingValue": "5",
-        "RatingDate": "2024-04-10T00:00:00",
+        "RatingDate": "2026-05-08T00:00:00",
         "LocalAuthorityName": "Lancaster City",
         "LocalAuthorityCode": "200",
         "LocalAuthorityBusinessID": "7983"
@@ -5913,7 +5913,7 @@
         "AddressLine4": "",
         "PostCode": "EH26 8HN",
         "RatingValue": "Pass",
-        "RatingDate": "2024-11-14T00:00:00",
+        "RatingDate": "2026-05-13T00:00:00",
         "LocalAuthorityName": "Midlothian",
         "LocalAuthorityCode": "783",
         "LocalAuthorityBusinessID": "MIXED/05/0541"
@@ -8429,6 +8429,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 234617,
+        "BusinessName": "Greggs",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "UNIT 21 MARSHALLS YARD",
+        "AddressLine2": "BEAUMONT STREET",
+        "AddressLine3": "",
+        "AddressLine4": "GAINSBOROUGH",
+        "PostCode": "DN21 2NA",
+        "RatingValue": "4",
+        "RatingDate": "2024-09-11T00:00:00",
+        "LocalAuthorityName": "West Lindsey",
+        "LocalAuthorityCode": "225",
+        "LocalAuthorityBusinessID": "125087"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7727026,
+          53.3988729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 235347,
         "BusinessName": "Greggs",
         "BusinessTypeID": 1,
@@ -9073,31 +9098,6 @@
         "coordinates": [
           -1.5110508,
           52.4076272
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 240901,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "243 Walsgrave Road",
-        "AddressLine2": "",
-        "AddressLine3": "",
-        "AddressLine4": "Coventry",
-        "PostCode": "CV2 4BA",
-        "RatingValue": "5",
-        "RatingDate": "2026-03-19T00:00:00",
-        "LocalAuthorityName": "Coventry",
-        "LocalAuthorityCode": "407",
-        "LocalAuthorityBusinessID": "PI/000070670"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.4820821,
-          52.4111695
         ]
       }
     },
@@ -9888,7 +9888,7 @@
         "AddressLine4": "",
         "PostCode": "TS25 2LS",
         "RatingValue": "5",
-        "RatingDate": "2024-04-11T00:00:00",
+        "RatingDate": "2026-05-06T00:00:00",
         "LocalAuthorityName": "Hartlepool",
         "LocalAuthorityCode": "859",
         "LocalAuthorityBusinessID": "5288"
@@ -10238,7 +10238,7 @@
         "AddressLine4": "",
         "PostCode": "TW18 4DY",
         "RatingValue": "5",
-        "RatingDate": "2024-05-22T00:00:00",
+        "RatingDate": "2026-05-01T00:00:00",
         "LocalAuthorityName": "Spelthorne",
         "LocalAuthorityCode": "311",
         "LocalAuthorityBusinessID": "04/00015/COMM"
@@ -10282,9 +10282,9 @@
         "FHRSID": 280342,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
-        "AddressLine1": "",
-        "AddressLine2": "10 Queen Victoria Street",
-        "AddressLine3": "Reading",
+        "AddressLine1": "10 Queen Victoria Street",
+        "AddressLine2": "Reading",
+        "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "RG1 1TG",
         "RatingValue": "5",
@@ -10296,8 +10296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.971887,
-          51.45633
+          -0.9718672,
+          51.4563941
         ]
       }
     },
@@ -10307,9 +10307,9 @@
         "FHRSID": 280457,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
-        "AddressLine1": "",
-        "AddressLine2": "82 Christchurch Road",
-        "AddressLine3": "Reading",
+        "AddressLine1": "82 Christchurch Road",
+        "AddressLine2": "Reading",
+        "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "RG2 7AZ",
         "RatingValue": "5",
@@ -10321,8 +10321,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.955688,
-          51.442789
+          -0.9551264,
+          51.4426412
         ]
       }
     },
@@ -10332,9 +10332,9 @@
         "FHRSID": 280662,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
-        "AddressLine1": "",
-        "AddressLine2": "38 Market Place",
-        "AddressLine3": "Reading",
+        "AddressLine1": "38 Market Place",
+        "AddressLine2": "Reading",
+        "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "RG1 2DE",
         "RatingValue": "5",
@@ -10346,8 +10346,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.969873,
-          51.455656
+          -0.9698702,
+          51.4555942
         ]
       }
     },
@@ -13063,7 +13063,7 @@
         "AddressLine4": "",
         "PostCode": "SW5 9RD",
         "RatingValue": "5",
-        "RatingDate": "2025-03-28T00:00:00",
+        "RatingDate": "2026-04-28T00:00:00",
         "LocalAuthorityName": "Kensington and Chelsea",
         "LocalAuthorityCode": "520",
         "LocalAuthorityBusinessID": "INSPF/95/572218"
@@ -14132,7 +14132,7 @@
         "FHRSID": 369895,
         "BusinessName": "Greggs",
         "BusinessTypeID": 7844,
-        "AddressLine1": "Unit 1  Market House",
+        "AddressLine1": "Unit 1 Market House",
         "AddressLine2": "Market Square",
         "AddressLine3": "Aylesbury",
         "AddressLine4": "Buckinghamshire",
@@ -14146,8 +14146,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.812437,
-          51.81674
+          -0.8122848,
+          51.816763
         ]
       }
     },
@@ -16563,7 +16563,7 @@
         "AddressLine4": "",
         "PostCode": "TW3 1BL",
         "RatingValue": "5",
-        "RatingDate": "2023-01-16T00:00:00",
+        "RatingDate": "2026-05-12T00:00:00",
         "LocalAuthorityName": "Hounslow",
         "LocalAuthorityCode": "518",
         "LocalAuthorityBusinessID": "14343"
@@ -23307,9 +23307,9 @@
         "FHRSID": 744327,
         "BusinessName": "Greggs",
         "BusinessTypeID": 7844,
-        "AddressLine1": "21 Trafalgar Street",
-        "AddressLine2": "Burnley",
-        "AddressLine3": "Lancashire",
+        "AddressLine1": "21 TRAFALGAR STREET",
+        "AddressLine2": "",
+        "AddressLine3": "BURNLEY",
         "AddressLine4": "",
         "PostCode": "BB11 1TQ",
         "RatingValue": "5",
@@ -23813,7 +23813,7 @@
         "AddressLine4": "Aberdare",
         "PostCode": "CF44 0AH",
         "RatingValue": "5",
-        "RatingDate": "2024-04-22T00:00:00",
+        "RatingDate": "2026-04-16T00:00:00",
         "LocalAuthorityName": "Rhondda Cynon Taf",
         "LocalAuthorityCode": "567",
         "LocalAuthorityBusinessID": "200927"
@@ -26087,8 +26087,8 @@
         "AddressLine3": "Basingstoke",
         "AddressLine4": "Hampshire",
         "PostCode": "RG21 6AH",
-        "RatingValue": "2",
-        "RatingDate": "2025-08-22T00:00:00",
+        "RatingValue": "4",
+        "RatingDate": "2026-04-15T00:00:00",
         "LocalAuthorityName": "Basingstoke and Deane",
         "LocalAuthorityCode": "131",
         "LocalAuthorityBusinessID": "16/00072/CP"
@@ -28154,31 +28154,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 968019,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "Unit 45a Bridgend Designer Outlet",
-        "AddressLine2": "Cefn Hirgoed",
-        "AddressLine3": "Bridgend",
-        "AddressLine4": "",
-        "PostCode": "CF32 9SU",
-        "RatingValue": "5",
-        "RatingDate": "2025-06-03T00:00:00",
-        "LocalAuthorityName": "Bridgend",
-        "LocalAuthorityCode": "553",
-        "LocalAuthorityBusinessID": "715164"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.5777721,
-          51.5309439
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 968035,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -29208,7 +29183,7 @@
         "BusinessName": "Greggs",
         "BusinessTypeID": 1,
         "AddressLine1": "13-15 Church Street",
-        "AddressLine2": "",
+        "AddressLine2": "Coleraine And Suburbs",
         "AddressLine3": "Coleraine",
         "AddressLine4": "Londonderry",
         "PostCode": "BT52 1AW",
@@ -29221,8 +29196,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.66871309280396,
-          55.1314849853516
+          -6.6693886,
+          55.1315027
         ]
       }
     },
@@ -35763,7 +35738,7 @@
         "AddressLine4": "Yeovil",
         "PostCode": "BA20 2TJ",
         "RatingValue": "5",
-        "RatingDate": "2024-01-16T00:00:00",
+        "RatingDate": "2026-05-12T00:00:00",
         "LocalAuthorityName": "Somerset",
         "LocalAuthorityCode": "281",
         "LocalAuthorityBusinessID": "65977"
@@ -37762,8 +37737,8 @@
         "AddressLine3": "Holywell Road",
         "AddressLine4": "Flintshire",
         "PostCode": "CH6 5GB",
-        "RatingValue": "4",
-        "RatingDate": "2024-10-22T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-05-13T00:00:00",
         "LocalAuthorityName": "Flintshire",
         "LocalAuthorityCode": "560",
         "LocalAuthorityBusinessID": "391743"
@@ -38707,9 +38682,9 @@
         "FHRSID": 1376562,
         "BusinessName": "Greggs",
         "BusinessTypeID": 7844,
-        "AddressLine1": "",
-        "AddressLine2": "203-205 Shinfield Road",
-        "AddressLine3": "Reading",
+        "AddressLine1": "203-205 Shinfield Road",
+        "AddressLine2": "Reading",
+        "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "RG2 8HA",
         "RatingValue": "5",
@@ -38721,8 +38696,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.945812,
-          51.427999
+          -0.9455288,
+          51.4283121
         ]
       }
     },
@@ -50105,7 +50080,7 @@
       "type": "Feature",
       "properties": {
         "FHRSID": 1706449,
-        "BusinessName": "Greggs (operated By Moto Hospitality) Winchester Southbound",
+        "BusinessName": "Greggs (operated By Moto Hospitality Store No6489) M3 SB",
         "BusinessTypeID": 1,
         "AddressLine1": "Moto Hospitality Ltd",
         "AddressLine2": "Winchester Services Southbound",
@@ -50113,7 +50088,7 @@
         "AddressLine4": "Winchester",
         "PostCode": "SO21 1PP",
         "RatingValue": "5",
-        "RatingDate": "2024-05-09T00:00:00",
+        "RatingDate": "2026-05-13T00:00:00",
         "LocalAuthorityName": "Winchester City",
         "LocalAuthorityCode": "143",
         "LocalAuthorityBusinessID": "24/00058/MIXED"
@@ -50213,7 +50188,7 @@
         "AddressLine4": "",
         "PostCode": "CF45 3PG",
         "RatingValue": "5",
-        "RatingDate": "2024-04-12T00:00:00",
+        "RatingDate": "2026-04-22T00:00:00",
         "LocalAuthorityName": "Rhondda Cynon Taf",
         "LocalAuthorityCode": "567",
         "LocalAuthorityBusinessID": "244240"
@@ -50538,7 +50513,7 @@
         "AddressLine4": "",
         "PostCode": "BH15 3TE",
         "RatingValue": "5",
-        "RatingDate": "2024-05-23T00:00:00",
+        "RatingDate": "2026-05-06T00:00:00",
         "LocalAuthorityName": "Bournemouth, Christchurch and Poole",
         "LocalAuthorityCode": "872",
         "LocalAuthorityBusinessID": "173826"
@@ -51507,10 +51482,10 @@
         "FHRSID": 1743507,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 7844,
-        "AddressLine1": "Service Station",
-        "AddressLine2": "Rossendale Road",
-        "AddressLine3": "Burnley",
-        "AddressLine4": "Lancashire",
+        "AddressLine1": "SERVICE STATION ROSSENDALE ROAD BURNLEY",
+        "AddressLine2": "",
+        "AddressLine3": "HABERGHAM EAVES",
+        "AddressLine4": "",
         "PostCode": "BB11 5HU",
         "RatingValue": "5",
         "RatingDate": "2024-09-10T00:00:00",
@@ -52087,8 +52062,8 @@
         "AddressLine3": "Liverpool",
         "AddressLine4": "",
         "PostCode": "L5 9ZH",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-05-13T00:00:00",
         "LocalAuthorityName": "Liverpool",
         "LocalAuthorityCode": "414",
         "LocalAuthorityBusinessID": "95112"
@@ -55863,7 +55838,7 @@
         "AddressLine4": "",
         "PostCode": "M1 2GH",
         "RatingValue": "4",
-        "RatingDate": "2024-09-14T00:00:00",
+        "RatingDate": "2026-05-01T00:00:00",
         "LocalAuthorityName": "Manchester",
         "LocalAuthorityCode": "415",
         "LocalAuthorityBusinessID": "AC-072024-013986"
@@ -56654,6 +56629,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1834110,
+        "BusinessName": "Greggs",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "162 Bath Road",
+        "AddressLine2": "Reading",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "RG30 2HA",
+        "RatingValue": "5",
+        "RatingDate": "2025-04-22T00:00:00",
+        "LocalAuthorityName": "Reading",
+        "LocalAuthorityCode": "884",
+        "LocalAuthorityBusinessID": "06547"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0207296,
+          51.4443676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1834543,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 1,
@@ -56954,6 +56954,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1843087,
+        "BusinessName": "Greggs",
+        "BusinessTypeID": 1,
+        "AddressLine1": "STARBUCKS SHOWGROUND SERVICES",
+        "AddressLine2": "HORNCASTLE LANE",
+        "AddressLine3": "NORTH CARLTON",
+        "AddressLine4": "LINCOLN",
+        "PostCode": "LN1 2ZR",
+        "RatingValue": "5",
+        "RatingDate": "2025-09-16T00:00:00",
+        "LocalAuthorityName": "West Lindsey",
+        "LocalAuthorityCode": "225",
+        "LocalAuthorityBusinessID": "148733"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.541765,
+          53.2902445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1843193,
         "BusinessName": "Esso Rontec Portsbridge - Morrisons Daily & Greggs",
         "BusinessTypeID": 7840,
@@ -57098,56 +57123,6 @@
         "coordinates": [
           -0.094999,
           51.481765
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1847667,
-        "BusinessName": "Greggs at Broad St Mall",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "",
-        "AddressLine2": "Broad Street",
-        "AddressLine3": "Reading",
-        "AddressLine4": "",
-        "PostCode": "RG1 7QE",
-        "RatingValue": "5",
-        "RatingDate": "2024-10-25T00:00:00",
-        "LocalAuthorityName": "Reading",
-        "LocalAuthorityCode": "884",
-        "LocalAuthorityBusinessID": "6540"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.975908,
-          51.454819
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1847672,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 7844,
-        "AddressLine1": "",
-        "AddressLine2": "162 Bath Road",
-        "AddressLine3": "Reading",
-        "AddressLine4": "",
-        "PostCode": "RG30 2HA",
-        "RatingValue": "5",
-        "RatingDate": "2025-04-22T00:00:00",
-        "LocalAuthorityName": "Reading",
-        "LocalAuthorityCode": "884",
-        "LocalAuthorityBusinessID": "6547"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.020042,
-          51.444406
         ]
       }
     },
@@ -60912,8 +60887,8 @@
         "AddressLine3": "Rickmansworth",
         "AddressLine4": "Hertfordshire",
         "PostCode": "WD3 7BQ",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-04-10T00:00:00",
         "LocalAuthorityName": "Three Rivers",
         "LocalAuthorityCode": "162",
         "LocalAuthorityBusinessID": "26/00015/FOOD2"
@@ -61782,10 +61757,10 @@
         "FHRSID": 1939096,
         "BusinessName": "Greggs",
         "BusinessTypeID": 1,
-        "AddressLine1": "Capelgate Filling Station London Road",
-        "AddressLine2": "Capel St Mary",
-        "AddressLine3": "IPSWICH",
-        "AddressLine4": "Suffolk",
+        "AddressLine1": "Capelgate Filling Station",
+        "AddressLine2": "London Road",
+        "AddressLine3": "Capel St Mary",
+        "AddressLine4": "IPSWICH",
         "PostCode": "IP9 2JJ",
         "RatingValue": "AwaitingInspection",
         "RatingDate": "1901-01-01T00:00:00",
@@ -61796,8 +61771,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.0576232,
-          52.0034795
+          1.05784,
+          52.004972
         ]
       }
     },
@@ -61973,6 +61948,56 @@
         "coordinates": [
           -3.526978,
           50.4638517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1946347,
+        "BusinessName": "Greggs",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "Unit 6",
+        "AddressLine2": "1221 Gallowgate",
+        "AddressLine3": "Glasgow",
+        "AddressLine4": "",
+        "PostCode": "G31 4EB",
+        "RatingValue": "Awaiting Inspection",
+        "RatingDate": "2026-05-14T00:00:00",
+        "LocalAuthorityName": "Glasgow City",
+        "LocalAuthorityCode": "776",
+        "LocalAuthorityBusinessID": "26/00538/COM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1996415,
+          55.8538803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1947837,
+        "BusinessName": "Greggs",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "Belmont Garage",
+        "AddressLine2": "Rochdale Road",
+        "AddressLine3": "Sowerby Bridge",
+        "AddressLine4": "Calderdale",
+        "PostCode": "HX6 3BL",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Calderdale",
+        "LocalAuthorityCode": "406",
+        "LocalAuthorityBusinessID": "26/00165/COMM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9205926,
+          53.7018025
         ]
       }
     }
