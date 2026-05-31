@@ -4463,7 +4463,7 @@
         "AddressLine4": "",
         "PostCode": "BB11 1BA",
         "RatingValue": "5",
-        "RatingDate": "2022-07-08T00:00:00",
+        "RatingDate": "2024-06-05T00:00:00",
         "LocalAuthorityName": "Burnley",
         "LocalAuthorityCode": "196",
         "LocalAuthorityBusinessID": "48674"
@@ -5632,10 +5632,10 @@
         "FHRSID": 151171,
         "BusinessName": "Greggs",
         "BusinessTypeID": 7844,
-        "AddressLine1": "259 Brook Street",
-        "AddressLine2": "Broughty Ferry",
-        "AddressLine3": "Dundee",
-        "AddressLine4": "",
+        "AddressLine1": "",
+        "AddressLine2": "259 Brook Street",
+        "AddressLine3": "Broughty Ferry",
+        "AddressLine4": "Dundee",
         "PostCode": "DD5 2AG",
         "RatingValue": "Pass",
         "RatingDate": "2025-02-17T00:00:00",
@@ -5657,9 +5657,9 @@
         "FHRSID": 151181,
         "BusinessName": "Greggs",
         "BusinessTypeID": 7844,
-        "AddressLine1": "134 Strathmartine Road",
-        "AddressLine2": "Dundee",
-        "AddressLine3": "",
+        "AddressLine1": "",
+        "AddressLine2": "134 Strathmartine Road",
+        "AddressLine3": "Dundee",
         "AddressLine4": "",
         "PostCode": "DD3 7SE",
         "RatingValue": "Pass",
@@ -5671,8 +5671,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.980768,
-          56.474845
+          -2.980446,
+          56.4742994
         ]
       }
     },
@@ -15012,8 +15012,8 @@
         "AddressLine3": "",
         "AddressLine4": "London",
         "PostCode": "EC1N 7TS",
-        "RatingValue": "2",
-        "RatingDate": "2025-11-26T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-05-19T00:00:00",
         "LocalAuthorityName": "Camden",
         "LocalAuthorityCode": "506",
         "LocalAuthorityBusinessID": "9549"
@@ -16098,6 +16098,31 @@
         "coordinates": [
           -1.35659396648407,
           53.510181427002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 461644,
+        "BusinessName": "Greggs plc",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "228 Bawtry Road",
+        "AddressLine3": "Wickersley",
+        "AddressLine4": "Rotherham",
+        "PostCode": "S66 1AA",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Rotherham",
+        "LocalAuthorityCode": "420",
+        "LocalAuthorityBusinessID": "5886"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2839241,
+          53.4208707
         ]
       }
     },
@@ -17288,7 +17313,7 @@
         "AddressLine4": "Milton Keynes",
         "PostCode": "MK1 1BN",
         "RatingValue": "5",
-        "RatingDate": "2024-08-03T00:00:00",
+        "RatingDate": "2026-05-20T00:00:00",
         "LocalAuthorityName": "Milton Keynes",
         "LocalAuthorityCode": "870",
         "LocalAuthorityBusinessID": "82179"
@@ -18888,7 +18913,7 @@
         "AddressLine4": "",
         "PostCode": "KT4 8DY",
         "RatingValue": "5",
-        "RatingDate": "2024-05-21T00:00:00",
+        "RatingDate": "2026-05-19T00:00:00",
         "LocalAuthorityName": "Sutton",
         "LocalAuthorityCode": "529",
         "LocalAuthorityBusinessID": "06170/0125/0/000"
@@ -23163,7 +23188,7 @@
         "AddressLine4": "",
         "PostCode": "BA1 1AQ",
         "RatingValue": "5",
-        "RatingDate": "2024-04-16T00:00:00",
+        "RatingDate": "2026-05-28T00:00:00",
         "LocalAuthorityName": "Bath and North East Somerset",
         "LocalAuthorityCode": "857",
         "LocalAuthorityBusinessID": "14/00353/MIXED"
@@ -23707,9 +23732,9 @@
         "FHRSID": 766936,
         "BusinessName": "Greggs",
         "BusinessTypeID": 7844,
-        "AddressLine1": "7-9 Cowgate",
-        "AddressLine2": "Dundee",
-        "AddressLine3": "",
+        "AddressLine1": "",
+        "AddressLine2": "7-9 Cowgate",
+        "AddressLine3": "Dundee",
         "AddressLine4": "",
         "PostCode": "DD1 2HS",
         "RatingValue": "Pass",
@@ -23721,8 +23746,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.968285,
-          56.463424
+          -2.9682537,
+          56.4634431
         ]
       }
     },
@@ -25307,9 +25332,9 @@
         "FHRSID": 866114,
         "BusinessName": "Greggs",
         "BusinessTypeID": 7844,
-        "AddressLine1": "Overgate Lane",
-        "AddressLine2": "Dundee",
-        "AddressLine3": "",
+        "AddressLine1": "Unit L30 Overgate Shopping Centre",
+        "AddressLine2": "Overgate Lane",
+        "AddressLine3": "Dundee",
         "AddressLine4": "",
         "PostCode": "DD1 1UF",
         "RatingValue": "Pass",
@@ -25321,8 +25346,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.972761,
-          56.460119
+          -2.9730014,
+          56.4599829
         ]
       }
     },
@@ -32288,7 +32313,7 @@
         "AddressLine4": "South Wales",
         "PostCode": "NP20 4GA",
         "RatingValue": "5",
-        "RatingDate": "2024-02-15T00:00:00",
+        "RatingDate": "2026-05-22T00:00:00",
         "LocalAuthorityName": "Newport",
         "LocalAuthorityCode": "564",
         "LocalAuthorityBusinessID": "18/00189/MIXED"
@@ -33363,7 +33388,7 @@
         "AddressLine4": "Vale Of Glamorgan",
         "PostCode": "CF62 5TQ",
         "RatingValue": "5",
-        "RatingDate": "2024-10-03T00:00:00",
+        "RatingDate": "2026-05-13T00:00:00",
         "LocalAuthorityName": "Vale of Glamorgan",
         "LocalAuthorityCode": "570",
         "LocalAuthorityBusinessID": "770056"
@@ -33957,10 +33982,10 @@
         "FHRSID": 1175301,
         "BusinessName": "Greggs",
         "BusinessTypeID": 7844,
-        "AddressLine1": "17 Broomhill Road",
-        "AddressLine2": "Dunsinane Industrial Estate",
-        "AddressLine3": "Dundee",
-        "AddressLine4": "",
+        "AddressLine1": "Unit 3 Angus Court",
+        "AddressLine2": "17 Broomhill Road",
+        "AddressLine3": "Dunsinane Industrial Estate",
+        "AddressLine4": "Dundee",
         "PostCode": "DD2 3WT",
         "RatingValue": "Pass",
         "RatingDate": "2025-02-06T00:00:00",
@@ -33971,8 +33996,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.0154571,
-          56.481187
+          -3.0154894,
+          56.4812892
         ]
       }
     },
@@ -36688,7 +36713,7 @@
         "AddressLine4": "",
         "PostCode": "HD1 6PF",
         "RatingValue": "5",
-        "RatingDate": "2024-06-19T00:00:00",
+        "RatingDate": "2026-05-18T00:00:00",
         "LocalAuthorityName": "Kirklees",
         "LocalAuthorityCode": "411",
         "LocalAuthorityBusinessID": "PI/000290296"
@@ -38663,7 +38688,7 @@
         "AddressLine4": "",
         "PostCode": "KA8 8HD",
         "RatingValue": "Pass",
-        "RatingDate": "2024-10-30T00:00:00",
+        "RatingDate": "2026-05-28T00:00:00",
         "LocalAuthorityName": "South Ayrshire",
         "LocalAuthorityCode": "766",
         "LocalAuthorityBusinessID": "20/00239/COMM"
@@ -39888,7 +39913,7 @@
         "AddressLine4": "Milton Keynes",
         "PostCode": "MK10 0BA",
         "RatingValue": "5",
-        "RatingDate": "2024-08-14T00:00:00",
+        "RatingDate": "2026-05-19T00:00:00",
         "LocalAuthorityName": "Milton Keynes",
         "LocalAuthorityCode": "870",
         "LocalAuthorityBusinessID": "93371"
@@ -40505,7 +40530,7 @@
       "type": "Feature",
       "properties": {
         "FHRSID": 1453804,
-        "BusinessName": "Greggs Milton Keynes",
+        "BusinessName": "Greggs",
         "BusinessTypeID": 7844,
         "AddressLine1": "Asda",
         "AddressLine2": "Bletcham Way",
@@ -40513,7 +40538,7 @@
         "AddressLine4": "Milton Keynes",
         "PostCode": "MK1 1QB",
         "RatingValue": "5",
-        "RatingDate": "2024-08-04T00:00:00",
+        "RatingDate": "2026-05-20T00:00:00",
         "LocalAuthorityName": "Milton Keynes",
         "LocalAuthorityCode": "870",
         "LocalAuthorityBusinessID": "93576"
@@ -40682,9 +40707,9 @@
         "FHRSID": 1486931,
         "BusinessName": "Greggs",
         "BusinessTypeID": 1,
-        "AddressLine1": "80 High Street",
-        "AddressLine2": "Dundee",
-        "AddressLine3": "",
+        "AddressLine1": "",
+        "AddressLine2": "80 High Street",
+        "AddressLine3": "Dundee",
         "AddressLine4": "",
         "PostCode": "DD1 1SD",
         "RatingValue": "Pass",
@@ -40696,8 +40721,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.969526,
-          56.461186
+          -2.9693231,
+          56.4614672
         ]
       }
     },
@@ -45213,7 +45238,7 @@
         "AddressLine4": "Peterborough",
         "PostCode": "PE7 8BE",
         "RatingValue": "5",
-        "RatingDate": "2023-05-03T00:00:00",
+        "RatingDate": "2026-05-14T00:00:00",
         "LocalAuthorityName": "Peterborough City",
         "LocalAuthorityCode": "888",
         "LocalAuthorityBusinessID": "124472"
@@ -46757,9 +46782,9 @@
         "FHRSID": 1647221,
         "BusinessName": "Greggs Plc",
         "BusinessTypeID": 7844,
-        "AddressLine1": "Harefield Road",
-        "AddressLine2": "Dundee",
-        "AddressLine3": "",
+        "AddressLine1": "Unit 9 The Stack Leisure Park",
+        "AddressLine2": "Harefield Road",
+        "AddressLine3": "Dundee",
         "AddressLine4": "",
         "PostCode": "DD2 3XN",
         "RatingValue": "Pass",
@@ -46771,8 +46796,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.007199,
-          56.474309
+          -3.0043467,
+          56.4743616
         ]
       }
     },
@@ -47232,9 +47257,9 @@
         "FHRSID": 1660239,
         "BusinessName": "Greggs @ Tesco Extra",
         "BusinessTypeID": 7844,
-        "AddressLine1": "467 Clepington Road",
-        "AddressLine2": "Dundee",
-        "AddressLine3": "",
+        "AddressLine1": "Tesco Stores Ltd Kingsway West Retail Park",
+        "AddressLine2": "467 Clepington Road",
+        "AddressLine3": "Dundee",
         "AddressLine4": "",
         "PostCode": "DD3 8QB",
         "RatingValue": "Pass",
@@ -47246,8 +47271,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.992534,
-          56.482801
+          -2.9954403,
+          56.4808916
         ]
       }
     },
@@ -57854,31 +57879,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1862058,
-        "BusinessName": "Greggs PLC",
-        "BusinessTypeID": 7844,
-        "AddressLine1": "",
-        "AddressLine2": "2-3 St Marys Green",
-        "AddressLine3": "Whickham",
-        "AddressLine4": "Whickham",
-        "PostCode": "NE16 4DN",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
-        "LocalAuthorityName": "Gateshead",
-        "LocalAuthorityCode": "410",
-        "LocalAuthorityBusinessID": "100703"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6767182,
-          54.945979
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1862143,
         "BusinessName": "Greggs",
         "BusinessTypeID": 7844,
@@ -61687,8 +61687,8 @@
         "AddressLine3": "Braintree",
         "AddressLine4": "Essex",
         "PostCode": "CM7 2QS",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-05-12T00:00:00",
         "LocalAuthorityName": "Braintree",
         "LocalAuthorityCode": "110",
         "LocalAuthorityBusinessID": "26/00132/MIXED"

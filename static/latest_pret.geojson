@@ -11079,6 +11079,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1920623,
+        "BusinessName": "Pret A Manager",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Oakwood Gate Service Station",
+        "AddressLine2": "Oakwood Gate",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "WA3 6RW",
+        "RatingValue": "5",
+        "RatingDate": "2026-05-15T00:00:00",
+        "LocalAuthorityName": "Warrington",
+        "LocalAuthorityCode": "890",
+        "LocalAuthorityBusinessID": "132544"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.527744,
+          53.4193563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1920927,
         "BusinessName": "Pret a Manger",
         "BusinessTypeID": 1,
