@@ -213,7 +213,7 @@
         "AddressLine4": "",
         "PostCode": "E14 5NY",
         "RatingValue": "5",
-        "RatingDate": "2024-05-29T00:00:00",
+        "RatingDate": "2026-06-01T00:00:00",
         "LocalAuthorityName": "Tower Hamlets",
         "LocalAuthorityCode": "530",
         "LocalAuthorityBusinessID": "19787"
@@ -888,7 +888,7 @@
         "AddressLine4": "",
         "PostCode": "EC2V 7PG",
         "RatingValue": "5",
-        "RatingDate": "2022-05-18T00:00:00",
+        "RatingDate": "2026-05-29T00:00:00",
         "LocalAuthorityName": "City of London Corporation",
         "LocalAuthorityCode": "508",
         "LocalAuthorityBusinessID": "PI/000014990"
@@ -1063,7 +1063,7 @@
         "AddressLine4": "",
         "PostCode": "EC1A 4HD",
         "RatingValue": "5",
-        "RatingDate": "2022-09-30T00:00:00",
+        "RatingDate": "2026-05-29T00:00:00",
         "LocalAuthorityName": "City of London Corporation",
         "LocalAuthorityCode": "508",
         "LocalAuthorityBusinessID": "PI/000017321"
@@ -3888,7 +3888,7 @@
         "AddressLine4": "Birmingham",
         "PostCode": "B5 4BU",
         "RatingValue": "5",
-        "RatingDate": "2020-08-11T00:00:00",
+        "RatingDate": "2026-05-19T00:00:00",
         "LocalAuthorityName": "Birmingham",
         "LocalAuthorityCode": "402",
         "LocalAuthorityBusinessID": "PI/000487483"
@@ -6462,8 +6462,8 @@
         "AddressLine3": "LONDON",
         "AddressLine4": "",
         "PostCode": "W1T 1HN",
-        "RatingValue": "4",
-        "RatingDate": "2024-03-13T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-05-28T00:00:00",
         "LocalAuthorityName": "Westminster",
         "LocalAuthorityCode": "533",
         "LocalAuthorityBusinessID": "01522/0007/0/000"
@@ -7588,7 +7588,7 @@
         "AddressLine4": "London",
         "PostCode": "SE1 8XX",
         "RatingValue": "5",
-        "RatingDate": "2022-04-09T00:00:00",
+        "RatingDate": "2026-05-30T00:00:00",
         "LocalAuthorityName": "Lambeth",
         "LocalAuthorityCode": "522",
         "LocalAuthorityBusinessID": "22/00105/COMM"
@@ -8988,7 +8988,7 @@
         "AddressLine4": "",
         "PostCode": "CR0 1LD",
         "RatingValue": "5",
-        "RatingDate": "2024-02-28T00:00:00",
+        "RatingDate": "2026-05-11T00:00:00",
         "LocalAuthorityName": "Croydon",
         "LocalAuthorityCode": "507",
         "LocalAuthorityBusinessID": "23/00775/COMM"
@@ -9758,9 +9758,9 @@
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 7839,
         "AddressLine1": "142 Terminus Road",
-        "AddressLine2": "Eastbourne",
-        "AddressLine3": "East Sussex",
-        "AddressLine4": "",
+        "AddressLine2": "",
+        "AddressLine3": "Eastbourne",
+        "AddressLine4": "East Sussex",
         "PostCode": "BN21 3AN",
         "RatingValue": "5",
         "RatingDate": "2025-01-15T00:00:00",
@@ -9771,8 +9771,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.286313,
-          50.768208
+          0.2864659,
+          50.7681903
         ]
       }
     },
@@ -11198,6 +11198,31 @@
         "coordinates": [
           -0.397466,
           51.55943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1955968,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "134A West Hill",
+        "AddressLine2": "",
+        "AddressLine3": "London",
+        "AddressLine4": "Wandsworth",
+        "PostCode": "SW15 2UE",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Wandsworth",
+        "LocalAuthorityCode": "532",
+        "LocalAuthorityBusinessID": "26656"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2110576,
+          51.454318
         ]
       }
     }
