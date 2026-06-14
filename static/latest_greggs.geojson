@@ -8113,7 +8113,7 @@
         "AddressLine4": "",
         "PostCode": "WF13 1NH",
         "RatingValue": "5",
-        "RatingDate": "2024-04-10T00:00:00",
+        "RatingDate": "2026-05-28T00:00:00",
         "LocalAuthorityName": "Kirklees",
         "LocalAuthorityCode": "411",
         "LocalAuthorityBusinessID": "PI/000078371"
@@ -17988,7 +17988,7 @@
         "AddressLine4": "Carlisle",
         "PostCode": "CA4 0NT",
         "RatingValue": "5",
-        "RatingDate": "2024-03-01T00:00:00",
+        "RatingDate": "2026-06-08T00:00:00",
         "LocalAuthorityName": "Westmorland and Furness",
         "LocalAuthorityCode": "056",
         "LocalAuthorityBusinessID": "7050"
@@ -22213,7 +22213,7 @@
         "AddressLine4": "Leatherhead",
         "PostCode": "KT22 8AN",
         "RatingValue": "5",
-        "RatingDate": "2024-08-08T00:00:00",
+        "RatingDate": "2026-06-04T00:00:00",
         "LocalAuthorityName": "Mole Valley",
         "LocalAuthorityCode": "308",
         "LocalAuthorityBusinessID": "76690"
@@ -24113,7 +24113,7 @@
         "AddressLine4": "",
         "PostCode": "HD3 3QP",
         "RatingValue": "5",
-        "RatingDate": "2023-10-23T00:00:00",
+        "RatingDate": "2026-05-29T00:00:00",
         "LocalAuthorityName": "Kirklees",
         "LocalAuthorityCode": "411",
         "LocalAuthorityBusinessID": "PI/000280381"
@@ -26888,7 +26888,7 @@
         "AddressLine4": "Southwaite",
         "PostCode": "CA4 0NT",
         "RatingValue": "5",
-        "RatingDate": "2024-03-08T00:00:00",
+        "RatingDate": "2026-05-28T00:00:00",
         "LocalAuthorityName": "Westmorland and Furness",
         "LocalAuthorityCode": "056",
         "LocalAuthorityBusinessID": "8173"
@@ -27388,7 +27388,7 @@
         "AddressLine4": "",
         "PostCode": "NE46 4DL",
         "RatingValue": "5",
-        "RatingDate": "2024-05-17T00:00:00",
+        "RatingDate": "2026-05-29T00:00:00",
         "LocalAuthorityName": "Northumberland",
         "LocalAuthorityCode": "707",
         "LocalAuthorityBusinessID": "48841"
@@ -28613,7 +28613,7 @@
         "AddressLine4": "",
         "PostCode": "CF10 2BW",
         "RatingValue": "5",
-        "RatingDate": "2024-12-06T00:00:00",
+        "RatingDate": "2026-06-01T00:00:00",
         "LocalAuthorityName": "Cardiff",
         "LocalAuthorityCode": "556",
         "LocalAuthorityBusinessID": "747008"
@@ -28963,7 +28963,7 @@
         "AddressLine4": "",
         "PostCode": "EX31 1JB",
         "RatingValue": "5",
-        "RatingDate": "2024-03-22T00:00:00",
+        "RatingDate": "2026-06-02T00:00:00",
         "LocalAuthorityName": "North Devon",
         "LocalAuthorityCode": "075",
         "LocalAuthorityBusinessID": "PI/000070962"
@@ -31588,7 +31588,7 @@
         "AddressLine4": "",
         "PostCode": "WA14 5QQ",
         "RatingValue": "5",
-        "RatingDate": "2024-05-10T00:00:00",
+        "RatingDate": "2026-06-02T00:00:00",
         "LocalAuthorityName": "Trafford",
         "LocalAuthorityCode": "431",
         "LocalAuthorityBusinessID": "63916"
@@ -31938,7 +31938,7 @@
         "AddressLine4": "Devon",
         "PostCode": "EX31 1LT",
         "RatingValue": "5",
-        "RatingDate": "2024-02-21T00:00:00",
+        "RatingDate": "2026-06-02T00:00:00",
         "LocalAuthorityName": "North Devon",
         "LocalAuthorityCode": "075",
         "LocalAuthorityBusinessID": "PI/000082157"
@@ -34738,7 +34738,7 @@
         "AddressLine4": "Shropshire",
         "PostCode": "SY3 0DA",
         "RatingValue": "5",
-        "RatingDate": "2023-08-02T00:00:00",
+        "RatingDate": "2026-06-08T00:00:00",
         "LocalAuthorityName": "Shropshire",
         "LocalAuthorityCode": "708",
         "LocalAuthorityBusinessID": "19/00556/COMM"
@@ -36606,11 +36606,11 @@
       "properties": {
         "FHRSID": 1286310,
         "BusinessName": "Greggs",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Unit 2",
-        "AddressLine2": "Bulverhythe Retail Park",
-        "AddressLine3": "Bexhill Road",
-        "AddressLine4": "St Leonards-on-sea",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "Unit 2 Bulverhythe Retail Park Bexhill Road",
+        "AddressLine2": "",
+        "AddressLine3": "St Leonards-on-sea",
+        "AddressLine4": "East Sussex",
         "PostCode": "TN38 8FA",
         "RatingValue": "5",
         "RatingDate": "2024-09-25T00:00:00",
@@ -37138,7 +37138,7 @@
         "AddressLine4": "",
         "PostCode": "CT19 4DP",
         "RatingValue": "5",
-        "RatingDate": "2021-09-19T00:00:00",
+        "RatingDate": "2026-06-09T00:00:00",
         "LocalAuthorityName": "Folkestone and Hythe",
         "LocalAuthorityCode": "188",
         "LocalAuthorityBusinessID": "PI/000078065"
@@ -39413,7 +39413,7 @@
         "AddressLine4": "",
         "PostCode": "G67 1AW",
         "RatingValue": "Pass",
-        "RatingDate": "2024-11-19T00:00:00",
+        "RatingDate": "2026-06-08T00:00:00",
         "LocalAuthorityName": "North Lanarkshire",
         "LocalAuthorityCode": "779",
         "LocalAuthorityBusinessID": "C24HNL1SOU/1"
@@ -41038,7 +41038,7 @@
         "AddressLine4": "Buckinghamshire",
         "PostCode": "MK18 1RY",
         "RatingValue": "5",
-        "RatingDate": "2024-05-09T00:00:00",
+        "RatingDate": "2026-05-06T00:00:00",
         "LocalAuthorityName": "Buckinghamshire",
         "LocalAuthorityCode": "021",
         "LocalAuthorityBusinessID": "EH/00050640"
@@ -45105,7 +45105,7 @@
       "type": "Feature",
       "properties": {
         "FHRSID": 1608449,
-        "BusinessName": "Greggs PLC",
+        "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
         "AddressLine1": "Unit 8 Alvis Retail Park Holyhead Road",
         "AddressLine2": "",
@@ -45113,7 +45113,7 @@
         "AddressLine4": "Coventry",
         "PostCode": "CV5 8BW",
         "RatingValue": "5",
-        "RatingDate": "2023-07-12T00:00:00",
+        "RatingDate": "2026-06-03T00:00:00",
         "LocalAuthorityName": "Coventry",
         "LocalAuthorityCode": "407",
         "LocalAuthorityBusinessID": "PI/000222593"
@@ -49513,7 +49513,7 @@
         "AddressLine4": "Staffordshire",
         "PostCode": "WS13 6RJ",
         "RatingValue": "5",
-        "RatingDate": "2024-05-24T00:00:00",
+        "RatingDate": "2026-05-20T00:00:00",
         "LocalAuthorityName": "Lichfield",
         "LocalAuthorityCode": "289",
         "LocalAuthorityBusinessID": "24/02180/COMM"
@@ -49536,7 +49536,7 @@
         "AddressLine2": "Woodstock Road",
         "AddressLine3": "Oxford",
         "AddressLine4": "Oxfordshire",
-        "PostCode": "",
+        "PostCode": "OX2 8JD",
         "RatingValue": "5",
         "RatingDate": "2024-02-23T00:00:00",
         "LocalAuthorityName": "Oxford City",
@@ -49546,8 +49546,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.283556,
-          51.794358
+          -1.28417,
+          51.794131
         ]
       }
     },
@@ -53081,7 +53081,7 @@
       "properties": {
         "FHRSID": 1771409,
         "BusinessName": "Greggs PLC",
-        "BusinessTypeID": 4613,
+        "BusinessTypeID": 1,
         "AddressLine1": "Unit 1 36 Wansbeck Road South",
         "AddressLine2": "Gosforth",
         "AddressLine3": "Newcastle Upon Tyne",
@@ -53806,11 +53806,11 @@
       "properties": {
         "FHRSID": 1787723,
         "BusinessName": "Greggs",
-        "BusinessTypeID": 7844,
-        "AddressLine1": "15-16 Queens Road",
-        "AddressLine2": "Hastings",
-        "AddressLine3": "East Sussex",
-        "AddressLine4": "",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "15 - 16 Queens Road",
+        "AddressLine2": "",
+        "AddressLine3": "Hastings",
+        "AddressLine4": "East Sussex",
         "PostCode": "TN34 1QY",
         "RatingValue": "5",
         "RatingDate": "2025-03-12T00:00:00",
@@ -53821,8 +53821,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.5813914,
-          50.8565646
+          0.5816503,
+          50.8564421
         ]
       }
     },
@@ -56223,31 +56223,6 @@
         "coordinates": [
           -3.5670197,
           50.4356091
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1825363,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "22 Union Square Torquay",
-        "AddressLine2": "",
-        "AddressLine3": "",
-        "AddressLine4": "",
-        "PostCode": "TQ1 3UT",
-        "RatingValue": "5",
-        "RatingDate": "2024-11-05T00:00:00",
-        "LocalAuthorityName": "Torbay",
-        "LocalAuthorityCode": "892",
-        "LocalAuthorityBusinessID": "143360435642786"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.5294894,
-          50.4670116
         ]
       }
     },
@@ -61729,31 +61704,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1947837,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 7844,
-        "AddressLine1": "Belmont Garage",
-        "AddressLine2": "Rochdale Road",
-        "AddressLine3": "Sowerby Bridge",
-        "AddressLine4": "Calderdale",
-        "PostCode": "HX6 3BL",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
-        "LocalAuthorityName": "Calderdale",
-        "LocalAuthorityCode": "406",
-        "LocalAuthorityBusinessID": "26/00165/COMM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.9205926,
-          53.7018025
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1951608,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -61923,6 +61873,31 @@
         "coordinates": [
           -0.141806,
           50.819992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1957392,
+        "BusinessName": "Greggs Nantwich",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Station Road",
+        "AddressLine2": "Nantwich",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "CW5 5SP",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Cheshire East",
+        "LocalAuthorityCode": "703",
+        "LocalAuthorityBusinessID": "Cx20424"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.51953,
+          53.0643257
         ]
       }
     }

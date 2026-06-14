@@ -4213,7 +4213,7 @@
         "AddressLine4": "",
         "PostCode": "SW3 4NB",
         "RatingValue": "5",
-        "RatingDate": "2024-06-03T00:00:00",
+        "RatingDate": "2026-06-04T00:00:00",
         "LocalAuthorityName": "Kensington and Chelsea",
         "LocalAuthorityCode": "520",
         "LocalAuthorityBusinessID": "INSPF/14/150848"
@@ -5363,7 +5363,7 @@
         "AddressLine4": "",
         "PostCode": "SW7 2ND",
         "RatingValue": "5",
-        "RatingDate": "2024-05-02T00:00:00",
+        "RatingDate": "2026-05-29T00:00:00",
         "LocalAuthorityName": "Kensington and Chelsea",
         "LocalAuthorityCode": "520",
         "LocalAuthorityBusinessID": "INSPF/17/201441"
@@ -6138,7 +6138,7 @@
         "AddressLine4": "",
         "PostCode": "BR1 1EY",
         "RatingValue": "5",
-        "RatingDate": "2024-07-29T00:00:00",
+        "RatingDate": "2026-05-27T00:00:00",
         "LocalAuthorityName": "Bromley",
         "LocalAuthorityCode": "505",
         "LocalAuthorityBusinessID": "18/00154/MIXED"
@@ -7548,6 +7548,31 @@
         "coordinates": [
           -1.25774,
           51.752356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1496105,
+        "BusinessName": "Pret A Manager",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Pret A Manger",
+        "AddressLine2": "254 The Westgate",
+        "AddressLine3": "Queen Street",
+        "AddressLine4": "Oxford",
+        "PostCode": "OX1 1PE",
+        "RatingValue": "5",
+        "RatingDate": "2024-07-30T00:00:00",
+        "LocalAuthorityName": "Oxford City",
+        "LocalAuthorityCode": "269",
+        "LocalAuthorityBusinessID": "22/00075/COM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2616964,
+          51.7496936
         ]
       }
     },
@@ -9263,7 +9288,7 @@
         "AddressLine4": "",
         "PostCode": "GL50 1DF",
         "RatingValue": "5",
-        "RatingDate": "2024-06-05T00:00:00",
+        "RatingDate": "2026-06-03T00:00:00",
         "LocalAuthorityName": "Cheltenham",
         "LocalAuthorityCode": "124",
         "LocalAuthorityBusinessID": "24/00049/FOOD"
@@ -11162,8 +11187,8 @@
         "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "N21 3RL",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-06-10T00:00:00",
         "LocalAuthorityName": "Enfield",
         "LocalAuthorityCode": "510",
         "LocalAuthorityBusinessID": "PI/000208963"
