@@ -7488,7 +7488,7 @@
         "AddressLine4": "",
         "PostCode": "E16 1ED",
         "RatingValue": "5",
-        "RatingDate": "2024-05-22T00:00:00",
+        "RatingDate": "2026-06-12T00:00:00",
         "LocalAuthorityName": "Newham",
         "LocalAuthorityCode": "525",
         "LocalAuthorityBusinessID": "22/00016/FOOD"
@@ -9163,7 +9163,7 @@
         "AddressLine4": "Fleet",
         "PostCode": "GU51 1AA",
         "RatingValue": "5",
-        "RatingDate": "2024-04-22T00:00:00",
+        "RatingDate": "2026-05-29T00:00:00",
         "LocalAuthorityName": "Hart",
         "LocalAuthorityCode": "136",
         "LocalAuthorityBusinessID": "24/00009/COMM"
@@ -10762,8 +10762,8 @@
         "AddressLine3": "LONDON",
         "AddressLine4": "",
         "PostCode": "SW1A 2JR",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-04-22T00:00:00",
         "LocalAuthorityName": "Westminster",
         "LocalAuthorityCode": "533",
         "LocalAuthorityBusinessID": "FZ9A8M-PSFSFP-DKABJR"
@@ -11156,14 +11156,14 @@
       "properties": {
         "FHRSID": 1930552,
         "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 4613,
+        "BusinessTypeID": 1,
         "AddressLine1": "Training Centre Aerodrome Service Station 38 Royston Road",
         "AddressLine2": "",
         "AddressLine3": "Duxford",
         "AddressLine4": "Cambridgeshire",
         "PostCode": "CB22 4QH",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-06-11T00:00:00",
         "LocalAuthorityName": "South Cambridgeshire",
         "LocalAuthorityCode": "032",
         "LocalAuthorityBusinessID": "9214851"
