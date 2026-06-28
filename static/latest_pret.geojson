@@ -4662,8 +4662,8 @@
         "AddressLine3": "LONDON",
         "AddressLine4": "",
         "PostCode": "SW1Y 4PE",
-        "RatingValue": "5",
-        "RatingDate": "2024-11-11T00:00:00",
+        "RatingValue": "4",
+        "RatingDate": "2026-05-18T00:00:00",
         "LocalAuthorityName": "Westminster",
         "LocalAuthorityCode": "533",
         "LocalAuthorityBusinessID": "13/00181/COMM"
@@ -7482,11 +7482,11 @@
         "FHRSID": 1439158,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
-        "AddressLine1": "2 Silvertown Way",
+        "AddressLine1": "2 Minnie Baldock Street",
         "AddressLine2": "Canning Town",
         "AddressLine3": "London",
         "AddressLine4": "",
-        "PostCode": "E16 1ED",
+        "PostCode": "E16 1YE",
         "RatingValue": "5",
         "RatingDate": "2026-06-12T00:00:00",
         "LocalAuthorityName": "Newham",
@@ -7496,8 +7496,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.0090005,
-          51.5149651
+          0.0091016,
+          51.5149977
         ]
       }
     },
@@ -9413,7 +9413,7 @@
         "AddressLine4": "Nottingham",
         "PostCode": "NG1 2ET",
         "RatingValue": "5",
-        "RatingDate": "2023-08-11T00:00:00",
+        "RatingDate": "2026-06-13T00:00:00",
         "LocalAuthorityName": "Nottingham City",
         "LocalAuthorityCode": "899",
         "LocalAuthorityBusinessID": "128765"
@@ -10779,31 +10779,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1893631,
-        "BusinessName": "Pret A Manger (Europe) Ltd",
-        "BusinessTypeID": 7844,
-        "AddressLine1": "T.O. Retail Unit 2 Lower Concourse Liverpool Street Station",
-        "AddressLine2": "Liverpool Street Station",
-        "AddressLine3": "Liverpool Street",
-        "AddressLine4": "London",
-        "PostCode": "EC2M 7PY",
-        "RatingValue": "5",
-        "RatingDate": "2026-01-30T00:00:00",
-        "LocalAuthorityName": "City of London Corporation",
-        "LocalAuthorityCode": "508",
-        "LocalAuthorityBusinessID": "25/00881/COMM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.0812419,
-          51.5181204
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1895278,
         "BusinessName": "Pret A Manger (Europe) Ltd",
         "BusinessTypeID": 1,
@@ -11157,11 +11132,11 @@
         "FHRSID": 1930552,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
-        "AddressLine1": "Training Centre Aerodrome Service Station 38 Royston Road",
+        "AddressLine1": "Aerodrome Service Station 38 Royston Road",
         "AddressLine2": "",
         "AddressLine3": "Duxford",
         "AddressLine4": "Cambridgeshire",
-        "PostCode": "CB22 4QH",
+        "PostCode": "CB22 4NW",
         "RatingValue": "5",
         "RatingDate": "2026-06-11T00:00:00",
         "LocalAuthorityName": "South Cambridgeshire",
@@ -11171,8 +11146,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.1310427,
-          52.0963426
+          0.1309753,
+          52.096155
         ]
       }
     },
