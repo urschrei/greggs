@@ -28,12 +28,12 @@
     "maplibre-gl": "^5.24.0"
   },
   "devDependencies": {
-    "autoprefixer": "^10.5.0",
-    "esbuild": "^0.28.0",
+    "autoprefixer": "^10.5.2",
+    "esbuild": "^0.28.1",
     "esbuild-plugin-browserslist": "^4.0.0",
     "esbuild-plugin-eslint": "^0.3.12",
     "esbuild-sass-plugin": "^3.7.0",
-    "eslint": "^10.4.1",
-    "postcss": "^8.5.15"
+    "eslint": "^10.6.0",
+    "postcss": "^8.5.16"
   }
 }
