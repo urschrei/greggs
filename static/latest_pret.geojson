@@ -2363,7 +2363,7 @@
         "AddressLine4": "",
         "PostCode": "WC2N 5DS",
         "RatingValue": "5",
-        "RatingDate": "2023-11-06T00:00:00",
+        "RatingDate": "2026-06-19T00:00:00",
         "LocalAuthorityName": "Westminster",
         "LocalAuthorityCode": "533",
         "LocalAuthorityBusinessID": "00264/0062/0/002"
@@ -2723,31 +2723,6 @@
         "coordinates": [
           -0.146815,
           51.4944297
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 428005,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "UNIT 36B TERMINUS PLACE",
-        "AddressLine2": "",
-        "AddressLine3": "LONDON",
-        "AddressLine4": "",
-        "PostCode": "SW1V 1JT",
-        "RatingValue": "5",
-        "RatingDate": "2023-06-26T00:00:00",
-        "LocalAuthorityName": "Westminster",
-        "LocalAuthorityCode": "533",
-        "LocalAuthorityBusinessID": "01056/2004/4/509"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.1443294,
-          51.4949749
         ]
       }
     },
@@ -3879,31 +3854,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 602773,
-        "BusinessName": "Pret A Manger Selfridges",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Selfridges",
-        "AddressLine2": "The Bullring",
-        "AddressLine3": "Lower Mall Bullring",
-        "AddressLine4": "Birmingham",
-        "PostCode": "B5 4BU",
-        "RatingValue": "5",
-        "RatingDate": "2026-05-19T00:00:00",
-        "LocalAuthorityName": "Birmingham",
-        "LocalAuthorityCode": "402",
-        "LocalAuthorityBusinessID": "PI/000487483"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.893917,
-          52.477946
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 617482,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 7844,
@@ -4063,7 +4013,7 @@
         "AddressLine4": "",
         "PostCode": "E15 1DA",
         "RatingValue": "5",
-        "RatingDate": "2024-08-09T00:00:00",
+        "RatingDate": "2026-06-24T00:00:00",
         "LocalAuthorityName": "Newham",
         "LocalAuthorityCode": "525",
         "LocalAuthorityBusinessID": "13/01602/FOOD"
@@ -4188,7 +4138,7 @@
         "AddressLine4": "",
         "PostCode": "EC2N 3AS",
         "RatingValue": "5",
-        "RatingDate": "2022-03-10T00:00:00",
+        "RatingDate": "2026-06-23T00:00:00",
         "LocalAuthorityName": "City of London Corporation",
         "LocalAuthorityCode": "508",
         "LocalAuthorityBusinessID": "PI/000025561"
@@ -4480,7 +4430,7 @@
       "type": "Feature",
       "properties": {
         "FHRSID": 726475,
-        "BusinessName": "Pret A Manger",
+        "BusinessName": "Pret A Manger (Store No 0287)",
         "BusinessTypeID": 1,
         "AddressLine1": "",
         "AddressLine2": "T3 (airside) Departures",
@@ -6013,7 +5963,7 @@
         "AddressLine4": "",
         "PostCode": "EH2 4BL",
         "RatingValue": "Pass",
-        "RatingDate": "2018-04-17T00:00:00",
+        "RatingDate": "2026-06-29T00:00:00",
         "LocalAuthorityName": "Edinburgh (City of)",
         "LocalAuthorityCode": "773",
         "LocalAuthorityBusinessID": "193593"
@@ -11223,6 +11173,31 @@
         "coordinates": [
           -0.2110576,
           51.454318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1963660,
+        "BusinessName": "Pret a Manger (Europe) Ltd",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Units 14-15",
+        "AddressLine2": "Bishops Square",
+        "AddressLine3": "London",
+        "AddressLine4": "",
+        "PostCode": "E1 6EG",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Tower Hamlets",
+        "LocalAuthorityCode": "530",
+        "LocalAuthorityBusinessID": "219729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0785942,
+          51.5193577
         ]
       }
     }
