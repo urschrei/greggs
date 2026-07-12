@@ -1363,7 +1363,7 @@
         "AddressLine4": "",
         "PostCode": "W11 3JS",
         "RatingValue": "5",
-        "RatingDate": "2024-07-29T00:00:00",
+        "RatingDate": "2026-07-07T00:00:00",
         "LocalAuthorityName": "Kensington and Chelsea",
         "LocalAuthorityCode": "520",
         "LocalAuthorityBusinessID": "INSPF/01/735089"
@@ -1798,31 +1798,6 @@
         "coordinates": [
           -0.1424157,
           51.4942072
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 414721,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "61-65 CONDUIT STREET",
-        "AddressLine2": "",
-        "AddressLine3": "LONDON",
-        "AddressLine4": "",
-        "PostCode": "W1S 2GD",
-        "RatingValue": "4",
-        "RatingDate": "2026-01-12T00:00:00",
-        "LocalAuthorityName": "Westminster",
-        "LocalAuthorityCode": "533",
-        "LocalAuthorityBusinessID": "10/00091/COMM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.1408709,
-          51.5126898
         ]
       }
     },
@@ -3087,8 +3062,8 @@
         "AddressLine3": "LONDON",
         "AddressLine4": "",
         "PostCode": "SW1W 9SJ",
-        "RatingValue": "5",
-        "RatingDate": "2024-05-18T00:00:00",
+        "RatingValue": "4",
+        "RatingDate": "2026-06-03T00:00:00",
         "LocalAuthorityName": "Westminster",
         "LocalAuthorityCode": "533",
         "LocalAuthorityBusinessID": "10/00125/COMM"
@@ -3383,9 +3358,9 @@
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
         "AddressLine1": "12-16 Market Place",
-        "AddressLine2": "",
-        "AddressLine3": "HENLEY-ON-THAMES",
-        "AddressLine4": "Oxon",
+        "AddressLine2": "Henley-On-Thames",
+        "AddressLine3": "Oxon",
+        "AddressLine4": "",
         "PostCode": "RG9 2AH",
         "RatingValue": "5",
         "RatingDate": "2025-04-01T00:00:00",
@@ -3396,8 +3371,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.905907,
-          51.537694
+          -0.905397,
+          51.5377996
         ]
       }
     },
@@ -4063,7 +4038,7 @@
         "AddressLine4": "London",
         "PostCode": "SE1 8EZ",
         "RatingValue": "5",
-        "RatingDate": "2024-06-05T00:00:00",
+        "RatingDate": "2026-06-16T00:00:00",
         "LocalAuthorityName": "Southwark",
         "LocalAuthorityCode": "528",
         "LocalAuthorityBusinessID": "183536"
