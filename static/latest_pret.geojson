@@ -588,7 +588,7 @@
         "AddressLine4": "",
         "PostCode": "EC3N 2LR",
         "RatingValue": "5",
-        "RatingDate": "2021-08-03T00:00:00",
+        "RatingDate": "2026-07-02T00:00:00",
         "LocalAuthorityName": "City of London Corporation",
         "LocalAuthorityCode": "508",
         "LocalAuthorityBusinessID": "PI/000000232"
@@ -3938,7 +3938,7 @@
         "AddressLine4": "",
         "PostCode": "W1J 8HY",
         "RatingValue": "5",
-        "RatingDate": "2024-09-17T00:00:00",
+        "RatingDate": "2026-07-13T00:00:00",
         "LocalAuthorityName": "Westminster",
         "LocalAuthorityCode": "533",
         "LocalAuthorityBusinessID": "13/00259/COMM"
@@ -6887,8 +6887,8 @@
         "AddressLine3": "",
         "AddressLine4": "London",
         "PostCode": "NW1 2QL",
-        "RatingValue": "5",
-        "RatingDate": "2019-12-18T00:00:00",
+        "RatingValue": "4",
+        "RatingDate": "2026-06-09T00:00:00",
         "LocalAuthorityName": "Camden",
         "LocalAuthorityCode": "506",
         "LocalAuthorityBusinessID": "194585"
@@ -7488,7 +7488,7 @@
         "AddressLine4": "Oxford",
         "PostCode": "OX1 1PE",
         "RatingValue": "5",
-        "RatingDate": "2024-07-30T00:00:00",
+        "RatingDate": "2026-07-10T00:00:00",
         "LocalAuthorityName": "Oxford City",
         "LocalAuthorityCode": "269",
         "LocalAuthorityBusinessID": "22/00075/COM"
@@ -8798,31 +8798,6 @@
         "coordinates": [
           -0.141527995467186,
           50.8302116394043
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1667176,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "The Liberty",
-        "AddressLine2": "Romford",
-        "AddressLine3": "",
-        "AddressLine4": "",
-        "PostCode": "RM1 3RL",
-        "RatingValue": "5",
-        "RatingDate": "2026-03-13T00:00:00",
-        "LocalAuthorityName": "Havering",
-        "LocalAuthorityCode": "516",
-        "LocalAuthorityBusinessID": "140250"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.18348,
-          51.57834
         ]
       }
     },
