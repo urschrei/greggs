@@ -34,6 +34,6 @@
     "esbuild-plugin-eslint": "^0.3.12",
     "esbuild-sass-plugin": "^3.7.0",
     "eslint": "^10.6.0",
-    "postcss": "^8.5.16"
+    "postcss": "^8.5.25"
   }
 }
