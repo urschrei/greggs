@@ -79,31 +79,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 67815,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Unit 1 Thomas More Square",
-        "AddressLine2": "Thomas More Street",
-        "AddressLine3": "London",
-        "AddressLine4": "",
-        "PostCode": "E1W 1YN",
-        "RatingValue": "4",
-        "RatingDate": "2025-03-26T00:00:00",
-        "LocalAuthorityName": "Tower Hamlets",
-        "LocalAuthorityCode": "530",
-        "LocalAuthorityBusinessID": "151571"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.068263,
-          51.508152
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 68250,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -813,7 +788,7 @@
         "AddressLine4": "",
         "PostCode": "EC3A 8AA",
         "RatingValue": "5",
-        "RatingDate": "2024-08-29T00:00:00",
+        "RatingDate": "2026-07-23T00:00:00",
         "LocalAuthorityName": "City of London Corporation",
         "LocalAuthorityCode": "508",
         "LocalAuthorityBusinessID": "PI/000011349"
@@ -4410,7 +4385,7 @@
         "AddressLine1": "Pret A Manger",
         "AddressLine2": "1 Cherry Tree Walk",
         "AddressLine3": "London",
-        "AddressLine4": "EC1Y 8NX",
+        "AddressLine4": "",
         "PostCode": "EC1Y 8NX",
         "RatingValue": "5",
         "RatingDate": "2026-04-22T00:00:00",
@@ -4788,7 +4763,7 @@
         "AddressLine4": "London",
         "PostCode": "EC1V 1NR",
         "RatingValue": "5",
-        "RatingDate": "2024-05-02T00:00:00",
+        "RatingDate": "2026-07-31T00:00:00",
         "LocalAuthorityName": "Hackney",
         "LocalAuthorityCode": "512",
         "LocalAuthorityBusinessID": "185242"
@@ -5188,7 +5163,7 @@
         "AddressLine4": "",
         "PostCode": "LS2 7AR",
         "RatingValue": "5",
-        "RatingDate": "2023-06-07T00:00:00",
+        "RatingDate": "2026-07-22T00:00:00",
         "LocalAuthorityName": "Leeds",
         "LocalAuthorityCode": "413",
         "LocalAuthorityBusinessID": "16/00692/COMM"
@@ -5348,56 +5323,6 @@
         "coordinates": [
           -0.110524,
           51.502338
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 960853,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Unit CGU Harbour Island",
-        "AddressLine2": "Harbour Exchange Square",
-        "AddressLine3": "London",
-        "AddressLine4": "",
-        "PostCode": "E14 9GE",
-        "RatingValue": "5",
-        "RatingDate": "2025-10-01T00:00:00",
-        "LocalAuthorityName": "Tower Hamlets",
-        "LocalAuthorityCode": "530",
-        "LocalAuthorityBusinessID": "197366"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.014338,
-          51.498852
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 960854,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Unit SQP3 South Quay Plaza",
-        "AddressLine2": "Marsh Wall",
-        "AddressLine3": "London",
-        "AddressLine4": "",
-        "PostCode": "E14 9SH",
-        "RatingValue": "5",
-        "RatingDate": "2025-02-07T00:00:00",
-        "LocalAuthorityName": "Tower Hamlets",
-        "LocalAuthorityCode": "530",
-        "LocalAuthorityBusinessID": "197422"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.017448,
-          51.500568
         ]
       }
     },
@@ -7138,7 +7063,7 @@
         "AddressLine4": "London",
         "PostCode": "E8 2JP",
         "RatingValue": "5",
-        "RatingDate": "2020-11-03T00:00:00",
+        "RatingDate": "2026-08-07T00:00:00",
         "LocalAuthorityName": "Hackney",
         "LocalAuthorityCode": "512",
         "LocalAuthorityBusinessID": "120319"
@@ -8529,6 +8454,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1618247,
+        "BusinessName": "Pret a Manager",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "St Clears Service Station",
+        "AddressLine2": "Tenby Road",
+        "AddressLine3": "St Clears",
+        "AddressLine4": "Carmarthen",
+        "PostCode": "SA33 4JW",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Carmarthenshire",
+        "LocalAuthorityCode": "558",
+        "LocalAuthorityBusinessID": "95898"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5051213,
+          51.8178484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1620996,
         "BusinessName": "Pret a Manger",
         "BusinessTypeID": 1,
@@ -9263,7 +9213,7 @@
         "AddressLine4": "",
         "PostCode": "TN13 1UP",
         "RatingValue": "5",
-        "RatingDate": "2024-08-02T00:00:00",
+        "RatingDate": "2026-07-24T00:00:00",
         "LocalAuthorityName": "Sevenoaks",
         "LocalAuthorityCode": "187",
         "LocalAuthorityBusinessID": "24/00063/MIXED/S"
@@ -10962,8 +10912,8 @@
         "AddressLine3": "",
         "AddressLine4": "Nottingham",
         "PostCode": "NG2 3AQ",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-07-27T00:00:00",
         "LocalAuthorityName": "Nottingham City",
         "LocalAuthorityCode": "899",
         "LocalAuthorityBusinessID": "135723"
@@ -11173,31 +11123,6 @@
         "coordinates": [
           -0.2110576,
           51.454318
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1963660,
-        "BusinessName": "Pret a Manger (Europe) Ltd",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Units 14-15",
-        "AddressLine2": "Bishops Square",
-        "AddressLine3": "London",
-        "AddressLine4": "",
-        "PostCode": "E1 6EG",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
-        "LocalAuthorityName": "Tower Hamlets",
-        "LocalAuthorityCode": "530",
-        "LocalAuthorityBusinessID": "219729"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.0785942,
-          51.5193577
         ]
       }
     },
