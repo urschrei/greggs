@@ -79,6 +79,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 67815,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Unit 1 Thomas More Square",
+        "AddressLine2": "Thomas More Street",
+        "AddressLine3": "London",
+        "AddressLine4": "",
+        "PostCode": "E1W 1YN",
+        "RatingValue": "4",
+        "RatingDate": "2025-03-26T00:00:00",
+        "LocalAuthorityName": "Tower Hamlets",
+        "LocalAuthorityCode": "530",
+        "LocalAuthorityBusinessID": "151571"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.068263,
+          51.508152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 68250,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -398,31 +423,6 @@
         "coordinates": [
           -1.1563575,
           51.8921583
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 235578,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "143 - 145 Northumberland Street",
-        "AddressLine2": "",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE1 7AG",
-        "RatingValue": "5",
-        "RatingDate": "2025-12-23T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "07/00008/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6135859,
-          54.9771031
         ]
       }
     },
@@ -4013,7 +4013,7 @@
         "AddressLine4": "",
         "PostCode": "EC4N 1SA",
         "RatingValue": "5",
-        "RatingDate": "2022-05-18T00:00:00",
+        "RatingDate": "2026-07-31T00:00:00",
         "LocalAuthorityName": "City of London Corporation",
         "LocalAuthorityCode": "508",
         "LocalAuthorityBusinessID": "PI/000025572"
@@ -5323,6 +5323,56 @@
         "coordinates": [
           -0.110524,
           51.502338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 960853,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Unit CGU Harbour Island",
+        "AddressLine2": "Harbour Exchange Square",
+        "AddressLine3": "London",
+        "AddressLine4": "",
+        "PostCode": "E14 9GE",
+        "RatingValue": "5",
+        "RatingDate": "2025-10-01T00:00:00",
+        "LocalAuthorityName": "Tower Hamlets",
+        "LocalAuthorityCode": "530",
+        "LocalAuthorityBusinessID": "197366"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.014338,
+          51.498852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 960854,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Unit SQP3 South Quay Plaza",
+        "AddressLine2": "Marsh Wall",
+        "AddressLine3": "London",
+        "AddressLine4": "",
+        "PostCode": "E14 9SH",
+        "RatingValue": "5",
+        "RatingDate": "2025-02-07T00:00:00",
+        "LocalAuthorityName": "Tower Hamlets",
+        "LocalAuthorityCode": "530",
+        "LocalAuthorityBusinessID": "197422"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.017448,
+          51.500568
         ]
       }
     },
@@ -7738,7 +7788,7 @@
         "AddressLine4": "",
         "PostCode": "OX2 7BY",
         "RatingValue": "5",
-        "RatingDate": "2023-02-08T00:00:00",
+        "RatingDate": "2026-08-04T00:00:00",
         "LocalAuthorityName": "Oxford City",
         "LocalAuthorityCode": "269",
         "LocalAuthorityBusinessID": "22/00174/COM"
@@ -10804,31 +10854,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1903576,
-        "BusinessName": "Pret a Manger Eldon Square",
-        "BusinessTypeID": 1,
-        "AddressLine1": "7 Saint Georges Way",
-        "AddressLine2": "Intu Eldon Square",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE1 7JD",
-        "RatingValue": "5",
-        "RatingDate": "2026-02-25T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "74230"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6153043,
-          54.9748892
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1904958,
         "BusinessName": "Pret a Manger St Albans",
         "BusinessTypeID": 1,
@@ -11129,6 +11154,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1963660,
+        "BusinessName": "Pret a Manger (Europe) Ltd",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Units 14-15",
+        "AddressLine2": "Bishops Square",
+        "AddressLine3": "London",
+        "AddressLine4": "",
+        "PostCode": "E1 6EG",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Tower Hamlets",
+        "LocalAuthorityCode": "530",
+        "LocalAuthorityBusinessID": "219729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0785942,
+          51.5193577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1971112,
         "BusinessName": "Pret A Manager",
         "BusinessTypeID": 1,
@@ -11148,6 +11198,31 @@
         "coordinates": [
           0.199584,
           51.514402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1977986,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "SUPERMARKET FILLING STATION HERTFORD ROAD",
+        "AddressLine2": "",
+        "AddressLine3": "MARLBOROUGH",
+        "AddressLine4": "",
+        "PostCode": "SN8 4FD",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Wiltshire",
+        "LocalAuthorityCode": "709",
+        "LocalAuthorityBusinessID": "PI/1000000807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.721759,
+          51.4149859
         ]
       }
     }

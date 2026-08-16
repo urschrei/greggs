@@ -1929,31 +1929,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 49792,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "Greggs 56 High Street",
-        "AddressLine2": "",
-        "AddressLine3": "Alton",
-        "AddressLine4": "Hampshire",
-        "PostCode": "GU34 1ET",
-        "RatingValue": "4",
-        "RatingDate": "2024-05-15T00:00:00",
-        "LocalAuthorityName": "East Hampshire",
-        "LocalAuthorityCode": "132",
-        "LocalAuthorityBusinessID": "1106"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.9762737,
-          51.1484181
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 49984,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -4263,7 +4238,7 @@
         "AddressLine4": "",
         "PostCode": "SK3 9AT",
         "RatingValue": "5",
-        "RatingDate": "2025-01-30T00:00:00",
+        "RatingDate": "2026-08-04T00:00:00",
         "LocalAuthorityName": "Stockport",
         "LocalAuthorityCode": "428",
         "LocalAuthorityBusinessID": "449"
@@ -5538,7 +5513,7 @@
         "AddressLine4": "",
         "PostCode": "NP12 1AF",
         "RatingValue": "5",
-        "RatingDate": "2024-07-16T00:00:00",
+        "RatingDate": "2026-08-10T00:00:00",
         "LocalAuthorityName": "Caerphilly",
         "LocalAuthorityCode": "555",
         "LocalAuthorityBusinessID": "93141"
@@ -5857,9 +5832,9 @@
         "FHRSID": 157647,
         "BusinessName": "Greggs",
         "BusinessTypeID": 7844,
-        "AddressLine1": "6 High Street",
-        "AddressLine2": "Swadlincote",
-        "AddressLine3": "Derbyshire",
+        "AddressLine1": "6 HIGH STREET",
+        "AddressLine2": "",
+        "AddressLine3": "SWADLINCOTE",
         "AddressLine4": "",
         "PostCode": "DE11 8HY",
         "RatingValue": "5",
@@ -5871,8 +5846,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.556174,
-          52.773277
+          -1.5567902,
+          52.7734406
         ]
       }
     },
@@ -8498,431 +8473,6 @@
         "coordinates": [
           -1.469051,
           52.522464
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 235605,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Greggs Terminal Building Newcastle Airport",
-        "AddressLine2": "Woolsington",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE13 8BZ",
-        "RatingValue": "5",
-        "RatingDate": "2025-02-26T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "04/05427/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7100996,
-          55.0369132
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 235711,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 7844,
-        "AddressLine1": "31 Quayside",
-        "AddressLine2": "",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE1 3DE",
-        "RatingValue": "5",
-        "RatingDate": "2025-03-11T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "05/00594/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.605024,
-          54.9690958
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 235732,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 1,
-        "AddressLine1": "114 West Road",
-        "AddressLine2": "",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE4 9QA",
-        "RatingValue": "5",
-        "RatingDate": "2025-03-05T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "04/00636/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6550439,
-          54.9760054
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 235802,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Unit 9 The Adelaide Centre Adelaide Terrace",
-        "AddressLine2": "",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE4 8BE",
-        "RatingValue": "5",
-        "RatingDate": "2025-01-27T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "04/00629/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6551728,
-          54.9700028
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 235806,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 1,
-        "AddressLine1": "313 Two Ball Lonnen",
-        "AddressLine2": "",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE4 9RX",
-        "RatingValue": "5",
-        "RatingDate": "2025-01-22T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "10/00344/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6625647,
-          54.9865854
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 235908,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 1,
-        "AddressLine1": "133 High Street",
-        "AddressLine2": "Gosforth",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE3 1HA",
-        "RatingValue": "5",
-        "RatingDate": "2025-02-26T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "04/00612/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6204373,
-          55.0045508
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 236244,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Greggs Haymarket Bus Station Haymarket",
-        "AddressLine2": "",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE1 7PF",
-        "RatingValue": "5",
-        "RatingDate": "2024-08-12T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "04/00613/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6147932,
-          54.9766576
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 236383,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "24 Shields Road",
-        "AddressLine2": "",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE6 1DR",
-        "RatingValue": "5",
-        "RatingDate": "2025-02-13T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "09/00119/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5855497,
-          54.9763279
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 236522,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 1,
-        "AddressLine1": "8 Saint Georges Way",
-        "AddressLine2": "Intu Eldon Square",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE1 7JD",
-        "RatingValue": "5",
-        "RatingDate": "2024-11-25T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "09/00007/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6152929,
-          54.9750236
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 236861,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 1,
-        "AddressLine1": "387 Benton Road",
-        "AddressLine2": "",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE7 7EE",
-        "RatingValue": "5",
-        "RatingDate": "2024-08-06T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "04/00627/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5782034059089,
-          55.0073183984226
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 237076,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 7844,
-        "AddressLine1": "34 Northumberland Street",
-        "AddressLine2": "",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE1 7DE",
-        "RatingValue": "5",
-        "RatingDate": "2026-03-27T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "04/01185/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6119191,
-          54.97495
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 237138,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "Ground Floor 3 Saint Marys Place",
-        "AddressLine2": "",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE1 7PG",
-        "RatingValue": "5",
-        "RatingDate": "2024-08-12T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "04/00647/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6130179,
-          54.9776943
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 237189,
-        "BusinessName": "Greggs Bakery Outlet",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "403 Westgate Road",
-        "AddressLine2": "",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE4 6PB",
-        "RatingValue": "5",
-        "RatingDate": "2025-03-05T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "04/00635/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6392891,
-          54.9732548
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 237192,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 1,
-        "AddressLine1": "8 Kingston Park Centre Kingston Park Avenue",
-        "AddressLine2": "",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE3 2FP",
-        "RatingValue": "5",
-        "RatingDate": "2024-11-18T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "11/00196/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6690358,
-          55.0131035
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 237320,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 1,
-        "AddressLine1": "44B - 44C Blackett Street",
-        "AddressLine2": "",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE1 7UG",
-        "RatingValue": "5",
-        "RatingDate": "2024-11-25T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "04/00517/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6143948,
-          54.9741761
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 237339,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 1,
-        "AddressLine1": "42 Neville Street",
-        "AddressLine2": "",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE1 5DF",
-        "RatingValue": "5",
-        "RatingDate": "2025-03-11T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "04/00914/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6175961,
-          54.9693246
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 237488,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 1,
-        "AddressLine1": "95 Grey Street",
-        "AddressLine2": "",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE1 6EG",
-        "RatingValue": "5",
-        "RatingDate": "2025-01-05T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "04/00615/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.612982,
-          54.973246
         ]
       }
     },
@@ -11713,7 +11263,7 @@
         "AddressLine4": "Leeds",
         "PostCode": "LS10 2AP",
         "RatingValue": "5",
-        "RatingDate": "2024-06-14T00:00:00",
+        "RatingDate": "2026-08-11T00:00:00",
         "LocalAuthorityName": "Leeds",
         "LocalAuthorityCode": "413",
         "LocalAuthorityBusinessID": "00002130"
@@ -14129,31 +13679,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 369895,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 7844,
-        "AddressLine1": "Unit 1 Market House",
-        "AddressLine2": "Market Square",
-        "AddressLine3": "Aylesbury",
-        "AddressLine4": "Buckinghamshire",
-        "PostCode": "HP20 1TN",
-        "RatingValue": "5",
-        "RatingDate": "2025-06-17T00:00:00",
-        "LocalAuthorityName": "Buckinghamshire",
-        "LocalAuthorityCode": "021",
-        "LocalAuthorityBusinessID": "EH/00021808"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.8122848,
-          51.816763
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 372476,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -16379,31 +15904,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 485417,
-        "BusinessName": "Greggs Bakery Outlet",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "263 - 265 Welbeck Road",
-        "AddressLine2": "",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE6 2QX",
-        "RatingValue": "5",
-        "RatingDate": "2025-02-17T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "04/00637/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.56217,
-          54.9741076
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 487180,
         "BusinessName": "Greggs",
         "BusinessTypeID": 7844,
@@ -16588,7 +16088,7 @@
         "AddressLine4": "",
         "PostCode": "TW13 4AU",
         "RatingValue": "5",
-        "RatingDate": "2024-04-05T00:00:00",
+        "RatingDate": "2026-05-27T00:00:00",
         "LocalAuthorityName": "Hounslow",
         "LocalAuthorityCode": "518",
         "LocalAuthorityBusinessID": "6465"
@@ -16813,7 +16313,7 @@
         "AddressLine4": "",
         "PostCode": "L1 4DN",
         "RatingValue": "5",
-        "RatingDate": "2019-01-25T00:00:00",
+        "RatingDate": "2026-08-12T00:00:00",
         "LocalAuthorityName": "Liverpool",
         "LocalAuthorityCode": "414",
         "LocalAuthorityBusinessID": "PI/000020115"
@@ -17123,31 +16623,6 @@
         "coordinates": [
           -1.3246982,
           51.4033945
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 504435,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Greggs 1 - 3 Penn Street",
-        "AddressLine2": "",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE4 7BG",
-        "RatingValue": "5",
-        "RatingDate": "2025-01-27T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "12/00216/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6307741,
-          54.9630749
         ]
       }
     },
@@ -18363,7 +17838,7 @@
         "AddressLine4": "Bonnybridge",
         "PostCode": "FK4 1AA",
         "RatingValue": "Pass",
-        "RatingDate": "2024-07-18T00:00:00",
+        "RatingDate": "2026-08-07T00:00:00",
         "LocalAuthorityName": "Falkirk",
         "LocalAuthorityCode": "774",
         "LocalAuthorityBusinessID": "PI/000083931"
@@ -20613,7 +20088,7 @@
         "AddressLine4": "",
         "PostCode": "CF37 4SU",
         "RatingValue": "5",
-        "RatingDate": "2025-01-10T00:00:00",
+        "RatingDate": "2026-07-14T00:00:00",
         "LocalAuthorityName": "Rhondda Cynon Taf",
         "LocalAuthorityCode": "567",
         "LocalAuthorityBusinessID": "197973"
@@ -20813,7 +20288,7 @@
         "AddressLine4": "Surrey",
         "PostCode": "GU1 4TE",
         "RatingValue": "5",
-        "RatingDate": "2024-04-18T00:00:00",
+        "RatingDate": "2026-07-27T00:00:00",
         "LocalAuthorityName": "Guildford",
         "LocalAuthorityCode": "307",
         "LocalAuthorityBusinessID": "1732"
@@ -23013,7 +22488,7 @@
         "AddressLine4": "Great Yarmouth",
         "PostCode": "NR31 6RB",
         "RatingValue": "5",
-        "RatingDate": "2024-07-08T00:00:00",
+        "RatingDate": "2026-07-30T00:00:00",
         "LocalAuthorityName": "Great Yarmouth",
         "LocalAuthorityCode": "229",
         "LocalAuthorityBusinessID": "44273"
@@ -23923,31 +23398,6 @@
         "coordinates": [
           -2.214074,
           53.041488
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 785450,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Unit 2 Wellbar Central 36 Gallowgate",
-        "AddressLine2": "",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE1 4TD",
-        "RatingValue": "5",
-        "RatingDate": "2024-12-03T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "15/00092/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6195363,
-          54.9739945
         ]
       }
     },
@@ -25179,31 +24629,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 862366,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 7844,
-        "AddressLine1": "100 Cambridge Street",
-        "AddressLine2": "Aylesbury",
-        "AddressLine3": "Buckinghamshire",
-        "AddressLine4": "",
-        "PostCode": "HP20 1BA",
-        "RatingValue": "5",
-        "RatingDate": "2025-06-24T00:00:00",
-        "LocalAuthorityName": "Buckinghamshire",
-        "LocalAuthorityCode": "021",
-        "LocalAuthorityBusinessID": "EH/00027350"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.809111,
-          51.819628
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 863901,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 4613,
@@ -25348,56 +24773,6 @@
         "coordinates": [
           -3.913955,
           51.664065
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 869826,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 7844,
-        "AddressLine1": "73 - 75 Grainger Street",
-        "AddressLine2": "",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE1 5JE",
-        "RatingValue": "5",
-        "RatingDate": "2025-01-05T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "16/00105/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6153115,
-          54.9714022
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 869827,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 1,
-        "AddressLine1": "39 - 41 Clayton Street",
-        "AddressLine2": "",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE1 5PN",
-        "RatingValue": "5",
-        "RatingDate": "2025-03-11T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "16/00106/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6158159,
-          54.972581
         ]
       }
     },
@@ -29598,31 +28973,6 @@
         "coordinates": [
           -0.7014411,
           52.4879677
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1014704,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 1,
-        "AddressLine1": "211 Chillingham Road",
-        "AddressLine2": "",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE6 5LJ",
-        "RatingValue": "5",
-        "RatingDate": "2025-02-11T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "17/00429/MIXED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5774316,
-          54.9869305
         ]
       }
     },
@@ -34682,9 +34032,9 @@
         "FHRSID": 1207392,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 7844,
-        "AddressLine1": "42 High Street",
-        "AddressLine2": "Woodville",
-        "AddressLine3": "Swadlincote",
+        "AddressLine1": "UNIT 1 42 HIGH STREET",
+        "AddressLine2": "WOODVILLE",
+        "AddressLine3": "SWADLINCOTE",
         "AddressLine4": "",
         "PostCode": "DE11 7EA",
         "RatingValue": "5",
@@ -34696,8 +34046,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.5324078,
-          52.7677018
+          -1.5324227,
+          52.7676928
         ]
       }
     },
@@ -35623,31 +34973,6 @@
         "coordinates": [
           -0.857990980148315,
           53.7441596984863
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1247174,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 7844,
-        "AddressLine1": "1 Gatehouse Way",
-        "AddressLine2": "Aylesbury",
-        "AddressLine3": "Buckinghamshire",
-        "AddressLine4": "",
-        "PostCode": "HP19 8DB",
-        "RatingValue": "5",
-        "RatingDate": "2025-09-03T00:00:00",
-        "LocalAuthorityName": "Buckinghamshire",
-        "LocalAuthorityCode": "021",
-        "LocalAuthorityBusinessID": "EH/00045515"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.8258142,
-          51.8203605
         ]
       }
     },
@@ -37157,9 +36482,9 @@
         "FHRSID": 1315685,
         "BusinessName": "Greggs plc",
         "BusinessTypeID": 7844,
-        "AddressLine1": "Riber Drive",
-        "AddressLine2": "Chellaston",
-        "AddressLine3": "Derby",
+        "AddressLine1": "UNIT 2 RIBER DRIVE",
+        "AddressLine2": "CHELLASTON",
+        "AddressLine3": "DERBY",
         "AddressLine4": "",
         "PostCode": "DE73 6WS",
         "RatingValue": "5",
@@ -37171,8 +36496,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.43662798404694,
-          52.8616485595703
+          -1.436155,
+          52.8610724
         ]
       }
     },
@@ -37548,31 +36873,6 @@
         "coordinates": [
           -2.02264404296875,
           52.6745529174805
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1341182,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 7844,
-        "AddressLine1": "Crofters Lodge Service Station Kenton Lane",
-        "AddressLine2": "",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE3 3ED",
-        "RatingValue": "5",
-        "RatingDate": "2024-07-23T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "71531"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6657803,
-          55.0015806
         ]
       }
     },
@@ -38938,7 +38238,7 @@
         "AddressLine4": "NN3 6RW",
         "PostCode": "NN3 6RW",
         "RatingValue": "5",
-        "RatingDate": "2026-02-03T00:00:00",
+        "RatingDate": "2021-11-20T00:00:00",
         "LocalAuthorityName": "West Northamptonshire",
         "LocalAuthorityCode": "236",
         "LocalAuthorityBusinessID": "PI/000095726"
@@ -39173,31 +38473,6 @@
         "coordinates": [
           -2.65027016691336,
           53.5446368338814
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1411476,
-        "BusinessName": "Greggs PLC",
-        "BusinessTypeID": 7844,
-        "AddressLine1": "Unit 2 Mill House Haddricks Mill Road",
-        "AddressLine2": "Gosforth",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE3 1QL",
-        "RatingValue": "5",
-        "RatingDate": "2024-08-06T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "71912"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.602556,
-          55.0056979
         ]
       }
     },
@@ -40848,31 +40123,6 @@
         "coordinates": [
           -2.8117357,
           53.3987097
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1497813,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "Esso Petrol Filling Station",
-        "AddressLine2": "Buckingham Ring Road",
-        "AddressLine3": "Buckingham",
-        "AddressLine4": "Buckinghamshire",
-        "PostCode": "MK18 1RY",
-        "RatingValue": "5",
-        "RatingDate": "2026-05-06T00:00:00",
-        "LocalAuthorityName": "Buckinghamshire",
-        "LocalAuthorityCode": "021",
-        "LocalAuthorityBusinessID": "EH/00050640"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.986176013946533,
-          51.9886054992676
         ]
       }
     },
@@ -44037,8 +43287,8 @@
         "AddressLine3": "MELKSHAM",
         "AddressLine4": "",
         "PostCode": "SN12 8AU",
-        "RatingValue": "5",
-        "RatingDate": "2026-02-09T00:00:00",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
         "LocalAuthorityName": "Wiltshire",
         "LocalAuthorityCode": "709",
         "LocalAuthorityBusinessID": "PI/000182731"
@@ -44404,31 +43654,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1592863,
-        "BusinessName": "Greggs (Primark)",
-        "BusinessTypeID": 1,
-        "AddressLine1": "78 - 84 Northumberland Street",
-        "AddressLine2": "",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE1 7DF",
-        "RatingValue": "5",
-        "RatingDate": "2026-03-30T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "72594"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6124159,
-          54.9763565
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1592881,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 1,
@@ -44773,31 +43998,6 @@
         "coordinates": [
           -1.6019332,
           54.6997782
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1604641,
-        "BusinessName": "Greggs PLC",
-        "BusinessTypeID": 1,
-        "AddressLine1": "260 - 262 Shields Road",
-        "AddressLine2": "",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE6 1DX",
-        "RatingValue": "5",
-        "RatingDate": "2026-02-26T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "72635"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5767878,
-          54.9775469
         ]
       }
     },
@@ -46013,7 +45213,7 @@
         "AddressLine4": "Pembrokeshire",
         "PostCode": "SA70 7AA",
         "RatingValue": "5",
-        "RatingDate": "2024-12-04T00:00:00",
+        "RatingDate": "2026-07-23T00:00:00",
         "LocalAuthorityName": "Pembrokeshire",
         "LocalAuthorityCode": "565",
         "LocalAuthorityBusinessID": "788790"
@@ -46798,31 +45998,6 @@
         "coordinates": [
           -0.8073850274086,
           53.1463394165039
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1659065,
-        "BusinessName": "Greggs PLC",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "Kingston Park Tesco Extra Brunston Lane",
-        "AddressLine2": "",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE3 2FP",
-        "RatingValue": "5",
-        "RatingDate": "2026-01-19T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "72891"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6617745,
-          55.0137575
         ]
       }
     },
@@ -48062,8 +47237,8 @@
         "AddressLine3": "Newmarket",
         "AddressLine4": "Suffolk",
         "PostCode": "CB8 8LB",
-        "RatingValue": "5",
-        "RatingDate": "2024-09-04T00:00:00",
+        "RatingValue": "1",
+        "RatingDate": "2026-07-19T00:00:00",
         "LocalAuthorityName": "West Suffolk",
         "LocalAuthorityCode": "298",
         "LocalAuthorityBusinessID": "FR/000000859"
@@ -48088,7 +47263,7 @@
         "AddressLine4": "Suffolk",
         "PostCode": "IP33 1DY",
         "RatingValue": "5",
-        "RatingDate": "2024-07-18T00:00:00",
+        "RatingDate": "2026-08-05T00:00:00",
         "LocalAuthorityName": "West Suffolk",
         "LocalAuthorityCode": "298",
         "LocalAuthorityBusinessID": "FR/002015684"
@@ -48748,31 +47923,6 @@
         "coordinates": [
           -3.8107924,
           51.6028421
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1682366,
-        "BusinessName": "Greggs PLC",
-        "BusinessTypeID": 1,
-        "AddressLine1": "15 Church Walk",
-        "AddressLine2": "",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE6 3DP",
-        "RatingValue": "5",
-        "RatingDate": "2024-08-06T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "73018"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5449254,
-          54.9738827
         ]
       }
     },
@@ -49798,31 +48948,6 @@
         "coordinates": [
           -1.254184,
           51.116483
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1706809,
-        "BusinessName": "Greggs PLC",
-        "BusinessTypeID": 1,
-        "AddressLine1": "4 Acorn Road",
-        "AddressLine2": "",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE2 2DJ",
-        "RatingValue": "5",
-        "RatingDate": "2024-08-12T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "73148"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6058278,
-          54.9924807
         ]
       }
     },
@@ -52254,31 +51379,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1761169,
-        "BusinessName": "Greggs Finmere Services",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Blenheim Petrol Station",
-        "AddressLine2": "1 Blenheim Street",
-        "AddressLine3": "Tingewick",
-        "AddressLine4": "Buckinghamshire",
-        "PostCode": "MK18 4FH",
-        "RatingValue": "5",
-        "RatingDate": "2024-09-18T00:00:00",
-        "LocalAuthorityName": "Buckinghamshire",
-        "LocalAuthorityCode": "021",
-        "LocalAuthorityBusinessID": "EH/00065058"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0695718,
-          51.9862489
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1761397,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 4613,
@@ -52948,31 +52048,6 @@
         "coordinates": [
           -1.190163,
           53.0111009
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1771409,
-        "BusinessName": "Greggs PLC",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Unit 1 36 Wansbeck Road South",
-        "AddressLine2": "Gosforth",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE3 3HQ",
-        "RatingValue": "5",
-        "RatingDate": "2025-05-22T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "73510"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.634505,
-          55.013108
         ]
       }
     },
@@ -55930,12 +55005,12 @@
       "type": "Feature",
       "properties": {
         "FHRSID": 1822824,
-        "BusinessName": "Greggs",
+        "BusinessName": "Newark Greggs",
         "BusinessTypeID": 7844,
-        "AddressLine1": "Brobot Newark",
-        "AddressLine2": "Bowbridge Road",
-        "AddressLine3": "Newark On Trent",
-        "AddressLine4": "",
+        "AddressLine1": "Greggs",
+        "AddressLine2": "Brobot Newark",
+        "AddressLine3": "Bowbridge Road",
+        "AddressLine4": "Newark On Trent",
         "PostCode": "NG24 4EQ",
         "RatingValue": "5",
         "RatingDate": "2025-05-16T00:00:00",
@@ -56273,6 +55348,31 @@
         "coordinates": [
           0.4573409,
           51.5701116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1834110,
+        "BusinessName": "Greggs",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "162 Bath Road",
+        "AddressLine2": "Reading",
+        "AddressLine3": "",
+        "AddressLine4": "",
+        "PostCode": "RG30 2HA",
+        "RatingValue": "5",
+        "RatingDate": "2025-04-22T00:00:00",
+        "LocalAuthorityName": "Reading",
+        "LocalAuthorityCode": "884",
+        "LocalAuthorityBusinessID": "06547"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0207296,
+          51.4443676
         ]
       }
     },
@@ -56723,31 +55823,6 @@
         "coordinates": [
           -0.094999,
           51.481765
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1847672,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 7844,
-        "AddressLine1": "162 Bath Road",
-        "AddressLine2": "Reading",
-        "AddressLine3": "",
-        "AddressLine4": "",
-        "PostCode": "RG30 2HA",
-        "RatingValue": "5",
-        "RatingDate": "2025-04-22T00:00:00",
-        "LocalAuthorityName": "Reading",
-        "LocalAuthorityCode": "884",
-        "LocalAuthorityBusinessID": "6547"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0207296,
-          51.4443676
         ]
       }
     },
@@ -60855,7 +59930,7 @@
       "type": "Feature",
       "properties": {
         "FHRSID": 1918382,
-        "BusinessName": "Greggs",
+        "BusinessName": "Greggs @ Dartford Service Station",
         "BusinessTypeID": 7844,
         "AddressLine1": "Dartford Service Station",
         "AddressLine2": "474 Princes Road",
@@ -61473,31 +60548,6 @@
         "coordinates": [
           -0.717303,
           51.995972
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1943087,
-        "BusinessName": "Greggs plc",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "Unit 2 Carnation Way",
-        "AddressLine2": "",
-        "AddressLine3": "Newcastle Upon Tyne",
-        "AddressLine4": "",
-        "PostCode": "NE5 1DH",
-        "RatingValue": "5",
-        "RatingDate": "2026-06-29T00:00:00",
-        "LocalAuthorityName": "Newcastle Upon Tyne",
-        "LocalAuthorityCode": "416",
-        "LocalAuthorityBusinessID": "74419"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7125742,
-          55.007195
         ]
       }
     },
@@ -62248,6 +61298,56 @@
         "coordinates": [
           -4.8686287,
           55.7942494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1977373,
+        "BusinessName": "Greggs @ Spar Battlefield",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "Battlefield Services Robert Jones Way",
+        "AddressLine2": "Battlefield",
+        "AddressLine3": "Shrewsbury",
+        "AddressLine4": "Shropshire",
+        "PostCode": "SY4 3EQ",
+        "RatingValue": "5",
+        "RatingDate": "2026-08-04T00:00:00",
+        "LocalAuthorityName": "Shropshire",
+        "LocalAuthorityCode": "708",
+        "LocalAuthorityBusinessID": "9104287"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7174898,
+          52.7473978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1978347,
+        "BusinessName": "Greggs",
+        "BusinessTypeID": 1,
+        "AddressLine1": "",
+        "AddressLine2": "15 Pomphlett Road",
+        "AddressLine3": "Plymouth",
+        "AddressLine4": "",
+        "PostCode": "PL9 7BH",
+        "RatingValue": "5",
+        "RatingDate": "2026-08-11T00:00:00",
+        "LocalAuthorityName": "Plymouth City",
+        "LocalAuthorityCode": "891",
+        "LocalAuthorityBusinessID": "261826"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.10036,
+          50.365387
         ]
       }
     }
