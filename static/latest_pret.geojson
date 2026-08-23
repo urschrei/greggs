@@ -429,6 +429,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 235578,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "143 - 145 Northumberland Street",
+        "AddressLine2": "",
+        "AddressLine3": "Newcastle Upon Tyne",
+        "AddressLine4": "",
+        "PostCode": "NE1 7AG",
+        "RatingValue": "5",
+        "RatingDate": "2025-12-23T00:00:00",
+        "LocalAuthorityName": "Newcastle Upon Tyne",
+        "LocalAuthorityCode": "416",
+        "LocalAuthorityBusinessID": "07/00008/MIXED"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6135859,
+          54.9771031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 245064,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -3138,7 +3163,7 @@
         "AddressLine4": "",
         "PostCode": "RG1 2AQ",
         "RatingValue": "5",
-        "RatingDate": "2024-08-19T00:00:00",
+        "RatingDate": "2026-06-22T00:00:00",
         "LocalAuthorityName": "Reading",
         "LocalAuthorityCode": "884",
         "LocalAuthorityBusinessID": "33032"
@@ -8188,7 +8213,7 @@
         "AddressLine4": "",
         "PostCode": "CF10 1FS",
         "RatingValue": "5",
-        "RatingDate": "2025-02-18T00:00:00",
+        "RatingDate": "2026-08-07T00:00:00",
         "LocalAuthorityName": "Cardiff",
         "LocalAuthorityCode": "556",
         "LocalAuthorityBusinessID": "786816"
@@ -9473,56 +9498,6 @@
         "coordinates": [
           -0.0592299,
           51.6248586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1742432,
-        "BusinessName": "Pret a Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Southwaite Motorway Services Area North",
-        "AddressLine2": "",
-        "AddressLine3": "Broadfield",
-        "AddressLine4": "Southwaite",
-        "PostCode": "CA4 0NT",
-        "RatingValue": "5",
-        "RatingDate": "2024-07-23T00:00:00",
-        "LocalAuthorityName": "Westmorland and Furness",
-        "LocalAuthorityCode": "056",
-        "LocalAuthorityBusinessID": "10557"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.872196,
-          54.797964
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1742433,
-        "BusinessName": "Pret a Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Southwaite Motorway Services Area South",
-        "AddressLine2": "",
-        "AddressLine3": "Broadfield",
-        "AddressLine4": "Southwaite",
-        "PostCode": "CA4 0NT",
-        "RatingValue": "5",
-        "RatingDate": "2024-07-24T00:00:00",
-        "LocalAuthorityName": "Westmorland and Furness",
-        "LocalAuthorityCode": "056",
-        "LocalAuthorityBusinessID": "10558"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.872196,
-          54.797964
         ]
       }
     },
@@ -10854,6 +10829,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1903576,
+        "BusinessName": "Pret a Manger Eldon Square",
+        "BusinessTypeID": 1,
+        "AddressLine1": "7 Saint Georges Way",
+        "AddressLine2": "Intu Eldon Square",
+        "AddressLine3": "Newcastle Upon Tyne",
+        "AddressLine4": "",
+        "PostCode": "NE1 7JD",
+        "RatingValue": "5",
+        "RatingDate": "2026-02-25T00:00:00",
+        "LocalAuthorityName": "Newcastle Upon Tyne",
+        "LocalAuthorityCode": "416",
+        "LocalAuthorityBusinessID": "74230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6153043,
+          54.9748892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1904958,
         "BusinessName": "Pret a Manger St Albans",
         "BusinessTypeID": 1,
@@ -11223,6 +11223,31 @@
         "coordinates": [
           -1.721759,
           51.4149859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1978866,
+        "BusinessName": "Pret a Manger (Europe) Ltd",
+        "BusinessTypeID": 1,
+        "AddressLine1": "London Heathrow Airport Terminal 5 Arrivals",
+        "AddressLine2": "Unit 15",
+        "AddressLine3": "",
+        "AddressLine4": "Hounslow",
+        "PostCode": "TW6 2GA",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Hillingdon",
+        "LocalAuthorityCode": "517",
+        "LocalAuthorityBusinessID": "152197"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4878089,
+          51.4716798
         ]
       }
     }
