@@ -9038,7 +9038,7 @@
         "AddressLine4": "Coventry",
         "PostCode": "CV6 3ES",
         "RatingValue": "5",
-        "RatingDate": "2023-09-28T00:00:00",
+        "RatingDate": "2026-08-11T00:00:00",
         "LocalAuthorityName": "Coventry",
         "LocalAuthorityCode": "407",
         "LocalAuthorityBusinessID": "PI/000037937"
@@ -9613,7 +9613,7 @@
         "AddressLine4": "",
         "PostCode": "SN1 1LE",
         "RatingValue": "5",
-        "RatingDate": "2024-08-05T00:00:00",
+        "RatingDate": "2026-08-12T00:00:00",
         "LocalAuthorityName": "Swindon",
         "LocalAuthorityCode": "881",
         "LocalAuthorityBusinessID": "A68GSS10-1/1"
@@ -14413,7 +14413,7 @@
         "AddressLine4": "Essex",
         "PostCode": "RM17 6NA",
         "RatingValue": "5",
-        "RatingDate": "2024-09-22T00:00:00",
+        "RatingDate": "2026-08-08T00:00:00",
         "LocalAuthorityName": "Thurrock",
         "LocalAuthorityCode": "894",
         "LocalAuthorityBusinessID": "11650/0044/0/000"
@@ -14938,7 +14938,7 @@
         "AddressLine4": "London",
         "PostCode": "NW5 2TJ",
         "RatingValue": "5",
-        "RatingDate": "2021-06-01T00:00:00",
+        "RatingDate": "2026-08-17T00:00:00",
         "LocalAuthorityName": "Camden",
         "LocalAuthorityCode": "506",
         "LocalAuthorityBusinessID": "14410"
@@ -18612,8 +18612,8 @@
         "AddressLine3": "Bedwas House Industrial Estate",
         "AddressLine4": "Bedwas",
         "PostCode": "CF83 8DU",
-        "RatingValue": "4",
-        "RatingDate": "2025-01-14T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-08-21T00:00:00",
         "LocalAuthorityName": "Caerphilly",
         "LocalAuthorityCode": "555",
         "LocalAuthorityBusinessID": "144074"
@@ -19788,7 +19788,7 @@
         "AddressLine4": "",
         "PostCode": "B17 9NR",
         "RatingValue": "5",
-        "RatingDate": "2024-09-13T00:00:00",
+        "RatingDate": "2026-08-18T00:00:00",
         "LocalAuthorityName": "Birmingham",
         "LocalAuthorityCode": "402",
         "LocalAuthorityBusinessID": "PI/000488338"
@@ -21588,7 +21588,7 @@
         "AddressLine4": "",
         "PostCode": "B60 3DR",
         "RatingValue": "5",
-        "RatingDate": "2024-08-27T00:00:00",
+        "RatingDate": "2026-08-21T00:00:00",
         "LocalAuthorityName": "Bromsgrove",
         "LocalAuthorityCode": "145",
         "LocalAuthorityBusinessID": "13/00249/FOOD"
@@ -21688,7 +21688,7 @@
         "AddressLine4": "",
         "PostCode": "DY10 2AZ",
         "RatingValue": "5",
-        "RatingDate": "2024-03-26T00:00:00",
+        "RatingDate": "2026-08-17T00:00:00",
         "LocalAuthorityName": "Wyre Forest",
         "LocalAuthorityCode": "153",
         "LocalAuthorityBusinessID": "WK/PI/000051098"
@@ -23763,7 +23763,7 @@
         "AddressLine4": "",
         "PostCode": "HU9 5QN",
         "RatingValue": "5",
-        "RatingDate": "2024-06-19T00:00:00",
+        "RatingDate": "2026-08-18T00:00:00",
         "LocalAuthorityName": "Hull City",
         "LocalAuthorityCode": "866",
         "LocalAuthorityBusinessID": "61353"
@@ -24888,7 +24888,7 @@
         "AddressLine4": "Birmingham",
         "PostCode": "B42 1AA",
         "RatingValue": "5",
-        "RatingDate": "2020-12-23T00:00:00",
+        "RatingDate": "2021-12-11T00:00:00",
         "LocalAuthorityName": "Birmingham",
         "LocalAuthorityCode": "402",
         "LocalAuthorityBusinessID": "PI/000630947"
@@ -26863,7 +26863,7 @@
         "AddressLine4": "",
         "PostCode": "EH6 6AD",
         "RatingValue": "Pass",
-        "RatingDate": "2019-08-01T00:00:00",
+        "RatingDate": "2026-08-17T00:00:00",
         "LocalAuthorityName": "Edinburgh (City of)",
         "LocalAuthorityCode": "773",
         "LocalAuthorityBusinessID": "189106"
@@ -28613,7 +28613,7 @@
         "AddressLine4": "",
         "PostCode": "B26 3HL",
         "RatingValue": "5",
-        "RatingDate": "2024-09-09T00:00:00",
+        "RatingDate": "2026-08-05T00:00:00",
         "LocalAuthorityName": "Birmingham",
         "LocalAuthorityCode": "402",
         "LocalAuthorityBusinessID": "PI/500208280"
@@ -30013,7 +30013,7 @@
         "AddressLine4": "West Thurrock",
         "PostCode": "RM16 3BG",
         "RatingValue": "5",
-        "RatingDate": "2026-03-14T00:00:00",
+        "RatingDate": "2026-08-08T00:00:00",
         "LocalAuthorityName": "Thurrock",
         "LocalAuthorityCode": "894",
         "LocalAuthorityBusinessID": "18/00013/CP"
@@ -30988,7 +30988,7 @@
         "AddressLine4": "Ayrshire",
         "PostCode": "KA20 3EG",
         "RatingValue": "Pass",
-        "RatingDate": "2024-02-28T00:00:00",
+        "RatingDate": "2026-08-21T00:00:00",
         "LocalAuthorityName": "North Ayrshire",
         "LocalAuthorityCode": "765",
         "LocalAuthorityBusinessID": "78426"
@@ -31738,7 +31738,7 @@
         "AddressLine4": "Nottinghamshire",
         "PostCode": "NG19 9AL",
         "RatingValue": "5",
-        "RatingDate": "2024-07-15T00:00:00",
+        "RatingDate": "2026-07-28T00:00:00",
         "LocalAuthorityName": "Mansfield",
         "LocalAuthorityCode": "263",
         "LocalAuthorityBusinessID": "61333"
@@ -31938,7 +31938,7 @@
         "AddressLine4": "Andover",
         "PostCode": "SP11 0DB",
         "RatingValue": "5",
-        "RatingDate": "2024-10-24T00:00:00",
+        "RatingDate": "2026-08-18T00:00:00",
         "LocalAuthorityName": "Test Valley",
         "LocalAuthorityCode": "142",
         "LocalAuthorityBusinessID": "18/00164/FOOD"
@@ -33263,7 +33263,7 @@
         "AddressLine4": "",
         "PostCode": "HU3 4EB",
         "RatingValue": "5",
-        "RatingDate": "2024-07-02T00:00:00",
+        "RatingDate": "2026-08-20T00:00:00",
         "LocalAuthorityName": "Hull City",
         "LocalAuthorityCode": "866",
         "LocalAuthorityBusinessID": "74150"
@@ -33463,7 +33463,7 @@
         "AddressLine4": "",
         "PostCode": "BL9 8RS",
         "RatingValue": "5",
-        "RatingDate": "2024-11-01T00:00:00",
+        "RatingDate": "2026-08-25T00:00:00",
         "LocalAuthorityName": "Bury",
         "LocalAuthorityCode": "405",
         "LocalAuthorityBusinessID": "31319"
@@ -33663,7 +33663,7 @@
         "AddressLine4": "Walworth Business Park",
         "PostCode": "SP10 5NP",
         "RatingValue": "5",
-        "RatingDate": "2025-01-23T00:00:00",
+        "RatingDate": "2026-08-18T00:00:00",
         "LocalAuthorityName": "Test Valley",
         "LocalAuthorityCode": "142",
         "LocalAuthorityBusinessID": "19/00075/FOOD"
@@ -36513,7 +36513,7 @@
         "AddressLine4": "Ilminster",
         "PostCode": "TA19 9PT",
         "RatingValue": "5",
-        "RatingDate": "2024-08-30T00:00:00",
+        "RatingDate": "2026-08-05T00:00:00",
         "LocalAuthorityName": "Somerset",
         "LocalAuthorityCode": "281",
         "LocalAuthorityBusinessID": "67134"
@@ -38163,7 +38163,7 @@
         "AddressLine4": "",
         "PostCode": "B24 9FP",
         "RatingValue": "5",
-        "RatingDate": "2021-02-26T00:00:00",
+        "RatingDate": "2022-02-14T00:00:00",
         "LocalAuthorityName": "Birmingham",
         "LocalAuthorityCode": "402",
         "LocalAuthorityBusinessID": "PI/000671190"
@@ -40438,7 +40438,7 @@
         "AddressLine4": "",
         "PostCode": "B31 2UQ",
         "RatingValue": "5",
-        "RatingDate": "2020-11-30T00:00:00",
+        "RatingDate": "2021-11-18T00:00:00",
         "LocalAuthorityName": "Birmingham",
         "LocalAuthorityCode": "402",
         "LocalAuthorityBusinessID": "PI/000604418"
@@ -41388,7 +41388,7 @@
         "AddressLine4": "",
         "PostCode": "BS23 1HS",
         "RatingValue": "5",
-        "RatingDate": "2024-07-23T00:00:00",
+        "RatingDate": "2026-07-29T00:00:00",
         "LocalAuthorityName": "North Somerset",
         "LocalAuthorityCode": "858",
         "LocalAuthorityBusinessID": "A01KWM74HI/1"
@@ -44113,7 +44113,7 @@
         "AddressLine4": "",
         "PostCode": "CO1 1LJ",
         "RatingValue": "5",
-        "RatingDate": "2023-12-29T00:00:00",
+        "RatingDate": "2026-08-13T00:00:00",
         "LocalAuthorityName": "Colchester",
         "LocalAuthorityCode": "114",
         "LocalAuthorityBusinessID": "FR/000002911"
@@ -47288,7 +47288,7 @@
         "AddressLine4": "Coventry",
         "PostCode": "CV1 3GU",
         "RatingValue": "5",
-        "RatingDate": "2023-10-10T00:00:00",
+        "RatingDate": "2026-08-17T00:00:00",
         "LocalAuthorityName": "Coventry",
         "LocalAuthorityCode": "407",
         "LocalAuthorityBusinessID": "PI/000223190"
@@ -47838,7 +47838,7 @@
         "AddressLine4": "Birmingham",
         "PostCode": "B24 9PZ",
         "RatingValue": "5",
-        "RatingDate": "2024-09-06T00:00:00",
+        "RatingDate": "2026-08-20T00:00:00",
         "LocalAuthorityName": "Birmingham",
         "LocalAuthorityCode": "402",
         "LocalAuthorityBusinessID": "PI/000691326"
@@ -51263,7 +51263,7 @@
         "AddressLine4": "Filton",
         "PostCode": "BS34 7JL",
         "RatingValue": "5",
-        "RatingDate": "2024-08-15T00:00:00",
+        "RatingDate": "2026-08-13T00:00:00",
         "LocalAuthorityName": "South Gloucestershire",
         "LocalAuthorityCode": "856",
         "LocalAuthorityBusinessID": "CP/001804"
@@ -51462,8 +51462,8 @@
         "AddressLine3": "",
         "AddressLine4": "East Dunbartonshire",
         "PostCode": "G64 2LS",
-        "RatingValue": "Pass",
-        "RatingDate": "2025-07-17T00:00:00",
+        "RatingValue": "Improvement Required",
+        "RatingDate": "2026-07-27T00:00:00",
         "LocalAuthorityName": "East Dunbartonshire",
         "LocalAuthorityCode": "771",
         "LocalAuthorityBusinessID": "24/00054/MIXED"
@@ -52313,7 +52313,7 @@
         "AddressLine4": "",
         "PostCode": "YO15 2DX",
         "RatingValue": "5",
-        "RatingDate": "2024-09-18T00:00:00",
+        "RatingDate": "2026-08-12T00:00:00",
         "LocalAuthorityName": "East Riding of Yorkshire",
         "LocalAuthorityCode": "863",
         "LocalAuthorityBusinessID": "29114"
@@ -61331,14 +61331,14 @@
       "properties": {
         "FHRSID": 1939096,
         "BusinessName": "Greggs",
-        "BusinessTypeID": 1,
+        "BusinessTypeID": 7844,
         "AddressLine1": "Capelgate Filling Station",
         "AddressLine2": "London Road",
         "AddressLine3": "Capel St Mary",
         "AddressLine4": "IPSWICH",
         "PostCode": "IP9 2JJ",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-08-27T00:00:00",
         "LocalAuthorityName": "Babergh",
         "LocalAuthorityCode": "297",
         "LocalAuthorityBusinessID": "FR/000007170"
@@ -61573,6 +61573,31 @@
         "coordinates": [
           -4.1996415,
           55.8538803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1947837,
+        "BusinessName": "Greggs",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "Belmont Garage",
+        "AddressLine2": "Rochdale Road",
+        "AddressLine3": "Sowerby Bridge",
+        "AddressLine4": "Calderdale",
+        "PostCode": "HX6 3BL",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Calderdale",
+        "LocalAuthorityCode": "406",
+        "LocalAuthorityBusinessID": "26/00165/COMM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9205926,
+          53.7018025
         ]
       }
     },
@@ -62348,6 +62373,56 @@
         "coordinates": [
           -1.3444626,
           53.1006632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1981837,
+        "BusinessName": "Greggs Express",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "BP Service Station",
+        "AddressLine3": "",
+        "AddressLine4": "Airth",
+        "PostCode": "FK2 8PF",
+        "RatingValue": "Awaiting Inspection",
+        "RatingDate": "1900-01-01T00:00:00",
+        "LocalAuthorityName": "Falkirk",
+        "LocalAuthorityCode": "774",
+        "LocalAuthorityBusinessID": "PI/000113406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.75934505462646,
+          56.053840637207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1983027,
+        "BusinessName": "Greggs plc",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "Kingston Road",
+        "AddressLine2": "",
+        "AddressLine3": "Dereham",
+        "AddressLine4": "",
+        "PostCode": "NR19 1WB",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Breckland",
+        "LocalAuthorityCode": "227",
+        "LocalAuthorityBusinessID": "40639"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.953351974487305,
+          52.6713256835938
         ]
       }
     }
