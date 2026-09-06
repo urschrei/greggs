@@ -1263,7 +1263,7 @@
         "AddressLine4": "Wallsend",
         "PostCode": "NE28 9EN",
         "RatingValue": "5",
-        "RatingDate": "2025-03-06T00:00:00",
+        "RatingDate": "2026-08-11T00:00:00",
         "LocalAuthorityName": "North Tyneside",
         "LocalAuthorityCode": "417",
         "LocalAuthorityBusinessID": "09/00134/FOOD"
@@ -1463,7 +1463,7 @@
         "AddressLine4": "",
         "PostCode": "SO31 7ZE",
         "RatingValue": "5",
-        "RatingDate": "2024-10-17T00:00:00",
+        "RatingDate": "2026-09-04T00:00:00",
         "LocalAuthorityName": "Fareham",
         "LocalAuthorityCode": "134",
         "LocalAuthorityBusinessID": "100062524740"
@@ -2963,7 +2963,7 @@
         "AddressLine4": "Essex",
         "PostCode": "CM12 9AH",
         "RatingValue": "5",
-        "RatingDate": "2024-09-03T00:00:00",
+        "RatingDate": "2026-08-25T00:00:00",
         "LocalAuthorityName": "Basildon",
         "LocalAuthorityCode": "109",
         "LocalAuthorityBusinessID": "19917"
@@ -3838,7 +3838,7 @@
         "AddressLine4": "",
         "PostCode": "KY12 7DP",
         "RatingValue": "Pass",
-        "RatingDate": "2016-11-04T00:00:00",
+        "RatingDate": "2026-08-25T00:00:00",
         "LocalAuthorityName": "Fife",
         "LocalAuthorityCode": "775",
         "LocalAuthorityBusinessID": "39820/1002/2/000"
@@ -11512,8 +11512,8 @@
         "AddressLine3": "ENFIELD",
         "AddressLine4": "",
         "PostCode": "EN1 3LD",
-        "RatingValue": "5",
-        "RatingDate": "2024-09-11T00:00:00",
+        "RatingValue": "3",
+        "RatingDate": "2026-07-31T00:00:00",
         "LocalAuthorityName": "Enfield",
         "LocalAuthorityCode": "510",
         "LocalAuthorityBusinessID": "PI/000006598"
@@ -18813,7 +18813,7 @@
         "AddressLine4": "Nottingham",
         "PostCode": "NG8 5BU",
         "RatingValue": "5",
-        "RatingDate": "2023-06-12T00:00:00",
+        "RatingDate": "2026-08-27T00:00:00",
         "LocalAuthorityName": "Nottingham City",
         "LocalAuthorityCode": "899",
         "LocalAuthorityBusinessID": "66261"
@@ -20738,7 +20738,7 @@
         "AddressLine4": "",
         "PostCode": "IP22 4AD",
         "RatingValue": "5",
-        "RatingDate": "2024-09-24T00:00:00",
+        "RatingDate": "2026-09-02T00:00:00",
         "LocalAuthorityName": "South Norfolk",
         "LocalAuthorityCode": "233",
         "LocalAuthorityBusinessID": "P065737"
@@ -29288,7 +29288,7 @@
         "AddressLine4": "Worcestershire",
         "PostCode": "DY11 7PT",
         "RatingValue": "5",
-        "RatingDate": "2024-02-21T00:00:00",
+        "RatingDate": "2026-08-25T00:00:00",
         "LocalAuthorityName": "Wyre Forest",
         "LocalAuthorityCode": "153",
         "LocalAuthorityBusinessID": "17/00547/FOOD"
@@ -36938,7 +36938,7 @@
         "AddressLine4": "",
         "PostCode": "DY13 8YJ",
         "RatingValue": "5",
-        "RatingDate": "2024-06-19T00:00:00",
+        "RatingDate": "2026-08-25T00:00:00",
         "LocalAuthorityName": "Wyre Forest",
         "LocalAuthorityCode": "153",
         "LocalAuthorityBusinessID": "20/00778/FOOD"
@@ -41388,7 +41388,7 @@
         "AddressLine4": "",
         "PostCode": "BS23 1HS",
         "RatingValue": "5",
-        "RatingDate": "2026-07-29T00:00:00",
+        "RatingDate": "2024-07-23T00:00:00",
         "LocalAuthorityName": "North Somerset",
         "LocalAuthorityCode": "858",
         "LocalAuthorityBusinessID": "A01KWM74HI/1"
@@ -44773,31 +44773,6 @@
         "coordinates": [
           -1.5767878,
           54.9775469
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1605933,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 7844,
-        "AddressLine1": "ATM WYBOSTON SERVICE STATION SOUTHBOUND GREAT NORTH ROAD",
-        "AddressLine2": "",
-        "AddressLine3": "WYBOSTON",
-        "AddressLine4": "BEDFORD",
-        "PostCode": "MK44 3AA",
-        "RatingValue": "5",
-        "RatingDate": "2026-03-07T00:00:00",
-        "LocalAuthorityName": "Bedford",
-        "LocalAuthorityCode": "701",
-        "LocalAuthorityBusinessID": "134413"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.2980805,
-          52.1931606
         ]
       }
     },
@@ -56057,13 +56032,13 @@
         "FHRSID": 1826389,
         "BusinessName": "Greggs",
         "BusinessTypeID": 7844,
-        "AddressLine1": "119 Newton Road Torquay Torbay",
+        "AddressLine1": "119 Newton Road  Torquay",
         "AddressLine2": "",
         "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "TQ2 7AR",
-        "RatingValue": "5",
-        "RatingDate": "2024-08-15T00:00:00",
+        "RatingValue": "4",
+        "RatingDate": "2026-08-05T00:00:00",
         "LocalAuthorityName": "Torbay",
         "LocalAuthorityCode": "892",
         "LocalAuthorityBusinessID": "143449425645562"
@@ -56071,8 +56046,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.54946,
-          50.4824243
+          -3.5493264,
+          50.4822759
         ]
       }
     },
@@ -59781,7 +59756,7 @@
       "properties": {
         "FHRSID": 1895541,
         "BusinessName": "Greggs PLC",
-        "BusinessTypeID": 7839,
+        "BusinessTypeID": 4613,
         "AddressLine1": "8 Cheshire Oaks Outlet Village Kinsey Road",
         "AddressLine2": "",
         "AddressLine3": "Ellesmere Port",
@@ -62423,6 +62398,56 @@
         "coordinates": [
           0.953351974487305,
           52.6713256835938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1984466,
+        "BusinessName": "Greggs Plc",
+        "BusinessTypeID": 7839,
+        "AddressLine1": "Unit 4",
+        "AddressLine2": "Griggs Way",
+        "AddressLine3": "Witham",
+        "AddressLine4": "Essex",
+        "PostCode": "CM8 1ZR",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Braintree",
+        "LocalAuthorityCode": "110",
+        "LocalAuthorityBusinessID": "26/00242/MIXED"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6223841,
+          51.7866912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1984746,
+        "BusinessName": "Greggs Plc",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "7 - 8 Bishops Park Centre",
+        "AddressLine2": "Lancaster Way",
+        "AddressLine3": "Bishops Stortford",
+        "AddressLine4": "Hertfordshire",
+        "PostCode": "CM23 4DA",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "East Hertfordshire",
+        "LocalAuthorityCode": "157",
+        "LocalAuthorityBusinessID": "26/00206/CP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1362944,
+          51.8748882
         ]
       }
     }

@@ -1613,7 +1613,7 @@
         "AddressLine4": "London",
         "PostCode": "SE1 1NB",
         "RatingValue": "5",
-        "RatingDate": "2024-04-11T00:00:00",
+        "RatingDate": "2026-08-15T00:00:00",
         "LocalAuthorityName": "Southwark",
         "LocalAuthorityCode": "528",
         "LocalAuthorityBusinessID": "138107"
@@ -9032,13 +9032,13 @@
         "FHRSID": 1685030,
         "BusinessName": "Pret A Manger Lands Lane",
         "BusinessTypeID": 1,
-        "AddressLine1": "Pret A Manger",
-        "AddressLine2": "6 Lands Lane",
-        "AddressLine3": "Leeds",
+        "AddressLine1": "6 Lands Lane",
+        "AddressLine2": "Leeds",
+        "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "LS1 6AW",
         "RatingValue": "5",
-        "RatingDate": "2024-06-19T00:00:00",
+        "RatingDate": "2026-08-26T00:00:00",
         "LocalAuthorityName": "Leeds",
         "LocalAuthorityCode": "413",
         "LocalAuthorityBusinessID": "23/01160/COMM"
@@ -9046,8 +9046,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.5433622,
-          53.7976995
+          -1.54392,
+          53.797668
         ]
       }
     },
