@@ -37,8 +37,8 @@
         "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "DE55 1HJ",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-08-18T00:00:00",
         "LocalAuthorityName": "Amber Valley",
         "LocalAuthorityCode": "062",
         "LocalAuthorityBusinessID": "0002320/FH"
@@ -3388,7 +3388,7 @@
         "AddressLine4": "Clydebank",
         "PostCode": "G81 5NZ",
         "RatingValue": "Pass",
-        "RatingDate": "2025-03-05T00:00:00",
+        "RatingDate": "2026-09-11T00:00:00",
         "LocalAuthorityName": "West Dunbartonshire",
         "LocalAuthorityCode": "769",
         "LocalAuthorityBusinessID": "2679"
@@ -5613,7 +5613,7 @@
         "AddressLine4": "Dundee",
         "PostCode": "DD5 2AG",
         "RatingValue": "Pass",
-        "RatingDate": "2025-02-17T00:00:00",
+        "RatingDate": "2026-08-26T00:00:00",
         "LocalAuthorityName": "Dundee City",
         "LocalAuthorityCode": "772",
         "LocalAuthorityBusinessID": "A01G1259BR/1"
@@ -10738,7 +10738,7 @@
         "AddressLine4": "Windermere",
         "PostCode": "LA23 1EA",
         "RatingValue": "5",
-        "RatingDate": "2024-08-30T00:00:00",
+        "RatingDate": "2026-08-17T00:00:00",
         "LocalAuthorityName": "Westmorland and Furness",
         "LocalAuthorityCode": "056",
         "LocalAuthorityBusinessID": "132"
@@ -13163,7 +13163,7 @@
         "AddressLine4": "Gateshead",
         "PostCode": "NE10 8XQ",
         "RatingValue": "5",
-        "RatingDate": "2024-11-18T00:00:00",
+        "RatingDate": "2026-08-26T00:00:00",
         "LocalAuthorityName": "Gateshead",
         "LocalAuthorityCode": "410",
         "LocalAuthorityBusinessID": "16408"
@@ -16612,8 +16612,8 @@
         "AddressLine3": "Haywards Heath",
         "AddressLine4": "West Sussex",
         "PostCode": "RH16 4LA",
-        "RatingValue": "5",
-        "RatingDate": "2026-07-03T00:00:00",
+        "RatingValue": "3",
+        "RatingDate": "2026-08-06T00:00:00",
         "LocalAuthorityName": "Mid Sussex",
         "LocalAuthorityCode": "328",
         "LocalAuthorityBusinessID": "12/00380/MIXED"
@@ -17638,7 +17638,7 @@
         "AddressLine4": "Hayes",
         "PostCode": "UB3 4BD",
         "RatingValue": "5",
-        "RatingDate": "2024-09-17T00:00:00",
+        "RatingDate": "2026-08-25T00:00:00",
         "LocalAuthorityName": "Hillingdon",
         "LocalAuthorityCode": "517",
         "LocalAuthorityBusinessID": "52621"
@@ -20238,7 +20238,7 @@
         "AddressLine4": "",
         "PostCode": "ML6 6DB",
         "RatingValue": "Pass",
-        "RatingDate": "2024-08-27T00:00:00",
+        "RatingDate": "2026-09-02T00:00:00",
         "LocalAuthorityName": "North Lanarkshire",
         "LocalAuthorityCode": "779",
         "LocalAuthorityBusinessID": "G07HNL68GR/1"
@@ -20538,7 +20538,7 @@
         "AddressLine4": "",
         "PostCode": "HP11 2DF",
         "RatingValue": "5",
-        "RatingDate": "2025-01-10T00:00:00",
+        "RatingDate": "2026-08-21T00:00:00",
         "LocalAuthorityName": "Buckinghamshire",
         "LocalAuthorityCode": "021",
         "LocalAuthorityBusinessID": "14/00136/MIXED"
@@ -21663,7 +21663,7 @@
         "AddressLine4": "Worcestershire",
         "PostCode": "DY10 1AA",
         "RatingValue": "5",
-        "RatingDate": "2024-08-28T00:00:00",
+        "RatingDate": "2026-09-07T00:00:00",
         "LocalAuthorityName": "Wyre Forest",
         "LocalAuthorityCode": "153",
         "LocalAuthorityBusinessID": "WK/PI/000042250"
@@ -21748,6 +21748,31 @@
         "coordinates": [
           -0.08180685,
           53.5662692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 675435,
+        "BusinessName": "Greggs",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "",
+        "AddressLine2": "41 St Peters Avenue",
+        "AddressLine3": "",
+        "AddressLine4": "Cleethorpes",
+        "PostCode": "DN35 8HF",
+        "RatingValue": "5",
+        "RatingDate": "2026-08-28T00:00:00",
+        "LocalAuthorityName": "North East Lincolnshire",
+        "LocalAuthorityCode": "865",
+        "LocalAuthorityBusinessID": "36374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.030964,
+          53.559174
         ]
       }
     },
@@ -22013,7 +22038,7 @@
         "AddressLine4": "",
         "PostCode": "G74 5QD",
         "RatingValue": "Pass",
-        "RatingDate": "2019-02-21T00:00:00",
+        "RatingDate": "2026-09-08T00:00:00",
         "LocalAuthorityName": "South Lanarkshire",
         "LocalAuthorityCode": "780",
         "LocalAuthorityBusinessID": "83127"
@@ -23463,7 +23488,7 @@
         "AddressLine4": "",
         "PostCode": "EN5 5XQ",
         "RatingValue": "5",
-        "RatingDate": "2024-04-04T00:00:00",
+        "RatingDate": "2026-07-13T00:00:00",
         "LocalAuthorityName": "Barnet",
         "LocalAuthorityCode": "502",
         "LocalAuthorityBusinessID": "CP/56725"
@@ -31338,7 +31363,7 @@
         "AddressLine4": "Essex",
         "PostCode": "SS14 3HZ",
         "RatingValue": "5",
-        "RatingDate": "2024-08-29T00:00:00",
+        "RatingDate": "2026-08-04T00:00:00",
         "LocalAuthorityName": "Basildon",
         "LocalAuthorityCode": "109",
         "LocalAuthorityBusinessID": "99572"
@@ -32538,7 +32563,7 @@
         "AddressLine4": "",
         "PostCode": "HU6 7PY",
         "RatingValue": "5",
-        "RatingDate": "2024-09-19T00:00:00",
+        "RatingDate": "2026-09-01T00:00:00",
         "LocalAuthorityName": "Hull City",
         "LocalAuthorityCode": "866",
         "LocalAuthorityBusinessID": "73469"
@@ -38738,7 +38763,7 @@
         "AddressLine4": "",
         "PostCode": "LE18 1NR",
         "RatingValue": "5",
-        "RatingDate": "2024-05-08T00:00:00",
+        "RatingDate": "2026-06-15T00:00:00",
         "LocalAuthorityName": "Oadby and Wigston",
         "LocalAuthorityCode": "216",
         "LocalAuthorityBusinessID": "21/00043/COMM"
@@ -38988,7 +39013,7 @@
         "AddressLine4": "Porth",
         "PostCode": "CF39 9BL",
         "RatingValue": "5",
-        "RatingDate": "2024-07-11T00:00:00",
+        "RatingDate": "2026-08-11T00:00:00",
         "LocalAuthorityName": "Rhondda Cynon Taf",
         "LocalAuthorityCode": "567",
         "LocalAuthorityBusinessID": "239518"
@@ -41388,7 +41413,7 @@
         "AddressLine4": "",
         "PostCode": "BS23 1HS",
         "RatingValue": "5",
-        "RatingDate": "2024-07-23T00:00:00",
+        "RatingDate": "2026-07-29T00:00:00",
         "LocalAuthorityName": "North Somerset",
         "LocalAuthorityCode": "858",
         "LocalAuthorityBusinessID": "A01KWM74HI/1"
@@ -45788,7 +45813,7 @@
         "AddressLine4": "",
         "PostCode": "SK8 1BJ",
         "RatingValue": "5",
-        "RatingDate": "2023-11-21T00:00:00",
+        "RatingDate": "2026-05-21T00:00:00",
         "LocalAuthorityName": "Stockport",
         "LocalAuthorityCode": "428",
         "LocalAuthorityBusinessID": "23/00165/C"
@@ -50263,7 +50288,7 @@
         "AddressLine4": "North Lincolnshire",
         "PostCode": "DN16 2SN",
         "RatingValue": "5",
-        "RatingDate": "2024-06-19T00:00:00",
+        "RatingDate": "2026-09-03T00:00:00",
         "LocalAuthorityName": "North Lincolnshire",
         "LocalAuthorityCode": "864",
         "LocalAuthorityBusinessID": "134745"
@@ -50863,7 +50888,7 @@
         "AddressLine4": "Swindon",
         "PostCode": "SN5 7DL",
         "RatingValue": "5",
-        "RatingDate": "2024-07-31T00:00:00",
+        "RatingDate": "2026-08-24T00:00:00",
         "LocalAuthorityName": "Swindon",
         "LocalAuthorityCode": "881",
         "LocalAuthorityBusinessID": "24/00128/FOOD"
@@ -51362,8 +51387,8 @@
         "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "HA3 7AE",
-        "RatingValue": "4",
-        "RatingDate": "2024-09-10T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-09-08T00:00:00",
         "LocalAuthorityName": "Harrow",
         "LocalAuthorityCode": "515",
         "LocalAuthorityBusinessID": "PI/000133300"
@@ -51662,8 +51687,8 @@
         "AddressLine3": "",
         "AddressLine4": "Cleethorpes",
         "PostCode": "DN35 8HL",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-01-16T00:00:00",
         "LocalAuthorityName": "North East Lincolnshire",
         "LocalAuthorityCode": "865",
         "LocalAuthorityBusinessID": "KZAN4K-MD2FWW-0F907T"
@@ -52362,8 +52387,8 @@
         "AddressLine3": "Worcestershire",
         "AddressLine4": "",
         "PostCode": "DY10 1JR",
-        "RatingValue": "5",
-        "RatingDate": "2024-07-23T00:00:00",
+        "RatingValue": "4",
+        "RatingDate": "2026-08-18T00:00:00",
         "LocalAuthorityName": "Wyre Forest",
         "LocalAuthorityCode": "153",
         "LocalAuthorityBusinessID": "24/00524/FOOD"
@@ -62137,8 +62162,8 @@
         "AddressLine3": "Hinxworth",
         "AddressLine4": "Hertfordshire",
         "PostCode": "SG7 5EX",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-09-03T00:00:00",
         "LocalAuthorityName": "North Hertfordshire",
         "LocalAuthorityCode": "159",
         "LocalAuthorityBusinessID": "721090"
@@ -62448,6 +62473,31 @@
         "coordinates": [
           0.1362944,
           51.8748882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1986313,
+        "BusinessName": "Morrisons Daily Coalville -GREGGS",
+        "BusinessTypeID": 7844,
+        "AddressLine1": "Petrol Station",
+        "AddressLine2": "Morrisons Supermarket",
+        "AddressLine3": "Whitwick Road",
+        "AddressLine4": "Coalville",
+        "PostCode": "LE67 3FA",
+        "RatingValue": "5",
+        "RatingDate": "2026-08-14T00:00:00",
+        "LocalAuthorityName": "North West Leicestershire",
+        "LocalAuthorityCode": "215",
+        "LocalAuthorityBusinessID": "26/00162/MIXED"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.366672,
+          52.72657
         ]
       }
     }

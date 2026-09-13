@@ -3538,7 +3538,7 @@
         "AddressLine4": "London Heathrow Airport",
         "PostCode": "TW6 1QG",
         "RatingValue": "5",
-        "RatingDate": "2024-06-25T00:00:00",
+        "RatingDate": "2026-08-28T00:00:00",
         "LocalAuthorityName": "Hillingdon",
         "LocalAuthorityCode": "517",
         "LocalAuthorityBusinessID": "52370"
@@ -9462,8 +9462,8 @@
         "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "NW11 8LH",
-        "RatingValue": "5",
-        "RatingDate": "2024-08-23T00:00:00",
+        "RatingValue": "4",
+        "RatingDate": "2026-07-27T00:00:00",
         "LocalAuthorityName": "Barnet",
         "LocalAuthorityCode": "502",
         "LocalAuthorityBusinessID": "24/00254/COMM"
@@ -9563,7 +9563,7 @@
         "AddressLine4": "East Grinstead",
         "PostCode": "RH19 1ET",
         "RatingValue": "5",
-        "RatingDate": "2024-09-06T00:00:00",
+        "RatingDate": "2026-09-02T00:00:00",
         "LocalAuthorityName": "Mid Sussex",
         "LocalAuthorityCode": "328",
         "LocalAuthorityBusinessID": "CP/24/0148/MIXED"
@@ -9613,7 +9613,7 @@
         "AddressLine4": "Hilton",
         "PostCode": "WV11 2AT",
         "RatingValue": "5",
-        "RatingDate": "2024-08-21T00:00:00",
+        "RatingDate": "2026-08-25T00:00:00",
         "LocalAuthorityName": "South Staffordshire",
         "LocalAuthorityCode": "291",
         "LocalAuthorityBusinessID": "ES-98"
