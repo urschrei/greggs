@@ -3463,7 +3463,7 @@
         "AddressLine4": "Merton",
         "PostCode": "",
         "RatingValue": "5",
-        "RatingDate": "2025-03-11T00:00:00",
+        "RatingDate": "2026-08-27T00:00:00",
         "LocalAuthorityName": "Merton",
         "LocalAuthorityCode": "524",
         "LocalAuthorityBusinessID": "PI/000097138"
@@ -7404,31 +7404,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1430790,
-        "BusinessName": "Pret A Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Moto Hospitality",
-        "AddressLine2": "Exeter Motorway Services Area",
-        "AddressLine3": "Sidmouth Road",
-        "AddressLine4": "Exeter",
-        "PostCode": "EX2 7HF",
-        "RatingValue": "5",
-        "RatingDate": "2024-10-21T00:00:00",
-        "LocalAuthorityName": "Exeter City",
-        "LocalAuthorityCode": "073",
-        "LocalAuthorityBusinessID": "21/00216/COMM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.4635577,
-          50.716648
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1439158,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -7613,7 +7588,7 @@
         "AddressLine4": "Surrey",
         "PostCode": "GU1 4EQ",
         "RatingValue": "5",
-        "RatingDate": "2024-08-01T00:00:00",
+        "RatingDate": "2026-09-03T00:00:00",
         "LocalAuthorityName": "Guildford",
         "LocalAuthorityCode": "307",
         "LocalAuthorityBusinessID": "12362"
