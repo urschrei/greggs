@@ -2412,8 +2412,8 @@
         "AddressLine3": "LONDON",
         "AddressLine4": "",
         "PostCode": "WC2N 6ND",
-        "RatingValue": "5",
-        "RatingDate": "2024-01-17T00:00:00",
+        "RatingValue": "2",
+        "RatingDate": "2026-08-19T00:00:00",
         "LocalAuthorityName": "Westminster",
         "LocalAuthorityCode": "533",
         "LocalAuthorityBusinessID": "00271/0025/0/002"
@@ -3148,31 +3148,6 @@
         "coordinates": [
           -0.182126,
           51.494244
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 434467,
-        "BusinessName": "Pret a Manger at The Oracle",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Bridge Street",
-        "AddressLine2": "Reading",
-        "AddressLine3": "",
-        "AddressLine4": "",
-        "PostCode": "RG1 2AQ",
-        "RatingValue": "5",
-        "RatingDate": "2026-06-22T00:00:00",
-        "LocalAuthorityName": "Reading",
-        "LocalAuthorityCode": "884",
-        "LocalAuthorityBusinessID": "33032"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.97236539,
-          51.45247823
         ]
       }
     },
@@ -5113,7 +5088,7 @@
         "AddressLine4": "",
         "PostCode": "BA1 1AP",
         "RatingValue": "5",
-        "RatingDate": "2024-05-21T00:00:00",
+        "RatingDate": "2026-09-21T00:00:00",
         "LocalAuthorityName": "Bath and North East Somerset",
         "LocalAuthorityCode": "857",
         "LocalAuthorityBusinessID": "16/00197/MIXED"
@@ -5607,11 +5582,11 @@
         "FHRSID": 994495,
         "BusinessName": "Pret a Manger at Thames Tower",
         "BusinessTypeID": 1,
-        "AddressLine1": "37-45 Station Road",
-        "AddressLine2": "Reading",
-        "AddressLine3": "",
+        "AddressLine1": "THAMES TOWER 37-45 STATION ROAD",
+        "AddressLine2": "",
+        "AddressLine3": "READING",
         "AddressLine4": "",
-        "PostCode": "RG1 1LX",
+        "PostCode": "",
         "RatingValue": "5",
         "RatingDate": "2025-12-04T00:00:00",
         "LocalAuthorityName": "Reading",
@@ -5621,8 +5596,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.972243,
-          51.45775269
+          -0.9726929,
+          51.4580829
         ]
       }
     },
@@ -7404,6 +7379,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1430790,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Moto Hospitality",
+        "AddressLine2": "Exeter Motorway Services Area",
+        "AddressLine3": "Sidmouth Road",
+        "AddressLine4": "Exeter",
+        "PostCode": "EX2 7HF",
+        "RatingValue": "5",
+        "RatingDate": "2026-08-26T00:00:00",
+        "LocalAuthorityName": "Exeter City",
+        "LocalAuthorityCode": "073",
+        "LocalAuthorityBusinessID": "21/00216/COMM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4635577,
+          50.716648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1439158,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -8205,11 +8205,11 @@
       "type": "Feature",
       "properties": {
         "FHRSID": 1587253,
-        "BusinessName": "Pret  A Manger",
+        "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
-        "AddressLine1": "211 Shinfield Road",
-        "AddressLine2": "Reading",
-        "AddressLine3": "",
+        "AddressLine1": "211 SHINFIELD ROAD",
+        "AddressLine2": "",
+        "AddressLine3": "READING",
         "AddressLine4": "",
         "PostCode": "RG2 8HA",
         "RatingValue": "5",
@@ -9413,7 +9413,7 @@
         "AddressLine4": "Winchester",
         "PostCode": "SO21 1PP",
         "RatingValue": "5",
-        "RatingDate": "2024-09-12T00:00:00",
+        "RatingDate": "2026-08-28T00:00:00",
         "LocalAuthorityName": "Winchester City",
         "LocalAuthorityCode": "143",
         "LocalAuthorityBusinessID": "24/00121/MIXED"
