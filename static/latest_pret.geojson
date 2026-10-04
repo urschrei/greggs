@@ -1687,8 +1687,8 @@
         "AddressLine3": "Stamford Street",
         "AddressLine4": "London",
         "PostCode": "SE1 9LX",
-        "RatingValue": "5",
-        "RatingDate": "2024-06-07T00:00:00",
+        "RatingValue": "4",
+        "RatingDate": "2026-08-28T00:00:00",
         "LocalAuthorityName": "Southwark",
         "LocalAuthorityCode": "528",
         "LocalAuthorityBusinessID": "45080"
@@ -3838,7 +3838,7 @@
         "AddressLine4": "West Berkshire",
         "PostCode": "RG14 1AA",
         "RatingValue": "5",
-        "RatingDate": "2024-07-18T00:00:00",
+        "RatingDate": "2026-09-25T00:00:00",
         "LocalAuthorityName": "West Berkshire",
         "LocalAuthorityCode": "883",
         "LocalAuthorityBusinessID": "13/00203/FOODPR"
@@ -7938,7 +7938,7 @@
         "AddressLine4": "",
         "PostCode": "N10 3RS",
         "RatingValue": "5",
-        "RatingDate": "2024-12-06T00:00:00",
+        "RatingDate": "2026-09-23T00:00:00",
         "LocalAuthorityName": "Haringey",
         "LocalAuthorityCode": "514",
         "LocalAuthorityBusinessID": "PI/000165134"
@@ -9854,31 +9854,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1778913,
-        "BusinessName": "Pret a Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "4 Holly Parade",
-        "AddressLine2": "20 High Street",
-        "AddressLine3": "Cobham",
-        "AddressLine4": "Surrey",
-        "PostCode": "KT11 3EB",
-        "RatingValue": "5",
-        "RatingDate": "2026-04-20T00:00:00",
-        "LocalAuthorityName": "Elmbridge",
-        "LocalAuthorityCode": "305",
-        "LocalAuthorityBusinessID": "FR/202100189"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.4109011,
-          51.3282121
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1779109,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -10198,31 +10173,6 @@
         "coordinates": [
           -2.270855,
           53.361889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1819544,
-        "BusinessName": "Pret a Manger",
-        "BusinessTypeID": 1,
-        "AddressLine1": "BP Ardwick Service Station",
-        "AddressLine2": "Chancellor Lane",
-        "AddressLine3": "Manchester",
-        "AddressLine4": "",
-        "PostCode": "M12 6JZ",
-        "RatingValue": "5",
-        "RatingDate": "2023-06-06T00:00:00",
-        "LocalAuthorityName": "Manchester",
-        "LocalAuthorityCode": "415",
-        "LocalAuthorityBusinessID": "AC-072024-014138"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.2161101,
-          53.4735825
         ]
       }
     },
@@ -11223,6 +11173,31 @@
         "coordinates": [
           -0.4878089,
           51.4716798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1994129,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Roadchef",
+        "AddressLine2": "Tibshelf Services M1 Northbound",
+        "AddressLine3": "Newtonwood Lane",
+        "AddressLine4": "Tibshelf",
+        "PostCode": "DE55 5TZ",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Bolsover",
+        "LocalAuthorityCode": "063",
+        "LocalAuthorityBusinessID": "26/00233/COMM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.332834,
+          53.1361693
         ]
       }
     }
