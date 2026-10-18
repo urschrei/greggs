@@ -1137,8 +1137,8 @@
         "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "EC3N 1LH",
-        "RatingValue": "5",
-        "RatingDate": "2022-09-16T00:00:00",
+        "RatingValue": "4",
+        "RatingDate": "2026-09-09T00:00:00",
         "LocalAuthorityName": "City of London Corporation",
         "LocalAuthorityCode": "508",
         "LocalAuthorityBusinessID": "PI/000019254"
@@ -3888,7 +3888,7 @@
         "AddressLine4": "",
         "PostCode": "E1 6BF",
         "RatingValue": "5",
-        "RatingDate": "2024-11-05T00:00:00",
+        "RatingDate": "2026-09-30T00:00:00",
         "LocalAuthorityName": "Tower Hamlets",
         "LocalAuthorityCode": "530",
         "LocalAuthorityBusinessID": "155375"
@@ -4663,7 +4663,7 @@
         "AddressLine4": "",
         "PostCode": "SW1H 0HW",
         "RatingValue": "5",
-        "RatingDate": "2023-11-22T00:00:00",
+        "RatingDate": "2026-09-09T00:00:00",
         "LocalAuthorityName": "Westminster",
         "LocalAuthorityCode": "533",
         "LocalAuthorityBusinessID": "15/00096/COMM"
@@ -6763,7 +6763,7 @@
         "AddressLine4": "",
         "PostCode": "SW1V 2RX",
         "RatingValue": "5",
-        "RatingDate": "2024-03-25T00:00:00",
+        "RatingDate": "2026-09-24T00:00:00",
         "LocalAuthorityName": "Westminster",
         "LocalAuthorityCode": "533",
         "LocalAuthorityBusinessID": "19/00505/COMM"
@@ -8473,6 +8473,31 @@
         "coordinates": [
           -0.4574432,
           51.90593995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1613484,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Unit 7a The Junction Shopping Centre 20 St Johns Hill",
+        "AddressLine2": "",
+        "AddressLine3": "London",
+        "AddressLine4": "Wandsworth",
+        "PostCode": "SW11 1SA",
+        "RatingValue": "5",
+        "RatingDate": "2025-08-02T00:00:00",
+        "LocalAuthorityName": "Wandsworth",
+        "LocalAuthorityCode": "532",
+        "LocalAuthorityBusinessID": "PI/000465570"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1689213,
+          51.4636801
         ]
       }
     },
@@ -11112,8 +11137,8 @@
         "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "RM13 8DP",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-09-07T00:00:00",
         "LocalAuthorityName": "Havering",
         "LocalAuthorityCode": "516",
         "LocalAuthorityBusinessID": "141925"
@@ -11198,6 +11223,31 @@
         "coordinates": [
           -1.332834,
           53.1361693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 2000211,
+        "BusinessName": "Pret A Manger @ Morrisons Daily Norwich",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Petrol Station And Car Wash",
+        "AddressLine2": "Albion Way",
+        "AddressLine3": "Norwich",
+        "AddressLine4": "",
+        "PostCode": "NR1 1WU",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Norwich City",
+        "LocalAuthorityCode": "232",
+        "LocalAuthorityBusinessID": "26/00291/FD_HS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3078891,
+          52.6232604
         ]
       }
     }
