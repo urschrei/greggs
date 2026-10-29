@@ -25,7 +25,7 @@
     "@turf/helpers": "^7.4.0",
     "@turf/nearest-point": "^7.4.0",
     "bootstrap": "^5.3.8",
-    "maplibre-gl": "^6.15.0"
+    "maplibre-gl": "^6.16.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.6.1",
