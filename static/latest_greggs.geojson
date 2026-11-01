@@ -4213,7 +4213,7 @@
         "AddressLine4": "",
         "PostCode": "L20 4XX",
         "RatingValue": "5",
-        "RatingDate": "2024-08-14T00:00:00",
+        "RatingDate": "2026-10-28T00:00:00",
         "LocalAuthorityName": "Sefton",
         "LocalAuthorityCode": "424",
         "LocalAuthorityBusinessID": "4385"
@@ -4384,8 +4384,8 @@
         "BusinessTypeID": 4613,
         "AddressLine1": "",
         "AddressLine2": "47 Cardiff Road",
-        "AddressLine3": "Caerffili",
-        "AddressLine4": "",
+        "AddressLine3": "",
+        "AddressLine4": "Caerphilly",
         "PostCode": "CF83 1FP",
         "RatingValue": "5",
         "RatingDate": "2025-07-01T00:00:00",
@@ -5504,31 +5504,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 148357,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "",
-        "AddressLine2": "124-128 High Street",
-        "AddressLine3": "Blackwood",
-        "AddressLine4": "",
-        "PostCode": "NP12 1AF",
-        "RatingValue": "5",
-        "RatingDate": "2026-08-10T00:00:00",
-        "LocalAuthorityName": "Caerphilly",
-        "LocalAuthorityCode": "555",
-        "LocalAuthorityBusinessID": "93141"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.195427,
-          51.666306
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 149289,
         "BusinessName": "GREGGS PLC",
         "BusinessTypeID": 4613,
@@ -6579,38 +6554,13 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 197874,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 1,
-        "AddressLine1": "",
-        "AddressLine2": "29 Cwrt-Y-Castell",
-        "AddressLine3": "Caerphilly",
-        "AddressLine4": "",
-        "PostCode": "CF83 1NU",
-        "RatingValue": "5",
-        "RatingDate": "2025-11-10T00:00:00",
-        "LocalAuthorityName": "Caerphilly",
-        "LocalAuthorityCode": "555",
-        "LocalAuthorityBusinessID": "102262"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.21663,
-          51.576324
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 197879,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
         "AddressLine1": "",
         "AddressLine2": "43 Tredegar Street",
-        "AddressLine3": "Pontymister",
-        "AddressLine4": "Newport",
+        "AddressLine3": "",
+        "AddressLine4": "Pontymister",
         "PostCode": "NP11 6BW",
         "RatingValue": "5",
         "RatingDate": "2026-02-26T00:00:00",
@@ -6621,8 +6571,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.100847,
-          51.607221
+          -3.1011684,
+          51.6081472
         ]
       }
     },
@@ -7207,10 +7157,10 @@
         "FHRSID": 215861,
         "BusinessName": "Greggs plc",
         "BusinessTypeID": 7844,
-        "AddressLine1": "",
-        "AddressLine2": "Pride Park Stadium",
-        "AddressLine3": "Royal Way",
-        "AddressLine4": "Pride Park",
+        "AddressLine1": "Greggs Pride Park Stadium",
+        "AddressLine2": "Royal Way",
+        "AddressLine3": "Derby",
+        "AddressLine4": "",
         "PostCode": "DE24 8XL",
         "RatingValue": "5",
         "RatingDate": "2023-04-26T00:00:00",
@@ -7221,8 +7171,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.44803,
-          52.91466
+          -1.4479636,
+          52.9146291
         ]
       }
     },
@@ -15129,31 +15079,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 431167,
-        "BusinessName": "Greggs Bakers",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "19 High Street",
-        "AddressLine2": "Brentwood",
-        "AddressLine3": "Essex",
-        "AddressLine4": "",
-        "PostCode": "CM14 4RG",
-        "RatingValue": "5",
-        "RatingDate": "2025-05-24T00:00:00",
-        "LocalAuthorityName": "Brentwood",
-        "LocalAuthorityCode": "111",
-        "LocalAuthorityBusinessID": "11/01098/FH"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.304717,
-          51.621328
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 431170,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -15438,7 +15363,7 @@
         "AddressLine4": "",
         "PostCode": "DD8 3AE",
         "RatingValue": "Pass",
-        "RatingDate": "2025-08-20T00:00:00",
+        "RatingDate": "2026-10-23T00:00:00",
         "LocalAuthorityName": "Angus",
         "LocalAuthorityCode": "762",
         "LocalAuthorityBusinessID": "1092"
@@ -15979,31 +15904,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 461994,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "",
-        "AddressLine2": "236 Bawtry Road",
-        "AddressLine3": "Wickersley",
-        "AddressLine4": "Rotherham",
-        "PostCode": "S66 1AA",
-        "RatingValue": "5",
-        "RatingDate": "2023-10-19T00:00:00",
-        "LocalAuthorityName": "Rotherham",
-        "LocalAuthorityCode": "420",
-        "LocalAuthorityBusinessID": "6472"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.284513,
-          53.420738
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 463334,
         "BusinessName": "Greggs",
         "BusinessTypeID": 7844,
@@ -16513,7 +16413,7 @@
         "AddressLine4": "",
         "PostCode": "TW13 6AL",
         "RatingValue": "5",
-        "RatingDate": "2024-05-04T00:00:00",
+        "RatingDate": "2026-10-23T00:00:00",
         "LocalAuthorityName": "Hounslow",
         "LocalAuthorityCode": "518",
         "LocalAuthorityBusinessID": "6466"
@@ -18534,8 +18434,8 @@
         "BusinessTypeID": 4613,
         "AddressLine1": "Unit 5a",
         "AddressLine2": "5 Bedwas Business Centre",
-        "AddressLine3": "Bedwas House Industrial Estate",
-        "AddressLine4": "Bedwas",
+        "AddressLine3": "",
+        "AddressLine4": "Caerphilly",
         "PostCode": "CF83 8DU",
         "RatingValue": "5",
         "RatingDate": "2026-08-21T00:00:00",
@@ -18546,8 +18446,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.203457,
-          51.591161
+          -3.2040231,
+          51.5908342
         ]
       }
     },
@@ -22457,10 +22357,10 @@
         "FHRSID": 708597,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
-        "AddressLine1": "Unit 5 Lowry Plaza",
-        "AddressLine2": "Hanbury Road",
-        "AddressLine3": "Bargoed",
-        "AddressLine4": "",
+        "AddressLine1": "Unit 5",
+        "AddressLine2": "Lowry Plaza",
+        "AddressLine3": "Hanbury Road",
+        "AddressLine4": "Bargoed",
         "PostCode": "CF81 8QT",
         "RatingValue": "5",
         "RatingDate": "2025-05-23T00:00:00",
@@ -22471,8 +22371,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.228804,
-          51.688899
+          -3.2288838,
+          51.6882188
         ]
       }
     },
@@ -24863,7 +24763,7 @@
         "AddressLine4": "",
         "PostCode": "NN16 8JL",
         "RatingValue": "5",
-        "RatingDate": "2024-01-17T00:00:00",
+        "RatingDate": "2026-10-20T00:00:00",
         "LocalAuthorityName": "North Northamptonshire",
         "LocalAuthorityCode": "235",
         "LocalAuthorityBusinessID": "20383"
@@ -26288,7 +26188,7 @@
         "AddressLine4": "Bristol",
         "PostCode": "BS1 4UL",
         "RatingValue": "5",
-        "RatingDate": "2024-12-09T00:00:00",
+        "RatingDate": "2026-10-17T00:00:00",
         "LocalAuthorityName": "Bristol",
         "LocalAuthorityCode": "855",
         "LocalAuthorityBusinessID": "127140"
@@ -27738,7 +27638,7 @@
         "AddressLine4": "",
         "PostCode": "CF31 1ET",
         "RatingValue": "5",
-        "RatingDate": "2025-05-27T00:00:00",
+        "RatingDate": "2026-10-17T00:00:00",
         "LocalAuthorityName": "Bridgend",
         "LocalAuthorityCode": "553",
         "LocalAuthorityBusinessID": "715380"
@@ -27888,7 +27788,7 @@
         "AddressLine4": "",
         "PostCode": "CF10 1AT",
         "RatingValue": "5",
-        "RatingDate": "2025-05-16T00:00:00",
+        "RatingDate": "2026-10-14T00:00:00",
         "LocalAuthorityName": "Cardiff",
         "LocalAuthorityCode": "556",
         "LocalAuthorityBusinessID": "730543"
@@ -28907,13 +28807,13 @@
         "FHRSID": 996595,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
-        "AddressLine1": "",
-        "AddressLine2": "16-18 High Street",
-        "AddressLine3": "Newbridge",
-        "AddressLine4": "",
+        "AddressLine1": "16-18",
+        "AddressLine2": "High Street",
+        "AddressLine3": "",
+        "AddressLine4": "Newbridge",
         "PostCode": "NP11 4EZ",
         "RatingValue": "5",
-        "RatingDate": "2024-08-14T00:00:00",
+        "RatingDate": "2026-09-23T00:00:00",
         "LocalAuthorityName": "Caerphilly",
         "LocalAuthorityCode": "555",
         "LocalAuthorityBusinessID": "156894"
@@ -28921,8 +28821,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.14468097686768,
-          51.6648597717285
+          -3.1450028,
+          51.664781
         ]
       }
     },
@@ -29813,7 +29713,7 @@
         "AddressLine4": "",
         "PostCode": "TS12 2ZL",
         "RatingValue": "5",
-        "RatingDate": "2024-10-14T00:00:00",
+        "RatingDate": "2026-10-27T00:00:00",
         "LocalAuthorityName": "Redcar and Cleveland",
         "LocalAuthorityCode": "860",
         "LocalAuthorityBusinessID": "71503"
@@ -33186,7 +33086,7 @@
         "AddressLine2": "Alfreton Road",
         "AddressLine3": "Derby",
         "AddressLine4": "",
-        "PostCode": "DE21 4AE",
+        "PostCode": "DE21 4BF",
         "RatingValue": "5",
         "RatingDate": "2023-06-09T00:00:00",
         "LocalAuthorityName": "Derby City",
@@ -33196,8 +33096,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.4694359,
-          52.9383687
+          -1.4695705,
+          52.938001
         ]
       }
     },
@@ -33223,31 +33123,6 @@
         "coordinates": [
           -2.0536563,
           52.5212935
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1158772,
-        "BusinessName": "Greggs Londis",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "",
-        "AddressLine2": "Mafon Road",
-        "AddressLine3": "Nelson",
-        "AddressLine4": "Treharris",
-        "PostCode": "CF46 6PE",
-        "RatingValue": "4",
-        "RatingDate": "2025-08-08T00:00:00",
-        "LocalAuthorityName": "Caerphilly",
-        "LocalAuthorityCode": "555",
-        "LocalAuthorityBusinessID": "158249"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.29024505615234,
-          51.647705078125
         ]
       }
     },
@@ -34063,7 +33938,7 @@
         "AddressLine4": "Cheshire",
         "PostCode": "CH1 6JS",
         "RatingValue": "5",
-        "RatingDate": "2024-12-16T00:00:00",
+        "RatingDate": "2026-10-13T00:00:00",
         "LocalAuthorityName": "Cheshire West and Chester",
         "LocalAuthorityCode": "704",
         "LocalAuthorityBusinessID": "19/00429/COM"
@@ -34513,7 +34388,7 @@
         "AddressLine4": "Scottish Borders",
         "PostCode": "TD1 3AF",
         "RatingValue": "Pass",
-        "RatingDate": "2024-10-09T00:00:00",
+        "RatingDate": "2026-10-02T00:00:00",
         "LocalAuthorityName": "Scottish Borders",
         "LocalAuthorityCode": "767",
         "LocalAuthorityBusinessID": "19/00063/FDPREM"
@@ -34932,10 +34807,10 @@
         "FHRSID": 1220208,
         "BusinessName": "Greggs",
         "BusinessTypeID": 1,
-        "AddressLine1": "Unit 9 Castle View Shopping Centre",
-        "AddressLine2": "Cae Meillion",
-        "AddressLine3": "Caerphilly",
-        "AddressLine4": "",
+        "AddressLine1": "Unit 9",
+        "AddressLine2": "Castle View Shopping Centre",
+        "AddressLine3": "Cae Meillion",
+        "AddressLine4": "Caerphilly",
         "PostCode": "CF83 1SN",
         "RatingValue": "5",
         "RatingDate": "2026-07-17T00:00:00",
@@ -34946,8 +34821,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.24116611480713,
-          51.5706748962402
+          -3.2411954,
+          51.5707007
         ]
       }
     },
@@ -35123,31 +34998,6 @@
         "coordinates": [
           -1.5444466,
           53.7956993
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1226987,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "Unit A3 (13) Pinewood Court (Block A)",
-        "AddressLine2": "St Davids Industrial Estate",
-        "AddressLine3": "Pengam",
-        "AddressLine4": "Blackwood",
-        "PostCode": "NP12 3SW",
-        "RatingValue": "5",
-        "RatingDate": "2024-10-25T00:00:00",
-        "LocalAuthorityName": "Caerphilly",
-        "LocalAuthorityCode": "555",
-        "LocalAuthorityBusinessID": "158770"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.2193617,
-          51.6699142
         ]
       }
     },
@@ -40054,31 +39904,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1475290,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "Unit 7-8",
-        "AddressLine2": "6 Sir Alfred Owen Way",
-        "AddressLine3": "Pontygwindy Industrial Estate",
-        "AddressLine4": "Caerphilly",
-        "PostCode": "CF83 3TG",
-        "RatingValue": "5",
-        "RatingDate": "2025-07-10T00:00:00",
-        "LocalAuthorityName": "Caerphilly",
-        "LocalAuthorityCode": "555",
-        "LocalAuthorityBusinessID": "159675"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.2239247,
-          51.5890519
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1486931,
         "BusinessName": "Greggs",
         "BusinessTypeID": 1,
@@ -40313,7 +40138,7 @@
         "AddressLine4": "Scottish Borders",
         "PostCode": "EH45 8SD",
         "RatingValue": "Pass",
-        "RatingDate": "2024-10-24T00:00:00",
+        "RatingDate": "2026-10-19T00:00:00",
         "LocalAuthorityName": "Scottish Borders",
         "LocalAuthorityCode": "767",
         "LocalAuthorityBusinessID": "22/00051/FDPREM"
@@ -40988,7 +40813,7 @@
         "AddressLine4": "",
         "PostCode": "KY11 8EE",
         "RatingValue": "Pass",
-        "RatingDate": "2025-05-13T00:00:00",
+        "RatingDate": "2026-10-14T00:00:00",
         "LocalAuthorityName": "Fife",
         "LocalAuthorityCode": "775",
         "LocalAuthorityBusinessID": "22/00135/MIXED"
@@ -45779,6 +45604,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1635799,
+        "BusinessName": "Asda Express Greggs Billinge",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "275 Upholland Road",
+        "AddressLine2": "Billinge",
+        "AddressLine3": "Wigan",
+        "AddressLine4": "",
+        "PostCode": "WN5 7DN",
+        "RatingValue": "5",
+        "RatingDate": "2025-06-13T00:00:00",
+        "LocalAuthorityName": "Wigan",
+        "LocalAuthorityCode": "434",
+        "LocalAuthorityBusinessID": "398655"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.716313,
+          53.52364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1636023,
         "BusinessName": "Greggs",
         "BusinessTypeID": 7844,
@@ -45856,7 +45706,7 @@
       "properties": {
         "FHRSID": 1638946,
         "BusinessName": "Greggs",
-        "BusinessTypeID": 7841,
+        "BusinessTypeID": 4613,
         "AddressLine1": "99 - 100 Peascod Street",
         "AddressLine2": "Windsor",
         "AddressLine3": "",
@@ -47787,8 +47637,8 @@
         "AddressLine3": "Newmarket",
         "AddressLine4": "Suffolk",
         "PostCode": "CB8 8LB",
-        "RatingValue": "1",
-        "RatingDate": "2026-07-19T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-10-25T00:00:00",
         "LocalAuthorityName": "West Suffolk",
         "LocalAuthorityCode": "298",
         "LocalAuthorityBusinessID": "FR/000000859"
@@ -50363,7 +50213,7 @@
         "AddressLine4": "Bodmin",
         "PostCode": "PL31 2QN",
         "RatingValue": "5",
-        "RatingDate": "2024-08-05T00:00:00",
+        "RatingDate": "2026-10-27T00:00:00",
         "LocalAuthorityName": "Cornwall",
         "LocalAuthorityCode": "705",
         "LocalAuthorityBusinessID": "CP24_000649"
@@ -53579,31 +53429,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1790475,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 4613,
-        "AddressLine1": "",
-        "AddressLine2": "Newport Road",
-        "AddressLine3": "Trethomas",
-        "AddressLine4": "Caerphilly",
-        "PostCode": "CF83 8GB",
-        "RatingValue": "5",
-        "RatingDate": "2025-03-26T00:00:00",
-        "LocalAuthorityName": "Caerphilly",
-        "LocalAuthorityCode": "555",
-        "LocalAuthorityBusinessID": "161298"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.176857,
-          51.591925
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1790650,
         "BusinessName": "Greggs",
         "BusinessTypeID": 7844,
@@ -56463,7 +56288,7 @@
         "AddressLine4": "Northallerton",
         "PostCode": "DL7 8LF",
         "RatingValue": "5",
-        "RatingDate": "2024-10-08T00:00:00",
+        "RatingDate": "2026-10-14T00:00:00",
         "LocalAuthorityName": "North Yorkshire",
         "LocalAuthorityCode": "250",
         "LocalAuthorityBusinessID": "04/00103/MIXED"
@@ -56513,7 +56338,7 @@
         "AddressLine4": "Richmond",
         "PostCode": "DL10 4PX",
         "RatingValue": "5",
-        "RatingDate": "2024-10-31T00:00:00",
+        "RatingDate": "2026-10-19T00:00:00",
         "LocalAuthorityName": "North Yorkshire",
         "LocalAuthorityCode": "250",
         "LocalAuthorityBusinessID": "Cx10891"
@@ -59529,6 +59354,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1899686,
+        "BusinessName": "Greggs PLC",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "",
+        "AddressLine2": "15 Bedwlwyn Road",
+        "AddressLine3": "",
+        "AddressLine4": "Gelligaer",
+        "PostCode": "CF82 7WS",
+        "RatingValue": "5",
+        "RatingDate": "2026-01-09T00:00:00",
+        "LocalAuthorityName": "Caerphilly",
+        "LocalAuthorityCode": "555",
+        "LocalAuthorityBusinessID": "161915"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2362285,
+          51.6418524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1900668,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 4613,
@@ -60737,8 +60587,8 @@
         "AddressLine3": "Daventry",
         "AddressLine4": "West Northamptonshire",
         "PostCode": "NN11 4EA",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-10-18T00:00:00",
         "LocalAuthorityName": "West Northamptonshire",
         "LocalAuthorityCode": "236",
         "LocalAuthorityBusinessID": "PI/000067701"
@@ -61562,8 +61412,8 @@
         "AddressLine3": "",
         "AddressLine4": "Nottingham",
         "PostCode": "NG5 2FW",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-10-08T00:00:00",
         "LocalAuthorityName": "Nottingham City",
         "LocalAuthorityCode": "899",
         "LocalAuthorityBusinessID": "137078"
@@ -61937,8 +61787,8 @@
         "AddressLine3": "Witham",
         "AddressLine4": "Essex",
         "PostCode": "CM8 1ZR",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-10-26T00:00:00",
         "LocalAuthorityName": "Braintree",
         "LocalAuthorityCode": "110",
         "LocalAuthorityBusinessID": "26/00242/MIXED"
@@ -62004,6 +61854,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 1987851,
+        "BusinessName": "Greggs Plc",
+        "BusinessTypeID": 7841,
+        "AddressLine1": "134A Cowley Road",
+        "AddressLine2": "Oxford",
+        "AddressLine3": "Oxfordshire",
+        "AddressLine4": "",
+        "PostCode": "OX4 1JE",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Oxford City",
+        "LocalAuthorityCode": "269",
+        "LocalAuthorityBusinessID": "26/00237/COM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.237591,
+          51.7478263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 1988709,
         "BusinessName": "Greggs",
         "BusinessTypeID": 7841,
@@ -62048,6 +61923,31 @@
         "coordinates": [
           -1.15644,
           52.60215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 1989922,
+        "BusinessName": "Greggs Plc",
+        "BusinessTypeID": 7839,
+        "AddressLine1": "5 Hawes Close",
+        "AddressLine2": "Walsall",
+        "AddressLine3": "West Midlands",
+        "AddressLine4": "WS1 3HG",
+        "PostCode": "WS1 3HG",
+        "RatingValue": "5",
+        "RatingDate": "2026-10-14T00:00:00",
+        "LocalAuthorityName": "Walsall",
+        "LocalAuthorityCode": "433",
+        "LocalAuthorityBusinessID": "PI/000153436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9788116,
+          52.5681935
         ]
       }
     },
@@ -62898,6 +62798,81 @@
         "coordinates": [
           -1.258484,
           52.761003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 2007832,
+        "BusinessName": "Greggs Plc",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "16 - 24 High Street West",
+        "AddressLine2": "Wallsend",
+        "AddressLine3": "Tyne And Wear",
+        "AddressLine4": "",
+        "PostCode": "NE28 8HU",
+        "RatingValue": "5",
+        "RatingDate": "2026-10-21T00:00:00",
+        "LocalAuthorityName": "North Tyneside",
+        "LocalAuthorityCode": "417",
+        "LocalAuthorityBusinessID": "26/00396/FOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5342469,
+          54.9908803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 2009169,
+        "BusinessName": "Greggs",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "Unit D And E Hunts Cross Shopping Park",
+        "AddressLine2": "",
+        "AddressLine3": "Liverpool",
+        "AddressLine4": "",
+        "PostCode": "L24 9GB",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Liverpool",
+        "LocalAuthorityCode": "414",
+        "LocalAuthorityBusinessID": "106084"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8664536,
+          53.3583027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 2009263,
+        "BusinessName": "Greggs Plc",
+        "BusinessTypeID": 7839,
+        "AddressLine1": "414 - 416 Chepstow Road",
+        "AddressLine2": "Newport",
+        "AddressLine3": "South Wales",
+        "AddressLine4": "",
+        "PostCode": "NP19 8JH",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Newport",
+        "LocalAuthorityCode": "564",
+        "LocalAuthorityBusinessID": "26/00269/MIXED"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9655264,
+          51.5879049
         ]
       }
     }

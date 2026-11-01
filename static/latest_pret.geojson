@@ -6013,7 +6013,7 @@
         "AddressLine4": "Shropshire",
         "PostCode": "SY1 1DB",
         "RatingValue": "5",
-        "RatingDate": "2024-09-20T00:00:00",
+        "RatingDate": "2026-10-14T00:00:00",
         "LocalAuthorityName": "Shropshire",
         "LocalAuthorityCode": "708",
         "LocalAuthorityBusinessID": "18/00119/COMM"
@@ -7238,7 +7238,7 @@
         "AddressLine4": "",
         "PostCode": "EC2M 2AT",
         "RatingValue": "5",
-        "RatingDate": "2021-09-16T00:00:00",
+        "RatingDate": "2026-10-09T00:00:00",
         "LocalAuthorityName": "City of London Corporation",
         "LocalAuthorityCode": "508",
         "LocalAuthorityBusinessID": "PI/000037605"
@@ -9663,7 +9663,7 @@
         "AddressLine4": "Belfast",
         "PostCode": "BT12 5AX",
         "RatingValue": "5",
-        "RatingDate": "2024-11-06T00:00:00",
+        "RatingDate": "2026-10-20T00:00:00",
         "LocalAuthorityName": "Belfast City",
         "LocalAuthorityCode": "807",
         "LocalAuthorityBusinessID": "271055"
