@@ -354,6 +354,31 @@
     {
       "type": "Feature",
       "properties": {
+        "FHRSID": 10500,
+        "BusinessName": "Greggs",
+        "BusinessTypeID": 4613,
+        "AddressLine1": "49 The Square",
+        "AddressLine2": "Kelso",
+        "AddressLine3": "",
+        "AddressLine4": "Scottish Borders",
+        "PostCode": "TD5 7HW",
+        "RatingValue": "Pass",
+        "RatingDate": "2026-10-27T00:00:00",
+        "LocalAuthorityName": "Scottish Borders",
+        "LocalAuthorityCode": "767",
+        "LocalAuthorityBusinessID": "04/00215/FDPREM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4334857,
+          55.5988433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "FHRSID": 12001,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -10513,7 +10538,7 @@
         "AddressLine4": "",
         "PostCode": "NE46 1LU",
         "RatingValue": "5",
-        "RatingDate": "2024-09-11T00:00:00",
+        "RatingDate": "2026-10-14T00:00:00",
         "LocalAuthorityName": "Northumberland",
         "LocalAuthorityCode": "707",
         "LocalAuthorityBusinessID": "5178"
@@ -19279,31 +19304,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 599608,
-        "BusinessName": "Greggs",
-        "BusinessTypeID": 7844,
-        "AddressLine1": "237 High Street",
-        "AddressLine2": "Erdington",
-        "AddressLine3": "Birmingham",
-        "AddressLine4": "",
-        "PostCode": "B23 6SS",
-        "RatingValue": "5",
-        "RatingDate": "2023-05-15T00:00:00",
-        "LocalAuthorityName": "Birmingham",
-        "LocalAuthorityCode": "402",
-        "LocalAuthorityBusinessID": "PI/000292631"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.841901,
-          52.522748
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 600019,
         "BusinessName": "Greggs",
         "BusinessTypeID": 4613,
@@ -23913,7 +23913,7 @@
         "AddressLine4": "Bristol",
         "PostCode": "BS16 3UP",
         "RatingValue": "5",
-        "RatingDate": "2024-11-01T00:00:00",
+        "RatingDate": "2026-10-17T00:00:00",
         "LocalAuthorityName": "Bristol",
         "LocalAuthorityCode": "855",
         "LocalAuthorityBusinessID": "123469"
@@ -24638,7 +24638,7 @@
         "AddressLine4": "Birmingham",
         "PostCode": "B42 1AA",
         "RatingValue": "5",
-        "RatingDate": "2020-07-22T00:00:00",
+        "RatingDate": "2021-07-04T00:00:00",
         "LocalAuthorityName": "Birmingham",
         "LocalAuthorityCode": "402",
         "LocalAuthorityBusinessID": "PI/000630947"
@@ -26388,7 +26388,7 @@
         "AddressLine4": "Denbighshire",
         "PostCode": "LL18 1TH",
         "RatingValue": "5",
-        "RatingDate": "2016-04-28T00:00:00",
+        "RatingDate": "2026-10-19T00:00:00",
         "LocalAuthorityName": "Denbighshire",
         "LocalAuthorityCode": "559",
         "LocalAuthorityBusinessID": "703226"
@@ -30213,7 +30213,7 @@
         "AddressLine4": "Three Bridges",
         "PostCode": "RH10 1LY",
         "RatingValue": "5",
-        "RatingDate": "2024-09-18T00:00:00",
+        "RatingDate": "2026-07-22T00:00:00",
         "LocalAuthorityName": "Crawley",
         "LocalAuthorityCode": "326",
         "LocalAuthorityBusinessID": "18/00014/COMM"
@@ -30663,7 +30663,7 @@
         "AddressLine4": "Armagh",
         "PostCode": "BT62 1HX",
         "RatingValue": "5",
-        "RatingDate": "2024-09-25T00:00:00",
+        "RatingDate": "2026-10-16T00:00:00",
         "LocalAuthorityName": "Armagh City, Banbridge and Craigavon",
         "LocalAuthorityCode": "803",
         "LocalAuthorityBusinessID": "603427"
@@ -33338,7 +33338,7 @@
         "AddressLine4": "",
         "PostCode": "NE13 6BP",
         "RatingValue": "5",
-        "RatingDate": "2024-12-03T00:00:00",
+        "RatingDate": "2026-10-28T00:00:00",
         "LocalAuthorityName": "Northumberland",
         "LocalAuthorityCode": "707",
         "LocalAuthorityBusinessID": "52444"
@@ -33488,7 +33488,7 @@
         "AddressLine4": "",
         "PostCode": "DE55 4LQ",
         "RatingValue": "5",
-        "RatingDate": "2024-03-11T00:00:00",
+        "RatingDate": "2026-10-21T00:00:00",
         "LocalAuthorityName": "Amber Valley",
         "LocalAuthorityCode": "062",
         "LocalAuthorityBusinessID": "0000208/FH"
@@ -37813,7 +37813,7 @@
         "AddressLine4": "",
         "PostCode": "B24 9FP",
         "RatingValue": "5",
-        "RatingDate": "2020-09-30T00:00:00",
+        "RatingDate": "2021-09-11T00:00:00",
         "LocalAuthorityName": "Birmingham",
         "LocalAuthorityCode": "402",
         "LocalAuthorityBusinessID": "PI/000671190"
@@ -40038,7 +40038,7 @@
         "AddressLine4": "",
         "PostCode": "B31 2UQ",
         "RatingValue": "5",
-        "RatingDate": "2020-06-30T00:00:00",
+        "RatingDate": "2021-06-10T00:00:00",
         "LocalAuthorityName": "Birmingham",
         "LocalAuthorityCode": "402",
         "LocalAuthorityBusinessID": "PI/000604418"
@@ -50207,10 +50207,10 @@
         "FHRSID": 1730692,
         "BusinessName": "Greggs PLC",
         "BusinessTypeID": 1,
-        "AddressLine1": "Unit 3",
-        "AddressLine2": "Dunmere Road Retail Park",
-        "AddressLine3": "Dunmere Road",
-        "AddressLine4": "Bodmin",
+        "AddressLine1": "GREGGS",
+        "AddressLine2": "Unit 3",
+        "AddressLine3": "Dunmere Road Retail Park",
+        "AddressLine4": "Dunmere Road",
         "PostCode": "PL31 2QN",
         "RatingValue": "5",
         "RatingDate": "2026-10-27T00:00:00",
@@ -50221,8 +50221,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.7440799,
-          50.4722494
+          -4.7446863,
+          50.4721997
         ]
       }
     },
@@ -51163,7 +51163,7 @@
         "AddressLine4": "",
         "PostCode": "W4 5TA",
         "RatingValue": "5",
-        "RatingDate": "2024-09-25T00:00:00",
+        "RatingDate": "2026-10-31T00:00:00",
         "LocalAuthorityName": "Hounslow",
         "LocalAuthorityCode": "518",
         "LocalAuthorityBusinessID": "171506"
@@ -51688,7 +51688,7 @@
         "AddressLine4": "",
         "PostCode": "BA5 2AE",
         "RatingValue": "5",
-        "RatingDate": "2024-02-07T00:00:00",
+        "RatingDate": "2026-10-08T00:00:00",
         "LocalAuthorityName": "Somerset",
         "LocalAuthorityCode": "281",
         "LocalAuthorityBusinessID": "FR/202300185"
@@ -51888,7 +51888,7 @@
         "AddressLine4": "Co. Tyrone",
         "PostCode": "BT71 4NA",
         "RatingValue": "5",
-        "RatingDate": "2024-10-22T00:00:00",
+        "RatingDate": "2026-10-20T00:00:00",
         "LocalAuthorityName": "Mid Ulster",
         "LocalAuthorityCode": "811",
         "LocalAuthorityBusinessID": "902824"
@@ -52163,7 +52163,7 @@
         "AddressLine4": "",
         "PostCode": "PE37 7QH",
         "RatingValue": "5",
-        "RatingDate": "2024-12-11T00:00:00",
+        "RatingDate": "2026-10-29T00:00:00",
         "LocalAuthorityName": "Breckland",
         "LocalAuthorityCode": "227",
         "LocalAuthorityBusinessID": "39363"
@@ -53288,7 +53288,7 @@
         "AddressLine4": "Surrey",
         "PostCode": "GU10 1FP",
         "RatingValue": "5",
-        "RatingDate": "2024-11-21T00:00:00",
+        "RatingDate": "2026-10-20T00:00:00",
         "LocalAuthorityName": "Guildford",
         "LocalAuthorityCode": "307",
         "LocalAuthorityBusinessID": "13325"
@@ -58937,8 +58937,8 @@
         "AddressLine3": "St Asaph",
         "AddressLine4": "Denbighshire",
         "PostCode": "LL17 0LY",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-10-19T00:00:00",
         "LocalAuthorityName": "Denbighshire",
         "LocalAuthorityCode": "559",
         "LocalAuthorityBusinessID": "799906"
@@ -61762,8 +61762,8 @@
         "AddressLine3": "Dereham",
         "AddressLine4": "",
         "PostCode": "NR19 1WB",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
+        "RatingValue": "5",
+        "RatingDate": "2026-10-21T00:00:00",
         "LocalAuthorityName": "Breckland",
         "LocalAuthorityCode": "227",
         "LocalAuthorityBusinessID": "40639"
@@ -62348,31 +62348,6 @@
         "coordinates": [
           -1.8446489,
           50.7521285
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "FHRSID": 1999688,
-        "BusinessName": "Sandringham Greggs",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Sandringham Filling Station",
-        "AddressLine2": "Adj 270 Melton Road",
-        "AddressLine3": "Leicester",
-        "AddressLine4": "",
-        "PostCode": "LE4 7PB",
-        "RatingValue": "AwaitingInspection",
-        "RatingDate": "1901-01-01T00:00:00",
-        "LocalAuthorityName": "Leicester City",
-        "LocalAuthorityCode": "878",
-        "LocalAuthorityBusinessID": "26/FST/477/CP"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1147616,
-          52.6600422
         ]
       }
     },
