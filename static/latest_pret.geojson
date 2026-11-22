@@ -5532,9 +5532,9 @@
         "FHRSID": 988957,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
-        "AddressLine1": "5 The Arcade Meadowhall Centre",
-        "AddressLine2": "Meadowhall Way",
-        "AddressLine3": "Sheffield",
+        "AddressLine1": "5 The Arcade Meadowhall Centre                                                                      Meadowhall Way",
+        "AddressLine2": "Sheffield",
+        "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "S9 1EH",
         "RatingValue": "5",
@@ -5546,8 +5546,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.41013395786285,
-          53.4148712158203
+          -1.4112574,
+          53.4146691
         ]
       }
     },
@@ -5613,7 +5613,7 @@
         "AddressLine4": "",
         "PostCode": "W1D 5LQ",
         "RatingValue": "5",
-        "RatingDate": "2024-04-20T00:00:00",
+        "RatingDate": "2026-11-12T00:00:00",
         "LocalAuthorityName": "Westminster",
         "LocalAuthorityCode": "533",
         "LocalAuthorityBusinessID": "17/00348/COMM"
@@ -8163,7 +8163,7 @@
         "AddressLine4": "",
         "PostCode": "RG2 8HA",
         "RatingValue": "5",
-        "RatingDate": "2024-09-19T00:00:00",
+        "RatingDate": "2026-10-08T00:00:00",
         "LocalAuthorityName": "Reading",
         "LocalAuthorityCode": "884",
         "LocalAuthorityBusinessID": "141646"
@@ -8863,7 +8863,7 @@
         "AddressLine4": "",
         "PostCode": "W1J 0DP",
         "RatingValue": "5",
-        "RatingDate": "2023-11-06T00:00:00",
+        "RatingDate": "2026-11-14T00:00:00",
         "LocalAuthorityName": "Westminster",
         "LocalAuthorityCode": "533",
         "LocalAuthorityBusinessID": "MTD4P9-WCW4YL-EL3MC6"
@@ -9579,31 +9579,6 @@
     {
       "type": "Feature",
       "properties": {
-        "FHRSID": 1767574,
-        "BusinessName": "Pret a Manger Frasers",
-        "BusinessTypeID": 1,
-        "AddressLine1": "Frasers Meadowhall",
-        "AddressLine2": "Meadowhall shopping centre",
-        "AddressLine3": "Sheffield",
-        "AddressLine4": "",
-        "PostCode": "S9 1EL",
-        "RatingValue": "5",
-        "RatingDate": "2024-10-10T00:00:00",
-        "LocalAuthorityName": "Sheffield",
-        "LocalAuthorityCode": "425",
-        "LocalAuthorityBusinessID": "54870"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.4103774,
-          53.4149546
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "FHRSID": 1768968,
         "BusinessName": "Pret A Manger",
         "BusinessTypeID": 1,
@@ -9857,9 +9832,9 @@
         "FHRSID": 1780551,
         "BusinessName": "Pret a Manger - Sheffield City Centre",
         "BusinessTypeID": 1,
-        "AddressLine1": "",
-        "AddressLine2": "35 Cambridge Street",
-        "AddressLine3": "Sheffield",
+        "AddressLine1": " 35 Cambridge Street",
+        "AddressLine2": "Sheffield",
+        "AddressLine3": "",
         "AddressLine4": "",
         "PostCode": "S1 4HN",
         "RatingValue": "5",
@@ -9871,8 +9846,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.471532,
-          53.378557
+          -1.4716476,
+          53.378881
         ]
       }
     },
@@ -11248,6 +11223,31 @@
         "coordinates": [
           -3.0820982,
           55.007929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FHRSID": 2014781,
+        "BusinessName": "Pret A Manger",
+        "BusinessTypeID": 1,
+        "AddressLine1": "Morrisons Stores Plc West Bay Road",
+        "AddressLine2": "",
+        "AddressLine3": "Bridport",
+        "AddressLine4": "Dorset",
+        "PostCode": "DT6 4SB",
+        "RatingValue": "AwaitingInspection",
+        "RatingDate": "1901-01-01T00:00:00",
+        "LocalAuthorityName": "Dorset",
+        "LocalAuthorityCode": "085",
+        "LocalAuthorityBusinessID": "49686"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.75618696212769,
+          50.7263526916504
         ]
       }
     }
