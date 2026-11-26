@@ -25,10 +25,10 @@
     "@turf/helpers": "^7.4.0",
     "@turf/nearest-point": "^7.4.0",
     "bootstrap": "^5.3.9",
-    "maplibre-gl": "^6.18.0"
+    "maplibre-gl": "^6.19.0"
   },
   "devDependencies": {
-    "autoprefixer": "^10.6.2",
+    "autoprefixer": "^10.7.0",
     "esbuild": "^0.28.2",
     "esbuild-plugin-browserslist": "^4.0.0",
     "esbuild-plugin-eslint": "^0.3.12",
